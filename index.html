@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>沃伦·泰克 — 智能投资终端</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg-base:    #0a0e1a;
+      --bg-panel:   #0d1224;
+      --bg-card:    #111827;
+      --bg-card2:   #161e32;
+      --border:     #1e2d4a;
+      --border-hl:  #2a3f65;
+      --accent:     #1e90ff;
+      --accent2:    #00bfff;
+      --green:      #00e676;
+      --red:        #ff4444;
+      --yellow:     #ffd740;
+      --orange:     #ff9800;
+      --purple:     #ce93d8;
+      --text-1:     #e8eaf6;
+      --text-2:     #90a4ae;
+      --text-3:     #546e7a;
+      --font-mono:  'SF Mono','Fira Code','Consolas',monospace;
+      --font-sans:  -apple-system,'PingFang SC','Microsoft YaHei',sans-serif;
+    }
+    html { font-size: 14px; }
+    body {
+      background: var(--bg-base);
+      color: var(--text-1);
+      font-family: var(--font-sans);
+      min-height: 100vh;
+    }
+
+    /* ── 顶栏 ── */
+    .topbar {
+      position: sticky; top: 0; z-index: 200;
+      background: rgba(10,14,26,0.97);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      height: 50px;
+      display: flex; align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+    }
+    .logo {
+      font-size: 1.05rem; font-weight: 700; letter-spacing: 1px;
+      background: linear-gradient(90deg,var(--accent2),var(--accent));
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    }
+    .logo-sub {
+      font-size: 0.68rem; color: var(--text-3); letter-spacing: 2px;
+      border-left: 1px solid var(--border); padding-left: 10px; margin-left: 8px;
+    }
+    .topbar-right { display: flex; align-items: center; gap: 16px; font-size: 0.72rem; color: var(--text-3); }
+    .dot-live { width: 6px; height: 6px; border-radius: 50%; background: var(--green);
+                box-shadow: 0 0 6px var(--green); display: inline-block; margin-right: 5px;
+                animation: pulse 2s infinite; }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.3} }
+    .clock { font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-2); }
+
+    /* ══════════════════════════════════════
+       上半部分：股票区（带Tab）
+    ══════════════════════════════════════ */
+    .stock-section {
+      border-bottom: 2px solid var(--border);
+    }
+
+    /* ── Tab 导航 ── */
+    .tab-nav {
+      display: flex; align-items: center;
+      background: var(--bg-panel);
+      border-bottom: 1px solid var(--border);
+      padding: 0 16px;
+      gap: 4px;
+      height: 46px;
+    }
+    .tab-btn {
+      position: relative;
+      padding: 0 18px; height: 46px;
+      background: transparent; border: none;
+      font-family: var(--font-sans); font-size: 0.82rem; font-weight: 600;
+      color: var(--text-3); cursor: pointer;
+      display: flex; align-items: center; gap: 7px;
+      transition: color .2s;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+    }
+    .tab-btn:hover { color: var(--text-1); }
+    .tab-btn.active { color: var(--text-1); border-bottom-color: var(--accent2); }
+    .tab-btn.short.active  { border-bottom-color: var(--accent2); color: var(--accent2); }
+    .tab-btn.long.active   { border-bottom-color: var(--green);   color: var(--green); }
+    .tab-btn.hot.active    { border-bottom-color: var(--red);     color: var(--red); }
+
+    .tab-icon { font-size: 1rem; }
+    .tab-count {
+      font-size: 0.62rem; padding: 1px 6px; border-radius: 8px;
+      background: var(--border); color: var(--text-2);
+      font-family: var(--font-mono);
+    }
+    .tab-btn.short.active .tab-count { background: rgba(0,191,255,.15); color: var(--accent2); }
+    .tab-btn.long.active  .tab-count { background: rgba(0,230,118,.12); color: var(--green); }
+    .tab-btn.hot.active   .tab-count { background: rgba(255,68,68,.12);  color: var(--red); }
+
+    .tab-meta { margin-left: auto; font-size: 0.65rem; color: var(--text-3); font-family: var(--font-mono); }
+
+    /* ── 股票内容区 ── */
+    .tab-panel { display: none; padding: 12px 16px; }
+    .tab-panel.active { display: block; }
+
+    /* 策略说明 badge */
+    .strategy-bar {
+      display: flex; gap: 8px; flex-wrap: wrap;
+      margin-bottom: 12px; padding: 8px 12px;
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 6px; font-size: 0.7rem; color: var(--text-2);
+      line-height: 1.6;
+    }
+    .strategy-bar .tag {
+      padding: 1px 8px; border-radius: 10px; font-size: 0.65rem; font-weight: 600;
+    }
+    .tag-short { background: rgba(0,191,255,.15); color: var(--accent2); }
+    .tag-long  { background: rgba(0,230,118,.12); color: var(--green); }
+    .tag-hot   { background: rgba(255,68,68,.12);  color: var(--red); }
+
+    /* ── 股票表格 ── */
+    .stock-table {
+      width: 100%; border-collapse: collapse;
+    }
+    .stock-table thead tr { background: var(--bg-card2); }
+    .stock-table th {
+      font-size: 0.62rem; font-weight: 600; letter-spacing: 1px;
+      text-transform: uppercase; color: var(--text-3);
+      padding: 7px 10px; text-align: left;
+      border-bottom: 1px solid var(--border);
+    }
+    .stock-table th:nth-child(4),
+    .stock-table th:nth-child(5) { text-align: right; }
+    .stock-table td {
+      padding: 9px 10px; font-size: 0.8rem;
+      border-bottom: 1px solid rgba(30,45,74,.4);
+      vertical-align: middle;
+    }
+    .stock-table tr:hover td { background: var(--bg-card2); }
+    .stock-table tr.up   { border-left: 2px solid var(--green); }
+    .stock-table tr.down { border-left: 2px solid var(--red); }
+    .stock-table tr.flat { border-left: 2px solid var(--border); }
+
+    .rank-badge {
+      display: inline-flex; align-items: center; justify-content: center;
+      width: 18px; height: 18px; border-radius: 50%;
+      font-size: 0.62rem; font-weight: 700; font-family: var(--font-mono);
+    }
+    .r1 { background:#ffd740;color:#000; }
+    .r2 { background:#cfd8dc;color:#000; }
+    .r3 { background:#a0522d;color:#fff; }
+    .rn { background:var(--border);color:var(--text-2); }
+
+    .stock-link { text-decoration: none; color: inherit; display: block; }
+    .stock-link:hover .sname { color: var(--accent2); }
+    .scode { font-family: var(--font-mono); font-size: .65rem; color: var(--accent); }
+    .sname { font-weight: 600; font-size: .82rem; }
+    .itag  { display:inline-block; font-size:.58rem; padding:1px 6px;
+             border-radius:3px; background:var(--border); color:var(--text-2); }
+    .reason-tip { font-size:.62rem; color:var(--text-3); margin-top:3px; line-height:1.4; }
+
+    .price-up   { font-family:var(--font-mono); font-weight:700; color:var(--green); }
+    .price-down { font-family:var(--font-mono); font-weight:700; color:var(--red); }
+    .price-flat { font-family:var(--font-mono); font-weight:700; color:var(--text-2); }
+
+    .chg-cell {
+      font-family:var(--font-mono); font-size:.78rem; font-weight:700;
+      padding:2px 7px; border-radius:4px; display:inline-block;
+      white-space:nowrap; text-align:right;
+    }
+    .chg-up   { color:var(--green); background:rgba(0,230,118,.1); }
+    .chg-down { color:var(--red);   background:rgba(255,68,68,.1); }
+    .chg-flat { color:var(--text-2);background:var(--border); }
+
+    /* 股票指标小标签 */
+    .metric-tag {
+      display:inline-block; font-size:.58rem; padding:1px 5px;
+      border-radius:3px; margin-right:3px; margin-top:2px;
+    }
+    .mt-rsi   { background:rgba(0,191,255,.15); color:var(--accent2); }
+    .mt-roe   { background:rgba(0,230,118,.12); color:var(--green); }
+    .mt-turn  { background:rgba(255,152,0,.15);  color:var(--orange); }
+    .mt-5d    { background:rgba(206,147,216,.15); color:var(--purple); }
+
+    /* ══════════════════════════════════════
+       下半部分：新闻 + 舆情（两栏）
+    ══════════════════════════════════════ */
+    .bottom-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      min-height: 400px;
+    }
+    .bottom-col {
+      border-right: 1px solid var(--border);
+      overflow: hidden;
+    }
+    .bottom-col:last-child { border-right: none; }
+
+    .col-header {
+      background: var(--bg-panel);
+      border-bottom: 1px solid var(--border);
+      padding: 10px 16px;
+      display: flex; align-items: center; justify-content: space-between;
+      position: sticky; top: 50px; z-index: 10;
+    }
+    .col-title {
+      font-size: .75rem; font-weight: 600; letter-spacing: 2px;
+      text-transform: uppercase; color: var(--accent2);
+      display: flex; align-items: center; gap: 7px;
+    }
+    .update-badge {
+      font-size: .62rem; background: var(--border); color: var(--text-2);
+      padding: 2px 7px; border-radius: 8px;
+    }
+
+    /* ── 新闻卡片 ── */
+    .news-list { padding: 10px 14px; display: flex; flex-direction: column; gap: 8px; }
+    .news-card {
+      background: var(--bg-card); border: 1px solid var(--border); border-radius: 6px;
+      padding: 11px 13px; cursor: pointer; transition: border-color .15s, background .15s;
+    }
+    .news-card:hover { border-color: var(--accent); background: var(--bg-card2); }
+    .nsector {
+      display: inline-block; font-size: .6rem; padding: 2px 8px; border-radius: 10px;
+      margin-bottom: 6px; font-weight: 600;
+    }
+    .sec-ai   { background:rgba(30,144,255,.2); color:var(--accent2); }
+    .sec-nev  { background:rgba(0,230,118,.15); color:var(--green); }
+    .sec-drug { background:rgba(255,215,64,.15); color:var(--yellow); }
+    .sec-etc  { background:var(--border); color:var(--text-2); }
+
+    .ntitle {
+      font-size: .82rem; font-weight: 600; color: var(--text-1);
+      line-height: 1.45; text-decoration: none; display: block; margin-bottom: 5px;
+    }
+    .ntitle:hover { color: var(--accent2); }
+    .nsummary {
+      font-size: .73rem; color: var(--text-2); line-height: 1.55; margin-bottom: 7px;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .nfooter { display:flex; justify-content:space-between; font-size:.62rem; color:var(--text-3); }
+    .nsource { font-weight:600; color:var(--text-2); }
+
+    /* ── 论坛卡片 ── */
+    .forum-list { padding: 10px 14px; display: flex; flex-direction: column; gap: 9px; }
+    .forum-card {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-left: 3px solid var(--accent); border-radius: 6px;
+      padding: 11px 13px; transition: border-color .15s, background .15s;
+    }
+    .forum-card:hover { border-color: var(--accent2); background: var(--bg-card2); }
+    .fsrc-badge {
+      display: inline-block; font-size: .6rem; padding: 2px 8px;
+      border-radius: 10px; margin-bottom: 7px; font-weight: 600;
+    }
+    .src-xueqiu   { background:rgba(255,140,0,.15);color:#ffb347; }
+    .src-eastmoney{ background:rgba(255,68,68,.12); color:#ff6b6b; }
+    .src-reddit   { background:rgba(255,69,0,.15);  color:#ff6314; }
+    .src-def      { background:var(--border);       color:var(--text-2); }
+
+    .ftitle {
+      font-size:.82rem; font-weight:700; color:var(--text-1); line-height:1.45;
+      text-decoration:none; display:block; margin-bottom:7px;
+    }
+    .ftitle:hover { color:var(--accent2); }
+    .fexcerpt {
+      font-size:.73rem; color:var(--text-2); line-height:1.6; margin-bottom:9px;
+      padding:7px 9px; background:rgba(255,255,255,.03);
+      border-left:2px solid var(--border-hl); border-radius:0 4px 4px 0;
+    }
+    .ffooter { display:flex; justify-content:space-between; align-items:center; }
+    .fmeta   { font-size:.62rem; color:var(--text-3); display:flex; flex-direction:column; gap:2px; }
+    .fauthor { color:var(--text-2); font-weight:600; }
+    .fpop    { color:var(--accent); font-size:.62rem; }
+    .btn-link {
+      font-size:.62rem; color:var(--accent); text-decoration:none;
+      border:1px solid var(--border-hl); padding:3px 9px; border-radius:10px;
+      transition:all .15s; white-space:nowrap;
+    }
+    .btn-link:hover { background:var(--accent); color:#000; border-color:var(--accent); }
+
+    /* ── 通用状态 ── */
+    .loading  { display:flex; flex-direction:column; align-items:center; justify-content:center;
+                height:180px; gap:10px; color:var(--text-3); font-size:.78rem; }
+    .spinner  { width:22px; height:22px; border:2px solid var(--border);
+                border-top-color:var(--accent); border-radius:50%;
+                animation:spin .8s linear infinite; }
+    @keyframes spin { to{transform:rotate(360deg)} }
+    .error-msg { color:var(--red); font-size:.73rem; text-align:center; padding:18px; }
+    .empty-msg { color:var(--text-3); font-size:.73rem; text-align:center; padding:25px; }
+
+    /* ── 底部状态栏 ── */
+    .statusbar {
+      position:fixed; bottom:0; left:0; right:0;
+      background:rgba(10,14,26,.95); border-top:1px solid var(--border);
+      padding:4px 20px; display:flex; align-items:center;
+      justify-content:space-between; font-size:.62rem;
+      color:var(--text-3); font-family:var(--font-mono); z-index:99;
+    }
+
+    /* ── 动画 ── */
+    @keyframes fadeIn { from{opacity:0;transform:translateY(3px)} to{opacity:1;transform:none} }
+    .fi { animation:fadeIn .3s ease forwards; }
+
+    /* ── 响应式 ── */
+    @media (max-width:860px) {
+      .bottom-grid { grid-template-columns:1fr; }
+      .bottom-col  { border-right:none; border-bottom:1px solid var(--border); }
+    }
+    @media (max-width:600px) {
+      .tab-btn { padding:0 10px; font-size:.75rem; }
+      .logo-sub { display:none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ══ 顶部导航栏 ══ -->
+<header class="topbar">
+  <div style="display:flex;align-items:center">
+    <div class="logo">⬡ WARREN·TECH</div>
+    <div class="logo-sub">智能投资终端 v3.0</div>
+  </div>
+  <div class="topbar-right">
+    <span><span class="dot-live"></span>实时</span>
+    <span class="clock" id="clock">--:--:--</span>
+    <span id="top-date" style="color:var(--text-3)"></span>
+  </div>
+</header>
+
+<!-- ══ 股票区（Tab切换） ══ -->
+<section class="stock-section">
+
+  <!-- Tab 导航栏 -->
+  <div class="tab-nav">
+    <button class="tab-btn short active" onclick="switchTab('short_term',this)">
+      <span class="tab-icon">📊</span>
+      短线博弈
+      <span class="tab-count" id="cnt-short">--</span>
+    </button>
+    <button class="tab-btn long" onclick="switchTab('long_term',this)">
+      <span class="tab-icon">📈</span>
+      长期价值
+      <span class="tab-count" id="cnt-long">--</span>
+    </button>
+    <button class="tab-btn hot" onclick="switchTab('hot',this)">
+      <span class="tab-icon">🔥</span>
+      热门股票
+      <span class="tab-count" id="cnt-hot">--</span>
+    </button>
+    <span class="tab-meta" id="m1-update">加载中...</span>
+  </div>
+
+  <!-- 短线博弈 -->
+  <div id="panel-short_term" class="tab-panel active">
+    <div class="strategy-bar">
+      <span class="tag tag-short">短线条件</span>
+      站上20日均线 · RSI 50-75强势区 · 成交量放大1.5倍以上
+      <span style="margin-left:4px;color:var(--yellow)">★ 加分：当日涨幅&gt;5% 或 MACD金叉</span>
+    </div>
+    <table class="stock-table">
+      <thead><tr>
+        <th style="width:22px">#</th>
+        <th>股票</th><th>行业</th>
+        <th style="text-align:right">现价</th>
+        <th style="text-align:right">涨跌</th>
+        <th style="text-align:right">指标</th>
+      </tr></thead>
+      <tbody id="tbody-short_term">
+        <tr><td colspan="6"><div class="loading"><div class="spinner"></div>加载中...</div></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 长期价值 -->
+  <div id="panel-long_term" class="tab-panel">
+    <div class="strategy-bar">
+      <span class="tag tag-long">长期条件</span>
+      PE &lt; 行业均值×80% · ROE &gt; 15% · 股价站上120日均线 · 低负债
+    </div>
+    <table class="stock-table">
+      <thead><tr>
+        <th style="width:22px">#</th>
+        <th>股票</th><th>行业</th>
+        <th style="text-align:right">现价</th>
+        <th style="text-align:right">涨跌</th>
+        <th style="text-align:right">指标</th>
+      </tr></thead>
+      <tbody id="tbody-long_term">
+        <tr><td colspan="6"><div class="loading"><div class="spinner"></div>加载中...</div></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 热门股票 -->
+  <div id="panel-hot" class="tab-panel">
+    <div class="strategy-bar">
+      <span class="tag tag-hot">热门条件</span>
+      5日涨幅 &gt; 8% 或 换手率 &gt; 5% · 优先结合论坛舆情热议标的
+    </div>
+    <table class="stock-table">
+      <thead><tr>
+        <th style="width:22px">#</th>
+        <th>股票</th><th>行业</th>
+        <th style="text-align:right">现价</th>
+        <th style="text-align:right">涨跌</th>
+        <th style="text-align:right">指标</th>
+      </tr></thead>
+      <tbody id="tbody-hot">
+        <tr><td colspan="6"><div class="loading"><div class="spinner"></div>加载中...</div></td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ══ 下半部分：新闻 + 舆情 ══ -->
+<div class="bottom-grid" style="margin-bottom:30px">
+
+  <!-- 左：板块热点 -->
+  <div class="bottom-col">
+    <div class="col-header">
+      <div class="col-title"><span>📰</span> 板块热点追踪</div>
+      <span class="update-badge" id="m2-update">加载中...</span>
+    </div>
+    <div class="news-list" id="news-list">
+      <div class="loading"><div class="spinner"></div>加载新闻...</div>
+    </div>
+  </div>
+
+  <!-- 右：论坛舆情 -->
+  <div class="bottom-col">
+    <div class="col-header">
+      <div class="col-title"><span>💬</span> 论坛舆情精选</div>
+      <span class="update-badge" id="m3-update">加载中...</span>
+    </div>
+    <div class="forum-list" id="forum-list">
+      <div class="loading"><div class="spinner"></div>加载舆情...</div>
+    </div>
+  </div>
+</div>
+
+<!-- 底部状态栏 -->
+<div class="statusbar">
+  <span>Warren·Tech v3.0 © 2026</span>
+  <span id="sb-status" style="color:var(--accent)">初始化...</span>
+  <span>A股市场 · 每5分钟刷新</span>
+</div>
+
+<!-- ══ JavaScript ══ -->
+<script>
+'use strict';
+
+// ── 工具 ─────────────────────────────────────────────
+function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function pad(n){ return String(n).padStart(2,'0'); }
+
+function updateClock(){
+  const n = new Date();
+  document.getElementById('clock').textContent = `${pad(n.getHours())}:${pad(n.getMinutes())}:${pad(n.getSeconds())}`;
+  document.getElementById('top-date').textContent =
+    `${n.getFullYear()}-${pad(n.getMonth()+1)}-${pad(n.getDate())} 周${'日一二三四五六'[n.getDay()]}`;
+}
+setInterval(updateClock, 1000); updateClock();
+
+async function fetchJSON(paths){
+  for(const p of paths){
+    try{ const r=await fetch(p); if(r.ok) return await r.json(); }catch(e){}
+  }
+  return null;
+}
+
+// ── Tab 切换 ──────────────────────────────────────────
+let currentTab = 'short_term';
+function switchTab(cat, btn){
+  currentTab = cat;
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  btn.classList.add('active');
+  document.getElementById(`panel-${cat}`).classList.add('active');
+}
+
+// ── 模块一：选股（三类 Tab） ──────────────────────────
+async function loadModule1(){
+  const paths = [
+    '../data/module1_latest.json',
+    'data/module1_latest.json',
+    'module1_latest.json',
+  ];
+  let data = window._M1_DATA || await fetchJSON(paths);
+  if(!data){ showM1Error('无法加载选股数据'); return; }
+
+  // 兼容新格式（扁平数组）和旧嵌套格式
+  let stocks = [];
+  let dateLabel = '', sessLabel = '';
+  if(Array.isArray(data)){
+    stocks = data;
+  } else {
+    const dates = Object.keys(data).sort().reverse();
+    const d = dates[0]; dateLabel = d;
+    const sess = data[d];
+    const s = sess['afternoon'] || sess['morning'] || {};
+    sessLabel = sess['afternoon'] ? '尾盘' : '开盘';
+    stocks = s.stocks || [];
+  }
+
+  // 按 category 分组
+  const groups = { short_term:[], long_term:[], hot:[] };
+  stocks.forEach(s => {
+    const cat = s.category || 'short_term';
+    if(groups[cat]) groups[cat].push(s);
+  });
+
+  // 更新 Tab 计数
+  document.getElementById('cnt-short').textContent = groups.short_term.length;
+  document.getElementById('cnt-long').textContent  = groups.long_term.length;
+  document.getElementById('cnt-hot').textContent   = groups.hot.length;
+  document.getElementById('m1-update').textContent = `${dateLabel} ${sessLabel} · 共${stocks.length}支`;
+  document.getElementById('sb-status').textContent =
+    `选股30支 | 短线${groups.short_term.length} + 长期${groups.long_term.length} + 热门${groups.hot.length}`;
+
+  // 渲染各 Tab 表格
+  const catMeta = {
+    short_term: { rankClass:(i)=>i<3?`r${i+1}`:'rn', priceColor:(c)=>c>0?'price-up':c<0?'price-down':'price-flat' },
+    long_term:  { rankClass:(i)=>i<3?`r${i+1}`:'rn', priceColor:(c)=>c>0?'price-up':c<0?'price-down':'price-flat' },
+    hot:        { rankClass:(i)=>i<3?`r${i+1}`:'rn', priceColor:(c)=>c>0?'price-up':c<0?'price-down':'price-flat' },
+  };
+
+  ['short_term','long_term','hot'].forEach(cat => {
+    const tbody = document.getElementById(`tbody-${cat}`);
+    const list  = groups[cat];
+    if(!list.length){
+      tbody.innerHTML = '<tr><td colspan="6"><div class="empty-msg">暂无数据</div></td></tr>';
+      return;
+    }
+    const meta = catMeta[cat];
+    tbody.innerHTML = list.map((s,i) => {
+      const chg = parseFloat(s.change_pct||0);
+      const chgSign = chg>0?'+':'';
+      const chgCls  = chg>0?'chg-up':chg<0?'chg-down':'chg-flat';
+      const priceCls= meta.priceColor(chg);
+      const rowCls  = chg>0?'up':chg<0?'down':'flat';
+      const rkCls   = meta.rankClass(i);
+      const sym = s.symbol || s.xq || s.code || '';
+
+      // 指标标签
+      let metrics = '';
+      if(s.rsi)      metrics += `<span class="metric-tag mt-rsi">RSI ${s.rsi}</span>`;
+      if(s.roe)      metrics += `<span class="metric-tag mt-roe">ROE ${s.roe}%</span>`;
+      if(s.turnover) metrics += `<span class="metric-tag mt-turn">换手${s.turnover}%</span>`;
+      if(s.pct_5d && cat==='hot') metrics += `<span class="metric-tag mt-5d">5日${s.pct_5d>0?'+':''}${s.pct_5d}%</span>`;
+
+      const shortReason = (s.reason||'').split('；')[0].substring(0,26);
+      return `
+      <tr class="fi ${rowCls}">
+        <td><span class="rank-badge ${rkCls}">${i+1}</span></td>
+        <td>
+          <a class="stock-link" href="${esc(s.link)}" target="_blank" rel="noopener">
+            <span class="scode">${esc(sym)}</span>
+            <span class="sname">${esc(s.name)}</span>
+          </a>
+          ${shortReason?`<div class="reason-tip">${esc(shortReason)}...</div>`:''}
+        </td>
+        <td><span class="itag">${esc(s.industry||'-')}</span></td>
+        <td style="text-align:right"><span class="${priceCls}">¥${s.price}</span></td>
+        <td style="text-align:right"><span class="chg-cell ${chgCls}">${chgSign}${chg.toFixed(2)}%</span></td>
+        <td style="text-align:right; white-space:nowrap">${metrics}</td>
+      </tr>`;
+    }).join('');
+  });
+}
+
+function showM1Error(msg){
+  ['short_term','long_term','hot'].forEach(cat=>{
+    document.getElementById(`tbody-${cat}`).innerHTML =
+      `<tr><td colspan="6"><div class="error-msg">⚠ ${esc(msg)}</div></td></tr>`;
+  });
+}
+
+// ── 模块二：新闻 ──────────────────────────────────────
+async function loadModule2(){
+  const paths = ['../data/module2_latest.json','data/module2_latest.json','module2_latest.json'];
+  const news  = window._M2_DATA || await fetchJSON(paths);
+  const container = document.getElementById('news-list');
+  if(!news){ container.innerHTML='<div class="error-msg">⚠ 无法加载新闻</div>'; return; }
+
+  document.getElementById('m2-update').textContent = `${news.length}条 · 最新`;
+
+  const secCls = s => {
+    if(!s) return 'sec-etc';
+    if(s.includes('人工智能')||s.includes('AI')) return 'sec-ai';
+    if(s.includes('新能源')||s.includes('汽车'))  return 'sec-nev';
+    if(s.includes('创新药')||s.includes('医药'))  return 'sec-drug';
+    return 'sec-etc';
+  };
+
+  container.innerHTML = news.map(n=>`
+    <div class="news-card fi" onclick="window.open('${esc(n.link)}','_blank')">
+      <span class="nsector ${secCls(n.sector)}">${esc(n.sector||'综合')}</span>
+      <a class="ntitle" href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a>
+      <div class="nsummary">${esc(n.summary||'')}</div>
+      <div class="nfooter">
+        <span class="nsource">${esc(n.source)}</span>
+        <span>${esc(n.time||'')}</span>
+      </div>
+    </div>`).join('');
+}
+
+// ── 模块三：论坛舆情 ──────────────────────────────────
+async function loadModule3(){
+  const paths = ['../data/module3_latest.json','data/module3_latest.json','module3_latest.json'];
+  const posts = window._M3_DATA || await fetchJSON(paths);
+  const container = document.getElementById('forum-list');
+  if(!posts){ container.innerHTML='<div class="error-msg">⚠ 无法加载舆情</div>'; return; }
+
+  document.getElementById('m3-update').textContent = `${posts.length}条 · 最新`;
+
+  const srcCls = src => {
+    if(!src) return 'src-def';
+    if(src.includes('雪球'))   return 'src-xueqiu';
+    if(src.includes('东财'))   return 'src-eastmoney';
+    if(src.includes('Reddit')) return 'src-reddit';
+    return 'src-def';
+  };
+  const srcIcon = src => {
+    if(!src) return '●';
+    if(src.includes('雪球'))   return '⬤';
+    if(src.includes('东财'))   return '●';
+    if(src.includes('Reddit')) return '⬟';
+    return '●';
+  };
+
+  container.innerHTML = posts.map(p=>`
+    <div class="forum-card fi">
+      <span class="fsrc-badge ${srcCls(p.source)}">${srcIcon(p.source)} ${esc(p.source)}</span>
+      <a class="ftitle" href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.title)}</a>
+      <div class="fexcerpt">${esc(p.excerpt||'')}</div>
+      <div class="ffooter">
+        <div class="fmeta">
+          <span class="fauthor">👤 ${esc(p.author||'匿名')}</span>
+          <span class="fpop">${esc(p.popularity||'')}</span>
+        </div>
+        <a class="btn-link" href="${esc(p.link)}" target="_blank" rel="noopener">查看原文 →</a>
+      </div>
+    </div>`).join('');
+}
+
+// ── 内嵌数据占位（Python注入） ───────────────────────
+// ── 内嵌数据占位（Python注入） ───────────────────────
+window._M1_DATA = [{"symbol": "SH688036", "name": "传音控股", "price": 59.5, "change_pct": 10.86, "industry": "消费电子", "reason": "站上20日线(57.71)；当日强势涨10.86%；MACD金叉信号；RSI=55.0(强势区)", "link": "https://xueqiu.com/S/SH688036", "category": "short_term", "roe": 25.4, "ma20": 57.71, "rsi": 55.0, "pct_5d": 10.86, "turnover": 34974.25}, {"symbol": "SH600276", "name": "恒瑞医药", "price": 55.56, "change_pct": 3.43, "industry": "医药", "reason": "站上20日线(53.89)；MACD金叉信号；RSI=55.0(强势区)", "link": "https://xueqiu.com/S/SH600276", "category": "short_term", "roe": 18.6, "ma20": 53.89, "rsi": 55.0, "pct_5d": 3.43, "turnover": 9896.48}, {"symbol": "SH600809", "name": "山西汾酒", "price": 160.71, "change_pct": 3.07, "industry": "白酒", "reason": "站上20日线(155.89)；MACD金叉信号；RSI=55.0(强势区)", "link": "https://xueqiu.com/S/SH600809", "category": "short_term", "roe": 35.2, "ma20": 155.89, "rsi": 55.0, "pct_5d": 3.07, "turnover": 5135.97}, {"symbol": "SH603288", "name": "海天味业", "price": 37.02, "change_pct": 2.89, "industry": "调味品", "reason": "站上20日线(35.91)；MACD金叉信号；RSI=55.0(强势区)", "link": "https://xueqiu.com/S/SH603288", "category": "short_term", "roe": 28.6, "ma20": 35.91, "rsi": 55.0, "pct_5d": 2.89, "turnover": 4326.07}, {"symbol": "SH600585", "name": "海螺水泥", "price": 25.34, "change_pct": 2.18, "industry": "建材", "reason": "站上20日线(24.58)；MACD金叉信号；RSI=55.0(强势区)", "link": "https://xueqiu.com/S/SH600585", "category": "short_term", "roe": 17.3, "ma20": 24.58, "rsi": 55.0, "pct_5d": 2.18, "turnover": 18454.71}, {"symbol": "SZ000568", "name": "泸州老窖", "price": 105.98, "change_pct": 1.97, "industry": "白酒", "reason": "站上20日线(102.8)；MACD金叉信号；RSI=55.0(强势区)", "link": "https://xueqiu.com/S/SZ000568", "category": "short_term", "roe": 33.8, "ma20": 102.8, "rsi": 55.0, "pct_5d": 1.97, "turnover": 5338.55}, {"symbol": "SH600060", "name": "海信视像", "price": 22.55, "change_pct": 1.9, "industry": "家电", "reason": "站上20日线(21.87)；MACD金叉信号；RSI=55.0(强势区)", "link": "https://xueqiu.com/S/SH600060", "category": "short_term", "roe": 15.6, "ma20": 21.87, "rsi": 55.0, "pct_5d": 1.9, "turnover": 11867.79}, {"symbol": "SZ300015", "name": "爱尔眼科", "price": 10.32, "change_pct": 1.38, "industry": "医疗", "reason": "站上20日线(10.01)；MACD金叉信号；RSI=55.0(强势区)", "link": "https://xueqiu.com/S/SZ300015", "category": "short_term", "roe": 19.8, "ma20": 10.01, "rsi": 55.0, "pct_5d": 1.38, "turnover": 8990.0}, {"symbol": "SZ300750", "name": "宁德时代", "price": 354.77, "change_pct": 1.29, "industry": "新能源", "reason": "站上20日线(344.13)；MACD金叉信号；RSI=55.0(强势区)", "link": "https://xueqiu.com/S/SZ300750", "category": "short_term", "roe": 14.8, "ma20": 344.13, "rsi": 55.0, "pct_5d": 1.29, "turnover": 4761.1}, {"symbol": "SZ002415", "name": "海康威视", "price": 31.07, "change_pct": 1.01, "industry": "安防", "reason": "站上20日线(30.14)；MACD金叉信号；RSI=55.0(强势区)", "link": "https://xueqiu.com/S/SZ002415", "category": "short_term", "roe": 17.2, "ma20": 30.14, "rsi": 55.0, "pct_5d": 1.01, "turnover": 2900.44}, {"symbol": "SH600519", "name": "贵州茅台", "price": 1402.0, "change_pct": 0.21, "industry": "白酒", "reason": "ROE 32.1%>15%，高质量盈利；估值PE约21.6，低于白酒行业均值30的20%；120日均线多头格局", "link": "https://xueqiu.com/S/SH600519", "category": "long_term", "roe": 32.1, "ma20": 1359.94, "rsi": 55.0, "pct_5d": 0.21, "turnover": 2321.19}, {"symbol": "SZ000858", "name": "五粮液", "price": 102.4, "change_pct": 0.94, "industry": "白酒", "reason": "ROE 28.5%>15%，高质量盈利；估值PE约21.6，低于白酒行业均值30的20%；120日均线多头格局", "link": "https://xueqiu.com/S/SZ000858", "category": "long_term", "roe": 28.5, "ma20": 99.33, "rsi": 55.0, "pct_5d": 0.94, "turnover": 2900.5}, {"symbol": "SZ000651", "name": "格力电器", "price": 37.4, "change_pct": 0.97, "industry": "家电", "reason": "ROE 24.8%>15%，高质量盈利；估值PE约13.0，低于家电行业均值18的20%；120日均线多头格局", "link": "https://xueqiu.com/S/SZ000651", "category": "long_term", "roe": 24.8, "ma20": 36.28, "rsi": 55.0, "pct_5d": 0.97, "turnover": 4775.84}, {"symbol": "SH600436", "name": "片仔癀", "price": 158.33, "change_pct": 0.85, "industry": "医药", "reason": "ROE 22.5%>15%，高质量盈利；估值PE约30.2，低于医药行业均值42的20%；120日均线多头格局", "link": "https://xueqiu.com/S/SH600436", "category": "long_term", "roe": 22.5, "ma20": 153.58, "rsi": 55.0, "pct_5d": 0.85, "turnover": 2257.73}, {"symbol": "SZ002049", "name": "紫光国微", "price": 75.16, "change_pct": 0.33, "industry": "半导体", "reason": "ROE 21.8%>15%，高质量盈利；估值PE约36.0，低于半导体行业均值50的20%；120日均线多头格局", "link": "https://xueqiu.com/S/SZ002049", "category": "long_term", "roe": 21.8, "ma20": 72.91, "rsi": 55.0, "pct_5d": 0.33, "turnover": 17774.49}, {"symbol": "SH601899", "name": "紫金矿业", "price": 37.1, "change_pct": -1.51, "industry": "有色", "reason": "ROE 22.6%>15%，高质量盈利；估值PE约11.5，低于有色行业均值16的20%；120日均线多头格局", "link": "https://xueqiu.com/S/SH601899", "category": "long_term", "roe": 22.6, "ma20": 35.99, "rsi": 55.0, "pct_5d": -1.51, "turnover": 8787.09}, {"symbol": "SZ000333", "name": "美的集团", "price": 76.52, "change_pct": 0.33, "industry": "家电", "reason": "ROE 22.3%>15%，高质量盈利；估值PE约13.0，低于家电行业均值18的20%；120日均线多头格局", "link": "https://xueqiu.com/S/SZ000333", "category": "long_term", "roe": 22.3, "ma20": 74.22, "rsi": 55.0, "pct_5d": 0.33, "turnover": 2967.1}, {"symbol": "SH601888", "name": "中国中免", "price": 76.62, "change_pct": 0.22, "industry": "免税", "reason": "ROE 21.3%>15%，高质量盈利；估值PE约20.2，低于免税行业均值28的20%；120日均线多头格局", "link": "https://xueqiu.com/S/SH601888", "category": "long_term", "roe": 21.3, "ma20": 74.32, "rsi": 55.0, "pct_5d": 0.22, "turnover": 18785.54}, {"symbol": "SH603259", "name": "药明康德", "price": 93.3, "change_pct": 0.92, "industry": "CXO", "reason": "ROE 20.1%>15%，高质量盈利；估值PE约21.6，低于CXO行业均值30的20%；120日均线多头格局", "link": "https://xueqiu.com/S/SH603259", "category": "long_term", "roe": 20.1, "ma20": 90.5, "rsi": 55.0, "pct_5d": 0.92, "turnover": 15881.53}, {"symbol": "SH688041", "name": "海光信息", "price": 241.9, "change_pct": -0.45, "industry": "半导体", "reason": "ROE 16.3%>15%，高质量盈利；估值PE约57.6，低于半导体行业均值80的20%；120日均线多头格局", "link": "https://xueqiu.com/S/SH688041", "category": "long_term", "roe": 16.3, "ma20": 234.64, "rsi": 55.0, "pct_5d": -0.45, "turnover": 6990.33}, {"symbol": "SZ000725", "name": "京东方A", "price": 4.37, "change_pct": -2.02, "industry": "面板", "reason": "换手率24287.56%，资金活跃", "link": "https://xueqiu.com/S/SZ000725", "category": "hot", "roe": 8.5, "ma20": 4.24, "rsi": 55.0, "pct_5d": -2.02, "turnover": 24287.56}, {"symbol": "SZ002594", "name": "比亚迪", "price": 93.62, "change_pct": -0.9, "industry": "汽车", "reason": "换手率17339.54%，资金活跃", "link": "https://xueqiu.com/S/SZ002594", "category": "hot", "roe": 19.5, "ma20": 90.81, "rsi": 55.0, "pct_5d": -0.9, "turnover": 17339.54}, {"symbol": "SH601127", "name": "赛力斯", "price": 100.25, "change_pct": -0.74, "industry": "汽车", "reason": "换手率16102.53%，资金活跃", "link": "https://xueqiu.com/S/SH601127", "category": "hot", "roe": 12.8, "ma20": 97.24, "rsi": 55.0, "pct_5d": -0.74, "turnover": 16102.53}, {"symbol": "SH600019", "name": "宝钢股份", "price": 7.1, "change_pct": -0.28, "industry": "钢铁", "reason": "换手率10952.71%，资金活跃", "link": "https://xueqiu.com/S/SH600019", "category": "hot", "roe": 8.9, "ma20": 6.89, "rsi": 55.0, "pct_5d": -0.28, "turnover": 10952.71}, {"symbol": "SH600030", "name": "中信证券", "price": 26.43, "change_pct": 0.84, "industry": "券商", "reason": "换手率5192.76%，资金活跃", "link": "https://xueqiu.com/S/SH600030", "category": "hot", "roe": 10.2, "ma20": 25.64, "rsi": 55.0, "pct_5d": 0.84, "turnover": 5192.76}, {"symbol": "SH601318", "name": "中国平安", "price": 62.67, "change_pct": 0.95, "industry": "保险", "reason": "换手率3143.51%，资金活跃", "link": "https://xueqiu.com/S/SH601318", "category": "hot", "roe": 14.2, "ma20": 60.79, "rsi": 55.0, "pct_5d": 0.95, "turnover": 3143.51}, {"symbol": "SH601166", "name": "兴业银行", "price": 18.52, "change_pct": 0.27, "industry": "银行", "reason": "换手率2834.74%，资金活跃", "link": "https://xueqiu.com/S/SH601166", "category": "hot", "roe": 13.2, "ma20": 17.96, "rsi": 55.0, "pct_5d": 0.27, "turnover": 2834.74}, {"symbol": "SH600690", "name": "海尔智家", "price": 24.86, "change_pct": 0.97, "industry": "家电", "reason": "换手率2649.23%，资金活跃", "link": "https://xueqiu.com/S/SH600690", "category": "hot", "roe": 18.7, "ma20": 24.11, "rsi": 55.0, "pct_5d": 0.97, "turnover": 2649.23}, {"symbol": "SH600036", "name": "招商银行", "price": 39.2, "change_pct": 0.13, "industry": "银行", "reason": "换手率1847.64%，资金活跃", "link": "https://xueqiu.com/S/SH600036", "category": "hot", "roe": 16.8, "ma20": 38.02, "rsi": 55.0, "pct_5d": 0.13, "turnover": 1847.64}, {"symbol": "SH601988", "name": "中国银行", "price": 5.39, "change_pct": 0.0, "industry": "银行", "reason": "换手率662.21%，资金活跃", "link": "https://xueqiu.com/S/SH601988", "category": "hot", "roe": 11.5, "ma20": 5.23, "rsi": 55.0, "pct_5d": 0.0, "turnover": 662.21}];
+window._M2_DATA = [{"sector": "人工智能", "title": "丁奎岭代表：人工智能尚处于“前牛顿时代”，需持续向前", "summary": "（来源：科技日报）#全国两会之声#【丁奎岭代表：人工智能尚处于“前牛顿时代”，需持续向前】政府工作报告指出，我国人工智能等研发应用走在世界前列...", "source": "新浪财经", "time": "滚动消息 5分钟前", "link": "https://k.sina.com.cn/article_5953740931_v162dee08306702suig.html"}, {"sector": "人工智能", "title": "知行集团控股(01539.HK)签订谅解备忘录：于印尼提供高效能运算或人工智能图形处理单元服务", "summary": "其拟初步采购1,024个人工智能(“AI”)图形处理单元(“GPU”)算力的高效能运算及相关服务，以支援Multipolar集团及Multipolar在印尼广泛...", "source": "新浪财经", "time": "格隆汇 14分钟前", "link": "https://finance.sina.com.cn/stock/bxjj/2026-03-06/doc-inhpzvnm9230865.shtml"}, {"sector": "新能源汽车", "title": "新能源汽车项目落地济南高新区", "summary": "而就在前不久，奔驰与吉利控股集团联合运营的smart品牌也传来本土化新消息，smart新车型将在济南造。smart品牌新一代两座纯电车型项目（以下简称“smar...", "source": "新浪财经", "time": "地方站-新浪山东 18分钟前", "link": "https://sd.sina.com.cn/city/2026-03-06/city-inhpzvnm9226642.shtml"}, {"sector": "新能源汽车", "title": "1200辆中国新能源车困于海峡：迪拜汽车经销商的突围", "summary": "界面新闻记者 | 王臻 葛成在阿联酋迪拜汽车贸易和物流集散地拉斯海库尔（Ras Al Khor），波比鹿汽车销售服务公司（Bobideer Auto Tradi...", "source": "新浪财经", "time": "界面新闻 1小时前", "link": "https://finance.sina.com.cn/jjxw/2026-03-06/doc-inhpzret2624900.shtml"}, {"sector": "创新药", "title": "全国人大代表陈保华的“创新药护航”全景图", "summary": "随着《“十四五”国家药品安全及促进高质量发展规划》的深入实施，创新药研发呈现蓬勃发展态势。但在创新药从研发到临床再到应用的诸多环节上，除了需要技术的突破，也需要...", "source": "新浪财经", "time": "滚动消息 11分钟前", "link": "https://k.sina.com.cn/article_5953740931_162dee08306702sui0.html"}];
+window._M3_DATA = [{"source": "Reddit WSB", "title": "NVDA DD: Blackwell supply finally catching up - time to reload? [Analysis]", "excerpt": "Data center revenue up 2.5x YoY. Blackwell ramp accelerating in Q1'26. China headwinds partially offset by strong EMEA/APAC demand.", "author": "u/DeepValueDegen", "popularity": "🔥18.2k分 💬1.4k评", "link": "https://www.reddit.com/r/wallstreetbets/"}, {"source": "Reddit WSB", "title": "TSLA bear thesis update: competition is finally real [DD]", "excerpt": "BYD outsold Tesla globally for 3rd straight month. Model Y refresh helps but pricing pressure in China is intensifying. Watch the margin trajectory.", "author": "u/MarketSkeptic99", "popularity": "🔥9.6k分 💬2.1k评", "link": "https://www.reddit.com/r/wallstreetbets/"}, {"source": "雪球精选", "title": "2026两会政策解读：哪些板块迎来政策红利窗口？", "excerpt": "政府工作报告明确提出'打造智能经济新形态'和新能源汽车下乡补贴延续，AI、新能源、创新药三大主线有望持续受益。", "author": "价值投资研究院", "popularity": "阅读12万+ 评论980", "link": "https://xueqiu.com/today"}, {"source": "东财·贵州茅台吧", "title": "春节后茅台动销回暖，渠道库存健康，机构一季度普遍增持", "excerpt": "调研数据显示，春节期间飞天茅台散瓶价格稳定在2600-2700元，渠道库存回落至健康水位，多家公募基金Q1继续增持。", "author": "白酒研究员", "popularity": "阅读5.4万 回复630", "link": "https://guba.eastmoney.com/list,600519.html"}];
+
+// ── 初始化 ────────────────────────────────────────────
+(async()=>{
+  await Promise.all([loadModule1(), loadModule2(), loadModule3()]);
+})();
+
+// 每5分钟刷新
+setInterval(()=>{ loadModule1(); loadModule2(); loadModule3(); }, 5*60*1000);
+</script>
+</body>
+</html>
