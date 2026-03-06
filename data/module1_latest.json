@@ -10,7 +10,7 @@
     "category": "short_term",
     "roe": 25.4,
     "rsi": 72,
-    "turnover": 3.85,
+    "turnover": 2.47,
     "pct_5d": 10.86
   },
   {
@@ -24,7 +24,7 @@
     "category": "short_term",
     "roe": 18.6,
     "rsi": 57,
-    "turnover": 1.09,
+    "turnover": 0.99,
     "pct_5d": 3.43
   },
   {
@@ -38,7 +38,7 @@
     "category": "short_term",
     "roe": 35.2,
     "rsi": 56,
-    "turnover": 0.56,
+    "turnover": 0.52,
     "pct_5d": 3.07
   },
   {
@@ -52,7 +52,7 @@
     "category": "short_term",
     "roe": 28.6,
     "rsi": 56,
-    "turnover": 0.47,
+    "turnover": 0.42,
     "pct_5d": 2.89
   },
   {
@@ -66,7 +66,7 @@
     "category": "short_term",
     "roe": 17.3,
     "rsi": 54,
-    "turnover": 2.04,
+    "turnover": 0.68,
     "pct_5d": 2.18
   },
   {
@@ -80,7 +80,7 @@
     "category": "short_term",
     "roe": 33.8,
     "rsi": 54,
-    "turnover": 0.58,
+    "turnover": 0.55,
     "pct_5d": 1.97
   },
   {
@@ -94,7 +94,7 @@
     "category": "short_term",
     "roe": 15.6,
     "rsi": 54,
-    "turnover": 1.31,
+    "turnover": 0.91,
     "pct_5d": 1.9
   },
   {
@@ -108,7 +108,7 @@
     "category": "short_term",
     "roe": 19.8,
     "rsi": 53,
-    "turnover": 0.99,
+    "turnover": 0.57,
     "pct_5d": 1.38
   },
   {
@@ -122,7 +122,7 @@
     "category": "short_term",
     "roe": 14.8,
     "rsi": 53,
-    "turnover": 0.53,
+    "turnover": 0.49,
     "pct_5d": 1.29
   },
   {
@@ -136,7 +136,7 @@
     "category": "short_term",
     "roe": 17.2,
     "rsi": 52,
-    "turnover": 0.32,
+    "turnover": 0.3,
     "pct_5d": 1.01
   },
   {
@@ -150,7 +150,7 @@
     "category": "long_term",
     "roe": 32.1,
     "rsi": 50,
-    "turnover": 0.25,
+    "turnover": 0.23,
     "pct_5d": 0.21
   },
   {
@@ -164,7 +164,7 @@
     "category": "long_term",
     "roe": 28.5,
     "rsi": 52,
-    "turnover": 0.32,
+    "turnover": 0.29,
     "pct_5d": 0.94
   },
   {
@@ -178,7 +178,7 @@
     "category": "long_term",
     "roe": 24.8,
     "rsi": 52,
-    "turnover": 0.53,
+    "turnover": 0.48,
     "pct_5d": 0.97
   },
   {
@@ -192,7 +192,7 @@
     "category": "long_term",
     "roe": 22.5,
     "rsi": 52,
-    "turnover": 0.25,
+    "turnover": 0.23,
     "pct_5d": 0.85
   },
   {
@@ -206,7 +206,7 @@
     "category": "long_term",
     "roe": 21.8,
     "rsi": 51,
-    "turnover": 1.96,
+    "turnover": 1.27,
     "pct_5d": 0.33
   },
   {
@@ -220,7 +220,7 @@
     "category": "long_term",
     "roe": 22.6,
     "rsi": 47,
-    "turnover": 0.97,
+    "turnover": 1.23,
     "pct_5d": -1.51
   },
   {
@@ -234,7 +234,7 @@
     "category": "long_term",
     "roe": 22.3,
     "rsi": 51,
-    "turnover": 0.33,
+    "turnover": 0.3,
     "pct_5d": 0.33
   },
   {
@@ -248,7 +248,7 @@
     "category": "long_term",
     "roe": 21.3,
     "rsi": 50,
-    "turnover": 2.07,
+    "turnover": 0.91,
     "pct_5d": 0.22
   },
   {
@@ -262,7 +262,7 @@
     "category": "long_term",
     "roe": 20.1,
     "rsi": 52,
-    "turnover": 1.75,
+    "turnover": 1.09,
     "pct_5d": 0.92
   },
   {
@@ -276,7 +276,7 @@
     "category": "long_term",
     "roe": 16.3,
     "rsi": 49,
-    "turnover": 0.77,
+    "turnover": 0.62,
     "pct_5d": -0.45
   },
   {
@@ -285,12 +285,12 @@
     "price": 4.37,
     "change_pct": -2.02,
     "industry": "面板",
-    "reason": "成交活跃(93798万手)；换手率24.29%，资金关注",
+    "reason": "成交活跃(937万手)；换手率2.58%，资金关注",
     "link": "https://xueqiu.com/S/SZ000725",
     "category": "hot",
     "roe": 8.5,
     "rsi": 46,
-    "turnover": 26.72,
+    "turnover": 2.58,
     "pct_5d": -2.02
   },
   {
@@ -299,12 +299,12 @@
     "price": 93.62,
     "change_pct": -0.9,
     "industry": "汽车",
-    "reason": "成交活跃(5035万手)；换手率17.34%，资金关注",
+    "reason": "成交活跃(50万手)；换手率1.44%，资金关注",
     "link": "https://xueqiu.com/S/SZ002594",
     "category": "hot",
     "roe": 19.5,
     "rsi": 48,
-    "turnover": 19.07,
+    "turnover": 1.44,
     "pct_5d": -0.9
   },
   {
@@ -313,12 +313,12 @@
     "price": 100.25,
     "change_pct": -0.74,
     "industry": "汽车",
-    "reason": "成交活跃(1629万手)；换手率16.10%，资金关注",
+    "reason": "成交活跃(16万手)；换手率1.08%，资金关注",
     "link": "https://xueqiu.com/S/SH601127",
     "category": "hot",
     "roe": 12.8,
     "rsi": 49,
-    "turnover": 17.71,
+    "turnover": 1.08,
     "pct_5d": -0.74
   },
   {
@@ -327,12 +327,12 @@
     "price": 7.1,
     "change_pct": -0.28,
     "industry": "钢铁",
-    "reason": "成交活跃(13285万手)；换手率10.95%，资金关注",
+    "reason": "成交活跃(132万手)；换手率0.61%，资金关注",
     "link": "https://xueqiu.com/S/SH600019",
     "category": "hot",
     "roe": 8.9,
     "rsi": 49,
-    "turnover": 12.04,
+    "turnover": 0.61,
     "pct_5d": -0.28
   },
   {
@@ -341,12 +341,12 @@
     "price": 26.43,
     "change_pct": 0.84,
     "industry": "券商",
-    "reason": "成交活跃(7767万手)；换手率5.19%，资金关注",
+    "reason": "成交活跃(77万手)；换手率0.64%，资金关注",
     "link": "https://xueqiu.com/S/SH600030",
     "category": "hot",
     "roe": 10.2,
     "rsi": 52,
-    "turnover": 5.71,
+    "turnover": 0.64,
     "pct_5d": 0.84
   },
   {
@@ -355,12 +355,12 @@
     "price": 62.67,
     "change_pct": 0.95,
     "industry": "保险",
-    "reason": "成交活跃(5746万手)；换手率3.14%，资金关注",
+    "reason": "成交活跃(57万手)；换手率0.54%，资金关注",
     "link": "https://xueqiu.com/S/SH601318",
     "category": "hot",
     "roe": 14.2,
     "rsi": 52,
-    "turnover": 3.45,
+    "turnover": 0.54,
     "pct_5d": 0.95
   },
   {
@@ -369,12 +369,12 @@
     "price": 18.52,
     "change_pct": 0.27,
     "industry": "银行",
-    "reason": "成交活跃(5888万手)；换手率2.83%，资金关注",
+    "reason": "成交活跃(58万手)；换手率0.28%，资金关注",
     "link": "https://xueqiu.com/S/SH601166",
     "category": "hot",
     "roe": 13.2,
     "rsi": 51,
-    "turnover": 3.11,
+    "turnover": 0.28,
     "pct_5d": 0.27
   },
   {
@@ -383,12 +383,12 @@
     "price": 24.86,
     "change_pct": 0.97,
     "industry": "家电",
-    "reason": "成交活跃(2464万手)；换手率2.65%，资金关注",
+    "reason": "成交活跃(24万手)；换手率0.39%，资金关注",
     "link": "https://xueqiu.com/S/SH600690",
     "category": "hot",
     "roe": 18.7,
     "rsi": 52,
-    "turnover": 2.92,
+    "turnover": 0.39,
     "pct_5d": 0.97
   },
   {
@@ -397,12 +397,12 @@
     "price": 39.2,
     "change_pct": 0.13,
     "industry": "银行",
-    "reason": "成交活跃(4659万手)；换手率1.85%，资金关注",
+    "reason": "成交活跃(46万手)；换手率0.23%，资金关注",
     "link": "https://xueqiu.com/S/SH600036",
     "category": "hot",
     "roe": 16.8,
     "rsi": 50,
-    "turnover": 2.04,
+    "turnover": 0.23,
     "pct_5d": 0.13
   },
   {
@@ -411,12 +411,12 @@
     "price": 5.39,
     "change_pct": 0.0,
     "industry": "银行",
-    "reason": "成交活跃(19494万手)；换手率0.66%，资金关注",
+    "reason": "成交活跃(194万手)；换手率0.09%，资金关注",
     "link": "https://xueqiu.com/S/SH601988",
     "category": "hot",
     "roe": 11.5,
     "rsi": 50,
-    "turnover": 0.73,
+    "turnover": 0.09,
     "pct_5d": 0.0
   }
 ]
