@@ -71,57 +71,62 @@ STOCK_CONFIG = [
     ("sh601988","中国银行","银行",    "hot",       {"roe":11.5}),
 ]
 
-# 历史换手率参考（固定基准，防止计算偏差）
-TURNOVER_REF = {
-    "sh688036":3.50,"sh600276":0.99,"sh600809":0.51,"sh603288":0.43,
-    "sh600585":1.85,"sz000568":0.53,"sh600060":1.19,"sz300015":0.90,
-    "sz300750":0.48,"sz002415":0.29,"sh600519":0.23,"sz000858":0.29,
-    "sz000651":0.48,"sh600436":0.23,"sz002049":1.78,"sh601899":0.88,
-    "sz000333":0.30,"sh601888":1.88,"sh603259":1.59,"sh688041":0.70,
-    "sz000725":24.29,"sz002594":17.34,"sh601127":16.10,"sh600019":10.95,
-    "sh600030":5.19,"sh601318":3.14,"sh601166":2.83,"sh600690":2.65,
-    "sh600036":1.85,"sh601988":0.66,
-}
-
-def fetch_sina_quotes(symbols):
-    log(f"  新浪财经行情：{len(symbols)} 只")
+def fetch_tencent_quotes(symbols):
+    """
+    腾讯股票 API：一次获取行情 + 真实换手率
+    字段：[1]名称 [3]现价 [4]昨收 [5]今开 [32]涨跌幅 [36]成交量(手) [37]成交额 [38]换手率(%)
+    """
+    log(f"  腾讯股票行情：{len(symbols)} 只")
     results = {}
     batch = 20
     for i in range(0, len(symbols), batch):
         chunk = symbols[i:i+batch]
-        url = f"https://hq.sinajs.cn/list={','.join(chunk)}"
-        content = http_get(url, {"Referer":"https://finance.sina.com.cn"}, "gbk")
+        sym_str = ",".join(chunk)
+        url = f"https://qt.gtimg.cn/q={sym_str}"
+        content = http_get(url,
+            {"Referer": "https://gu.qq.com/", "User-Agent": "Mozilla/5.0"},
+            "gbk")
         if not content:
             continue
         for line in content.strip().split("\n"):
-            if "=" not in line:
+            line = line.strip()
+            if "=" not in line or "~" not in line:
                 continue
             try:
-                sym = line.split("=")[0].replace("var hq_str_","").strip()
-                val = line.split("=",1)[1].strip().strip('";')
-                f = val.split(",")
-                if len(f) < 10:
+                sym_part = line.split("=")[0].replace("v_", "").strip()
+                val_part = line.split("=", 1)[1].strip().strip('";')
+                f = val_part.split("~")
+                if len(f) < 40:
                     continue
-                price = float(f[3]) if f[3] else 0
-                prev  = float(f[2]) if f[2] else 0
+                price    = float(f[3])  if f[3]  else 0
+                prev     = float(f[4])  if f[4]  else 0
+                chg_pct  = float(f[32]) if f[32] else 0
+                turnover = float(f[38]) if f[38] else 0   # ← 真实换手率(%)
+                volume   = int(float(f[36])) if f[36] else 0
+                amount   = float(f[37]) if f[37] else 0
                 if price <= 0 or prev <= 0:
                     continue
-                results[sym] = {
-                    "name":       f[0].replace(" ",""),
+                results[sym_part] = {
+                    "name":       f[1].replace(" ", ""),
                     "price":      price,
                     "prev_close": prev,
-                    "open":       float(f[1]) if f[1] else price,
-                    "high":       float(f[4]) if f[4] else price,
-                    "low":        float(f[5]) if f[5] else price,
-                    "volume":     int(f[8])   if f[8]  else 0,
-                    "amount":     float(f[9]) if f[9]  else 0,
-                    "change_pct": round((price - prev)/prev*100, 2),
+                    "open":       float(f[5]) if f[5] else price,
+                    "high":       float(f[33]) if len(f) > 33 and f[33] else price,
+                    "low":        float(f[34]) if len(f) > 34 and f[34] else price,
+                    "volume":     volume,
+                    "amount":     amount,
+                    "change_pct": round(chg_pct, 2),
+                    "turnover":   round(turnover, 2),   # ← 直接存入真实值
                 }
             except:
                 pass
-        time.sleep(0.3)
-    log(f"  获取成功：{len(results)} 只")
+        time.sleep(0.2)
+    log(f"  获取成功：{len(results)} 只（含真实换手率）")
     return results
+
+# 兼容旧名称
+def fetch_sina_quotes(symbols):
+    return fetch_tencent_quotes(symbols)
 
 def compute_rsi_approx(chg):
     return max(20, min(85, round(50 + chg * 2)))
@@ -154,7 +159,8 @@ def build_reason(sym, quote, category, meta):
     elif category == "hot":
         vol = quote["volume"]
         vol_str = f"{vol//10000:.0f}万手" if vol >= 10000 else f"{vol}手"
-        return f"成交活跃({vol_str})；换手率{TURNOVER_REF.get(sym,0):.2f}%，资金关注"
+        real_turnover = quote.get("turnover", 0)
+        return f"成交活跃({vol_str})；换手率{real_turnover:.2f}%，资金关注"
 
     return ""
 
@@ -167,14 +173,8 @@ def build_module1(quotes):
         xq = ("SH" if sym.startswith("sh") else "SZ") + sym[2:]
         rsi = compute_rsi_approx(q["change_pct"])
         reason = build_reason(sym, q, category, meta)
-        turnover = TURNOVER_REF.get(sym, 1.0)
-        # 根据今日成交量动态调整换手率（±20%幅度）
-        vol = q.get("volume", 0)
-        if vol > 0:
-            # 简单用量比估算（成交量和历史均量对比）
-            # 这里简化：量大则换手稍高
-            vol_factor = min(1.3, max(0.7, vol / max(vol, 500000) * 1.1))
-            turnover = round(turnover * vol_factor, 2)
+        # 直接使用腾讯 API 返回的真实换手率，无需估算
+        turnover = q.get("turnover", 0)
 
         result.append({
             "symbol":      xq,
