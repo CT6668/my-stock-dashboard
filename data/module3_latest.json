@@ -1,34 +1,66 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Prediction: Netflix Stock Will Hit This Price in 5 Years",
-    "excerpt": "While the streaming pioneer's underlying business is executing well, intense competition could compress its premium valuation over the next five years",
+    "title": "[英伟达] Where Will Tesla Be in 5 Years?",
+    "excerpt": "Tesla has its fair share of bulls and bears, making this a polarizing investment opportunity.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=e91bce62d61c4e528933a8e20288d14ef6636068de976f0137bcb5ae98f69a07"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=c3e3d1589be922302ccff44208fbf737bdf82c09e60bc802cbc6b0503f707767"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【易点天下】为全资孙公司提供不超10万美元担保",
+    "excerpt": "易点天下公告称，为与大媒体保持合作，全资孙公司Inforview Limited、西安飞声与HongKong AdTiger Media Co., Limited签署主合同，西安飞声为Inforview Limited提供不超10万美元的不",
+    "author": "易点天下",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,易点天下.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Amazon Rival PDD Value Score Inches Higher Despite Texas Tech Ban And ",
     "excerpt": "PDD&#39;s Value score hits 89.99 despite a 10% YTD dip and Texas tech bans. Explore Benzinga Edge&#39;s latest stock rankings.",
     "author": "Benzinga",
-    "popularity": "🔥 20小时前",
+    "popularity": "🔥 22小时前",
     "link": "https://finnhub.io/api/news?id=721f2742d4f53e3855f77ef9415c0cace67c50637d3ae14835d57eb964ef2177"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【华东重机】重大资产重组7亿元交易价款全额支付完毕",
+    "excerpt": "华东重机公告称，公司通过现金出售方式向广东元元出售润星科技100%股权，交易价款7亿元分三期支付。截至2024年11月25日，广东元元已支付前两期3.57亿元；2024年12月17日完成股权过户；截至2025年12月20日，广东元元支付第三",
+    "author": "华东重机",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,华东重机.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] NIO's Earnings: A Preview",
     "excerpt": " ",
     "author": "Benzinga",
-    "popularity": "🔥 19小时前",
+    "popularity": "🔥 21小时前",
     "link": "https://finnhub.io/api/news?id=52ca4ff53b89ba71ffe1ebbaa80bfe758254ea071224b597c149a7127f0ba0a0"
   },
   {
+    "source": "东财股吧",
+    "title": "【晓鸣股份】2026年2月销售鸡产品收入6420.19万元，环比增加9.57%",
+    "excerpt": "晓鸣股份公告，公司2026年2月销售鸡产品2188.77万羽，销售收入6420.19万元，环比变动分别为-4.35%、9.57%，同比变动分别为-19.66%、-44.39%。",
+    "author": "晓鸣股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,晓鸣股份.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] CATL Reports Earnings Beat Despite Cooling EV Demand, Higher Metal Pri",
-    "excerpt": "The world’s largest electric-vehicle battery maker, reported stronger-than-expected net profit in the fourth quarter and 2025.",
+    "title": "[特斯拉] Where Will Tesla Be in 5 Years?",
+    "excerpt": "Tesla has its fair share of bulls and bears, making this a polarizing investment opportunity.",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=7ba4ed48ede13f802163ef2caa7b40d36d6bfef49944f620335f6ee01ed3a373"
+    "link": "https://finnhub.io/api/news?id=c3e3d1589be922302ccff44208fbf737bdf82c09e60bc802cbc6b0503f707767"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【美国银行】光互连市场规模到2030年有望增长四倍至730亿美元",
+    "excerpt": "美国银行在本周一发布的研报中指出，随着人工智能工作负载对传统铜导体的性能提出更高要求，光互连市场规模到2030年有望增长四倍至730亿美元。美银分析师Vivek Arya预计，英伟达将引领这场变革，可能成为首家将传统铜基服务器背板更换为CP",
+    "author": "美国银行",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,美国银行.html"
   }
 ]
