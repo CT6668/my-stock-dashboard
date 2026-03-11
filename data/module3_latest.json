@@ -1,42 +1,26 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Dow Jones Futures Rise On Oil Reserves Report; AI Giant Oracle Jumps O",
-    "excerpt": "Futures rose amid a reported plan for a record release of crude oil reserves. Oracle jumped on earnings late.",
+    "title": "[英伟达] Will Ford's $5 Billion Bet Pay Off?",
+    "excerpt": "Ford canceled or postponed most of its planned fancy EVs -- but it's sticking with a $5 billion program to make small, affordable ones.",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=9a9fc5fa306e1c9e3cd94ee0a37ac52209938707575bb89f93b28a372c6e489f"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【马化腾凌晨2点发声】还有一批龙虾系产品陆续赶来",
-    "excerpt": "腾讯董事会主席兼首席执行官马化腾今日凌晨2：06在朋友圈转发了腾讯推出全系“龙虾”产品矩阵的公众号文章，并配文“自研龙虾、本地虾、云端虾、企业虾、云桌面虾，安全隔离虾房、云保安、知识库......还有一批产品陆续赶来”。昨日腾讯已宣布“龙虾",
-    "author": "马化腾凌晨2点发声",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,马化腾凌晨2点发声.html"
+    "link": "https://finnhub.io/api/news?id=3f8f24a31b2e656853533123fd0389e60fcb81461e651da1f8a7ae21b03f6d1a"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba's Q3 Earnings Could Trigger A Rebound (Preview)",
     "excerpt": "Alibaba Group Holding Limited remains a 'Buy' as AI and cloud prospects strengthen, despite recent stock consolidation and CAPEX concerns. Learn more ",
     "author": "SeekingAlpha",
-    "popularity": "🔥 17小时前",
+    "popularity": "🔥 19小时前",
     "link": "https://finnhub.io/api/news?id=d90e752ae78e28f900e63eef282155af258bb5083fd2979a731af233d309972f"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【盈科律所回应“创始人暴雷”传闻】不信谣，不传谣",
-    "excerpt": "近期，小红书出现热帖，指向盈科律师事务所创始人梅向荣因融资担保暴雷。北京盈科律师事务所法律咨询相关人士回应称：“我们作为员工没听到这个（传闻），昨天我们还看到梅总在开会，不信谣不传谣，盈科和之前一样经营正常，所里也没有发任何的通知。”（南方",
-    "author": "盈科律所回应“创始人暴雷”传闻",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,盈科律所回应“创始人暴雷”传闻.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Curious about the most active stocks on Tuesday?",
     "excerpt": "Let's dive into the action on the US markets on Tuesday. Here are the most active stocks that are driving the market today.",
     "author": "ChartMill",
-    "popularity": "🔥 8小时前",
+    "popularity": "🔥 10小时前",
     "link": "https://finnhub.io/api/news?id=f235b78e548cee3329503d8e0d349d7e63c6aaf04b9e35287cc459cf7a1f4a9d"
   },
   {
@@ -44,15 +28,15 @@
     "title": "[特斯拉] BYD Needs Just 9 Minutes To Challenge Tesla's Last Great Advantage",
     "excerpt": "One of Tesla Inc's biggest competitive advantages has never been the cars. It's the chargers. For years, Tesla's Supercharger network has set the benc",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
+    "popularity": "🔥 3小时前",
     "link": "https://finnhub.io/api/news?id=eb9f316f614335354975e613e1d952e82f428ecf06df8636a3c95b5f1d8dfed0"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] Tesla's 20% Crash May Be Just The Beginning As Expert Slams 'Absurd' B",
-    "excerpt": "Tesla stock could be overvalued based on high expectations from CEO Elon Musk and investors, a market expert says.",
-    "author": "Benzinga",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=594330c791ee128d8eec93654d02cb0d2e9d08f8fc570e9445f6ad1b8278849c"
+    "title": "[百度] Alibaba, Other Chinese Stocks Jump. Beijing Export Boom Defies Trade T",
+    "excerpt": "Despite pronounced geopolitical tensions since the start of this year, China posted a large trade surplus Tuesday, boosting the shares of tech and e-c",
+    "author": "Yahoo",
+    "popularity": "🔥 15小时前",
+    "link": "https://finnhub.io/api/news?id=914b47964d669d9f981118ca41483d10d74a6940084eef35355e5a78046159c4"
   }
 ]
