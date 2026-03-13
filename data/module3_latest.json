@@ -1,19 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] China's ByteDance gets access to top Nvidia AI chips, WSJ reports",
-    "excerpt": "TikTok's Chinese parent ByteDance is assembling computing power with top Nvidia chips ‌outside China, the Wall Street Journal reported ‌on Thursday.  ",
+    "title": "[英伟达] Nvidia Set to Enter Next Phase as It Plans to Launch New AI Processing",
+    "excerpt": "NVIDIA Corporation (NASDAQ:NVDA) is one of the 11 Best Large-Cap Tech Stocks to Invest In. A February 27 report from the Wall Street Journal highlight",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=0d039c8c75d50df56f619099e8eb572f23adadf232cf968f2c4fb32646e43d57"
+    "link": "https://finnhub.io/api/news?id=bb4f5cef091c677786106c012a38ed0b7999aa99f2bcba4168d6b0251146e958"
   },
   {
     "source": "东财股吧",
-    "title": "【市场分析】苹果公司下调佣金利好中国游戏开发商",
-    "excerpt": "苹果公司最近下调渠道费的举措，利好中国游戏开发商以及通过应用提供订阅服务的公司。从周日开始，苹果公司将把其在中国区的应用内购买和付费应用交易的佣金率从30%下调至25%。分析师称，中国的Android商店可能也将面临降低渠道费的压力，目前大",
-    "author": "市场分析",
+    "title": "【鲁西化工】杜森肴辞任公司副总经理等职务",
+    "excerpt": "鲁西化工3月13日公告，公司董事会近日收到副总经理杜森肴的书面辞职报告， 因组织安排工作调整，杜森肴先生申请辞去公司副总经理、HSE总监职务，离任后不再担任公司任何职务。杜森肴的书面辞职报告自送达董事会之日起生效。",
+    "author": "鲁西化工",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,市场分析.html"
+    "link": "https://guba.eastmoney.com/list,鲁西化工.html"
   },
   {
     "source": "BABA·雪球",
@@ -25,27 +25,43 @@
   },
   {
     "source": "东财股吧",
-    "title": "【俄外交部】美以军事行动破坏了整个中东的稳定",
-    "excerpt": "俄罗斯外交部发言人扎哈罗娃12日在例行记者会上表示，美以军事行动破坏了整个中东的稳定，将给整个地区带来灾难性后果，必须立即停止，寻求外交解决方案。据俄外交部网站消息，扎哈罗娃说，伊朗人道主义状况极其严峻，而多个阿拉伯国家也在经历人道主义灾难",
-    "author": "俄外交部",
+    "title": "【广发证券】维持寒武纪“买入”评级，25Q4存货大幅增加",
+    "excerpt": "广发证券研报指出，寒武纪25年实现营收65.0亿元，同比增长453.2%，上年同期11.2亿元；归母净利润20.6亿元，上年同期为-4.5亿元。25年营收大幅增长，公司在和互联网头部客户合作进展顺利的情况下，预计2026年公司的AI芯片向互",
+    "author": "广发证券",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,俄外交部.html"
+    "link": "https://guba.eastmoney.com/list,广发证券.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Li Auto: Too Cheap To Make Sense",
     "excerpt": "Li Auto Inc.'s Q4 earnings beat EPS as vehicle margins rose to 16.8%, though revenue missed. Click for this updated look at LI stock prospects.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 18小时前",
+    "popularity": "🔥 21小时前",
     "link": "https://finnhub.io/api/news?id=dd575f009b3c817f56e61c7a56bb80e4f7aa0aa468ebdd82b767cb29ab5bfddd"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【视觉中国】控股子公司成都光厂拟减资至125万元",
+    "excerpt": "视觉中国公告称，公司于2026年3月13日召开董事会会议，审议通过控股子公司成都光厂创意科技有限公司减资议案。成都光厂注册资本将由5000万元减至125万元，各股东同比例减资，减资后公司通过全资子公司仍持股61.60%，合并报表范围不变。本",
+    "author": "视觉中国",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,视觉中国.html"
   },
   {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Bamco Expands FactSet Stake to $838 Million as Financial Data Platform",
     "excerpt": "FactSet provides financial data, analytics, and workflow software used by investment professionals worldwide. Because its platform is embedded in rese",
     "author": "Yahoo",
-    "popularity": "🔥 3小时前",
+    "popularity": "🔥 6小时前",
     "link": "https://finnhub.io/api/news?id=9d34ac4a7c15b734689588bd36414b06b80fd738e75c78c6e26b1f00b919df42"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【中国汽车流通协会】2月汽车经销商综合库存系数为1.95，同比上升21.1%",
+    "excerpt": "3月13日，中国汽车流通协会发布2026年2月“汽车经销商库存”调查结果：2月汽车经销商综合库存系数为1.95，环比上升31.8%，同比上升21.1%。根据中国汽车流通协会乘联分会数据显示，2月乘用车零售量为104.3万辆，据此测算2月底经",
+    "author": "中国汽车流通协会",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,中国汽车流通协会.html"
   },
   {
     "source": "BIDU·雪球",
