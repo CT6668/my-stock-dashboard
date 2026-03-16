@@ -1,42 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Exclusive-China’s No. 2 chipmaker readies 7 nm production as Beijing r",
-    "excerpt": "China's Hua Hong Group has developed advanced chip manufacturing technologies that can be used to produce artificial intelligence chips, four people f",
+    "title": "[英伟达] If Oil Prices Keep Climbing, These 3 ETFs Could Be Big Winners",
+    "excerpt": "Crude oil prices nearly doubled over the course of a few days. Here are three ETFs set to benefit if oil heads back above $100.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=76746d7e5f7fb4f01beb4deb851c002f34af32bb54d7807b07a25195c81fc727"
+    "popularity": "🔥 23分钟前",
+    "link": "https://finnhub.io/api/news?id=a061cb304be7024d87e8f5f8d7f63a4e8b41dc03342b8d46250112a745cee92b"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【南网储能】投资建设广东新丰抽水蓄能电站，动态总投资额约73.79亿元",
+    "excerpt": "南网储能公告，公司投资建设广东新丰抽水蓄能电站，动态总投资额约73.79亿元，其中项目资本金20%，银行贷款80%。该投资事项尚需提交公司股东会审议。",
+    "author": "南网储能",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,南网储能.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Consumer Tech News (Mar 9-13): Trump Administration Sues California Ov",
     "excerpt": "Broadcom, AMD, and Applied Materials expand AI semiconductor capabilities, developing next-gen memory and high-speed networking solutions.",
     "author": "Benzinga",
-    "popularity": "🔥 20小时前",
+    "popularity": "🔥 22小时前",
     "link": "https://finnhub.io/api/news?id=2572090736198773ff5e9640f7e905504de847c3f2c6c98aa1440504458fc311"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【海达股份】近日获得13项专利证书",
+    "excerpt": "海达股份公告称，公司近日获得国家知识产权局颁发的13项专利证书，均为原始取得，其中2项由公司和合作单位共同所有。专利涵盖发明、实用新型和外观设计，涉及汽车密封、工程减振、建筑密封等领域。这些专利技术已在公司相关事业部小批量应用，是现有产品加",
+    "author": "海达股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,海达股份.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Nebius, Micron, And NIO Are Among the Top 10 Large-Cap Gainers Last We",
     "excerpt": "AI infrastructure plays, EV names and power-demand beneficiaries led last week&#39;s large-cap winners list, with Nebius, Micron and NIO posting stand",
     "author": "Benzinga",
-    "popularity": "🔥 20小时前",
+    "popularity": "🔥 22小时前",
     "link": "https://finnhub.io/api/news?id=31ee49b99df00ef70e5965efdf15ab389f3d2a456a16f31f13e3d15de3047c00"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【*ST摩登】发布股票可能被终止上市的第四次风险提示",
+    "excerpt": "*ST摩登公告称，公司2024年度相关财务数据触及规定情形，股票自2025年4月29日起被实施退市风险警示。若2025年年度报告披露后出现特定情形，公司股票将面临被终止上市风险。公司2026年已三次披露风险提示，本次为第四次。公司预计202",
+    "author": "*ST摩登",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,*ST摩登.html"
   },
   {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Is Rivian Automotive, Inc. (RIVN) A Good Stock To Buy Now?",
     "excerpt": "Is RIVN a good stock to buy? We came across a bullish thesis on Rivian Automotive, Inc. on VJS Newsletter’s Substack. In this article, we will summari",
     "author": "Yahoo",
-    "popularity": "🔥 5小时前",
+    "popularity": "🔥 8小时前",
     "link": "https://finnhub.io/api/news?id=df7e9e6b3a7c1a697e88edb9196b34e0389482b5c4aafe934ff046613adca2d4"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【银河电子】债务人国安广视破产 公司获711.53万元财产分配",
+    "excerpt": "银河电子公告称，公司及子公司应收国安广视货款余额1.40亿元，该应收账款已于2018年度全额计提坏账准备。近期，北京市第一中级人民法院裁定宣告国安广视破产，根据其《第一次破产财产分配方案》，公司及子公司可获分配破产财产711.53万元，截至",
+    "author": "银河电子",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,银河电子.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Alibaba Drops New App To Dominate China's Agentic AI Craze",
     "excerpt": "Alibaba debuts JVS Claw app to fuel China&#39;s agentic AI frenzy. See how tech giants are racing to dominate the &#34;OpenClaw&#34; lobster craze.",
     "author": "Benzinga",
-    "popularity": "🔥 2天前",
+    "popularity": "🔥 3天前",
     "link": "https://finnhub.io/api/news?id=2bf5cdfa22eff984990b6c1ddee2ce98e160d9eaff874caea858ea82b73d4510"
   }
 ]
