@@ -1,42 +1,58 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Lucid Stock Is Cheap, but Does That Make It a Buy Now?",
-    "excerpt": "Shares of Lucid have fallen 98% from their peak, which some may see as an opportunity, even though it also highlights material risk.",
+    "title": "[英伟达] Fractal Introduces LLM Studio to Bring Enterprise-Grade GenAI Customiz",
+    "excerpt": "Fractal (www.fractal.ai), a publicly listed global enterprise AI company serving Fortune 500® organizations, today announced the launch of LLM Studio,",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=3adead263c4acdde216cbf36d4a79072c08fe38bce80e21b87883cef1c2019df"
+    "popularity": "🔥 8分钟前",
+    "link": "https://finnhub.io/api/news?id=502a60d3a3210d73a25ecc4e06c70d61b776b5eb3c813440a0be7b5ab5ac92a0"
   },
   {
     "source": "东财股吧",
-    "title": "【美驻伊拉克大使馆遭袭 波及记者驻地】现场火光冲天",
-    "excerpt": "当地时间17日凌晨，位于伊拉克首都巴格达“绿区”的美国驻伊拉克大使馆遭袭，馆内设施起火。自16日晚间至17日凌晨，美国驻伊拉克大使馆已遭多轮袭击。16日晚间，位于“绿区”的拉希德酒店遭空袭，新华社记者驻地也在此酒店内。酒店内房间震动明显，记",
-    "author": "美驻伊拉克大使馆遭袭 波及记者驻地",
+    "title": "【强风暴席卷美国大部分地区】近2亿人受影响 航空交通大面积瘫痪",
+    "excerpt": "一场强劲风暴15日席卷美国大部分地区，给中西部和五大湖地区带来暴雪和大风，其他地区或将遭遇雷暴和龙卷风。据估计，近2亿美国民众受到此次风暴影响，其中超过1100万人处于暴雪预警之下。受大规模强风暴影响，16日全美有超过1.5万架次航班取消或",
+    "author": "强风暴席卷美国大部分地区",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,美驻伊拉克大使馆遭袭 波及记者驻地.html"
+    "link": "https://guba.eastmoney.com/list,强风暴席卷美国大部分地区.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba Earnings Preview: Strong AI Adoption, Weak Profit Translation",
     "excerpt": "Downgrading Alibaba ahead of Q3 FY26: Qwen MAU surge is costly to monetize, quick commerce hits margins, and core China commerce slows. Read the lates",
     "author": "SeekingAlpha",
-    "popularity": "🔥 17小时前",
+    "popularity": "🔥 19小时前",
     "link": "https://finnhub.io/api/news?id=35a3709bdfb231b21042a158c0b8f909e29e6ee511472c1f07e73f5e0f678e49"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【中国核电】公司目前尚无钠冷快堆相关项目规划",
+    "excerpt": "中国核电(601985)3月17日在互动平台回复称，公司目前尚无钠冷快堆相关项目规划。",
+    "author": "中国核电",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,中国核电.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Tesla Rival BYD's Hong Kong Shares Surge Amid Overseas Sales Boost: Re",
     "excerpt": "Tesla rival BYD&#39;s Hong Kong-listed shares surge 8.3% after reported boost in South America as the automaker bolsters global footprint.",
     "author": "Benzinga",
-    "popularity": "🔥 23小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=5f42d4b3c9ad3a8f49c628f62b9e72c50dacb609dc1a16f9096f23db7aada9fa"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【东方中科】子公司万里红推出大模型安全护栏应对OpenClaw安全漏洞",
+    "excerpt": "东方中科在互动平台表示，针对OpenClaw的安全漏洞，公司子公司万里红提供了解决方案——万里红大模型安全护栏。",
+    "author": "东方中科",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,东方中科.html"
   },
   {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Lucid Stock Is Cheap, but Does That Make It a Buy Now?",
     "excerpt": "Shares of Lucid have fallen 98% from their peak, which some may see as an opportunity, even though it also highlights material risk.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
+    "popularity": "🔥 4小时前",
     "link": "https://finnhub.io/api/news?id=3adead263c4acdde216cbf36d4a79072c08fe38bce80e21b87883cef1c2019df"
   },
   {
@@ -44,7 +60,7 @@
     "title": "[百度] Alibaba Unveils Token Hub To Consolidate AI Efforts",
     "excerpt": "Alibaba launches &#34;Token Hub&#34; to unify its AI efforts. CEO Eddie Wu to lead the new unit focusing on Qwen models and AI monetization.",
     "author": "Benzinga",
-    "popularity": "🔥 20小时前",
+    "popularity": "🔥 23小时前",
     "link": "https://finnhub.io/api/news?id=336ac74ddfd3d3c4c0d9ad55fff9f53545533b4287114336b75c7a4424d35512"
   }
 ]
