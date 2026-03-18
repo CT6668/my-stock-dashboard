@@ -1,58 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] 2 Defense Stocks Set to Rise if the Iran War Drags On",
-    "excerpt": "The S&P 500 has dropped 4% since the start of the Iran war.",
+    "title": "[英伟达] 1 Stock I Plan to Load Up On in 2026",
+    "excerpt": "It's a staple you don't have to second-guess.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=dfb20a357adbaf644afc6a0eac00786f315964d319460e01bede0e118cc58a13"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=17024d5fe1ce686c583387bad42169e138f8e9e91a43cf05693f875a596acf64"
   },
   {
     "source": "东财股吧",
-    "title": "【凯投宏观】日本债务与GDP之比未来几年或降至190%",
-    "excerpt": "根据日本央行周三发布的资金流数据，日本政府未偿债务额在12月底同比下降3.8%。凯投宏观的经济学家Marcel Thieliant预计，官方国民账户数据也将出现类似降幅，这将意味着日本的债务与GDP之比从2024年的222%降至去年的204",
-    "author": "凯投宏观",
+    "title": "【美联储或释放信号】受伊朗战争影响，今年或将不再降息",
+    "excerpt": "美联储为期两天的政策会议将于当地时间周三结束，一个关键问题悬而未决：伊朗战争推高油价、汽油价格飙升，央行决策者今年还会下调短期利率吗？还是说，他们不得不按兵不动数月，静观冲突走向？ 美联储主席杰罗姆・鲍威尔几乎肯定会在当地时间周三宣布，央行",
+    "author": "美联储或释放信号",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,凯投宏观.html"
+    "link": "https://guba.eastmoney.com/list,美联储或释放信号.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] China ETF News: Trump Delays China Trip, Tencent Reports Earnings Tomo",
     "excerpt": "Asian equities were mostly higher overnight as Thailand and Korea outperformed, while Mainland China and Japan underperformed. Read more here.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 4小时前",
+    "popularity": "🔥 7小时前",
     "link": "https://finnhub.io/api/news?id=9183689d211a2c21d39a737f121b8e6b1170b01de9cae2c246875ab4a5805037"
   },
   {
     "source": "东财股吧",
-    "title": "【国家发改委】推进低空智能网联系统建设 政府部门正推动相关基础设施建设和标准制定",
-    "excerpt": "国家发展改革委在《关于2025年国民经济和社会发展计划执行情况与2026年国民经济和社会发展计划草案的报告》中明确提出，2026年要完善低空经济产业和创新生态，重点推进低空智能网联系统等安全基础设施建设。近日，国家发改委以“三问三答”形式，",
-    "author": "国家发改委",
+    "title": "【天润乳业】子公司收到877.2万元与收益相关的政府补助",
+    "excerpt": "天润乳业(600419)3月18日公告，子公司阿拉尔新农乳业有限责任公司、新疆托峰冰川牧业有限公司共计收到政府补助877.2万元，均为与收益相关的政府补助，占公司2024年度经审计归属于上市公司股东的净利润的20.09%。",
+    "author": "天润乳业",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,国家发改委.html"
+    "link": "https://guba.eastmoney.com/list,天润乳业.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Xpeng Q4 Earnings Preview: Chinese EV Landscape Turned Unfavorable",
     "excerpt": "Xpeng Q4 Earnings Preview: Chinese EV Landscape Turned Unfavorable",
     "author": "SeekingAlpha",
-    "popularity": "🔥 16小时前",
+    "popularity": "🔥 18小时前",
     "link": "https://finnhub.io/api/news?id=a3d8c861f48d667f9c91343f81254923b5567fede02c59ed9beb8f44b27009a5"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【至纯科技】为子公司提供4600万元担保 累计担保30.64亿元",
+    "excerpt": "至纯科技公告称，近日，公司为控股子公司江苏系统集成、江苏启微向银行申请授信贷款，分别签订了《保证合同》，提供本金1000万元和3600万元的连带责任保证，无反担保。截至公告日，累计为二者提供担保余额分别为1.94亿元和2.04亿元。本次担保",
+    "author": "至纯科技",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,至纯科技.html"
   },
   {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Samsung Elec plans to produce Tesla chips starting late 2027",
     "excerpt": "Samsung ‌Electronics said ‌on Wednesday that ​it expects to start volume production of ‌Tesla's ⁠chips at Samsung's factory ⁠in Texas in the ​second ​",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
+    "popularity": "🔥 5小时前",
     "link": "https://finnhub.io/api/news?id=39bbdc0e75ea202735a5b0fc8a263a933c07680929bd12f714ea6102307cce81"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【光洋股份】子公司为公司提供最高3.6亿元担保",
+    "excerpt": "光洋股份公告称，近日，全资子公司天海同步和天宏机械与建行常州惠民支行签订《本金最高额保证合同》，为公司在2026年3月12日至2027年12月31日期间的债务提供最高1.6亿元保证，截至公告披露日，实际发生流动资金借款1.21亿元；天海同步",
+    "author": "光洋股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,光洋股份.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Alibaba Unveils 'Wukong' AI To Automate Office Work, Replace Daily Cho",
     "excerpt": "Alibaba (BABA) launched its Wukong platfor, using AI agents to handle spreadsheets, meetings, and research. Discover how this new tool connects with S",
     "author": "Benzinga",
-    "popularity": "🔥 21小时前",
+    "popularity": "🔥 23小时前",
     "link": "https://finnhub.io/api/news?id=7fa788c6b406dcc8eaee5d731b62c5ae8aa29022bdcb5b2329091ded86403f31"
   }
 ]
