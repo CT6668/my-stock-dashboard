@@ -1,35 +1,27 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Dow Jones Futures: Oil Backs Off $100; Micron Skids Despite Blowout Ea",
-    "excerpt": "Futures dipped as U.S. oil prices hit $100 while Micron fell despite blowout earnings. The Dow Jones and S&P 500 undercut recent lows on cautious Powe",
+    "title": "[英伟达] 2026 Market Drop. 5 Stocks to Buy Right Now.",
+    "excerpt": "These stocks are all trading at a discount today.",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=46d2471613adc3b8059c519cb6f712e702df9e7c3ac68ff93b96e0bef70b4194"
+    "link": "https://finnhub.io/api/news?id=f796ef206a375ace69eb2c4c897a92cf79f5551528957d34da7004a0f4b447d6"
   },
   {
     "source": "东财股吧",
-    "title": "【香港金管局回应美联储议息决定】将继续密切监察市场变化，维持货币及金融稳定",
-    "excerpt": "香港金融管理局3月19日回应美联储议息决定：美联储维持息率不变的决定符合市场预期。会后发表的点阵图显示，美联储有可能于2026年内再减息25基点，但市场普遍认为，美国未来货币政策走向存在较大不确定性，而近期中东地区局势紧张对油价以至美国通胀",
-    "author": "香港金管局回应美联储议息决定",
+    "title": "【超研股份】截至目前，公司未布局AI制药业务",
+    "excerpt": "超研股份3月19日在互动平台表示，截至目前，公司未布局AI制药业务，也未与泓博医药开展相关合作。",
+    "author": "超研股份",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,香港金管局回应美联储议息决定.html"
+    "link": "https://guba.eastmoney.com/list,超研股份.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Tencent: Strong Q4 Reinforces China's Undervalued AI And Cloud Growth ",
     "excerpt": "Tencent (TCEHY) stays a Buy: strong Q4, rising FCF, AI/cloud & gaming growth, plus dividends/buybacks.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 15小时前",
+    "popularity": "🔥 16小时前",
     "link": "https://finnhub.io/api/news?id=cd273b04afe05267c288c905695a6eb4cd35eccbbf47a156615003a35dadfd50"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【远光软件】未来将围绕虚拟电厂、零碳园区、能碳平台、电力交易四大业务方向强化协同",
-    "excerpt": "远光软件3月18日在券商春季策略会上表示，公司未来将围绕虚拟电厂、零碳园区、能碳平台、电力交易四大业务方向强化协同，以算电协同为主线，以虚拟电厂为入口聚合算力负荷、以零碳园区为载体打造“源网荷储算”一体化示范、以能碳平台为核心打通电—碳—算",
-    "author": "远光软件",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,远光软件.html"
   },
   {
     "source": "NIO·WSB",
@@ -40,27 +32,19 @@
     "link": "https://finnhub.io/api/news?id=a3d8c861f48d667f9c91343f81254923b5567fede02c59ed9beb8f44b27009a5"
   },
   {
-    "source": "东财股吧",
-    "title": "【SWIFT】2月人民币位居全球第六大支付货币，占比2.74%",
-    "excerpt": "环球银行金融电信协会（Swift）3月19日发布人民币月度报告和数据统计显示，2月，在基于金额统计的全球支付货币排名中，人民币排名全球第六大最活跃货币的位置，占比2.74%，以欧元区以外的国际支付作为统计口径，人民币位列第六，占比2.16%",
-    "author": "SWIFT",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,SWIFT.html"
-  },
-  {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Musk says SpaceX AI, Tesla will keep ordering Nvidia chips at scale",
-    "excerpt": "Billionaire ‌Elon ‌Musk ​said late on ‌Thursday ⁠that his companies ⁠SpaceX ​AI ​and ​Tesla ‌expect to continue ordering ‌Nvidia ​chips ​at ​scale. (R",
+    "excerpt": "March 18 (Reuters) - Billionaire Elon Musk said late on Wednesday that his companies SpaceX AI and Tesla expect to continue ordering Nvidia chips at s",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=6b0c955d09be18a34764ef835e5f866b0b70b1905f4e00746bb2a86dd747aefb"
+    "link": "https://finnhub.io/api/news?id=3978c6c114c099ad98ccc5402e8c4a88031d765ae04daa4dda2693767a893c40"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Tencent: Strong Q4 Reinforces China's Undervalued AI And Cloud Growth ",
     "excerpt": "Tencent (TCEHY) stays a Buy: strong Q4, rising FCF, AI/cloud & gaming growth, plus dividends/buybacks.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 15小时前",
+    "popularity": "🔥 16小时前",
     "link": "https://finnhub.io/api/news?id=cd273b04afe05267c288c905695a6eb4cd35eccbbf47a156615003a35dadfd50"
   }
 ]
