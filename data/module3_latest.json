@@ -1,27 +1,35 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] 2026 Market Drop. 5 Stocks to Buy Right Now.",
-    "excerpt": "These stocks are all trading at a discount today.",
+    "title": "[英伟达] Forget the War Headlines: This Is the Real Reason Tech Stocks Are Stru",
+    "excerpt": "The war has made the market more volatile, but it's not why tech stocks are down lately.",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=f796ef206a375ace69eb2c4c897a92cf79f5551528957d34da7004a0f4b447d6"
+    "link": "https://finnhub.io/api/news?id=8be2ff277692d051708837ae13d17e82ed8ac2b4162e0e8ab90df8e2427ffdbb"
   },
   {
     "source": "东财股吧",
-    "title": "【超研股份】截至目前，公司未布局AI制药业务",
-    "excerpt": "超研股份3月19日在互动平台表示，截至目前，公司未布局AI制药业务，也未与泓博医药开展相关合作。",
-    "author": "超研股份",
+    "title": "【皖能电力】公司在算电协同、算力供电、智算中心方面暂未布局",
+    "excerpt": "皖能电力3月19日在互动平台表示，公司在算电协同、算力供电、智算中心方面暂未布局；公司未在新疆布局智算项目；公司目前正在编制“十五五”发展规划，未来投资方向积极谋划中。",
+    "author": "皖能电力",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,超研股份.html"
+    "link": "https://guba.eastmoney.com/list,皖能电力.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Tencent: Strong Q4 Reinforces China's Undervalued AI And Cloud Growth ",
     "excerpt": "Tencent (TCEHY) stays a Buy: strong Q4, rising FCF, AI/cloud & gaming growth, plus dividends/buybacks.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 16小时前",
+    "popularity": "🔥 19小时前",
     "link": "https://finnhub.io/api/news?id=cd273b04afe05267c288c905695a6eb4cd35eccbbf47a156615003a35dadfd50"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【*ST万方】股票或因多项情形被终止上市",
+    "excerpt": "*ST万方公告称，公司股票于2025年4月30日起被实施退市风险警示。2026年3月16日起已连续四个交易日总市值低于5亿元，若连续二十个交易日如此将被终止上市。预计2025年营收2-2.5亿元，扣除后1.5-2亿元，净亏损0.35-0.5",
+    "author": "*ST万方",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,*ST万方.html"
   },
   {
     "source": "NIO·WSB",
@@ -36,7 +44,7 @@
     "title": "[特斯拉] Musk says SpaceX AI, Tesla will keep ordering Nvidia chips at scale",
     "excerpt": "March 18 (Reuters) - Billionaire Elon Musk said late on Wednesday that his companies SpaceX AI and Tesla expect to continue ordering Nvidia chips at s",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
+    "popularity": "🔥 5小时前",
     "link": "https://finnhub.io/api/news?id=3978c6c114c099ad98ccc5402e8c4a88031d765ae04daa4dda2693767a893c40"
   },
   {
@@ -44,7 +52,7 @@
     "title": "[百度] Tencent: Strong Q4 Reinforces China's Undervalued AI And Cloud Growth ",
     "excerpt": "Tencent (TCEHY) stays a Buy: strong Q4, rising FCF, AI/cloud & gaming growth, plus dividends/buybacks.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 16小时前",
+    "popularity": "🔥 19小时前",
     "link": "https://finnhub.io/api/news?id=cd273b04afe05267c288c905695a6eb4cd35eccbbf47a156615003a35dadfd50"
   }
 ]
