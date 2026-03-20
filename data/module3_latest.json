@@ -1,19 +1,35 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Micron Has Soared in 2026 as Its Profit Skyrockets: Is It Too Late to ",
-    "excerpt": "The memory chipmaker's latest quarterly results were spectacular, but its heavy investments in future capacity add a layer of risk for investors.",
+    "title": "[英伟达] Super Micro Co-Founder Charged in China AI Tech Case",
+    "excerpt": "US prosecutors charged Yih-Shyan “Wally” Liaw in a scheme to send high-performance computer servers assembled in the US with sophisticated AI capabili",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=1f11627938d6e816e47cc92941a2d3b353eb3d1714399944abcac2d56fe4125f"
+    "popularity": "🔥 4小时前",
+    "link": "https://finnhub.io/api/news?id=aecbf7252b439dea0a366aaa365bd8bf1fe248e61fbf390efb2373cf3b62d0cc"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【*ST精伦】股票或因市值、股价不达标及财务问题终止上市",
+    "excerpt": "*ST精伦公告称，公司股票2026年3月20日总市值3.84亿元，已连续10个交易日低于5亿元；收盘价0.78元，已连续7日低于1元。根据规则，出现连续20个交易日总市值低于5亿元或收盘价低于1元，上交所将决定终止其股票上市。此外，经审计公",
+    "author": "*ST精伦",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,*ST精伦.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba Group Holding Limited (BABA) Q3 2026 Earnings Call Transcript",
     "excerpt": "Alibaba Group Holding Limited (BABA) Q3 2026 Earnings Call March 19, 2026 7:30 AM EDTCompany ParticipantsLydia Lu - Head of Investor RelationsYongming",
     "author": "SeekingAlpha",
-    "popularity": "🔥 11小时前",
+    "popularity": "🔥 14小时前",
     "link": "https://finnhub.io/api/news?id=1acdf25538f832fcedab3df6d660ef806710be664fe60797e93d09b6e439293d"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【山大电力】目前公司暂未涉及AI数据中心领域",
+    "excerpt": "山大电力3月20日在互动平台表示，公司的储能设备及源网荷储系统均可应用于AI数据中心。目前，公司暂未涉及AI数据中心领域。",
+    "author": "山大电力",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,山大电力.html"
   },
   {
     "source": "NIO·WSB",
@@ -24,12 +40,28 @@
     "link": "https://finnhub.io/api/news?id=a3d8c861f48d667f9c91343f81254923b5567fede02c59ed9beb8f44b27009a5"
   },
   {
+    "source": "东财股吧",
+    "title": "【帝科股份】2026年存储业务出货量目标3000万—5000万颗",
+    "excerpt": "帝科股份(300842)3月19日在机构调研时表示，DRAM市场景气度持续提升。2025年存储业务出货量近2000万颗，2026年出货量目标3000万—5000万颗。",
+    "author": "帝科股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,帝科股份.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Exclusive-Tesla in talks with Chinese firms to buy $2.9 billion worth ",
-    "excerpt": "Tesla is looking to buy equipment worth $2.9 billion for manufacturing solar panels and cells from Chinese suppliers including Suzhou Maxwell Technolo",
+    "title": "[特斯拉] Tesla AI6 Chip Push With Samsung Meets Rising Autonomy Safety Scrutiny",
+    "excerpt": "Tesla is developing a next generation AI6 chip for its autonomous driving and robotics platforms, targeting rollout around 2027 to 2028. The AI6 chip ",
     "author": "Yahoo",
-    "popularity": "🔥 3小时前",
-    "link": "https://finnhub.io/api/news?id=4e2178c060f9aa7cc0de389b81bc6f3241b900b728c36bb903f8a80520da1cee"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=872c376b877f6ce0e6029872da2b8990259160c8f80e9caeac467da90f6de6bd"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【景兴纸业】截至目前，公司主营中尚无跨境电商相关业务",
+    "excerpt": "景兴纸业3月20日在互动平台表示，截至目前，公司主营中尚无跨境电商相关业务。",
+    "author": "景兴纸业",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,景兴纸业.html"
   },
   {
     "source": "BIDU·雪球",
