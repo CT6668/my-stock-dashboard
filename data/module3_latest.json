@@ -1,58 +1,42 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Forget the War Headlines: This Is the Real Reason Tech Stocks Are Stru",
-    "excerpt": "The war has made the market more volatile, but it's not why tech stocks are down lately.",
+    "title": "[英伟达] The Artificial Intelligence (AI) Stock That Could Redefine Its Industr",
+    "excerpt": "Salesforce's AI push could transform the CRM industry.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=8be2ff277692d051708837ae13d17e82ed8ac2b4162e0e8ab90df8e2427ffdbb"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【皖能电力】公司在算电协同、算力供电、智算中心方面暂未布局",
-    "excerpt": "皖能电力3月19日在互动平台表示，公司在算电协同、算力供电、智算中心方面暂未布局；公司未在新疆布局智算项目；公司目前正在编制“十五五”发展规划，未来投资方向积极谋划中。",
-    "author": "皖能电力",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,皖能电力.html"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=79a041e278f5ab615270143ba057eeaa29002e1b3a9cda502298f46ea6eeef25"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Tencent: Strong Q4 Reinforces China's Undervalued AI And Cloud Growth ",
-    "excerpt": "Tencent (TCEHY) stays a Buy: strong Q4, rising FCF, AI/cloud & gaming growth, plus dividends/buybacks.",
+    "title": "[阿里巴巴] Alibaba Group Holding Limited (BABA) Q3 2026 Earnings Call Transcript",
+    "excerpt": "Alibaba Group Holding Limited (BABA) Q3 2026 Earnings Call March 19, 2026 7:30 AM EDTCompany ParticipantsLydia Lu - Head of Investor RelationsYongming",
     "author": "SeekingAlpha",
-    "popularity": "🔥 19小时前",
-    "link": "https://finnhub.io/api/news?id=cd273b04afe05267c288c905695a6eb4cd35eccbbf47a156615003a35dadfd50"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【*ST万方】股票或因多项情形被终止上市",
-    "excerpt": "*ST万方公告称，公司股票于2025年4月30日起被实施退市风险警示。2026年3月16日起已连续四个交易日总市值低于5亿元，若连续二十个交易日如此将被终止上市。预计2025年营收2-2.5亿元，扣除后1.5-2亿元，净亏损0.35-0.5",
-    "author": "*ST万方",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,*ST万方.html"
+    "popularity": "🔥 10小时前",
+    "link": "https://finnhub.io/api/news?id=1acdf25538f832fcedab3df6d660ef806710be664fe60797e93d09b6e439293d"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Xpeng Q4 Earnings Preview: Chinese EV Landscape Turned Unfavorable",
     "excerpt": "Xpeng Q4 Earnings Preview: Chinese EV Landscape Turned Unfavorable",
     "author": "SeekingAlpha",
-    "popularity": "🔥 1天前",
+    "popularity": "🔥 2天前",
     "link": "https://finnhub.io/api/news?id=a3d8c861f48d667f9c91343f81254923b5567fede02c59ed9beb8f44b27009a5"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Musk says SpaceX AI, Tesla will keep ordering Nvidia chips at scale",
-    "excerpt": "March 18 (Reuters) - Billionaire Elon Musk said late on Wednesday that his companies SpaceX AI and Tesla expect to continue ordering Nvidia chips at s",
+    "title": "[特斯拉] Dow Jones Futures Rise; Stocks Slash Losses, Oil Prices Fall Amid Trum",
+    "excerpt": "Stocks came off 2026 lows and oil prices reversed lower amid Iran war comments from President Trump and Israeli PM Netanyahu. Tesla stock broke key le",
     "author": "Yahoo",
-    "popularity": "🔥 5小时前",
-    "link": "https://finnhub.io/api/news?id=3978c6c114c099ad98ccc5402e8c4a88031d765ae04daa4dda2693767a893c40"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=21aa2eefc602804040d988a6593978b3559fa9290ba31a1bb06f0970254ce526"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] Tencent: Strong Q4 Reinforces China's Undervalued AI And Cloud Growth ",
-    "excerpt": "Tencent (TCEHY) stays a Buy: strong Q4, rising FCF, AI/cloud & gaming growth, plus dividends/buybacks.",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 19小时前",
-    "link": "https://finnhub.io/api/news?id=cd273b04afe05267c288c905695a6eb4cd35eccbbf47a156615003a35dadfd50"
+    "title": "[百度] Baidu Stock Surges As AI Cloud Products Become More Expensive",
+    "excerpt": "Baidu expects to increase prices soon. Some AI cloud products will rise by up to 30%. These changes start next month.",
+    "author": "Benzinga",
+    "popularity": "🔥 1天前",
+    "link": "https://finnhub.io/api/news?id=0db7477d22e97d5200d62c41a3b4d241abc2c1d1735687e57d0fe17dc92940d2"
   }
 ]
