@@ -1,19 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] The Best Crypto to Buy for Long-Term Investors Right Now",
-    "excerpt": "Winning opportunities always test investors' patience and their ability to handle volatility.",
+    "title": "[英伟达] The Headlines Are Scary. Your Investment Plan Shouldn't Be.",
+    "excerpt": "The markets are making a lot of people nervous, but this is the time when investors who can stick to their plans are often rewarded.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=670b895b84a1d1c7df5d3dd443397e9949e12b7fac1b4453266c610691bef346"
+    "popularity": "🔥 31分钟前",
+    "link": "https://finnhub.io/api/news?id=26dac37ef1ea17a1a5053ea55b743b4f26de01ffc7c60262b34103a6e795515e"
   },
   {
     "source": "东财股吧",
-    "title": "【阿里回应推出“养虾”PC】是云电脑产品 暂无发布时间表",
-    "excerpt": "针对阿里即将推出“养虾”PC与主机硬件，由阿里云无影团队主导，阿里方面回应称：是有这个计划，基于原有产品改造，但没有发布时间表。“是云电脑，不是PC。”据知情人士表示。此前，阿里云曾推出多款无影云电脑产品。",
-    "author": "阿里回应推出“养虾”PC",
+    "title": "【*ST恒久】股票可能因营收不达标被终止上市",
+    "excerpt": "*ST恒久公告称，公司2024年度经审计的利润总额、净利润、扣非后净利润为负值，且扣除后营收低于3亿元，股票自2025年4月25日起被实施“退市风险警示”。2026年1月31日业绩预告显示，预计2025年度上述指标仍为负值，扣除后营收约2.",
+    "author": "*ST恒久",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,阿里回应推出“养虾”PC.html"
+    "link": "https://guba.eastmoney.com/list,*ST恒久.html"
   },
   {
     "source": "BABA·雪球",
@@ -24,6 +24,14 @@
     "link": "https://finnhub.io/api/news?id=63e3737217128485a9fcd192f48573c2be8b1468cdb1dda13231a3d0bf738328"
   },
   {
+    "source": "东财股吧",
+    "title": "【华新环保】拟变更证券简称为“华新科技”",
+    "excerpt": "华新环保公告称，公司拟将名称由“华新绿源环保股份有限公司”变更为“华新绿源资源科技股份有限公司”，同时将证券简称由“华新环保”变更为“华新科技”，同时变更经营范围、修订《公司章程》。当前，公司主营业务已从传统的“环境保护服务”升级为以技术创",
+    "author": "华新环保",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,华新环保.html"
+  },
+  {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Shares of US-listed Chinese EV stocks are trading lower amid possible ",
     "excerpt": "Shares of US-listed Chinese EV stocks are trading lower amid possible sympathy with XPeng after the company reported its Q4 financial results.",
@@ -32,12 +40,28 @@
     "link": "https://finnhub.io/api/news?id=065f10a3ce337b13b9107390d823d83576840b8917893ba79544369dfbce8580"
   },
   {
+    "source": "东财股吧",
+    "title": "【海马汽车】未来将进一步降低氢能汽车的制造端和使用端的成本",
+    "excerpt": "海马汽车3月23日在互动平台表示，公司目前在海南已投放50台氢能汽车开展示范运营，累计行驶里程突破200万公里。作为氢能汽车示范运营的保障，公司自建的制氢加氢一体化站自2021年12月建成以来，累计制氢加氢41314㎏，保持平稳运营。未来，",
+    "author": "海马汽车",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,海马汽车.html"
+  },
+  {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Musk says SpaceX, Tesla to build advanced chip factories in Texas",
     "excerpt": "STORY: :: SpaceXSpaceX and Tesla will build two advanced chip factories at a sprawling facility in Austin, Texas.:: FileCEO Elon Musk unveiled the so-",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
+    "popularity": "🔥 4小时前",
     "link": "https://finnhub.io/api/news?id=61632c9e6d39c5b07b89622ef67abc1c3a729bda40c856df819123a06dbd4308"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【星展银行】油价可能随冲突飙升，亚洲石油期货被视为高风险投资选择",
+    "excerpt": "星展集团研究部门的分析师在一份报告中指出，随着中东冲突的持续，进一步增加对亚洲石油替代品的投资可能是一种冒险行为。他们表示，如果冲突持续时间较长，油价可能会长期保持在每桶100美元以上，甚至在未来两个季度内有可能涨至150美元或更高。他们认",
+    "author": "星展银行",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,星展银行.html"
   },
   {
     "source": "BIDU·雪球",
