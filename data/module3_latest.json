@@ -1,19 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Is Microsoft a Drop-Dead Bargain? 1 Wall Street Analyst Thinks So",
-    "excerpt": "Microsoft keeps falling further, but one analyst called it a big AI winner.",
+    "title": "[英伟达] Adobe (ADBE)-NVIDIA Alliance Targets Next Wave of AI Content Creation",
+    "excerpt": "Adobe Inc. (NASDAQ:ADBE) is one of the best cheapest stocks to buy on Robinhood. On March 16, Adobe Inc. (NASDAQ:ADBE) and NVIDIA (NASDAQ:NVDA) announ",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=da959f8718d9b8654a75369884bd00d022618508eb481139db33dcfcfd4e8271"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=92df90c598912fda715a38289522c7b7751f2fb4661a75d167b8dabff3b47353"
   },
   {
     "source": "东财股吧",
-    "title": "【国盛证券】中国化学盈利能力持续提升，维持“买入”评级",
-    "excerpt": "国盛证券研报指出，中国化学Q4业绩超预期，归母/扣非加速增长，盈利能力持续提升，经营性现金流同比减少。化工主业签单增势良好，煤化工景气上行打开增量空间。2025年公司新签合同额4037亿元，同增10%；Q4单季新签1191亿元，同比高增44",
-    "author": "国盛证券",
+    "title": "【上海港湾】回购股份注销完成 控股股东及其一致行动人权益被动增加",
+    "excerpt": "上海港湾公告称，公司于2026年3月24日完成2023年限制性股票激励计划第三期已获授但尚未解除限售的156.8万股限制性股票的回购注销，总股本由2.45亿股减至2.43亿股。控股股东海南隆湾投资控股有限公司及其一致行动人徐望持股数量不变，",
+    "author": "上海港湾",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,国盛证券.html"
+    "link": "https://guba.eastmoney.com/list,上海港湾.html"
   },
   {
     "source": "BABA·雪球",
@@ -25,11 +25,11 @@
   },
   {
     "source": "东财股吧",
-    "title": "【印度总理莫迪】中东危机是 “印度团队” 的重大考验",
-    "excerpt": "印度总理莫迪表示，中东与能源市场危机对 “印度团队” 构成重大考验，印度正全力保障本国石油和天然气供应。印度高度依赖该地区进口燃料，若冲突持续，液化石油气等关键大宗商品的供应将面临中断风险。印度约 60% 的液化石油气依赖进口，其中约 90",
-    "author": "印度总理莫迪",
+    "title": "【华鑫证券】予卫星化学“买入”评级，新项目稳步推进，成长空间广阔",
+    "excerpt": "华鑫证券研报指出，卫星化学扣非净利稳健增长，功能化学品表现亮眼。2025年，公司营业收入基本持平，但归母净利润同比下滑，主要系非金融企业持有金融资产和金融负债产生的公允价值变动及处置损益合计亏损约12.05亿元所致。此外，公司积极开拓海外市",
+    "author": "华鑫证券",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,印度总理莫迪.html"
+    "link": "https://guba.eastmoney.com/list,华鑫证券.html"
   },
   {
     "source": "NIO·WSB",
@@ -40,12 +40,28 @@
     "link": "https://finnhub.io/api/news?id=b9f7104e115ae82ad1f05d3db9f0fc81c83ac1a5ac69646605d6ccaf40d74df4"
   },
   {
+    "source": "东财股吧",
+    "title": "【新华文轩】全资子公司认购私募基金份额延长存续期并调费率",
+    "excerpt": "新华文轩公告称，全资子公司文轩投资于2019年出资2亿元认购宁波梅山保税港区文轩鼎盛基金份额，占总认缴出资额的66.4452%。2026年3月25日，公司与各方签订《调整基金存续期的协议》，将基金到期日由2025年12月31日调整为2026",
+    "author": "新华文轩",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,新华文轩.html"
+  },
+  {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Bank of America reinstates Microsoft stock coverage",
     "excerpt": "Microsoft (MSFT) stock has lost almost 23% year to date, at the time of writing, Tuesday afternoon, March 24, according to Yahoo Finance. Meanwhile, t",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
+    "popularity": "🔥 4小时前",
     "link": "https://finnhub.io/api/news?id=e6a02b44173c6c0ac6d1a7d9f81c125d8182f4ea00193a43c88b0c83a2671dbc"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【永杰新材】重大资产购买通过反垄断审查 尚需股东会审议",
+    "excerpt": "永杰新材公告称，公司筹划以现金购买奥科宁克（中国）投资有限公司相关资产，包括奥科宁克（秦皇岛）铝业有限公司100%股权和奥科宁克（昆山）铝业有限公司95%股权，预计构成重大资产重组。近日，公司收到国家市场监管总局出具的不实施进一步审查决定书",
+    "author": "永杰新材",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,永杰新材.html"
   },
   {
     "source": "BIDU·雪球",
