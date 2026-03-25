@@ -1,58 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] SK Hynix may raise up to $10 billion from US listing, Korea Economic D",
-    "excerpt": "South Korea's SK Hynix is considering raising 10 trillion to 15 trillion won ($10.03 billion) through ‌a potential U.S. listing, aiming to expand prod",
+    "title": "[英伟达] Super Micro Deepens Mirantis Ties To Standardize Open Source AI Clouds",
+    "excerpt": "Super Micro Computer (NasdaqGS:SMCI) is expanding its ecosystem partnerships to automate AI cloud infrastructure with Mirantis. The collaboration focu",
     "author": "Yahoo",
-    "popularity": "🔥 16分钟前",
-    "link": "https://finnhub.io/api/news?id=52772516e6b4ac304013252e7effd6ef645f96aa24df5e6c3dad6cbd6a7190ed"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=b5be0ced4a988785fb7e246bd18ac03ba249758cb3a5196e5da4db0ea2aa1607"
   },
   {
     "source": "东财股吧",
-    "title": "【美国储能联盟】美国将首次有能力独立生产足够的电网储能电池 满足因人工智能激增的需求",
-    "excerpt": "据美行业组织——美国储能联盟的最新数据显示，美国将首次有能力独立生产足够的电网储能电池，并满足因人工智能而激增的需求。该组织指出，美国目前已具备足够的产能来满足市场对电网储能电池的需求，包括电池单元、电力电子设备、控制系统和安全设备等组件的",
-    "author": "美国储能联盟",
+    "title": "【马来亚投资银行】中东局势令东盟经济承压",
+    "excerpt": "马来亚投资银行日前发布报告说，当前中东地区紧张局势正通过能源与供应链渠道向亚洲外溢，可能对东盟经济形成“滞胀型冲击”，拖累增长并推高通胀。报告说，东盟整体对中东能源依赖程度较高，菲律宾和越南分别约有95%和88%的原油进口来自波斯湾。在成品",
+    "author": "马来亚投资银行",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,美国储能联盟.html"
+    "link": "https://guba.eastmoney.com/list,马来亚投资银行.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Alibaba Q3: AI Transition From An E-Commerce Giant Is Painful; Expecti",
-    "excerpt": "Alibaba pivots to quick commerce & AI amid higher spending, margin pressure, and weak FCF. Read the full analysis here.",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 19小时前",
-    "link": "https://finnhub.io/api/news?id=147e064b36e9bd7c7ad4287a720a87016e51b7a8c9453d4a20ad37d88e9753f7"
+    "title": "[阿里巴巴] Alibaba Unveils High-Performing Next-Gen Chip For Agentic AI",
+    "excerpt": "China&#39;s Alibaba unveiled its next-generation XuanTie C950 5-nanometer processor, marking a significant stride towards agentic AI.",
+    "author": "Benzinga",
+    "popularity": "🔥 23小时前",
+    "link": "https://finnhub.io/api/news?id=817848a255a985e063657794b68da9d6a4b486e1c148208a194d10f7c4291fc7"
   },
   {
     "source": "东财股吧",
-    "title": "【国泰航空】往返迪拜及利雅得客运航班延续取消至5月31日",
-    "excerpt": "国泰航空表示，受中东局势影响，国泰往返迪拜及利雅得的客运航班将延续取消至5月31日，受影响的旅客可以重新预订机票、更改航点及退票。国泰航空称，正密切监察局势发展，保持灵活应对，所有决定都以顾客和机组人员的安全为首要考虑。",
-    "author": "国泰航空",
+    "title": "【瑞玛精密】公司向厦门海辰储能提供锂电池电芯结构件产品",
+    "excerpt": "瑞玛精密3月25日在互动平台表示，公司向厦门海辰储能提供锂电池电芯结构件产品，相关销售收入占公司总营业收入的比重较小。",
+    "author": "瑞玛精密",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,国泰航空.html"
+    "link": "https://guba.eastmoney.com/list,瑞玛精密.html"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] What's Driving Leapmotor's Outperformance Vs. Nio And XPeng",
+    "title": "[蔚来汽车] 10 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
     "excerpt": " ",
     "author": "Benzinga",
     "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=f7b1a7f7e8b5166d4bd4dd76f4c3ab533c4435a77642c9896a66d466e5aef906"
+    "link": "https://finnhub.io/api/news?id=b9f7104e115ae82ad1f05d3db9f0fc81c83ac1a5ac69646605d6ccaf40d74df4"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【前程无忧发布2026年春招趋势】毕业求稳加剧，“慢就业”升温",
+    "excerpt": "3月25日消息，根据人力资源服务商前程无忧的统计，当下毕业生对职业稳定性的追求达到了近年来的高点。2026届毕业生中，计划报考公务员、事业单位或教师等体制内职位的比例达到25.1%，相较于2025届的22.5%上升了2.6个百分点。与此同时",
+    "author": "前程无忧发布2026年春招趋势",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,前程无忧发布2026年春招趋势.html"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla Sales Rebound in Europe After Monthslong Slump",
-    "excerpt": "Tesla notched its first increase in European monthly sales in more than a year, a boost for the EV maker as it faces competition from Chinese auto gia",
+    "title": "[特斯拉] Is Rivian's $1.25 Billion Robotaxi Deal With Uber Really a Good One fo",
+    "excerpt": "Rivian had to abandon a long-standing profitability goal to make the deal with Uber. Was it worth it?",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=69fed1e7679695334aff894b68a3c9a4c1b2f60a91bc85dc72d0bd8ae7b41046"
+    "popularity": "🔥 4小时前",
+    "link": "https://finnhub.io/api/news?id=d375f5abe203c306bb43ecf781c2464fa6277321c7bfbad8b26a3522ccf7d278"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【三联锻造】公司未向宇树科技供货",
+    "excerpt": "三联锻造3月25日在互动平台表示，公司未向宇树科技供货。",
+    "author": "三联锻造",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,三联锻造.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Baidu's Deep Value And The Risks The Market Is Ignoring",
     "excerpt": "Baidu, Inc. is shifting to AI infrastructure: cloud, accelerators, chips & robotaxis. Click for this updated look at BIDU stock and see if it is right",
     "author": "SeekingAlpha",
-    "popularity": "🔥 19小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=43d1a7c393c59ca67abcd81d7f006a1a4a558815348c9f7c725a68cf0a32732e"
   }
 ]
