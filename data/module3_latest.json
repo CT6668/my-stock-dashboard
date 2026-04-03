@@ -1,51 +1,67 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Got $1,000? 1 Artificial Intelligence (AI) Stock to Buy and Hold for t",
-    "excerpt": "This company's massive infrastructure spending plan has sparked some near-term uncertainty, but its underlying business momentum tells a much more bul",
+    "title": "[英伟达] The SpaceX IPO Is Generating Massive Hype. Here's What Investors Need ",
+    "excerpt": "Elon Musk's SpaceX is reportedly gearing up for potentially the largest IPO in history.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=4db5c333655ad07b54729e16586f63e233c7364bb0b7de3548246396cc8ac217"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=0cf6f85a9b8a80c8705dc5505fc711670f26e4662f6881975011401d203457b2"
   },
   {
     "source": "东财股吧",
-    "title": "【工信部节能司】将加快推动工业资源综合利用管理办法编制工作",
-    "excerpt": "工信部消息，4月1日，工信部节能与综合利用司在京组织开展工业资源综合利用管理办法编制工作座谈。会上，节能与综合利用司有关负责同志介绍了工业资源综合利用管理办法编制背景及相关工作进展情况，有关专家围绕办法编制的总体思路、核心条款设置、内容表述",
-    "author": "工信部节能司",
+    "title": "【*ST精伦】公司股票自2026年4月7日起停牌",
+    "excerpt": "*ST精伦公告，公司股票连续20个交易日的每日收盘总市值均低于人民币5亿元，已触及《上海证券交易所股票上市规则》规定的交易类强制退市指标。截止2026年4月3日，公司股票收盘总市值为2.85亿元。根据规定，公司股票自2026年4月7日（周二",
+    "author": "*ST精伦",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,工信部节能司.html"
+    "link": "https://guba.eastmoney.com/list,*ST精伦.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] US Is Inviting Companies To Help Export AI Solutions As Tech Race Heat",
     "excerpt": "U.S. Commerce Department invites companies to propose full-stack AI systems for export, advancing national interests and global AI leadership.",
     "author": "Benzinga",
-    "popularity": "🔥 20小时前",
+    "popularity": "🔥 23小时前",
     "link": "https://finnhub.io/api/news?id=45217c68ba7914eb4cdd0fbeaf2f28e68a0e0c8aef1eb4def8f25b61f5a7a6ef"
   },
   {
     "source": "东财股吧",
-    "title": "【伊朗官员】伊方与阿曼拟联合监管霍尔木兹海峡通行船舶",
-    "excerpt": "据伊朗方面2日消息，伊朗与阿曼正在起草一项协议，旨在对通过霍尔木兹海峡的船舶运输联合实施“通行监管”，但双方同时强调不会限制船只通行。伊朗外交部法律与国际事务副部长加里布阿巴迪称，伊朗目前正在敲定相关的协议草案，确定之后伊朗会与阿曼方面进行",
-    "author": "伊朗官员",
+    "title": "【东方证券】维持伯特利“买入”评级，目标价54.78元",
+    "excerpt": "东方证券研报指出，伯特利智能电控业务快速增长，新增定点项目将保障盈利稳定增长。2025年营业收入120.14亿元，同比增长20.9%；归母净利润13.09亿元，同比增长8.3%。2025年公司毛利率同比下滑1.5个百分点，预计主要与海外工厂",
+    "author": "东方证券",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,伊朗官员.html"
+    "link": "https://guba.eastmoney.com/list,东方证券.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Tesla's China-Made EV Sales Leap Nearly 9% In March",
     "excerpt": "Tesla Inc. (NASDAQ: TSLA)China-made EV sales grew 8.7% in March, marking a second straight quarterly rise. Read the latest.",
     "author": "Benzinga",
-    "popularity": "🔥 21小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=2f6dc94415f183848e42fa4d1b948a542dd8b4db276820dfa6b5a16b88b6fe66"
   },
   {
+    "source": "东财股吧",
+    "title": "【炬光科技】激光雷达相关定点项目全部取消",
+    "excerpt": "炬光科技(688167.SH)公告称，公司近日收到某欧洲知名汽车Tier1客户AG公司通知，由于其激光雷达的终端车企客户原定上市车型的计划于近期正式取消，导致相关零部件项目随之终止。终端客户明确表示，此取消决定系基于该终端客户自身战略规划调",
+    "author": "炬光科技",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,炬光科技.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Under the Skin of America’s Humanoid Robots: Chinese Technology",
-    "excerpt": "Tesla and others turn to suppliers in China for components in an industry seen as strategic by both Washington and Beijing.",
+    "title": "[特斯拉] This Artificial Intelligence (AI) Stock Could Be a Hidden Gem (and Her",
+    "excerpt": "Tesla stock is expensive. But the upside potential is clear.",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=a54bb845685cca9626b686fda8edc682d58c7515c81fa22dcbc13a4e7c084c0e"
+    "link": "https://finnhub.io/api/news?id=36e98972236ceba8d1e3f5a05b0ce8cdc652eb9529c5cd6be9d4e6c02c153fff"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【厦门空港】购买厦门兆翔智能科技有限公司100%股权交割完成",
+    "excerpt": "厦门空港公告，公司已于近日完成购买厦门兆翔智能科技有限公司100%股权的交割手续。本次交易通过现金方式进行，公司控股股东翔业集团将其全资子公司兆翔科技100%股权转让给厦门空港。此次交易获得了厦门国资委的同意，并经核准评估报告。公司于202",
+    "author": "厦门空港",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,厦门空港.html"
   },
   {
     "source": "BIDU·雪球",
