@@ -1,74 +1,58 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] How The Nvidia (NVDA) Narrative Is Shifting With US$1t AI Orders And V",
-    "excerpt": "Nvidia’s fair value estimate has been adjusted slightly from US$269.23 to US$268.22, signaling only a very small change in the underlying model. That ",
+    "title": "[英伟达] Should This Trillion-Dollar \"Magnificent Seven\" Company Spend Billions",
+    "excerpt": "Despite being a leading innovator in the fitness industry, Peloton shares have been hammered.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=9219b842f04ec3ee727532b7afdd1be92428abee8b4cf3154f077ad86379904d"
+    "popularity": "🔥 15分钟前",
+    "link": "https://finnhub.io/api/news?id=525cbdb943afd0967e0b9b6f6604b6548cc58ef5ef6d7e2d0d817876b46e15e9"
   },
   {
     "source": "东财股吧",
-    "title": "【摩根士丹利】中东近期局势已对伊朗钢铁及铁矿石产业链造成实质性影响",
-    "excerpt": "摩根士丹利分析师在一份报告中表示，中东近期局势已对伊朗钢铁及铁矿石产业链造成实质性影响，并可能波及海运市场。 报告指出，2025年伊朗直接还原铁（DRI）产量约占全球25%，折合约3700万吨；铁矿石供应量约占全球3%，折合约6800万吨。",
-    "author": "摩根士丹利",
+    "title": "【产业链人士】苹果首款折叠屏手机项目正常推进 产品下半年发布",
+    "excerpt": "4月6日，有媒体报道，富士康正在试产苹果首款折叠屏手机。对此，4月7日，苹果产业链人士向记者表示，苹果首款折叠屏手机项目方案早已确定，目前该项目正在正常推进中，试产是产品正式量产前必经阶段，一般需经过工程验证、设计验证、生产试产验证，最后再",
+    "author": "产业链人士",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,摩根士丹利.html"
+    "link": "https://guba.eastmoney.com/list,产业链人士.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Consumer Tech News (Mar 30-Apr 2): Tesla, Nio, XPeng Drive EV Growth, ",
-    "excerpt": "Microsoft, IBM, AMD, and Intel make key AI and semiconductor moves, including in-house model development, dual-architecture hardware, and full ownersh",
-    "author": "Benzinga",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=4a5d7d05a40da5cd7d1fd0be944fcf92b2d153939fb7cee4cca653395b399e90"
+    "title": "[阿里巴巴] KWEB: Legacy Businesses Take Time To Phase-Out",
+    "excerpt": "KWEB ETF shifts to China AI/cloud; capex weighs on earnings, but growth may rebound. Read more macro analysis here.",
+    "author": "SeekingAlpha",
+    "popularity": "🔥 10小时前",
+    "link": "https://finnhub.io/api/news?id=46476022cae1f41eeaa5e93da281dc78ae0ebe0706ac9af613b0835f67fc40e5"
   },
   {
     "source": "东财股吧",
-    "title": "【银河证券】中长期仍看好科技板块产业驱动与周期板块涨价线索的双主线",
-    "excerpt": "银河证券表示，从外部环境来看，在冲突不确定性仍高、走势尚未明朗前，全球权益市场预计仍处于高波动的环境之中，A股或将呈现震荡轮动特征。原油价格走势变化依然会是影响近期市场结构的关键变量。油价上行推升全球通胀预期，降息预期延后导致全球流动性边际",
-    "author": "银河证券",
+    "title": "【小鹏回应与澳大利亚经销商合作破裂】已终止其独家代理资格",
+    "excerpt": "近日小鹏澳大利亚经销商TrueEV公司进入托管程序引发关注。小鹏方面4月7日回应称，已正式向对方发出违约通知，终止其独家代理资格，但保留代理身份。小鹏方面称，在过去两年合作期间，小鹏通过多方渠道了解到，TrueEV已出现资金链断裂并被融资方",
+    "author": "小鹏回应与澳大利亚经销商合作破裂",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,银河证券.html"
+    "link": "https://guba.eastmoney.com/list,小鹏回应与澳大利亚经销商合作破裂.html"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] Consumer Tech News (Mar 30-Apr 2): Tesla, Nio, XPeng Drive EV Growth, ",
-    "excerpt": "Microsoft, IBM, AMD, and Intel make key AI and semiconductor moves, including in-house model development, dual-architecture hardware, and full ownersh",
-    "author": "Benzinga",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=4a5d7d05a40da5cd7d1fd0be944fcf92b2d153939fb7cee4cca653395b399e90"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【顺发恒能】目前生产经营正常 内外部经营环境未发生重大变化",
-    "excerpt": "顺发恒能(000631)4月6日发布股票交易异常波动公告称，公司股票交易价格连续三个交易日收盘价格跌幅偏离值累计超过20%，属于股票交易异常波动的情况。经董事会自查，公司按既定方向持续稳步推进工作，通过收购和自建方式扩大公司光伏、储能、风电",
-    "author": "顺发恒能",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,顺发恒能.html"
+    "title": "[蔚来汽车] NIO: Favorable Catalyst Landscape",
+    "excerpt": "NIO Inc. is rated a Strong Buy due to its improving profitability profile and robust multi-brand strategy momentum. Learn more about NIO stock here.",
+    "author": "SeekingAlpha",
+    "popularity": "🔥 10小时前",
+    "link": "https://finnhub.io/api/news?id=d20b7aa2af2848c84f74dd6b7e1e0d039e76de9a6211fbc248f0ad344abe53f9"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One",
-    "excerpt": "Tesla stock has been falling over the past month. That has pushed up put option premiums. Meanwhile, analyst price targets are significantly higher. A",
+    "title": "[特斯拉] One Wall Street Analyst Sees Tesla Crashing 60%. Are They Right?",
+    "excerpt": "Tesla hasn't grown for more than two years. Is the stock overdue for a meltdown?",
     "author": "Yahoo",
-    "popularity": "🔥 18小时前",
-    "link": "https://finnhub.io/api/news?id=996a7a4df78f2aaa7ab3a5b836f8a555191c899b0157886504abdff84d8e98ad"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【2连板ST京蓝】靶材业务目前仍处于所收购产线的检修复产阶段 未产生相关营业收入及利润",
-    "excerpt": "2连板ST京蓝(000711)4月6日披露股票交易异常波动情况，公司股票于2026年4月2日、2026年4月3日连续2个交易日收盘价格涨幅偏离值累计超过13.49%，根据有关规定，属于股票交易异常波动情形。公司业绩未发生重大变化，但公司股票",
-    "author": "2连板ST京蓝",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,2连板ST京蓝.html"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=0de90ec4e72bfee87aee2724d2eab8acf2c91281806d77eddae1fbb1f10f94b4"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] Baidu: Pivoting To AI Infrastructure, Robotaxis, And Embodied Robotics",
-    "excerpt": "Baidu's AI-powered businesses now represent 39% of their general revenue vs. 26% a year ago. Read what supports BIDU stock's Strong Buy rating.",
+    "title": "[百度] KWEB: Legacy Businesses Take Time To Phase-Out",
+    "excerpt": "KWEB ETF shifts to China AI/cloud; capex weighs on earnings, but growth may rebound. Read more macro analysis here.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 6小时前",
-    "link": "https://finnhub.io/api/news?id=7b6cc3087778a0fe99f09ff2447eeaa085120711c6821313efd8a59273ecc0d2"
+    "popularity": "🔥 10小时前",
+    "link": "https://finnhub.io/api/news?id=46476022cae1f41eeaa5e93da281dc78ae0ebe0706ac9af613b0835f67fc40e5"
   }
 ]
