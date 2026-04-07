@@ -1,42 +1,66 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Should This Trillion-Dollar \"Magnificent Seven\" Company Spend Billions",
-    "excerpt": "Despite being a leading innovator in the fitness industry, Peloton shares have been hammered.",
+    "title": "[英伟达] Best S&P 500 Stock to Buy Right Now After the Shares' Big Move",
+    "excerpt": "Chipotle Mexican Grill's growth prospects remain bright.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=525cbdb943afd0967e0b9b6f6604b6548cc58ef5ef6d7e2d0d817876b46e15e9"
+    "popularity": "🔥 32分钟前",
+    "link": "https://finnhub.io/api/news?id=f60689fed015b519bfed6a0e30852ee229897dc66bf832bae55441c3d8c21e47"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【盛新锂能】木绒锂矿大规模开工建设将于近期启动",
+    "excerpt": "4月7日下午，盛新锂能在2025年度网上业绩说明会上表示，木绒锂矿施工前的准备工作已基本完成，大规模开工建设将于近期启动。",
+    "author": "盛新锂能",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,盛新锂能.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] KWEB: Legacy Businesses Take Time To Phase-Out",
     "excerpt": "KWEB ETF shifts to China AI/cloud; capex weighs on earnings, but growth may rebound. Read more macro analysis here.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 12小时前",
+    "popularity": "🔥 15小时前",
     "link": "https://finnhub.io/api/news?id=46476022cae1f41eeaa5e93da281dc78ae0ebe0706ac9af613b0835f67fc40e5"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【神农集团】3月商品猪销售均价9.82元/公斤 环比下降12.32%",
+    "excerpt": "神农集团发布3月养殖业务主要经营数据。2026年3月份，公司销售商品猪31.66万头，同比变动28.13%（其中：向集团内部屠宰企业销售商品猪4.45万头）。商品猪销售收入4.09亿元，同比减少9.91%。商品猪销售均价9.82元/公斤，环",
+    "author": "神农集团",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,神农集团.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] NIO: Favorable Catalyst Landscape",
     "excerpt": "NIO Inc. is rated a Strong Buy due to its improving profitability profile and robust multi-brand strategy momentum. Learn more about NIO stock here.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 11小时前",
+    "popularity": "🔥 14小时前",
     "link": "https://finnhub.io/api/news?id=d20b7aa2af2848c84f74dd6b7e1e0d039e76de9a6211fbc248f0ad344abe53f9"
   },
   {
+    "source": "东财股吧",
+    "title": "【浙江证监局对银万私募出具警示函】部分产品具有通道业务特征 存在自买自卖股票的异常交易行为",
+    "excerpt": "浙江证监局发布关于对浙江银万私募基金管理有限公司采取出具警示函措施的决定，经查，公司在开展私募基金业务中存在以下行为：一、部分产品具有通道业务特征，主动管理不足，部分投资决策由他人作出。二、委托不具备基金投资顾问资质的第三方提供投资建议。三",
+    "author": "浙江证监局对银万私募出具警示函",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,浙江证监局对银万私募出具警示函.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] One Wall Street Analyst Sees Tesla Crashing 60%. Are They Right?",
-    "excerpt": "Tesla hasn't grown for more than two years. Is the stock overdue for a meltdown?",
+    "title": "[特斯拉] Tesla Posts Weaker-than-Expected Deliveries for Q1 2026",
+    "excerpt": "Tesla, Inc. (NASDAQ:TSLA) is included among the 15 Best S&P 500 Stocks to Buy Right Now. Tesla, Inc. (NASDAQ:TSLA) designs, develops, manufactures, se",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=0de90ec4e72bfee87aee2724d2eab8acf2c91281806d77eddae1fbb1f10f94b4"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=d9ace79cfce1fa7c2771a86a27751ef3ef93f52ffd114c4bea8fb737fdcfaa1e"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] KWEB: Legacy Businesses Take Time To Phase-Out",
     "excerpt": "KWEB ETF shifts to China AI/cloud; capex weighs on earnings, but growth may rebound. Read more macro analysis here.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 12小时前",
+    "popularity": "🔥 15小时前",
     "link": "https://finnhub.io/api/news?id=46476022cae1f41eeaa5e93da281dc78ae0ebe0706ac9af613b0835f67fc40e5"
   }
 ]
