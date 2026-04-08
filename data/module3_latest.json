@@ -1,11 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] NVIDIA’s In Orbit AI Milestone Extends Reach Across Key Infrastructure",
-    "excerpt": "Planet Labs completed real-time AI object detection onboard its Pelican-4 satellite using NVIDIA Jetson Orin modules, marking a first for in-orbit AI ",
+    "title": "[英伟达] The Popular Vanguard S&P 500 ETF Costs $605 a Share. Vanguard Doesn't ",
+    "excerpt": "Five Vanguard ETFs are splitting in April. The two biggest funds were left out on purpose. Here's the deal.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=6bd3ccbcdafd52ef822e81e4562cdd67c39a2d7c104e2f85711389dfc7a51bb8"
+    "popularity": "🔥 30分钟前",
+    "link": "https://finnhub.io/api/news?id=ce24f26d6268742f7d3047e5bb1fee84c753f0c48556d8a803364067f5625373"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【荷兰国际】停火协议缓解市场担忧 铜价上涨",
+    "excerpt": "在美国与伊朗达成临时停火协议后，市场风险偏好改善，对供应链严重中断及其对全球经济影响的担忧有所缓解，铜价攀升至三周高位。欧洲早盘交易中，伦敦金属交易所（LME）三个月期铜期货上涨 2.9%，至每吨 12690.50 美元。荷兰国际集团（IN",
+    "author": "荷兰国际",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,荷兰国际.html"
   },
   {
     "source": "BABA·雪球",
@@ -16,6 +24,14 @@
     "link": "https://finnhub.io/api/news?id=46476022cae1f41eeaa5e93da281dc78ae0ebe0706ac9af613b0835f67fc40e5"
   },
   {
+    "source": "东财股吧",
+    "title": "【步长制药】养正合剂获马来西亚药品注册证明文件",
+    "excerpt": "步长制药公告称，公司全资子公司杨凌步长制药有限公司产品养正合剂，近日获马来西亚药物管制局核准签发的药品注册证明文件。该产品为公司独家品种，已入《国家基本医疗保险、工伤保险和生育保险药品目录》（2025年版）。2024年度、2025年1 - ",
+    "author": "步长制药",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,步长制药.html"
+  },
+  {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] NIO: Favorable Catalyst Landscape",
     "excerpt": "NIO Inc. is rated a Strong Buy due to its improving profitability profile and robust multi-brand strategy momentum. Learn more about NIO stock here.",
@@ -24,19 +40,35 @@
     "link": "https://finnhub.io/api/news?id=d20b7aa2af2848c84f74dd6b7e1e0d039e76de9a6211fbc248f0ad344abe53f9"
   },
   {
+    "source": "东财股吧",
+    "title": "【光大银行】控股股东增持1397万股 增持金额5166.10万元",
+    "excerpt": "光大银行公告称，控股股东光大集团于2025年4月8日起12个月内，通过上交所系统以集中竞价方式累计增持公司A股股份1397万股，增持金额5166.10万元。本次增持前，光大集团及其一致行动人合计持股占总股本47.40%；增持后，累计持有A股",
+    "author": "光大银行",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,光大银行.html"
+  },
+  {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] SpaceX Isn’t Even Public Yet. Investors Are Already Abuzz About a Tesl",
     "excerpt": "With Elon Musk focused on artificial intelligence, investors and analysts are discussing a merger of his biggest companies.",
     "author": "Yahoo",
-    "popularity": "🔥 3小时前",
+    "popularity": "🔥 6小时前",
     "link": "https://finnhub.io/api/news?id=9c009ccb6d5666f276e1112a720fd633d65e072e2d7ac97c0e9e5ab84bf0ffd9"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【金浦钛业】全资子公司取得安全生产许可证",
+    "excerpt": "金浦钛业公告称，全资子公司徐州钛白化工有限责任公司所持《安全生产许可证》于2026年3月10日到期。目前，徐州钛白已完成安全生产许可证复核，近日收到江苏省应急管理厅核发的《安全生产许可证》，有效期为2026年4月5日至2029年4月4日。",
+    "author": "金浦钛业",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,金浦钛业.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Baidu: Q4 Results Continue To Re-Affirm Structural Slowdown",
     "excerpt": "Baidu (BIDU) remains a hold amid China tech sell-off; Q4 FY25 revenue and margins declined, signaling sluggish 1H26 outlook.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 18小时前",
+    "popularity": "🔥 21小时前",
     "link": "https://finnhub.io/api/news?id=409bdb7807df5ca4565d4e049756c8485448da0c9be604e67f3226f471e4a157"
   }
 ]
