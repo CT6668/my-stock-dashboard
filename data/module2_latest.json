@@ -1,90 +1,106 @@
 [
   {
-    "sector": "金融",
-    "title": "外资连续23日流出印度股市 2月底以来累计撤资178亿美元",
-    "summary": "外国资金持续从印度股市外流，截至4月7日，海外投资者已连续23个交易日成为净卖家，创下最长连卖纪录。从2月底到4月7日期间，由于市场日益担忧全球能源危机对印度经济的影响，外国投资者已净撤出178亿美元，其中包括6个单日流出超10亿美元的交易",
+    "sector": "科技",
+    "title": "华阳新材料科技集团原董事长翟红被公诉",
+    "summary": "4月9日，据最高人民检察院网站消息，日前，华阳新材料科技集团有限公司原党委书记、董事长翟红涉嫌受贿罪一案，由山西省监察委员会调查终结，移送检察机关审查起诉。经山西省人民检察院指定管辖，由运城市人民检察院依法向运城市中级人民法院提起公诉。案件",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "本轮美以伊冲突以来首次 伊朗外长与沙特外交大臣通话",
+    "summary": "当地时间9日，伊朗外长阿拉格齐与沙特外交大臣费萨尔通电话，双方就缓和地区紧张局势以及恢复地区稳定等问题交换了意见。这是自美以伊战事爆发以来，双方首次通电话。（央视新闻）",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "来伊份：控股股东及其一致行动人拟协议转让10%股份",
+    "summary": "来伊份公告称，控股股东及其一致行动人爱屋企管、郁瑞芬、施辉与东合恒一签署《股份转让协议》，拟通过协议转让方式向东合恒一转让3344.24万股，占总股本10%，转让价11.48元/股，对价3.84亿元。受让方承诺18个月内不转让股份，12个月",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "黄金",
+    "title": "机构：黄金短期转向看涨，美伊谈判成下一个催化剂",
+    "summary": "据财经网站Investinglive，在美国和伊朗宣布为期两周的停火后，黄金昨日获得提振，因为金融状况的缓和支撑了更广泛的风险偏好情绪。然而，这些涨幅后来被抹去，以色列对黎巴嫩发动袭击，引发伊朗强烈回应，伊朗坚称黎巴嫩已被纳入停火协议之中。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "广西：3月共报告法定传染病30657例，死亡271人",
+    "summary": "近日，广西疾病预防控制局通报3月广西法定传染病疫情概况：甲类传染病无病例报告。乙类传染病报告13764例，死亡271人。报告的病种有新型冠状病毒感染、艾滋病、病毒性肝炎、麻疹、狂犬病、登革热、痢疾、肺结核、伤寒和副伤寒、流行性脑脊髓膜炎、百",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "意大利10年期国债收益率上行，最新涨幅为7.2个基点，报3.789%。",
+    "summary": "意大利10年期国债收益率上行，最新涨幅为7.2个基点，报3.789%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "巴基斯坦内政部长与美官员会谈 讨论即将举行的美伊谈判",
+    "summary": "巴基斯坦内政部9日在社交媒体称，巴基斯坦内政部长穆赫辛·纳克维与美国驻巴基斯坦使馆官员进行了会谈，讨论中东地区当前的局势。双方对地区战事停火表示欢迎，并讨论了即将在伊斯兰堡举行的美国和伊朗的谈判，美国副总统万斯、美国总统特使威特科夫以及前白",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "迅销集团首席财务官冈崎：途经中东的空运航线正变得越发难走。",
+    "summary": "迅销集团首席财务官冈崎：途经中东的空运航线正变得越发难走。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "中国银河：2021年永续次级债券（第二期）将兑付本息并摘牌",
+    "summary": "中国银河公告称，因发行人不行使续期选择权暨行使赎回权，“21银河Y2”（债券代码：188024）将于2026年4月21日开始支付2025年4月21日至2026年4月20日期间的利息及本金。票面利率为4.30%，每手债券兑付本金1000元，派",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "黄金",
+    "title": "白银有色：2026年3月为子公司新增担保5950.61万元",
+    "summary": "白银有色公告称，2026年3月，公司为全资、控股子公司新增担保金额5950.61万元，解除全资子公司担保1060万元，解除参股公司担保5004.13万元。被担保对象包括白银有色长通电线电缆等4家公司。截至3月31日，公司为子公司实际担保20",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "松延动力增资至约409万",
-    "summary": "天眼查工商信息显示，近日，北京松延动力科技集团股份有限公司发生工商变更，注册资本由约324.6万人民币增至约409万人民币，增幅约26%。 该公司成立于2023年9月，法定代表人为姜哲源，经营范围包括工业机器人销售、智能机器人的研发、智能机",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "title": "Trump warns of major war escalation if Iran peace process fails - Reuters",
+    "summary": "Trump warns of major war escalation if Iran peace process fails  Reuters",
+    "source": "Reuters",
+    "time": "2小时前",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFEzUEk2UktwUExCbWdZb3V3akR1TW5RREtqVkJVaFpfdmV4R1ozS3VqU0IybTNTOHlBaWdteHZnRFMwVU4wV2p3MWRMS3BEenBYUENVWGdtOXo5MWQyampLendIcDlNOF84UHVocXZXM21rN19NNXhyOGQ4aWE2WE1LZkpkdlpTRHliVUk4eURNT21yWTNFV3NMcnNnRVdPU2dZUzRiemVDQUJfSFFQM3VFQWZoQQ?oc=5"
   },
   {
-    "sector": "综合",
-    "title": "摩根士丹利将汉莎航空目标股价从7.5欧元下调至7.2欧元。",
-    "summary": "摩根士丹利将汉莎航空目标股价从7.5欧元下调至7.2欧元。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "政策",
-    "title": "日本考虑再释放合20天需求量的石油储备",
-    "summary": "据知情人士称，随着伊朗冲突导致能源供应紧张，日本政府正在考虑进一步释放相当于20天需求量的石油储备。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "新能源",
-    "title": "储能概念震荡回升 正泰电源、圣阳股份双双涨停",
-    "summary": "午后储能概念震荡回升，正泰电源、圣阳股份涨停，富临精工、万润新能、盛弘股份、卧龙新能等跟涨。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "摩根大通将美铝目标股价从68美元上调至70美元。",
-    "summary": "摩根大通将美铝目标股价从68美元上调至70美元。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "土耳其航空3月份客运量达720万人次，同比增长16%。",
-    "summary": "土耳其航空3月份客运量达720万人次，同比增长16%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "金融",
-    "title": "花旗将劳埃德银行集团评级从中性上调至买入，目标股价从106便士上调至114便士。",
-    "summary": "花旗将劳埃德银行集团评级从中性上调至买入，目标股价从106便士上调至114便士。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "碳酸锂连续主力合约日内跌4%，现报153800.00元。",
-    "summary": "碳酸锂连续主力合约日内跌4%，现报153800.00元。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "南向资金净买入额达40亿港元。",
-    "summary": "南向资金净买入额达40亿港元。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "sector": "人工智能",
+    "title": "UK to call for toll-free Strait of Hormuz, wants Lebanon in ceasefire deal - Reuters",
+    "summary": "UK to call for toll-free Strait of Hormuz, wants Lebanon in ceasefire deal  Reuters",
+    "source": "Reuters",
+    "time": "3小时前",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT1NOQU9OSUdNLXBpaDFES0NtNGxkSWJNYm9XaE8yNG53QkpBV1F0Q3ZWYk0zNFdKdVc0ZEJJRnBTTkdrbFYyalFTaGZOcU5lX3I1TlhTSDg2dldPZ2s2Y3ExQ3RIRGR2b2x3WkNxdHNCVnV1OGZpWHJBYXBrZ3BJTEFrSDZ5b0RqRE1vSm1MYnZ1dk5xdWV1UHZVbXVCWkszRThLUW9DZ3RzWEdjZmc?oc=5"
   },
   {
     "sector": "人工智能",
     "title": "Trump says US military to stay around Iran; threatens action if Tehran fails to comply wit",
     "summary": "Trump says US military to stay around Iran; threatens action if Tehran fails to comply with deal  Reuters",
     "source": "Reuters",
-    "time": "1小时前",
+    "time": "4小时前",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY1pWZmNvY1BtUVZ4TnBhWXU4cXBYWjE5bGppRFREdDcweGp3ZUVPRVZWWDNRUU1wM0ZFaS1WY0hzQUZhZE1wVTlWR2J3YU9MemE3dVRNeEZFdURQQlhIZlBOZFo1dEtGS0QxaFdUYU1xWDZacTJVMy11NzNOTEFveFhPUUZjdUJqa1RpVnotZnhrbm02MF9CeUdrcUhwVThGVDZsdl81bjBlVGtYNmJjTEx3bklVYU5Md2J6R1pjdlVuZjNoaFpBSWMxQXlKWTA?oc=5"
   },
   {
@@ -92,7 +108,7 @@
     "title": "As Trump claims victory, Iran emerges bruised but powerful with leverage over Hormuz - Reu",
     "summary": "As Trump claims victory, Iran emerges bruised but powerful with leverage over Hormuz  Reuters",
     "source": "Reuters",
-    "time": "6小时前",
+    "time": "9小时前",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOblo5SXdfUVNZdFNHWWp1RUo3b2JwZHhfNTlJcERVdlJlLXNuU0VpVzlpM0NMUS03T2tKMEV6VGdnUG15aFRxZDUzWXVpUXZTYVNpaVdqWXNFbFVKQmJlRFNLOG40YXFGZDY1QnllLWFrbTJjWS13OXNXSXItNGxhMERzRFUtdl9iVWo0dVp4bW9XZk53VGllcENFUTJpWnJ1ZjVtZk5uNW9jU0pxNUVQVUpkODNPNnVrWjM3ZHNQVDdQS19neHFIeGd3?oc=5"
   },
   {
@@ -100,23 +116,7 @@
     "title": "NATO chief says some European allies were tested and failed in Iran war - Reuters",
     "summary": "NATO chief says some European allies were tested and failed in Iran war  Reuters",
     "source": "Reuters",
-    "time": "6小时前",
+    "time": "9小时前",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUxmY3pDLXFnMFVWLU52SzV1VWJYYWIzMlZ0dGxnRldSeUdZUTh6MkFNYUFrcGd5T3FsbGxhbjVzT01VbzdZakV2MXdmLXZRbktXeUNWNnN4WDA2RWFLb2pQWmE1OTRsQWgtMmQ1SXZGRktSa1dWZEVKNXlHZXZOZXN5a3pOS2J2emNqWU9aMDE2ZXFjS1d1cTdUc1V2VXk1LVpUazdhclROUQ?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Oil rises as investors remain wary US-Iran ceasefire will open supply flow - Reuters",
-    "summary": "Oil rises as investors remain wary US-Iran ceasefire will open supply flow  Reuters",
-    "source": "Reuters",
-    "time": "7小时前",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSWJWMGNRRHhyeUI0WlNCUWFwRFFFeVZxckhfLS1QTWxoR1B0SGotZFlZR2duUDV1VzUwcVFUUzJSTlhEY3AwUy03RlJ6X1o5cFM3SW4zWkZDeFFwbEJST0d1a2dLNnZJWndjcldkUXV5SS05cmdBblZxeDdtemliUk5RX2xmeFhiR2Uybi1Ra0dqOE1XUGlmVTN1WkZYQW44Z29ZcVBtVmttcTFxc3E4Q3MzTTZmSXZtbFZvekVxQzctNk1HeXc?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Modelo maker Constellation Brands withdraws 2028 guidance due to uncertainty",
-    "summary": "Modelo maker Constellation Brands withdrew its previously issued fiscal 2028 outlook on Wednesday and reported \"subdued\"",
-    "source": "CNBC",
-    "time": "8小时前",
-    "link": "https://www.cnbc.com/2026/04/08/constellation-brands-stz-q4-2026-earnings.html"
   }
 ]
