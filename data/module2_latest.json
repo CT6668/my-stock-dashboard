@@ -1,106 +1,114 @@
 [
   {
-    "sector": "人工智能",
-    "title": "台积电一季度销售额超出预期 伊朗冲突未影响AI需求",
-    "summary": "台积电公布第一季度收入增长35%，这表明在中东冲突爆发后的头几周，全球人工智能芯片需求不减。台积电周五公布，在截至3月份的三个月里，营收增至1.13万亿元台币（约合356亿美元）。分析师的平均估计为1.12万亿元台币。3月销售额增长了45%",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "金融",
-    "title": "“海洋地质二号”完成第33航次深海科考任务 获得多项科研成果",
-    "summary": "从自然资源部中国地质调查局了解到，“海洋地质二号”圆满完成第33航次深海科考任务，获得多项科研成果。本次科考，中国地质调查局联合中国海洋大学、自然资源部第二海洋研究所等16家单位、100名科考人员搭乘“海洋地质二号”，历时30天，进行了包括",
+    "sector": "政策",
+    "title": "据伊朗塔斯尼姆通讯社：伊朗总统佩泽希齐扬表示，最近达成的停火框架是在伊朗政府关键人物之间达成共识的基",
+    "summary": "础上制定的，并得到了伊朗最高领袖穆杰塔巴的批准，该框架基于尊严、智慧和国家利益等原则。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "【生态环境部：拟自2027年起，禁止生产以HCFC-22为制冷剂的多联式空调（热泵）机组产品】近日，",
-    "summary": "生态环境部发布《关于禁止生产以一氯二氟甲烷（HCFC-22）为制冷剂的多联式空调（热泵）机组产品的公告（征求意见稿）》。其中提到，根据《消耗臭氧层物质管理条例》有关规定和《中国履行〈关于消耗臭氧层物质的蒙特利尔议定书〉国家方案（2025—2",
+    "title": "下周央行公开市场将有35亿元逆回购到期",
+    "summary": "Wind数据显示，本周央行公开市场开展了35亿元逆回购操作，因本周有3040亿元逆回购到期，本周实现净回笼3005亿元。此外，本周有11000亿元90天期买断式逆回购到期、700亿元国库现金定存到期，央行开展了8000亿元89天期买断式逆回",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "沪深300股指期货(IF)主力合约日内涨超2%",
-    "summary": "沪深300股指期货(IF)主力合约日内涨超2%，现报4587.2点。",
+    "title": "双环传动今日大宗交易折价成交450万股，成交额1.71亿元",
+    "summary": "4月10日，双环传动大宗交易成交450万股，成交额1.71亿元，占当日总成交额的23.61%，成交价38.1元，较市场收盘价38.14元折价0.1%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "创新药",
+    "title": "康泰医学：获得多参数生命体征监测仪医疗器械注册证",
+    "summary": "康泰医学(300869.SZ)公告称，公司于近日取得由河北省药品监督管理局颁发的《中华人民共和国医疗器械注册证》。产品名称为多参数生命体征监测仪，型号规格为HMS1000，适用于对人体血压、血氧、血糖进行测量，并具有蓝牙数据接口，不适用于监",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "中芯国际H股涨幅扩大至6%。",
-    "summary": "中芯国际H股涨幅扩大至6%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "科技",
-    "title": "广州小马智行科技公司增资至2亿 增幅100%",
-    "summary": "天眼查App显示，近日，广州小马智行科技有限公司发生工商变更，注册资本由1亿人民币增至2亿人民币，增幅100%。该公司成立于2017年10月，法定代表人为莫璐怡，经营范围包括单用途商业预付卡代理销售、计算机及通讯设备租赁、机械设备租赁等，由",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "东方红资产管理：A股公司有望年内迎来盈利改善拐点，市场风格有望转向均衡",
-    "summary": "4月10日，东方红资产管理发布2026年第二季度权益策略展望称，地缘风险与AI正成为资产定价的新主线。高油价将加剧美国通胀压力，使“K型”经济两端同时承压，美联储短期内更可能维持高利率观望。尽管油价上行抑制全球总需求，但在其他亚洲工业经济体",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "科技",
-    "title": "源杰科技重返A股第二高价股",
-    "summary": "今日午后，源杰科技开盘后迅速拉升，盘中最高涨至12%以上，股价最高达1268元/股，创下历史新高。同时，源杰科技股价再次反超寒武纪，成为A股第二高价股。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "创业板指午后涨超4％，深成指涨2.6％，沪指涨0.7％。电池、锂矿、证券、存储芯片板块涨幅居前。",
-    "summary": "创业板指午后涨超4％，深成指涨2.6％，沪指涨0.7％。电池、锂矿、证券、存储芯片板块涨幅居前。",
+    "title": "道达尔能源：沙特一炼油厂发生事故，相关装置已停产",
+    "summary": "道达尔能源4月10日发布中东冲突对公司影响更新显示，4月7日至8日夜间，沙特朱拜勒SATORP炼油厂发生事故，导致该炼油厂两条加工生产线中的一条受损，事故未造成人员伤亡。为安全起见，相关装置已停产。目前正在评估事故对炼油厂运营的影响。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "富时中国A50指数期货涨幅扩大至2%。",
-    "summary": "富时中国A50指数期货涨幅扩大至2%。",
+    "title": "【深交所：在优化新股发行承销机制方面 创业板新增约定限售方式并提高中小盘股战略配售比例】深交所表示，",
+    "summary": "为落实《创业板意见》有关部署，深交所修订《首次公开发行证券发行与承销业务实施细则》，对网下发行配售安排和战略配售机制作了进一步优化。一方面，新增约定限售方式。发行人和承销商设定不同档位的限售比例和限售期，向锁定比例更高、锁定期限更长的投资者",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
-    "sector": "人工智能",
-    "title": "US-Iran ceasefire deal shows strain ahead of talks with oil flows squeezed - Reuters",
-    "summary": "US-Iran ceasefire deal shows strain ahead of talks with oil flows squeezed  Reuters",
+    "sector": "综合",
+    "title": "杭氧股份：2025年净利润9.49亿元，同比增长2.87%",
+    "summary": "杭氧股份公告，2025年营业收入150.83亿元，同比增长9.96%。净利润9.49亿元，同比增长2.87%。公司董事会审议通过的利润分配预案为：以2025年度权益分派实施时确定的股权登记日的总股本为基数，向全体股东每10股派发现金红利3元",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "创新药",
+    "title": "一品红：全资子公司获得卡络磺钠注射液注册证书",
+    "summary": "一品红公告，全资子公司广州一品红制药有限公司于近日收到国家药品监督管理局核准签发的关于卡络磺钠注射液的《药品注册证书》。卡络磺钠注射液适应症为：用于泌尿系统、上消化道、呼吸道和妇产科出血疾病。对泌尿系统疗效较显著，亦可用于手术出血的预防及治",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "创新药",
+    "title": "市场监管总局批准发布，三项针灸领域国家标准10月1日起实施",
+    "summary": "《针灸技术操作规范 第4部分：三棱针》系统规范了三棱针疗法的概念定义、操作步骤、禁忌事项等核心内容，对点刺法、刺络法、散刺法、挑治法四种技术操作建立统一标准，为临床、教学及科研领域提供普适性准则。《针灸异常情况处理》明确晕针、滞针、针刺性气",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "十日终焉剧方24年已登记相关著作权",
+    "summary": "近日，剧集《十日终焉》正式开机，引发网友热议。天眼查App显示，出品方上海柠萌影视传媒股份有限公司成立于2014年7月，法定代表人为苏晓，注册资本约2.4亿人民币，经营范围包括广播电视节目制作经营、电影发行等。风险信息显示，该公司涉及多起诉",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "海外市场",
+    "title": "China lets state oil firms tap commercial reserves as Iran war drags on, Bloomberg News re",
+    "summary": "China lets state oil firms tap commercial reserves as Iran war drags on, Bloomberg News reports  Reuters",
     "source": "Reuters",
-    "time": "3小时前",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjVnU2MyTVRjaWpYcWNnS3pGQUNLUkxaYTlPOHVvdVBudl9DYmE0WEhBaXUyeDlQZ3RDeXFiQTUweU9oZ0NYWl8waGF4LWpCTHFPcmRyMTIwNy1VOFJMekpnVkRjeWQ5LTNhYlR6Tkd4c3EzV3E1ZG5USjViSDZjV3FPRHNFX011OGVGX1ViU0IyZ2tMVzJlOUgxckVnOTF6Rk1JS0RYUzF3MUVmSnBFVGg0aTVhSWZFRm5kUmlDX2hrcnNo?oc=5"
+    "time": "4小时前",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeWMyRF9XLWFOVTJWck9fRkc4b1UzdzUwc01FdHZMTGhfUU9nM0hLdVFHVmlHN2pHYmo3M1RVRTNBaXlObXVrOXkzN2t4SUpFQVZQb0djaEZ3Y1ExaHBBNzB2cGxQS3RKWFJFcVFpR3BNUC1EdTJHeWhGNndXUkdYWnBVWGZVaXdrXzJlbGJTd0JjMFFSWF9PTFBBSGdtbXcyVTk4NTJzNy1laF9USDB0eVlNeXhnV2hZMUdvakI0bWp5TldMRGwzRDNRLUs?oc=5"
   },
   {
     "sector": "海外市场",
     "title": "China's factories snap years-long deflation spell on Iran war price shock - Reuters",
     "summary": "China's factories snap years-long deflation spell on Iran war price shock  Reuters",
     "source": "Reuters",
-    "time": "3小时前",
+    "time": "6小时前",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2hLT2FuVTBnTlFRZWdNV0NuRW56VUxLVHFjUTI1X21xMmdtMDVOci1TYzgyZFZWYnl6Slp1dUtKZFdvSi1mWHBxRnJXNUllMGFmMnFndUtpcV9fby1TajRSQmtORHJTUEZHUHdFc3NsUWN6TGlsOEdPbGtEY0ZXNG9HSVlPb3g3WUJlLVc2MlM2S1NFa256Vkw3SExLRWM0RGNIanRaTTJoQQ?oc=5"
+  },
+  {
+    "sector": "人工智能",
+    "title": "US-Iran ceasefire under strain ahead of talks - Reuters",
+    "summary": "US-Iran ceasefire under strain ahead of talks  Reuters",
+    "source": "Reuters",
+    "time": "8小时前",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjVnU2MyTVRjaWpYcWNnS3pGQUNLUkxaYTlPOHVvdVBudl9DYmE0WEhBaXUyeDlQZ3RDeXFiQTUweU9oZ0NYWl8waGF4LWpCTHFPcmRyMTIwNy1VOFJMekpnVkRjeWQ5LTNhYlR6Tkd4c3EzV3E1ZG5USjViSDZjV3FPRHNFX011OGVGX1ViU0IyZ2tMVzJlOUgxckVnOTF6Rk1JS0RYUzF3MUVmSnBFVGg0aTVhSWZFRm5kUmlDX2hrcnNo?oc=5"
   },
   {
     "sector": "人工智能",
     "title": "Kuwait condemns drone attacks on vital facilities, Iran denies involvement - Reuters",
     "summary": "Kuwait condemns drone attacks on vital facilities, Iran denies involvement  Reuters",
     "source": "Reuters",
-    "time": "7小时前",
+    "time": "10小时前",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVkRHbTZ6RWZyQnd0UFpkLVRWYmhueGNwNWFRaHdGRGJGYzJkWC14Ulp0SkV4ZWJESGFFeVJsZmtwdHRxWmRyamJkN1pGWEVMYUVLWnpHUnZaT2VGQ0xxMXJYQkpJTEtNRDE5WHdLY3d6M25JSy1JZ0p4QWhTNmR2UDVLUXBGbjdCVEZlOGdubnluM3lITlZtNDBMVG5IU21uTWtMeHRfblV3YVdOMXVmb3RhSVF2QkJlTFFnRXhNMnNlUQ?oc=5"
   },
   {
@@ -108,15 +116,7 @@
     "title": "White House warned staff against betting on futures markets amid Iran war, official says -",
     "summary": "White House warned staff against betting on futures markets amid Iran war, official says  Reuters",
     "source": "Reuters",
-    "time": "7小时前",
+    "time": "10小时前",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOEdrcXVmV1Y1NUd4aXhyUk5wdVN2dHoxNVY1R2FhMHBqOUdKQVBEcTduemxnc3pDMG5GV1lGT3JOZGJBMkdyR0syM3ZpMUdQVVd4Z0ZyUEhiX094QnZWZXpybWdnZFVTbG5WejRYdDlhb3FiYUZBOXNDa05TTmhrOTdyLWNzSjZPeDZvaDdobnhibzJRRHZ0SVE0by1RVDE2VUNsSEJxa01Mb0NjUjFHcTJNbDBEblZx?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Cramer explains the divergence in tech stocks – and why software may continue to lag",
-    "summary": "Jim Cramer marveled at the divergent fates of technology stocks — from hardware winners like Intel to software losers li",
-    "source": "CNBC",
-    "time": "7小时前",
-    "link": "https://www.cnbc.com/2026/04/09/jim-cramer-tech-stocks-diverge.html"
   }
 ]
