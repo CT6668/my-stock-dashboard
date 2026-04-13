@@ -1,58 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] 3 Under-the-Radar AI Stock Picks That Could Be Incredible Buys",
-    "excerpt": "High-risk, high-reward investment opportunities are plentiful in the market.",
+    "title": "[英伟达] 3 ETFs Beating the Market in 2026 and Why They Could Keep Going",
+    "excerpt": "The rotation away from tech has created a lot of opportunities in the stock market. These ETFs may only be getting started.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=4dcf17633d79924f4a53c7f1f411b70853fe06d3ea8d60fc85387facb7a6e1c6"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=677ed5c3074c70fd83ce07cf708052f3fd3fcb85e3524d2ed4e6bb596480b536"
   },
   {
     "source": "东财股吧",
-    "title": "【消息人士】印度监管机构正审查银行如何平仓卢比套利交易",
-    "excerpt": "六位消息人士称，印度央行正在审查大型银行平仓卢比套利头寸所采用的操作方式，因担忧此类交易可能违反监管规定，并阻碍卢比汇率稳定工作。3 月末至 4 月初，受伊朗冲突及外资外流影响，卢比一度跌至历史低位。为支撑本币汇率，印度储备银行（央行）强制",
-    "author": "消息人士",
+    "title": "【央行数据】一季度人民币贷款增加8.6万亿元",
+    "excerpt": "央行数据显示，一季度人民币贷款增加8.6万亿元。分部门看，住户贷款增加2967亿元，其中，短期贷款减少1640亿元，中长期贷款增加4607亿元；企（事）业单位贷款增加8.6万亿元，其中，短期贷款增加4.13万亿元，中长期贷款增加5.42万亿",
+    "author": "央行数据",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,消息人士.html"
+    "link": "https://guba.eastmoney.com/list,央行数据.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Consumer Tech News (April 6-April 10): Tesla China Sales Drop, CoreWea",
     "excerpt": "CoreWeave expands AI cloud leadership with new Anthropic and Meta agreements while simultaneously advancing multi-billion-dollar debt offerings to fun",
     "author": "Benzinga",
-    "popularity": "🔥 21小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=079bf6f1c5b97d4e0e60772925302824d28da460add94e5a052fc4881d26d4e4"
   },
   {
     "source": "东财股吧",
-    "title": "【华安证券】维持美的集团“买入”评级，盈利能力保持稳健",
-    "excerpt": "华安证券研报指出，美的集团增长稳健向好，效率优化升级。25年营收4585.02亿元，同比增长12.1%；归母净利润439.45亿元，同比增长14.0%。25年公司毛利率/归母净利率同比各-0.03/+0.16pct，盈利能力保持稳健。同期，",
-    "author": "华安证券",
+    "title": "【品茗科技】拟通过全资子公司以640万新加坡元收购ZLX ENGINEERING PTE LTD 100%的股权",
+    "excerpt": "品茗科技公告，公司拟通过全资子公司品茗(香港)技术有限公司以自有资金640万新加坡元（以2026年4月13日汇率折合人民币约3,431万元）收购ZLX ENGINEERING PTE LTD 100%的股权。",
+    "author": "品茗科技",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,华安证券.html"
+    "link": "https://guba.eastmoney.com/list,品茗科技.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Consumer Tech News (April 6-April 10): Tesla China Sales Drop, CoreWea",
     "excerpt": "CoreWeave expands AI cloud leadership with new Anthropic and Meta agreements while simultaneously advancing multi-billion-dollar debt offerings to fun",
     "author": "Benzinga",
-    "popularity": "🔥 21小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=079bf6f1c5b97d4e0e60772925302824d28da460add94e5a052fc4881d26d4e4"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【泽璟制药】盐酸吉卡昔替尼片治疗特应性皮炎III期临床达主要疗效终点",
+    "excerpt": "泽璟制药公告称，公司自主研发的1类新药盐酸吉卡昔替尼片治疗中、重度特应性皮炎成年患者的III期临床研究达到主要疗效终点，具有统计显著性(p<0.0001)，且安全性与耐受性良好。公司将加快推进该适应症的上市进程。目前，该药治疗骨髓纤维化适应",
+    "author": "泽璟制药",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,泽璟制药.html"
   },
   {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Prediction: Down 30%, Tesla Stock Is Still Not a Buy Ahead of Its Earn",
     "excerpt": "Tesla's stock declines may just be the beginning.",
     "author": "Yahoo",
-    "popularity": "🔥 11小时前",
+    "popularity": "🔥 14小时前",
     "link": "https://finnhub.io/api/news?id=90bbb0450011e6fb866a556922af91c87f5afdebe713854e8737442ca17247cd"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【纳指科技ETF景顺】提示交易价格溢价风险并停牌至10:30",
+    "excerpt": "纳指科技ETF景顺公告称，本基金二级市场交易价格明显高于基金份额参考净值，出现较大幅度溢价。为保护投资者利益，基金于2026年4月14日开市起至10:30停牌，10:30复牌，停牌期间申购赎回业务照常办理。若当日溢价幅度未有效回落，基金有权",
+    "author": "纳指科技ETF景顺",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,纳指科技ETF景顺.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Beyond Chatbots: Alibaba's $290 Million Push For Real-World AI Begins",
     "excerpt": "Alibaba (BABA) pivots to &#34;world models,&#34; investing $290M in ShengShu to bridge AI with robotics and autonomous driving. Read the full update.",
     "author": "Benzinga",
-    "popularity": "🔥 2天前",
+    "popularity": "🔥 3天前",
     "link": "https://finnhub.io/api/news?id=77fba61be9b8bc5882d47510eb01d0b9c7b3450317470fa533ce3f52a54b4c81"
   }
 ]
