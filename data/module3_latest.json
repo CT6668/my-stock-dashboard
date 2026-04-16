@@ -1,19 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] TSMC Q1 profit jumps 58% to record, beats expectations",
-    "excerpt": "TSMC, the world's largest ‌contract chipmaker, posted ‌a 58% jump in first-quarter ​net profit on Thursday, beating market forecasts and hitting a rec",
+    "title": "[英伟达] AI demand drives chipmaker TSMC's net profit to fresh record",
+    "excerpt": "Taiwanese chip maker TSMC said Thursday its net profit surged to a fresh record in the first quarter, fuelled by the global artificial intelligence ra",
     "author": "Yahoo",
-    "popularity": "🔥 30分钟前",
-    "link": "https://finnhub.io/api/news?id=3fb78df7c9e6fa64c45730b724c154ff3b3b5d0f75f33cebde958f3ed1ee4f26"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=5c376563cee708efa9da5510eb33250d27838bfd91d1123c1c72d4e93d42de36"
   },
   {
     "source": "东财股吧",
-    "title": "【分析人士】俄罗斯收紧氦气出口加剧短缺 氦气现货价格飙升",
-    "excerpt": "中东地区持续动荡引发全球供应链危机，稀有气体氦气的供应短缺正冲击半导体制造等关键领域。当地时间14日，俄罗斯政府发布声明称，俄罗斯将对氦气实施临时出口管制，直至2027年底。有分析人士表示，俄罗斯收紧氦气出口将加剧目前全球氦气供应紧张的局面",
-    "author": "分析人士",
+    "title": "【云南城投】重大资产重组已完成股权交割 2家公司未完成工商变更",
+    "excerpt": "云南城投公告称，为优化资产结构，公司及下属子公司出售苍南银泰等12家标的公司股权，确定北京银泰置地商业有限公司、康源公司为受让方，构成关联交易。截至目前，标的公司已全部完成股权交割，平阳银泰等9家公司已完成工商变更登记，宁波银泰、北京房开2",
+    "author": "云南城投",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,分析人士.html"
+    "link": "https://guba.eastmoney.com/list,云南城投.html"
   },
   {
     "source": "BABA·雪球",
@@ -25,11 +25,11 @@
   },
   {
     "source": "东财股吧",
-    "title": "【IMF总裁】各国应节约能源以应对冲击",
-    "excerpt": "国际货币基金组织（IMF）总裁格奥尔基耶娃15日在一场发布会上表示，IMF对中东战事导致石油和天然气供应中断深感担忧，未来几周内供应中断的影响可能加剧。她呼吁各国采取节约能源的措施，以缓解供需失衡局面。 IMF和世界银行春季会议本周在美国首",
-    "author": "IMF总裁",
+    "title": "【荷兰国际】欧元在近期反弹后显现脆弱性",
+    "excerpt": "荷兰国际集团的Chris Turner在一份报告中称，欧元兑美元在近期反弹至伊朗冲突前的水平后，看似容易出现回调走低。对美伊第二轮和谈以及可能延长停火协议的希望提振了欧元。Turner说，欧元如此之快地回升至接近1.18美元的水平令人意外。",
+    "author": "荷兰国际",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,IMF总裁.html"
+    "link": "https://guba.eastmoney.com/list,荷兰国际.html"
   },
   {
     "source": "NIO·WSB",
@@ -40,19 +40,35 @@
     "link": "https://finnhub.io/api/news?id=06c0d13bfc13c314188646e6fe79049b94300e00d4fc3dc48f6e35ae1f117935"
   },
   {
+    "source": "东财股吧",
+    "title": "【招商银行】公司境内优先股全部赎回及摘牌完成",
+    "excerpt": "4月16日，招商银行在港交所公告，公司已于2026年4月15日向2026年4月14日在中登上海分公司登记在册的本次优先股股东足额支付本次优先股票面金额及2025年12月18日至2026年4月14日持有期间的股息，共计人民币278.22亿元，",
+    "author": "招商银行",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,招商银行.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Why Microsoft (MSFT) Stock Is Up Today",
-    "excerpt": "Shares of technology giant Microsoft (NASDAQ:MSFT) jumped 5.1% in the afternoon session after the technology sector rallied, pushing the Nasdaq near a",
+    "title": "[特斯拉] Ingersoll Rand, AGCO, Wabtec, Alamo, and Enpro Shares Are Falling, Wha",
+    "excerpt": "A number of stocks fell in the afternoon session after news of a potential Middle East ceasefire triggered a major shift in the stock market. For week",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=d9d7c45505e5265fbd706e73741607003eb2802a26cf5d97382610aa977b5af4"
+    "link": "https://finnhub.io/api/news?id=2ab6d997b19206b6e2263c95c6d5c97361f36a78a3e036ddcf7bd89b1d496632"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【华友钴业】2026年第一季度净利润24.97亿元，同比增长99.45%",
+    "excerpt": "华友钴业公告，2026年第一季度营业收入258.04亿元，同比增长44.62%。净利润24.97亿元，同比增长99.45%。主要受益于镍、钴、锂等金属价格的回升及公司产业一体化经营优势的持续释放。",
+    "author": "华友钴业",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,华友钴业.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Why Uber Stock Is Racing Higher Wednesday?",
     "excerpt": "UBER stock jumps over 5% Wednesday. Discover how Uber&#39;s $10 billion Robotaxi investment and strategic AV partnerships are driving investor optimis",
     "author": "Benzinga",
-    "popularity": "🔥 16小时前",
+    "popularity": "🔥 19小时前",
     "link": "https://finnhub.io/api/news?id=94f39ba4ec6052729c9e80987b97588588c92d49d180d51422236205116ecc2e"
   }
 ]
