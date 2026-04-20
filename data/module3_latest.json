@@ -1,19 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] 2 Space Stocks That Are Quietly Becoming Some of the Market's Best Opp",
-    "excerpt": "Capitalize on the last frontier of investing with these two stocks.",
+    "title": "[英伟达] The Pentagon's Push to Build an \"Arsenal of Freedom\" Is Turning Into a",
+    "excerpt": "The Department of Defense (DOD) is making an aggressive push to replace incumbent systems with artificial intelligence (AI) products.",
     "author": "Yahoo",
-    "popularity": "🔥 41分钟前",
-    "link": "https://finnhub.io/api/news?id=e3cb1e68cfcbc0ca059abbad32fc57677bc1a609a348c471c79ec65f7293909f"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=f60b85d58abe16c41047c08300094c9171298072a80e32237a1b1445b252db6c"
   },
   {
     "source": "东财股吧",
-    "title": "【摩根士丹利王滢】中国股市存在温和上行空间",
-    "excerpt": "摩根士丹利中国首席股票策略师王滢发布研报称， 随着电商竞争趋缓、指数构成更趋均衡以及上游/绿色科技优势显现，到年底前中国股市存在温和上行空间（5%—10%）。考虑到中美关系、盈利压力、IPO解禁以及地缘政治风险复发等因素，近期市场仍将维持波",
-    "author": "摩根士丹利王滢",
+    "title": "【东贝集团】股份回购比例达到1%",
+    "excerpt": "东贝集团4月20日公告，截至2026年4月20日，公司通过集中竞价交易方式已累计回购股份622.05万股，占公司总股本的比例为1.0007%，购买的最高价为7.98元/股、最低价为6.20元/股，已支付的总金额为4,262.2498万元。（",
+    "author": "东贝集团",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,摩根士丹利王滢.html"
+    "link": "https://guba.eastmoney.com/list,东贝集团.html"
   },
   {
     "source": "BABA·雪球",
@@ -24,12 +24,28 @@
     "link": "https://finnhub.io/api/news?id=316adac89ecad6d6a7ea991c4ea8615861215c5bbf71a292a126098e430ae67e"
   },
   {
+    "source": "东财股吧",
+    "title": "【兖矿能源】一季度商品煤销量同比增加3.07%",
+    "excerpt": "兖矿能源(600188)4月20日披露2026年第一季度主要运营数据，一季度，商品煤销量3953万吨，同比增长3.07%，其中自产煤销量3797万吨，同比增长1.49%。甲醇销量113.4万吨，同比增长2.06%；醋酸乙酯销量4.97万吨，",
+    "author": "兖矿能源",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,兖矿能源.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Is Tesla Stock a Buy in the Second Quarter of 2026?",
-    "excerpt": "Tesla isn't just selling cars anymore. It's chasing a future powered by AI, robotaxis, and humanoid robots.",
+    "title": "[特斯拉] Zacks Investment Ideas feature highlights Tesla",
+    "excerpt": "Tesla have been highlighted in this Investment Ideas article.",
     "author": "Yahoo",
-    "popularity": "🔥 4小时前",
-    "link": "https://finnhub.io/api/news?id=916da3d46c3d93f8f5c28ee9008cf78b4eb061963ae456f5244d589f1ca6234f"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=d3421b53187669ac33406fd24dee09b708ac29c23c1420d5540fdfd59ffa406d"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【日本气象厅】需警惕未来一周发生同等规模地震的风险",
+    "excerpt": "当地时间20日，日本气象厅举行记者会，提醒受地震影响区域民众在未来一周左右时间内，特别是未来2到3天内，警惕发生同等规模地震的风险。（央视新闻）",
+    "author": "日本气象厅",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,日本气象厅.html"
   },
   {
     "source": "BIDU·雪球",
@@ -38,5 +54,13 @@
     "author": "SeekingAlpha",
     "popularity": "🔥 2天前",
     "link": "https://finnhub.io/api/news?id=316adac89ecad6d6a7ea991c4ea8615861215c5bbf71a292a126098e430ae67e"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【新亚电缆】2025年净利润1亿元，同比下降25.57%",
+    "excerpt": "新亚电缆公告，2025年营业收入29.47亿元，同比增长4.00%；净利润1亿元，同比下降25.57%。公司董事会审议通过的利润分配预案为：向全体股东每10股派发现金红利0.75元（含税），不送红股，不以公积金转增股本。",
+    "author": "新亚电缆",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,新亚电缆.html"
   }
 ]
