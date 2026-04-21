@@ -1,58 +1,34 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Why AtaiBeckley Stock Surged Today",
-    "excerpt": "President Trump wants to fast-track psychedelic research.",
+    "title": "[英伟达] Micron sits at the center of a red-hot chip rally",
+    "excerpt": "Semiconductor stocks are ripping higher again, and the backdrop is getting hard to ignore. The Nasdaq PHLX Semiconductor Index (SOX) has climbed about",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=87647ccce7bdd4728ea5a9bfcb1bc250f6a65cae483c8b75fedb87f2d76e5f68"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【惠誉评级黄筱婷】国际油价中枢上移趋势明确，但国内价格传导相对温和",
-    "excerpt": "4月21日，“2026惠誉看中国”活动现场，惠誉评级亚太区企业评级高级董事黄筱婷表示，随着地缘冲突持续，国际油价中枢上行已成为较为确定的趋势。在成品油价格管理机制的调控下，国际油价向国内居民端的传导速度和幅度整体较为温和，可缓冲对居民购买力",
-    "author": "惠誉评级黄筱婷",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,惠誉评级黄筱婷.html"
+    "popularity": "🔥 57分钟前",
+    "link": "https://finnhub.io/api/news?id=ab1467fdcd571ec409c8c2903ca8aaeb115be5ba5e5968c116a137b49b6e956b"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] CNBC Halftime Report Final Trades: Capital One Financial, Broadcom, Al",
     "excerpt": "CNBC Halftime Report Final Trades: Capital One Financial, Broadcom, Alibaba Group, Valero Energy",
     "author": "Benzinga",
-    "popularity": "🔥 15小时前",
+    "popularity": "🔥 17小时前",
     "link": "https://finnhub.io/api/news?id=768b541192aceb2b46d65be2fcf694a414713541405d7e74c38d09b38e294d66"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【消息人士】SpaceX 本周举办为期三天的分析师会议，积极拉拢华尔街备战 IPO",
-    "excerpt": "据三位知情人士透露，SpaceX 正稳步推进史上备受瞩目的首次公开募股计划。本周，该公司将在得克萨斯州发射基地、田纳西州超大型数据中心，举办为期三天的闭门分析师交流会。这家埃隆・马斯克旗下企业正面向华尔街顶尖航空航天及科技领域分析师开展路演",
-    "author": "消息人士",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,消息人士.html"
   },
   {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] ValuEngine Weekly Market Summary And Commentary",
     "excerpt": "U.S. equity markets extended their upward momentum this week, led by strong gains in technology and growth-oriented segments",
     "author": "SeekingAlpha",
-    "popularity": "🔥 4小时前",
+    "popularity": "🔥 5小时前",
     "link": "https://finnhub.io/api/news?id=3f1654f1562d1c053249e19302f20d334adad0f95b6063964a8e0ef7f7bc0709"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【港股午评】恒生指数涨0.13%，恒生科技指数跌0.74%",
-    "excerpt": "港股午间收盘，恒生指数涨0.13%，恒生科技指数跌0.74%。恒指港股通ETF银华（159318）跌0.07%，港股通科技ETF鹏华（159751）跌1.14%。板块方面，电力、工业集团企业板块涨幅靠前；软件板块跌幅靠前。个股方面，胜宏科技",
-    "author": "港股午评",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,港股午评.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Exclusive: Tesla's HW3-Equipped Cars 'Legally Blind' In California By ",
     "excerpt": "Dan O&#39;Dowd, founder of The Dawn Project, has shared several concerns with Tesla&#39;s Full Self-Driving system, deeming it to be unsafe.",
     "author": "Benzinga",
-    "popularity": "🔥 21小时前",
+    "popularity": "🔥 23小时前",
     "link": "https://finnhub.io/api/news?id=4750d8a65dc4596938a7ff8187410c7ecb4829e298e7041464b86eac0114cc25"
   }
 ]
