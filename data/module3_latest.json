@@ -1,34 +1,66 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Micron sits at the center of a red-hot chip rally",
-    "excerpt": "Semiconductor stocks are ripping higher again, and the backdrop is getting hard to ignore. The Nasdaq PHLX Semiconductor Index (SOX) has climbed about",
-    "author": "Yahoo",
-    "popularity": "🔥 57分钟前",
-    "link": "https://finnhub.io/api/news?id=ab1467fdcd571ec409c8c2903ca8aaeb115be5ba5e5968c116a137b49b6e956b"
+    "title": "[英伟达] NVIDIA CORP (NASDAQ:NVDA) Stands Out as a Prime CAN SLIM Candidate",
+    "excerpt": "NVIDIA exemplifies the CAN SLIM growth investing method with exceptional earnings, leadership in AI, and strong technical momentum.",
+    "author": "ChartMill",
+    "popularity": "🔥 16分钟前",
+    "link": "https://finnhub.io/api/news?id=41e587a273c25abc259ef8635f64f2b24af012fe2fbf62b0e6cb40407ef55bb0"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【华润双鹤】全资子公司地诺孕素片获药品补充申请批准",
+    "excerpt": "华润双鹤公告称，近日，其全资子公司华润紫竹收到国家药监局颁发的地诺孕素片《药品补充申请批准通知书》，药品上市许可持有人由“北京金赛增医疗科技有限公司”变更为“华润紫竹药业有限公司”，药品批准文号不变。该药品适用于治疗子宫内膜异位症，截至公告",
+    "author": "华润双鹤",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,华润双鹤.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] CNBC Halftime Report Final Trades: Capital One Financial, Broadcom, Al",
     "excerpt": "CNBC Halftime Report Final Trades: Capital One Financial, Broadcom, Alibaba Group, Valero Energy",
     "author": "Benzinga",
-    "popularity": "🔥 17小时前",
+    "popularity": "🔥 19小时前",
     "link": "https://finnhub.io/api/news?id=768b541192aceb2b46d65be2fcf694a414713541405d7e74c38d09b38e294d66"
   },
   {
+    "source": "东财股吧",
+    "title": "【双塔食品】2025年净利润3266.25万元，同比下降65.48%",
+    "excerpt": "双塔食品公告，2025年营业收入21.21亿元，同比下降13.37%。净利润3266.25万元，同比下降65.48%。公司于2025年4月21日召开第六届董事会第十二次会议，审议通过了《关于回购公司股份方案暨取得回购专项贷款承诺书的议案》，",
+    "author": "双塔食品",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,双塔食品.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] ValuEngine Weekly Market Summary And Commentary",
-    "excerpt": "U.S. equity markets extended their upward momentum this week, led by strong gains in technology and growth-oriented segments",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 5小时前",
-    "link": "https://finnhub.io/api/news?id=3f1654f1562d1c053249e19302f20d334adad0f95b6063964a8e0ef7f7bc0709"
+    "title": "[特斯拉] Tesla (TSLA) Reports Q1: Everything You Need To Know Ahead Of Earnings",
+    "excerpt": "Electric vehicle pioneer Tesla (NASDAQ:TSLA) will be reporting earnings this Wednesday after market hours. Here’s what investors should know.",
+    "author": "Yahoo",
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=727f7c6e5a7eb3997273f91ce02c7382c29dae7d67e98c55e8ec9adac9b04f4a"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【银龙股份】2025年度净利润3.66亿元，同比增长54.51%",
+    "excerpt": "银龙股份公告，2025年营业收入32.06亿元，同比增长5.00%。净利润3.66亿元，同比增长54.51%。公司2025年母公司未分配利润7.11亿元。2025年度利润分配预案为：以2025年年度利润分配时股权登记日的总股本为基数，拟向全",
+    "author": "银龙股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,银龙股份.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Exclusive: Tesla's HW3-Equipped Cars 'Legally Blind' In California By ",
     "excerpt": "Dan O&#39;Dowd, founder of The Dawn Project, has shared several concerns with Tesla&#39;s Full Self-Driving system, deeming it to be unsafe.",
     "author": "Benzinga",
-    "popularity": "🔥 23小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=4750d8a65dc4596938a7ff8187410c7ecb4829e298e7041464b86eac0114cc25"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【芯联集成】深度战略布局算电协同，服务器电源相关收入将快速增长",
+    "excerpt": "芯联集成高管最新接受机构调研时指出，公司围绕算电协同已形成深度战略布局，聚焦SST（固态变压器）技术前沿，同步布局一、二、三级服务器电源全产品矩阵，提供“功率器件+隔离驱动+MCU+磁器件”的完整系统代工方案。其中，公司已量产中低压硅基SG",
+    "author": "芯联集成",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,芯联集成.html"
   }
 ]
