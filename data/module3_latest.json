@@ -1,42 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] NuScale Power Stock Falls 70% in 6 Months. Here's Why the Nuclear Ener",
-    "excerpt": "The stock has rallied over the past few weeks, but may be getting ahead of itself.",
+    "title": "[英伟达] Will Taiwan Semiconductor Be Worth More Than Nvidia by 2030?",
+    "excerpt": "The chip foundry giant has a huge AI opportunity.",
     "author": "Yahoo",
-    "popularity": "🔥 22分钟前",
-    "link": "https://finnhub.io/api/news?id=4050239a020c3de8b6def69c75f6e6c6f42c84af20dca7c365c34db2185f8ee9"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=98d48f68de7a9e251cc6215d9879573c136bb1570bcce5b4c03fda26bf330d7a"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【金石亚药】2026年一季度净利润1.16亿元，同比增长84.59%",
+    "excerpt": "金石亚药公告，2026年第一季度营业收入3.31亿元，同比增长13.72%。净利润1.16亿元，同比增长84.59%。受感冒药市场需求影响，抗流感病毒类产品销量实现增长；同时，新材料与机械板块销售毛利率和销售毛利额有所改善、叠加公司深入推进",
+    "author": "金石亚药",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,金石亚药.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba's Qwen Partners With China Eastern Airlines on Agent Experienc",
     "excerpt": "By Tracy Qu Alibaba Group's consumer-facing AI application, Qwen App, has partnered with China Eastern Airlines, marking the first time the app is off",
     "author": "Finnhub",
-    "popularity": "🔥 7小时前",
+    "popularity": "🔥 10小时前",
     "link": "https://finnhub.io/api/news?id=731a81fefa0a5a175eddfde2b12347de3796206d390f89151457d2bbc2cbb668"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【安控科技】2026年一季度净利润亏损2598.6万元",
+    "excerpt": "安控科技公告，2026年第一季度营业收入4522.99万元，同比增长10.56%。净利润亏损2598.6万元，上年同期亏损2548.77万元。",
+    "author": "安控科技",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,安控科技.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Tesla: A Very Noisy Q1",
     "excerpt": "Tesla, Inc. Q1 2026 earnings: deliveries and energy miss, revenue/EPS beat on one-time boosts, and TSLAâs 190x valuation in focus. Click for this TS",
     "author": "SeekingAlpha",
-    "popularity": "🔥 12小时前",
+    "popularity": "🔥 15小时前",
     "link": "https://finnhub.io/api/news?id=3a99e11575dc40e41acf1772bc96f429f919eb40489b6cdff2961d35a9177ad9"
   },
   {
+    "source": "东财股吧",
+    "title": "【赞宇科技】2026年第一季度净利润1.01亿元，同比增长22.33%",
+    "excerpt": "赞宇科技公告，2026年第一季度营收为31.72亿元，同比下降7.52%；净利润为1.01亿元，同比增长22.33%。",
+    "author": "赞宇科技",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,赞宇科技.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla profits up but growth concerns linger as Musk lays out spending ",
-    "excerpt": "Tesla’s profit rose in the first quarter as its car sales rebounded from a sharp slump in 2025.View on euronews",
+    "title": "[特斯拉] Tesla Inc (TSLA) Q1 2026 Earnings Call Highlights: Record Production a",
+    "excerpt": "Tesla Inc (TSLA) reports significant growth in EMEA deliveries and Giga Berlin output, while navigating energy storage declines and Bitcoin impacts.",
     "author": "Yahoo",
-    "popularity": "🔥 27分钟前",
-    "link": "https://finnhub.io/api/news?id=6c161f0c586bac71229145324dbeeee1f30794a7151e85333e78b303a5db613d"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=2fdb1d3341fe285f543c8404261c8a32b4de017c2874f87a9a418de043371c5b"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【南大光电】2026年一季度净利润1.24亿元，同比增长29.97%",
+    "excerpt": "南大光电公告，2026年第一季度营业收入6.62亿元，同比增长5.45%。净利润1.24亿元，同比增长29.97%。",
+    "author": "南大光电",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,南大光电.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Exclusive: Tesla's HW3-Equipped Cars 'Legally Blind' In California By ",
     "excerpt": "Dan O&#39;Dowd, founder of The Dawn Project, has shared several concerns with Tesla&#39;s Full Self-Driving system, deeming it to be unsafe.",
     "author": "Benzinga",
-    "popularity": "🔥 2天前",
+    "popularity": "🔥 3天前",
     "link": "https://finnhub.io/api/news?id=4750d8a65dc4596938a7ff8187410c7ecb4829e298e7041464b86eac0114cc25"
   }
 ]
