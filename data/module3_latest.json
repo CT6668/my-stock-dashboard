@@ -1,19 +1,35 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] High Oil Prices Are Driving an EV Boom. Who's the Next Winner After Te",
-    "excerpt": "High oil prices are reshaping the global economy.",
+    "title": "[英伟达] This Rare Earth Stock Just Took Control of a Massive Greenland Deposit",
+    "excerpt": "Critical Metals gained control over a resource-rich project in Greenland, as Western nations look to diversify away from China.",
     "author": "Yahoo",
-    "popularity": "🔥 37分钟前",
-    "link": "https://finnhub.io/api/news?id=097b3e3c0fa0420c7de592d3f4111a949e0550b27f177139c3ba99deb6040e5d"
+    "popularity": "🔥 44分钟前",
+    "link": "https://finnhub.io/api/news?id=8ad5aa7e663f0f451843d4c02926d4fcbcee12231b2b3352166c9cf8fa194b8f"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【法兴银行】德国10年期国债收益率今年料将保持在3%以上",
+    "excerpt": "法国兴业银行利率策略师在一份报告中表示，鉴于该国经济具有韧性，欧洲央行今年料将加息两次，分别在6月和9月，这将使10年期德国国债收益率保持在3%以上。他们称：“德国国债收益率徘徊在3%左右，但仍倾向于走高。“他们表示，中东地区的停火和紧张局",
+    "author": "法兴银行",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,法兴银行.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] 10 Consumer Discretionary Stocks Whale Activity In Today's Session",
     "excerpt": " ",
     "author": "Benzinga",
-    "popularity": "🔥 14小时前",
+    "popularity": "🔥 16小时前",
     "link": "https://finnhub.io/api/news?id=074f8583d1b5ff365aa7d45479d15407b71789e6e5a3603dfd3f81493013e13d"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【伊朗最高领袖顾问】伊朗的团结是特朗普的“噩梦”",
+    "excerpt": "当地时间24日，伊朗最高领袖顾问穆赫贝尔在社交媒体上说，伊朗官员团结一致，伊朗人民充满自豪和爱国情怀，伊朗武装部队的战士为国捐躯，这是“失败者的噩梦”。穆赫贝尔写道：“面对9000万伊朗革命者，特朗普别无选择，只能煽动分裂。”美国总统特朗普",
+    "author": "伊朗最高领袖顾问",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,伊朗最高领袖顾问.html"
   },
   {
     "source": "NIO·WSB",
@@ -28,7 +44,7 @@
     "title": "[特斯拉] High Oil Prices Are Driving an EV Boom. Who's the Next Winner After Te",
     "excerpt": "High oil prices are reshaping the global economy.",
     "author": "Yahoo",
-    "popularity": "🔥 37分钟前",
+    "popularity": "🔥 2小时前",
     "link": "https://finnhub.io/api/news?id=097b3e3c0fa0420c7de592d3f4111a949e0550b27f177139c3ba99deb6040e5d"
   },
   {
@@ -36,7 +52,7 @@
     "title": "[百度] China's AI Boom: From Compute Constraints To Commercial Momentum",
     "excerpt": "AI in China is not simply a high-growth technology theme, but a strategic capability tied to national competitiveness, industrial upgrading, and long-",
     "author": "SeekingAlpha",
-    "popularity": "🔥 20小时前",
+    "popularity": "🔥 22小时前",
     "link": "https://finnhub.io/api/news?id=3775685cd05b0596f7abce0dc16318d47ae39b0368df45ec287f64e8aa95f4ac"
   }
 ]
