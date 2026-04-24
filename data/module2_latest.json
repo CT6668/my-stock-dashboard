@@ -1,90 +1,98 @@
 [
   {
+    "sector": "人工智能",
+    "title": "日本将成立特别工作组应对金融体系网络安全风险",
+    "summary": "日本财务大臣片山皋月周五表示，鉴于人们对Anthropic的Mythos人工智能模型潜在漏洞的担忧，日本将成立一个特别工作组，以应对金融体系的网络安全风险。片山表示，这一决定是在日本金融厅、日本央行、国家网络安全局、日本三大银行以及日本外汇",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
     "sector": "综合",
-    "title": "华纳兄弟股东批准派拉蒙天舞收购协议",
-    "summary": "美国华纳兄弟探索公司股东23日投票批准派拉蒙天舞公司提出的收购协议。美国媒体普遍认为，这项总额预计高达约1110亿美元的交易将对美国娱乐、媒体等多个行业格局产生重大影响。(新华社)",
+    "title": "曹操出行首席执行官：到2030年，全定制化自动驾驶出租车车队规模将扩至10万辆。",
+    "summary": "曹操出行首席执行官：到2030年，全定制化自动驾驶出租车车队规模将扩至10万辆。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "金融",
-    "title": "中国国际商会与联合国儿童基金会签署谅解备忘录",
-    "summary": "据中国贸促会消息，4月24日，中国国际商会与联合国儿童基金会谅解备忘录签署仪式在京举行。中国贸促会副会长陈建安、联合国助理秘书长兼联合国儿童基金会副执行主任凯蒂·范德海登出席并共同签署谅解备忘录。陈建安表示，儿童是人类的未来，是可持续发展的",
+    "title": "法兴银行：德国10年期国债收益率今年料将保持在3%以上",
+    "summary": "法国兴业银行利率策略师在一份报告中表示，鉴于该国经济具有韧性，欧洲央行今年料将加息两次，分别在6月和9月，这将使10年期德国国债收益率保持在3%以上。他们称：“德国国债收益率徘徊在3%左右，但仍倾向于走高。“他们表示，中东地区的停火和紧张局",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "寒武纪已完成DeepSeek-V4适配",
-    "summary": "寒武纪在官方微信号宣布，已基于vLLM推理框架完成对深度求索公司最新开源模型285B DeepSeek-V4-Flash和1.6TDeepSeek-V4-Pro的Day 0适配，适配代码已开源到GitHub社区。",
+    "title": "速腾聚创2160线激光雷达发布即上车，进阶吉利全球战略供应商",
+    "summary": "4月21日，速腾聚创正式发布“创世”数字化架构及旗舰“凤凰”芯片，原生支持2160线激光雷达，实现超400万像素分辨率与600米超远距探测，将激光雷达带入“图像化感知”新时代。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "美首都一公交车隧道内起火",
-    "summary": "当地时间4月23日，美国首都华盛顿特区第九街隧道内一辆公交车起火，现场可见浓烟升起。紧急救援车辆停靠在隧道外，人员被疏散。据华盛顿特区消防与紧急医疗服务局通报，隧道内的人员和车辆已全部疏散，无人伤亡，火灾原因尚在调查中。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "金融",
-    "title": "印尼股市基准指数下跌2.9%，至7162.44点。",
-    "summary": "印尼股市基准指数下跌2.9%，至7162.44点。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "金融",
-    "title": "王钧平大家人寿上海分公司总经理任职资格获批",
-    "summary": "4月24日，上海金融监管局公告，核准王钧平大家人寿保险股份有限公司上海分公司总经理的任职资格。",
+    "title": "特雷勒堡码头：中东冲突对干散货航运的直接影响目前来看较为温和。",
+    "summary": "特雷勒堡码头：中东冲突对干散货航运的直接影响目前来看较为温和。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "中国驻泰国大使馆提醒中国公民谨防被诱骗经泰国前往泰缅边境",
-    "summary": "4月24日，中国驻泰国大使馆发布提醒：近期，多名中国公民被不法分子以“高薪招聘”、旅游观光等名义诱骗，经泰国前往泰缅边境后从事电信网络诈骗等违法犯罪活动，个别人员遭遇人身控制、暴力侵害和非法拘禁，严重危及生命安全和合法权益。中国驻泰国大使馆",
+    "title": "高盛：小米新模型发布巩固其顶尖基础模型开发商地位，维持“买入”评级",
+    "summary": "高盛发表研报指，小米发布MiMo-V2.5模型系列，包括MiMo-V2.5、MiMo-V2.5-Pro及MiMo-V2.5-TTS，距离3月发布MiMo-V2-Pro系列仅约一个月。其中MiMo-V2.5-Pro作为新一代旗舰基础模型，现于",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "覆盖人工智能、脑机接口等领域 我国布局建设82家国家级知识产权保护中心",
+    "summary": "记者从今天举行的国务院新闻办公室发布会上了解到，面对人工智能、集成电路、生物医药等战略性新兴产业和未来产业的蓬勃发展，国家知识产权局正在持续健全高效的知识产权综合管理体制，不断提升管理效能，切实加强新兴领域知识产权保护。另外，进一步优化专利",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "习近平致电祝贺瓦达尼当选贝宁总统",
-    "summary": "4月24日，国家主席习近平致电罗穆亚尔德·瓦达尼，祝贺他当选贝宁共和国总统。习近平指出，中国和贝宁传统友好。近年来，双方政治互信持续深化，在涉及彼此核心利益和重大关切问题上坚定相互支持，各领域友好合作长足发展，切实增进两国人民福祉。我高度重",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "金融",
-    "title": "印度SBI基金据悉下周启动15亿美元IPO推介",
-    "summary": "知情人士透露，印度最大资产管理公司——SBI基金管理有限公司最早将于下周，正式开展首次公开募股（IPO）路演推介，计划募资规模最高达15亿美元。知情人士表示，该机构拟将约四分之三发售股份面向国内投资者，同时考虑通过IPO前定向配股，额外募资",
+    "title": "曹操出行CEO：将在2027年交付并投放数千辆完全定制的自动驾驶出租车。",
+    "summary": "曹操出行CEO：将在2027年交付并投放数千辆完全定制的自动驾驶出租车。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "麦格理将投资冶炼厂与矿山，扩大金属业务布局。",
-    "summary": "麦格理将投资冶炼厂与矿山，扩大金属业务布局。",
+    "title": "锂矿概念持续走高 盛新锂能等多股涨停",
+    "summary": "午后锂矿概念持续走高，盛新锂能涨停，此前融捷股份、江特电机、科达制造涨停，永兴材料、西藏珠峰逼近涨停，永杉锂业、威领股份、天齐锂业、西藏矿业等跟涨。消息面上，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨350元/",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "伊朗最高领袖顾问：伊朗的团结是特朗普的“噩梦”",
+    "summary": "当地时间24日，伊朗最高领袖顾问穆赫贝尔在社交媒体上说，伊朗官员团结一致，伊朗人民充满自豪和爱国情怀，伊朗武装部队的战士为国捐躯，这是“失败者的噩梦”。穆赫贝尔写道：“面对9000万伊朗革命者，特朗普别无选择，只能煽动分裂。”美国总统特朗普",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Exclusive: Pentagon email floats suspending Spain from NATO, other steps over Iran rift, s",
+    "summary": "Exclusive: Pentagon email floats suspending Spain from NATO, other steps over Iran rift, source says  Reuters",
+    "source": "Reuters",
+    "time": "1小时前",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2RUTmM1S2o5X3BON3RZa25LVHBPMVFBVkdXRFg4NUhVaTQ5eHhBcTdPdnN4TDBzTnc2VVpNekUweDhXdjY3WjEyb2hhd0FNcHpHeW0ybmc5dVQ1aTVJZ3NRczljSU10SnpPdjhQV1NxdkhYVmx4SU9NczJCdzdfaU5sZkJ0XzlDNUJKc0xZNU9IaXFPV0V1TE1RWTBrd3RsMG9XY3FQTXlPMXNhNEZhQW1YTEtZQzVQT0VF?oc=5"
   },
   {
     "sector": "人工智能",
     "title": "Dollar set for weekly gain on stalled US-Iran talks and Middle East uncertainty - Reuters",
     "summary": "Dollar set for weekly gain on stalled US-Iran talks and Middle East uncertainty  Reuters",
     "source": "Reuters",
-    "time": "3小时前",
+    "time": "5小时前",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTzk5d3dIR2hyS2ZlWmhpcWdmNlhidVA2ZktwSFYzcDFISmJLc0VxbUFHOXEwTEZTMV9Jdk1halA0NC10bkRJS3ZFNGdlamxPZE91bXEzS2pBeU0xcEF0bUEyODVnUmpzRHNlak9EWU9GY1NIRklURWJPbE5qVWo5ODFWempuSzFJMGkxckFCLVlIZllleVpLT2ppcFZIUGx6VkRDMFRPVFcwanFNbjhtdHZTLTMtMUk?oc=5"
   },
   {
@@ -92,7 +100,7 @@
     "title": "Pope condemns killing of protesters in Iran, reaffirms stance against war - Reuters",
     "summary": "Pope condemns killing of protesters in Iran, reaffirms stance against war  Reuters",
     "source": "Reuters",
-    "time": "6小时前",
+    "time": "8小时前",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZFlpeHJMUzU4UEhJeHJnQTdaV2NkRktEcENrMC0tNXl0ZUl4NlFWWkxrQkRiNmtaOVp6X3lrNjB4cU85THBDTmpUbVhveGRCYTJtQ1UyTlVqUGpjMHhCN1Z3X1RSTzQybXNvOXhPMDNWMzJkamd1ZGZIa012UlVQTWF4S0dNVjZJWV84MkdiVm9rckxTalBDWjFLSWxNNTRaX1MxZkdLeUtldjRu?oc=5"
   },
   {
@@ -100,7 +108,7 @@
     "title": "Iran's Mehr says air defences heard 'engaging hostile targets' in Tehran - Reuters",
     "summary": "Iran's Mehr says air defences heard 'engaging hostile targets' in Tehran  Reuters",
     "source": "Reuters",
-    "time": "10小时前",
+    "time": "12小时前",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUpzTlRZSk1uVnYyNFVfeEQzQjBuSV9yNXdyaUNMWlZ1WVdtakJGZk5tV0JrSE1uc3U2OTRwRmhNd29yNU5kLWg4Qkg5V2JmdDQ1ZS1kalpGQ0tieURhbHpFODRBOTJiYkNOazRSNEprc1VfenpvTE5rVlQ1NjlpT3VSTmppSlpLbXJsbTJNT0F4bG9ibE5VZGVzZ0FmamZKUzB5Z3pfSlRvY1UwUXhBRmQycjBmWkxCTEFvNXBR?oc=5"
   },
   {
@@ -108,15 +116,7 @@
     "title": "Record demand can't save US airlines from Iran war fuel shock - Reuters",
     "summary": "Record demand can't save US airlines from Iran war fuel shock  Reuters",
     "source": "Reuters",
-    "time": "15小时前",
+    "time": "17小时前",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVVkanc3VEFMcFZrX01YcTRSS3dKYlZ0N1ExN1d5dU1JdHgyZDNDVnlyMDNGYWFYQzZJcFVtaF9aeDRmSy1fdHdxNFpfUWpTVmQtR2Vod3FaSzNOdWRVWjRISFdWcVBlVlJKdUo0MHhsVGt2MEFTV00xbnRKVFpnR2ttNDRUbjBmYVJnblp0U3RmMTdlQWl3dFlFd0RmS2FTWEE?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "American Airlines CEO says merger with United would be 'bad for customers'",
-    "summary": "United CEO Scott Kirby floated the idea of a merger with American to a Trump administration official earlier this year, ",
-    "source": "CNBC",
-    "time": "16小时前",
-    "link": "https://www.cnbc.com/2026/04/23/american-airlines-ceo-merger-united.html"
   }
 ]
