@@ -1,50 +1,66 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Why This Week Could Be Huge For AI Stocks",
-    "excerpt": "After a jump on Friday, a new round of earnings reports could lift AI stocks further.",
-    "author": "Yahoo",
-    "popularity": "🔥 41分钟前",
-    "link": "https://finnhub.io/api/news?id=5ff6e537f30ed1f65b8531eb124b130280b4994a71ebc4cb3f87cb42bf60d64b"
+    "title": "[英伟达] A Quiet Record Before the Storm",
+    "excerpt": "Monday's session on Wall Street was the financial equivalent of a held breath. The S&P 500 ticked up just 0.1% to close at a new all-time record, but ",
+    "author": "ChartMill",
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=8d6a7c7ab8b803335ca5ad88cb933e5c3c363005558a850d05a0b1e98bdfa9be"
   },
   {
     "source": "东财股吧",
-    "title": "【兴全基金总经理陈锦泉】一批优秀企业将推动A股持续震荡上行",
-    "excerpt": "面对能源价格波动、地缘冲突、AI技术革命浪潮带来的强烈不确定性与新机遇，投资该如何进化？在今日由兴证全球基金、财联社、腾讯新闻主办的“2026年度兴全投资人大会”上，兴证全球基金党委书记、总经理陈锦泉表示，单一策略“躺赢”的旧时代已然终结，",
-    "author": "兴全基金总经理陈锦泉",
+    "title": "【浩瀚深度】2025年净利润亏损333.57万元",
+    "excerpt": "浩瀚深度公告，2025年营业收入3.88亿元，同比下降12.35%。净利润亏损333.57万元，上年同期净利润3612.01万元。公司拟向全体股东每10股派发现金红利0.60元（含税）。",
+    "author": "浩瀚深度",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,兴全基金总经理陈锦泉.html"
+    "link": "https://guba.eastmoney.com/list,浩瀚深度.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba Gets Hong Kong Exchange Approval to Spin off Infrastructure RE",
     "excerpt": "By Tracy Qu Alibaba Group has obtained approval from the Hong Kong bourse to proceed with spinning off some of its infrastructure assets via the listi",
     "author": "Finnhub",
-    "popularity": "🔥 7小时前",
+    "popularity": "🔥 10小时前",
     "link": "https://finnhub.io/api/news?id=4d3c3ed993614b527a73ee39f7dc13d3215a52c586a570cd88f3ea6ae9fd290d"
   },
   {
     "source": "东财股吧",
-    "title": "【大和证券】日本央行实施偏紧缩的按兵不动举措，为6月加息铺平道路",
-    "excerpt": "大和证券经济学家Kento Minami表示，日本央行的政策决定是“偏紧缩的按兵不动”，为6月份加息敞开了大门。日本央行在其季度报告中上调了其价格预测，并表示基本通胀预计将在2026财年下半年至2027财年之间达到其目标。Minami说：“",
-    "author": "大和证券",
+    "title": "【起帆电缆】2026年第一季度净利润9534.09万元，同比增长36.27%",
+    "excerpt": "起帆电缆公告，2026年第一季度营业收入52.01亿元，同比增长26.14%。净利润9534.09万元，同比增长36.27%。扣除非经常性损益后净利润9176.25万元，同比增长44.56%。",
+    "author": "起帆电缆",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,大和证券.html"
+    "link": "https://guba.eastmoney.com/list,起帆电缆.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] NIO Joins Forces With Onsemi To Supercharge Next-Gen 900V EVs",
     "excerpt": "NIO (NYSE: NIO) expands partnership with ON Semiconductor (NASDAQ: ON) to advance 900V EV platforms, improve efficiency and performance, and launch ne",
     "author": "Benzinga",
-    "popularity": "🔥 19小时前",
+    "popularity": "🔥 22小时前",
     "link": "https://finnhub.io/api/news?id=b1bae3eaf1a6d23a0468a0e2c1482bfa00e1e356e972abf16bf7408ee17a61a6"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【挪威主权财富基金CEO】AI部分抵消能源通胀，助力市场吸收冲击",
+    "excerpt": "挪威主权财富基金首席执行官尼古拉·坦根表示，人工智能时代的到来正在抵消中东战争引发的能源价格飙升带来的部分通胀影响，帮助市场吸收冲击。坦根周二在接受采访时表示：“这很引人注目，因为根据中东当前局势，你会预计这将传导为能源价格上涨、燃料价格上",
+    "author": "挪威主权财富基金CEO",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,挪威主权财富基金CEO.html"
   },
   {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Tesla, Inc. (TSLA) Falls Shy of Revenue, Beats on Profit in Q1",
     "excerpt": "Tesla, Inc. (NASDAQ:TSLA) is among the 15 Best Big Name Stocks to Buy. On April 22, the company reported financial results for the first quarter of fi",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
+    "popularity": "🔥 4小时前",
     "link": "https://finnhub.io/api/news?id=0c769d5dbaec861874b34d513d7d0b630f869b9429f75c7fb96dffe88aec7e94"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【邦彦技术】2025年净亏损2.12亿元",
+    "excerpt": "邦彦技术公告，2025年营业收入1.37亿元，同比下降57.01%。归属于上市公司股东的净亏损2.12亿元，上年同期净亏损3662.01万元。公司本年度拟不派发现金股利，不送红股，不以资本公积金转增股本。",
+    "author": "邦彦技术",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,邦彦技术.html"
   }
 ]
