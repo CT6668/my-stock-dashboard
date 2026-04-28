@@ -1,58 +1,66 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Michael Burry Has Soured on Palantir and Is Betting on This Other Beat",
-    "excerpt": "Michael Burry of \"The Big Short\" fame thinks Palantir's growth is at risk due to the rise of artificial intelligence (AI) agents.",
+    "title": "[英伟达] Bank of America resets Nvidia stock forecast",
+    "excerpt": "Nvidia (NVDA) has evolved so much over the years. It started as a video game chipmaker. It invented the term Graphics Processing Unit (GPU). Used the ",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=fc23ad6f8e92611231d1733e51bb44486d3481109c96fe39e7998121787d0e9d"
+    "link": "https://finnhub.io/api/news?id=9c2c175ba37a4b499bae7a40854c2acf789282a46a20e30726a443468d687643"
   },
   {
     "source": "东财股吧",
-    "title": "【物产中大】2026年第一季度净利润9.71亿元，同比下降1.30%",
-    "excerpt": "物产中大公告，2026年第一季度营业收入1342.03亿元，同比增长0.79%。净利润9.71亿元，同比下降1.30%。",
-    "author": "物产中大",
+    "title": "【聚飞光电】近期部分细分产品根据成本传导机制和合同约定价格有调整",
+    "excerpt": "聚飞光电(300303)4月28日在互动平台表示，消费电子产业链各产品的价格下行是行业发展的规律，技术迭代、产能释放与市场竞争共同推动产品价格持续走低。近期部分上游原材料及供应链成本高位运行，公司部分细分产品根据成本传导机制和合同约定有进行",
+    "author": "聚飞光电",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,物产中大.html"
+    "link": "https://guba.eastmoney.com/list,聚飞光电.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Alibaba's AI Engine Is Powering A Still Undervalued Comeback",
-    "excerpt": "Alibaba (BABA) looks undervalued despite headwinds. Explore cloud & AI growth targets, e-commerce trends, and DCF value of $147â$250/shareâread no",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=2c8cfedba5631127b99f843fb71e3ef5eb112b529595cba3e8bbb863a56ab002"
+    "title": "[阿里巴巴] Alibaba Gets Hong Kong Exchange Approval to Spin off Infrastructure RE",
+    "excerpt": "By Tracy Qu Alibaba Group has obtained approval from the Hong Kong bourse to proceed with spinning off some of its infrastructure assets via the listi",
+    "author": "Finnhub",
+    "popularity": "🔥 5小时前",
+    "link": "https://finnhub.io/api/news?id=4d3c3ed993614b527a73ee39f7dc13d3215a52c586a570cd88f3ea6ae9fd290d"
   },
   {
     "source": "东财股吧",
-    "title": "【物产中大】2026年第一季度净利润9.71亿元，同比下降1.30%",
-    "excerpt": "物产中大公告，2026年第一季度营业收入1342.03亿元，同比增长0.79%。净利润9.71亿元，同比下降1.30%。",
-    "author": "物产中大",
+    "title": "【2026中国数控机床展览会】“机电软”深度融合 助力高端制造高质量发展",
+    "excerpt": "在2026年中国数控机床展览会（CCMT 2026）上，北京精雕科技集团有限公司以“数智赋能 精准高效”为主题，展现了其以精密数控机床为硬件载体、以数字化制造技术为核心引擎，助力高端制造发展的系统性能力。(新华社)",
+    "author": "2026中国数控机床展览会",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,物产中大.html"
+    "link": "https://guba.eastmoney.com/list,2026中国数控机床展览会.html"
+  },
+  {
+    "source": "NIO·WSB",
+    "title": "[蔚来汽车] NIO Joins Forces With Onsemi To Supercharge Next-Gen 900V EVs",
+    "excerpt": "NIO (NYSE: NIO) expands partnership with ON Semiconductor (NASDAQ: ON) to advance 900V EV platforms, improve efficiency and performance, and launch ne",
+    "author": "Benzinga",
+    "popularity": "🔥 17小时前",
+    "link": "https://finnhub.io/api/news?id=b1bae3eaf1a6d23a0468a0e2c1482bfa00e1e356e972abf16bf7408ee17a61a6"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【海科新源】目前公司核心产品整体处于满产满销状态",
+    "excerpt": "有投资者向海科新源(301292)提问：公司产品现在还是满产满销吗？产品价格波动大幅下跌了吗？对此，海科新源回复：目前公司核心产品整体处于满产满销状态，生产装置高效运行，订单交付有序进行。产品价格受市场需求强度、行业竞争态势以及宏观经济环境",
+    "author": "海科新源",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,海科新源.html"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Elon Musk’s next AI bet could revive a familiar Tesla fear",
-    "excerpt": "Elon Musk is making a career out of defying the market by making risky, outsized bets before the rest of the market wakes up and smells the coffee. Mu",
+    "title": "[特斯拉] Uber CEO has a strong 2-word message for investors",
+    "excerpt": "Uber Technologies (UBER) has been stuck in a familiar debate. Investors see autonomous vehicles as an existential threat, with companies like Waymo an",
     "author": "Yahoo",
-    "popularity": "🔥 5小时前",
-    "link": "https://finnhub.io/api/news?id=b126ce4e94485150eaafe9a81dafa0a26d4a84919eda2e0435fbcf0090d28761"
+    "popularity": "🔥 4小时前",
+    "link": "https://finnhub.io/api/news?id=c9db90e0251b082036caedbd14b52f97396dc698c937325a70e5d0d63e8fd4ec"
   },
   {
     "source": "东财股吧",
-    "title": "【成都燃气】第一季度净利润1.67亿元，同比下降6.90%",
-    "excerpt": "成都燃气公告，2026年第一季度营收为16.13亿元，同比下降3.68%；净利润为1.67亿元，同比下降6.90%。",
-    "author": "成都燃气",
+    "title": "【沃尔核材】公司单通道224G高速通信线已实现量产",
+    "excerpt": "沃尔核材(002130)4月28日在互动平台表示，公司单通道224G高速通信线已实现量产。2026年一季度，公司高速通信线实现较好的增长。",
+    "author": "沃尔核材",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,成都燃气.html"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【海南机场】第一季度净利润1.12亿元，同比增长12.02%",
-    "excerpt": "海南机场公告，2026年第一季度营业收入17.43亿元，同比增长59.87%。净利润1.12亿元，同比增长12.02%。",
-    "author": "海南机场",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,海南机场.html"
+    "link": "https://guba.eastmoney.com/list,沃尔核材.html"
   }
 ]
