@@ -1,50 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Where Will Tesla Be in 10 Years?",
-    "excerpt": "Tesla faces a future that presents anything but a certain outcome.",
+    "title": "[英伟达] Nvidia Stock: Next Stop $246.85 Per Share?",
+    "excerpt": "The GPU giant hit an all-time high this week and still has plenty of room to run.",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=a1ce8d4ade88c01a149841a11e5ef862b54e1af3c0452b99b6e15adcac6fc375"
+    "link": "https://finnhub.io/api/news?id=f0c4870223c130200e5b18e78f159bdaf30398e4541c431a36afc22715081d44"
   },
   {
     "source": "东财股吧",
-    "title": "【俞敏洪回应股权授予】东方甄选成立后没领过工资",
-    "excerpt": "4月30日，俞敏洪发文回应东方甄选股权授予：从东方甄选成立到今天，我没有领过一分钱工资。但董事会代表股东表示，如果没有股权激励，我为东方甄选做出的努力是不对等的。 未来股权兑现后，我得到的现金在完成相应的纳税义务后，会把全部现金用在三个方面",
-    "author": "俞敏洪回应股权授予",
+    "title": "【金瑞矿业】股价异常波动 一季度净亏损108万元",
+    "excerpt": "金瑞矿业公告称，公司股票于2026年4月29日、30日连续两个交易日内日收盘价格涨幅偏离值累计超20%，属异常波动。经自查，公司及控股股东、实控人不存在应披露未披露重大信息，主营业务未变，生产经营正常。2026年一季度，公司净亏损108万元",
+    "author": "金瑞矿业",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,俞敏洪回应股权授予.html"
+    "link": "https://guba.eastmoney.com/list,金瑞矿业.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] French regulator says most e-commerce platform products it tested brea",
     "excerpt": "France's consumer protection authority said on Wednesday that three-quarters of the products it tested from major e-commerce platforms last year faile",
     "author": "Finnhub",
-    "popularity": "🔥 22小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=9057eeb3726eedfde7f70d779d1fc6ffbbec34e1eeaf4700c39b2317110a7438"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【德方纳米】股票交易异常波动，公司目前经营情况未发生重大变化",
+    "excerpt": "德方纳米4月30日公告，公司股票4月28日、4月29日、4月30日连续3个交易日内收盘价涨幅偏离值累计超过30%，属于股票交易异常波动的情况。除已披露的公告外，公司未发现近期公共传媒报道了可能或已经对公司股票交易价格产生较大影响的未公开重大",
+    "author": "德方纳米",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,德方纳米.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] What's Going On With Nio Stock? 2026 Beijing Auto Show In Focus",
     "excerpt": "Nio shares are trading higher Wednesday as traders lean into a product-cycle narrative anchored to the 2026 Beijing Auto Show and a shift from 400V to",
     "author": "Benzinga",
-    "popularity": "🔥 18小时前",
+    "popularity": "🔥 21小时前",
     "link": "https://finnhub.io/api/news?id=8e5ae6901fad040d0c8e753fda7229e3127f720a217c7a6495c1e3e09ba7ff73"
   },
   {
+    "source": "东财股吧",
+    "title": "【江西铜业】拟筹划分拆江铜铜箔至香港联合交易所上市",
+    "excerpt": "江西铜业公告，为进一步优化产业布局、拓宽融资渠道，提高控股子公司江铜铜箔的核心竞争力，持续做强铜箔业务，公司拟筹划分拆江铜铜箔至香港联合交易所上市。本次分拆事项不会导致公司丧失对江铜铜箔的控制权，江铜铜箔仍为公司合并报表范围内的控股子公司，",
+    "author": "江西铜业",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,江西铜业.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Where Will Tesla Be in 10 Years?",
-    "excerpt": "Tesla faces a future that presents anything but a certain outcome.",
+    "title": "[特斯拉] Is Tesla a Buy, Sell, or Hold in 2026?",
+    "excerpt": "Long-term investors' patience is being tested by the latest developmets, or lack of, at Tesla.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=a1ce8d4ade88c01a149841a11e5ef862b54e1af3c0452b99b6e15adcac6fc375"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=764b436e2f48a6ec24a402e848ea45c80ee056c7d8342a973f366cecf59a22d1"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【福赛科技】向特定对象发行股票申请获得深交所受理",
+    "excerpt": "福赛科技4月30日公告，公司于近日收到深交所出具的《关于受理芜湖福赛科技股份有限公司向特定对象发行股票申请文件的通知》。深交所对公司报送的向特定对象发行股票的申请文件进行了核对，认为申请文件齐备，决定予以受理。",
+    "author": "福赛科技",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,福赛科技.html"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] China suspends new autonomous vehicle permits after Baidu outage, Bloo",
-    "excerpt": "China has suspended issuing newlicenses for autonomous vehicles after several robotaxisoperated by Baidu's Apollo Go abruptly stopped inWuhan last mon",
+    "title": "[百度] Baidu to Hold Annual General Meeting on June 5, 2026",
+    "excerpt": "BEIJING, April 30, 2026 /PRNewswire/ -- Baidu, Inc. and 89888 ), a leading AI company with strong Internet foundation, today announced that it will ho",
     "author": "Finnhub",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=d9cab4fefe91966a270e9a23e283d5f9754e7f1f801053fe9bd08d941fbc026a"
+    "popularity": "🔥 4小时前",
+    "link": "https://finnhub.io/api/news?id=702055c26e6a583f9eb8f3189f3ad6951674300aff717546743a2f34c9848861"
   }
 ]
