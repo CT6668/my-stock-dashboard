@@ -1,114 +1,122 @@
 [
   {
-    "sector": "新能源",
-    "title": "节能风电：2026年第一季度净利润2.04亿元，同比下降47.93%",
-    "summary": "节能风电公告，2026年第一季度营业收入11.22亿元，同比下降14.20%。净利润2.04亿元，同比下降47.93%。",
+    "sector": "政策",
+    "title": "匈牙利央行行长瓦尔加：福林此次升值在一定程度上也反映出市场对即将上任政府存在“不合理预期”。",
+    "summary": "匈牙利央行行长瓦尔加：福林此次升值在一定程度上也反映出市场对即将上任政府存在“不合理预期”。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "四方股份：第一季度净利润2.71亿元，同比增长12.08%",
-    "summary": "四方股份公告，2026年第一季度营业收入21.58亿元，同比增长18.05%。净利润2.71亿元，同比增长12.08%。",
+    "title": "匈牙利央行行长瓦尔加：福林升值有助于央行达成通胀目标。",
+    "summary": "匈牙利央行行长瓦尔加：福林升值有助于央行达成通胀目标。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
-    "sector": "科技",
-    "title": "能科科技：2026年第一季度净利润4907.97万元，同比增长0.18%",
-    "summary": "能科科技公告，2026年第一季度营收为3.33亿元，同比下降1.02%；净利润为4907.97万元，同比增长0.18%。",
+    "sector": "综合",
+    "title": "派珀·桑德勒将 Alphabet Inc 目标股价从395美元上调至425美元。",
+    "summary": "派珀·桑德勒将 Alphabet Inc 目标股价从395美元上调至425美元。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "LG化学公布第一季度石化业务营业利润为1650亿韩元，预计亏损480亿韩元。",
+    "summary": "LG化学公布第一季度石化业务营业利润为1650亿韩元，预计亏损480亿韩元。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "菲律宾央行预计4月份通胀将加速",
+    "summary": "菲律宾央行预计4月份通胀率将在5.6%-6.4%之间，高于3月份4.1%的涨幅。通胀风险正在上升，源于国内石油价格大幅上涨、电费上涨和比索贬值带来的价格压力。包括大米、鱼和肉类在内的主要食品价格也有所上涨。菲律宾央行表示：“蔬菜和水果价格的",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "金融",
-    "title": "嘉实原油LOF：二级市场交易价格溢价 提醒投资者注意风险",
-    "summary": "嘉实原油LOF公告称，近期该基金二级市场交易价格明显高于基金份额净值，出现较大幅度溢价。2026年4月29日收盘价为2.402元，截至4月27日，基金份额净值为2.1125元。若4月30日溢价幅度未有效回落，基金有权申请停牌等措施警示风险。",
+    "title": "渣打集团第一季度盈利超预期 淡化中东冲突的影响",
+    "summary": "渣打集团公布创纪录的第一季度业绩，主要受财富管理业务提振，并淡化了中东冲突的影响。这家总部位于伦敦的银行公布第一季度税前利润25亿美元，高于分析师预估的20.9亿美元，得益于财富管理净新增资金流入强劲。渣打首席执行官Bill Winters",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "宏华数科：第一季度净利润4155.81万元，同比下降61.64%",
-    "summary": "宏华数科公告，2026年第一季度营收为3.68亿元，同比下降23.00%；净利润为4155.81万元，同比下降61.64%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "科技",
-    "title": "青云科技：2026年第一季度净亏损1372.01万元",
-    "summary": "青云科技公告，2026年第一季度营业收入4763.05万元，同比增长1.32%。净亏损1372.01万元，上年同期净亏损2290.07万元。",
+    "title": "10年期美国国债收益率上涨1.4个基点，报4.429%。30年期美国国债收益率上涨1.7个基点，至5",
+    "summary": ".003%。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "外高桥：2026年第一季度净利润1482.28万元，同比下降63.63%",
-    "summary": "外高桥公告，2026年第一季度营业收入12.8亿元，同比下降0.58%。净利润1482.28万元，同比下降63.63%。",
+    "title": "美“猎鹰重型”运载火箭执行通信卫星发射任务",
+    "summary": "美国太空探索技术公司29日使用“猎鹰重型”运载火箭执行发射任务，将美国卫星通信供应商卫讯公司的“ViaSat-3 F3”大型通信卫星送入地球同步转移轨道。美国东部时间29日10时13分（北京时间29日22时13分），“猎鹰重型”运载火箭从佛",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "人民网：第一季度净亏损3325.89万元",
-    "summary": "人民网公告，2026年第一季度营业收入2.98亿元，同比下降2.44%。归属于上市公司股东的净利润-3325.89万元，上年同期为-1110.96万元。基本每股收益-0.0301元／股，上年同期为-0.01元／股。",
+    "title": "巴克莱将微软目标价从600美元下调至545美元。",
+    "summary": "巴克莱将微软目标价从600美元下调至545美元。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "默茨内阁批准医疗改革方案及预算纲要。",
-    "summary": "默茨内阁批准医疗改革方案及预算纲要。",
+    "title": "雷诺集团申请重组印度业务，力争2030年实现20亿欧元年出口额",
+    "summary": "雷诺集团4月30日宣布，已向印度国家公司法法庭（NCLT）提交申请，寻求批准对其印度业务进行重组。这项拟议的重组计划旨在简化并理顺公司的运营架构。具体方案包括将动力总成制造业务拆分出来，成立一家独立的专门实体；而整车制造与销售业务则将整合归",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!'",
-    "summary": "Oil prices continued to rise on Wednesday after U.S. President Donald Trump appeared to threaten Iran in a TruthSocial p",
-    "source": "CNBC",
-    "time": "20分钟前",
-    "link": "https://www.cnbc.com/2026/04/29/trump-iran-threat-ai-picture-gun-war-strait-of-hormuz.html"
-  },
-  {
-    "sector": "人工智能",
-    "title": "CNBC Daily Open: UAE leaves OPEC adrift",
-    "summary": "Markets grapple with the UAE's shock OPEC exit, while also contending with a host of earnings reports and a Fed decision",
-    "source": "CNBC",
-    "time": "2小时前",
-    "link": "https://www.cnbc.com/2026/04/29/cnbc-daily-open-uae-leaves-opec-adrift.html"
+    "title": "Trump says he discussed a Ukraine ceasefire with Putin - Reuters",
+    "summary": "Trump says he discussed a Ukraine ceasefire with Putin  Reuters",
+    "source": "Reuters",
+    "time": "8小时前",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGI0aXBrSFBUMUFQZFFEUjE4YUk3RzROVDVYTXlLRE1NVVg2X1lNMktxbkhpMFJEdldlWEo1Mk1vMERscEJWU3dXMk9NU21Vc1ZGUi1GVXF1blBxQ09FZC1DYUo0TTczd2FMMTZabnBiampub2NMNHZTbDhEUHAwVldtVG13UjUxUlcyM2FMWkRGOTd5UmVlQXFn?oc=5"
   },
   {
     "sector": "海外市场",
-    "title": "Stocks rally on earnings optimism as Fed meeting looms - Reuters",
-    "summary": "Stocks rally on earnings optimism as Fed meeting looms  Reuters",
-    "source": "Reuters",
-    "time": "7小时前",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9od0NpclZ4VU9xb3Q5Qm9fNFk3ejI5a3ZrWmlTMmpqb0lWT0g3ZExrdmh6MnlfZTRabkVXS1hENXlEakN6QVJFaE1COWk1N0xfdTV1d2EyUS1uTjlsUnV3SVdoTU00RWtidE1NRDFBOVhaY2JQVEJyQkRfZw?oc=5"
+    "title": "Major Fed rate dissent, Powell to stay on — plus, Boeing takes an unwarranted hit",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hou",
+    "source": "CNBC",
+    "time": "9小时前",
+    "link": "https://www.cnbc.com/2026/04/29/major-fed-rate-dissent-powell-to-stay-on-plus-boeing-takes-an-unwarranted-hit.html"
   },
   {
-    "sector": "人工智能",
-    "title": "Gold eases on higher oil prices, markets await Powell's remarks - Reuters",
-    "summary": "Gold eases on higher oil prices, markets await Powell's remarks  Reuters",
+    "sector": "海外市场",
+    "title": "Gold extends fall after US Fed keeps rate unchanged - Reuters",
+    "summary": "Gold extends fall after US Fed keeps rate unchanged  Reuters",
     "source": "Reuters",
-    "time": "8小时前",
+    "time": "9小时前",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa28tUzNNX3Jya0JvSlVmOXFUMXc1dk01a210RUFFSFE5OGNmQm1hdnJYUF9ldkxyTFJxbFFzQl80X051RkVZWFotX3NMWlk4WmdrYUtxUWRFRU52OUlUbEZZYXl2VHNzVFBhaFdfbXh1MUdpeVRzQ1plZ1lwbklyRkVzVTBKNkM4Z3RQQV9WLUY0eUwwNUpYeFBCU1hwVGdrVnYxOFpzYV9mdw?oc=5"
   },
   {
     "sector": "人工智能",
-    "title": "US imposes sanctions on 35 individuals, entities for aiding Iran's sanctions evasions - Re",
-    "summary": "US imposes sanctions on 35 individuals, entities for aiding Iran's sanctions evasions  Reuters",
+    "title": "Iranian soccer officials set to miss pre-World Cup FIFA meeting after turning back at Toro",
+    "summary": "Iranian soccer officials set to miss pre-World Cup FIFA meeting after turning back at Toronto airport  Reuters",
+    "source": "Reuters",
+    "time": "10小时前",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ3VSeUtPcnhDNGxTakFYc3g3WWp2YWptcjJRdE1JUnhOUF90czJqa2d6Y28wNTBxdnk3LU5DWk5Ibi1HbFdXazBjcUlFNmlwYTNBRDUyTEpyY0IySEp3WmQ1QkFZYUJWZFFVYU9WTzlzOHdPS3lIQmQzT2NmaEJSbzBoQlNicUYwRVZJdFlReTBNRjE4RjNlTFduXzFnZnhTb2RTdGtfZUdGZVRMdTBBcWJ6NGF3cFFubVF3eFduSWU2WlUy?oc=5"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Hormuz shipping traffic remains at a trickle as US-Iran deadlock deepens - Reuters",
+    "summary": "Hormuz shipping traffic remains at a trickle as US-Iran deadlock deepens  Reuters",
     "source": "Reuters",
     "time": "12小时前",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVk3REZRcV85OXdkbXhkUUtocGdLSld3OWN6VVEzYTFPRlJEdV9IczlLSjA0VEVvSmNCOGlWQVh3T0o5cmpRSzdvN3Y3RnFuVXg4ai0zODJuTUhIVWhyeExzSzQ3T1Z6enBPV0MtT3FBODNUQ1hEV2tNSksyZ3Y3LWNxSGltc184c3FUejZhQXd6MVVKSno3RVZUSUdEd2FUNmMwbG1qNFk3aVNHN19PbUlGbktxbnRLeDBFQkFwSHRiY2VmN2NFNA?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMDBXVTc2T0p2eU9nX1JnMTBpTlVVdWE3UW9GaXFYRi1NSGFKZE42N1FUUjBiSUtYU2dudzZWVFp4R3Fna3ROQXlWTnV2MFpidmdRRkJ4UDEwMUw4SHNtSzRWbk9PSmVFVG5Xankza2FNN2hLNms5Z25VeGtNcnRSbkFuZTVYb3hDSHNBY29vd3Y4THhTNHZVb3B4dEQxU2pZVjdPdVA5YVAzNkN3eHB0VFh2WWcxRnVGZlE?oc=5"
   }
 ]
