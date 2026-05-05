@@ -1,50 +1,58 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] AI Chipmakers in Korea, Taiwan Drive Asian Stocks to Record",
-    "excerpt": "(Bloomberg) -- A rally in shares tied to artificial intelligence helped Asia’s stock benchmark wipe out losses sparked by the Iran war and climb back ",
+    "title": "[英伟达] As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating ",
+    "excerpt": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=b6b77db79ddf1941c8dffef5312e77d23e0c0ea87b5d91f96537890a84b020d0"
+    "popularity": "🔥 56分钟前",
+    "link": "https://finnhub.io/api/news?id=838442749809809de701dbb0d90771f117a5ce2d1960882682a2b90f70ab220a"
   },
   {
     "source": "东财股吧",
-    "title": "【中集集团】集装箱制造行业中长期受益于全球贸易增长，但阶段性会有周期波动",
-    "excerpt": "中集集团5月4日在互动平台表示，受前几年集装箱产销量较大影响，我国集装箱制造行业在2026年的确承受较大的量价下行压力，本行业周期性较强，虽然中长期受益于全球贸易增长，但阶段性会有周期波动。",
-    "author": "中集集团",
+    "title": "【途牛“五一”盘点】超60城开启连休超长假期 四成用户错峰出发",
+    "excerpt": "5月5日，途牛发布《2026五一出游消费盘点》显示，今年“五一”假期，超60个城市的中小学集中开启“春假+五一”连休模式，形成7天至8天的超长假期。在春假带动下，今年途牛用户“五一”假期旅游呈现规划前置、错峰出游的显著特点。假期出游热潮自4",
+    "author": "途牛“五一”盘点",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,中集集团.html"
+    "link": "https://guba.eastmoney.com/list,途牛“五一”盘点.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] China's robot-hand maker Linkerbot aims for $6 billion valuation",
-    "excerpt": "STORY: This Chinese startup is building robot hands that might one day make a surgeon jealous. Linkerbot is aiming for a $6 billion valuation in its n",
-    "author": "Finnhub",
-    "popularity": "🔥 6小时前",
-    "link": "https://finnhub.io/api/news?id=c75f6a862a9e7b2a47f2c916683013f9497ee1399e08902aff4a26e4ab7087ae"
+    "title": "[阿里巴巴] Nvidia's Forbidden Fruit: Chinese Buyers Shell Out $1M Per B300 Server",
+    "excerpt": "Chinese tech firms are paying roughly $1 million apiece for Nvidia&#39;s B300 servers — almost twice what U.S. buyers pay.",
+    "author": "Benzinga",
+    "popularity": "🔥 14小时前",
+    "link": "https://finnhub.io/api/news?id=f30af5be07fc6343fdbcd1416a700e14b77ebf6308744b6fe40cd5ccb85ba75c"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【摩根士丹利】降中国中免目标价至77港元",
+    "excerpt": "摩根士丹利就中国中免(01880.HK)发布研报称，考虑到近期市场趋势及该公司首季业绩，将2026至2027年每股盈利预测下调6%至7%，并将收入预测各下调13%；H股目标价由89 港元下调至77港元，评级“与大市同步”。",
+    "author": "摩根士丹利",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,摩根士丹利.html"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] NIO Stock Drops. The U.S. Isn’t the Only Country With an EV Problem.",
-    "excerpt": "China is facing an EV slowdown, just like the U.S. Well, not exactly like the U.S. Deliveries from several Chinese electric vehicle makers slipped in ",
-    "author": "Yahoo",
-    "popularity": "🔥 2天前",
-    "link": "https://finnhub.io/api/news?id=1bb5b37b1c44b0dba82872ee8511d5d3b66f3fced5df61de9e6a2426997f07ea"
+    "title": "[蔚来汽车] NIO : Achieves 22.8% YoY Growth with 29,356 Deliveries in April",
+    "excerpt": "In April 2026, NIO Inc. delivered 29,356 vehicles, representing an increase of 22.8% year-over-year. The deliveries consisted of 19,024 vehicles from ",
+    "author": "Finnhub",
+    "popularity": "🔥 20小时前",
+    "link": "https://finnhub.io/api/news?id=aefa69b1f9ba099aa3e52c6a7215bd4b468e8cc44e8a66f8bbd35bd7d0d4b999"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla registrations in Sweden rise 111% year-on-year in April",
-    "excerpt": "Registrations of new Teslacars in Sweden rose 111.3% in April from a yearearlier, to 429 vehicles, data from Mobility Sweden showed onMonday, mirrorin",
+    "title": "[特斯拉] Musk left OpenAI to enter AI race, Brockman says at trial",
+    "excerpt": "Los Angeles, United States, May 4 .- Billionaire Elon Musk left OpenAI to compete in the artificial intelligence sector through one of his own compani",
     "author": "Finnhub",
-    "popularity": "🔥 6小时前",
-    "link": "https://finnhub.io/api/news?id=75ad8960c79c5384963f6e2319e4491cd05bbb54d6b3b5abb19245740006f349"
+    "popularity": "🔥 4小时前",
+    "link": "https://finnhub.io/api/news?id=cffdbc0b658fda6cced73c5ce058789ddb73cde82e12885428352077ffc25114"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] Robotaxis Set To Explode Into $54 Billion Market By 2035: Analyst",
-    "excerpt": "Global robotaxi sales to hit $54B by 2035 as L4 fleets scale across US, China and Europe, driving a new era of autonomous mobility.",
+    "title": "[百度] 5 Communication Services Stocks With Whale Alerts In Today's Session",
+    "excerpt": " ",
     "author": "Benzinga",
-    "popularity": "🔥 2天前",
-    "link": "https://finnhub.io/api/news?id=6aca65487c5535ba55648c61fe38c090c86bea668706dfff97364ad355686591"
+    "popularity": "🔥 14小时前",
+    "link": "https://finnhub.io/api/news?id=1b105264e59f3824188dd1dcf7d7145da8ba1310e35354ef97d81ae8dc756e6a"
   }
 ]
