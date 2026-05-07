@@ -1,90 +1,98 @@
 [
   {
-    "sector": "综合",
-    "title": "现代重工第一季度合并营收为5.92万亿韩元，预期为5.77万亿韩元。现代重工第一季度合并净利润为77",
-    "summary": "38亿韩元，低于预期的6123.7亿韩元。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "金融",
-    "title": "美银：姆巴佩将带领法国击败西班牙夺得世界杯冠军",
-    "summary": "美国银行分析师预测，法国队将拿下本年度国际足联世界杯冠军，在决赛中击败西班牙队，队史第三次问鼎大力神杯。美银全球研究部对65名业内人士开展调研，结果显示：法国前锋基利安・姆巴佩将荣膺赛事最佳射手，西班牙小将拉明・亚马尔获评赛事最佳球员。阿根",
+    "sector": "政策",
+    "title": "香港或于7月开始容许狗进入食肆 本月18日起接受申请",
+    "summary": "香港特区政府食物环境卫生署（食环署）今日（7日）公布，将于5月18日开始接受食肆提交申请，预计在7月内开始容许狗只进入获准的食肆。 食环署发言人表示，《2026年食物业（修订）规例》将于明日（8日）正式生效，但需注意，食肆必须先提出申请，获",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "两年期日本国债收益率下跌1个基点至1.370%。5年期日本国债收益率下跌2个基点，至1.855%。",
-    "summary": "两年期日本国债收益率下跌1个基点至1.370%。5年期日本国债收益率下跌2个基点，至1.855%。",
+    "title": "外交部：中方坚定支持古巴维护国家主权和安全",
+    "summary": "5月7日，外交部发言人林剑主持例行记者会。有记者就美方升级对古巴制裁相关问题提问。对此，林剑表示，对于美方出台有关行政令，中方日前已经表明了立场。我愿重申，美国变本加厉对古巴实施非法单边制裁，严重侵犯古巴人民生存权、发展权，严重违反国际关系",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "王毅外长会见美国参议员是否讨论美伊局势？外交部回应",
+    "summary": "5月7日，外交部发言人林剑主持例行记者会。法新社记者就提问，今天中国外交部长王毅与美国参议员戴安斯会谈，中方是否就美国与伊朗如何达成持久和平协议提出了建议？如果是的话，具体建议内容是什么？中方是否倡导了伊朗有和平利用核能的正当权利？最后，中",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "外交部：将一如既往支持委内瑞拉维护自身主权",
+    "summary": "5月7日，外交部发言人林剑主持例行记者会。有记者就委内瑞拉局势相关问题提问。对此，林剑表示，4个月前，美国悍然对委内瑞拉实施军事打击，并强行控制马杜罗总统夫妇，这种霸权行径严重违反国际法，侵犯委内瑞拉主权，威胁拉美和加勒比地区和平稳定，中方",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "巴拉圭总统正在台湾地区，外交部回应",
+    "summary": "5月7日，外交部发言人林剑主持例行记者会。 埃菲社记者提问，巴拉圭总统及其率领的商界领袖代表团目前正在台湾地区，旨在加强双方之间的联系。中方对此有何回应？ 林剑表示，一个中国原则是国际关系的基本准则和国际社会普遍共识，世界上已有183个国家",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "外交部：中方对阿联酋遭受袭击深表关切",
+    "summary": "5月7日，外交部发言人林剑主持例行记者会。有记者就阿联酋遭受袭击一事提问。对此，林剑表示，中方对阿联酋遭受袭击深表关切，对加剧地区局势紧张的行为坚决反对。中方始终认为，中东海湾国家主权安全和领土完整应当得到切实尊重，平民和非军事目标应当得到",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "欧盟各国与立法者就简化版人工智能法规达成初步协议",
-    "summary": "欧盟各国与欧洲议会议员周四就一项经简化的里程碑式人工智能(AI)法规达成一致，其中包括推迟实施时间。批评人士认为，此举表明欧洲向科技巨头让步。这项初步协议是在历经九小时谈判后达成的，未来数月内仍需获得欧盟各国政府和欧洲议会的正式批准。“今天",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "金融",
-    "title": "南非公共投资公司资产因伊朗冲突损失3500亿兰特",
-    "summary": "南非《商业日报》援引首席执行官帕特里克・德拉米尼消息称，受伊朗局势冲突影响，南非公共投资公司在四周内管理资产规模蒸发近3500 亿兰特。南非公共投资公司受托管理政府雇员养老基金。",
+    "title": "中美正考虑启动有关AI的官方讨论 外交部回应",
+    "summary": "5月7日，外交部发言人林剑主持例行记者会。 有记者提问，华尔街日报报道称，中美双方正在考虑启动有关人工智能的官方讨论，也就是下周在北京中美元首会晤期间讨论AI，美国财长贝森特将会牵头，中方谁是牵头人？ 林剑表示，中美双方就特朗普总统访华事保",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "杰富瑞将宝马目标价从90欧元上调至92欧元。",
-    "summary": "杰富瑞将宝马目标价从90欧元上调至92欧元。",
+    "title": "外交部回应法国拟简化归还文物程序",
+    "summary": "今天，外交部例行记者会上，有记者问：法国国民议会以141票赞成、0票反对的投票结果，审议通过了旨在简化非法所获他国文物归还程序的法律草案。中方对此有何看法？对此，外交部发言人林剑表示，中方赞赏法方推动流失文物返还原属国的责任担当，期待法案能",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
-    "sector": "政策",
-    "title": "国务院国资委党委认真传达学习贯彻习近平总书记近期重要讲话重要指示批示精神 ",
-    "summary": "5月6日，国务院国资委党委召开扩大会议。 国资央企要提高政治站位，切实把思想和行动统一到习近平总书记重要讲话精神上来，推动基础研究和原始创新成为中央企业科技创新中心任务，保持“十年磨一剑”的恒心和毅力，加强正向研发、正向设计，加快从跟随式创",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "巴基斯坦KSE-100指数开盘上涨0.4%，至172,444.10点。",
-    "summary": "巴基斯坦KSE-100指数开盘上涨0.4%，至172,444.10点。",
+    "sector": "科技",
+    "title": "游戏板块走高，中青宝20cm涨停",
+    "summary": "游戏板块走高，中青宝20cm涨停，汤姆猫、掌趣科技、凯撒文化、昆仑万维、盛天网络等纷纷走高。相关ETF方面，游戏ETF华夏（159869）涨1.22%，成交额4.53亿元，游戏ETF华泰柏瑞（516770）涨1.17%，成交额2326.49",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "受中东战事波及 巴西牛肉出口持续下滑",
-    "summary": "巴西是全球最大的牛肉出口国之一，向全球超过170个国家和地区出口牛肉。不过，近期中东局势紧张，已导致巴西牛肉对中东国家的出口连续两个月下滑。巴西肉类出口工业协会近日在接受总台记者采访时表示，中东战事给巴西牛肉出口造成了巨大损失。据巴西肉类出",
+    "title": "外交部：台湾问题是中国核心利益中的核心",
+    "summary": "5月7日，外交部发言人林剑主持例行记者会。总台央视记者提问，中美元首会晤在即，外界猜测台湾问题是中方首要关切议题。发言人对此有何评论。林剑表示，台湾问题是中国核心利益中的核心，是中美关系政治基础中的基础。中方维护国家统一和领土完整的决心坚定",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
-    "sector": "综合",
-    "title": "据伊朗光明通讯社7日报道，定期向也门运送液化石油气的一艘伊朗油轮当天成功突破美国封锁进入霍尔木兹海峡",
-    "summary": "。此外，另一艘伊朗油轮也已进入霍尔木兹海峡。报道说，空载油轮的到来为伊朗的石油储存和生产争取了更多时间。（新华社）",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "sector": "海外市场",
+    "title": "China asks banks to pause new loans to US-sanctioned refiners, Bloomberg News reports - Re",
+    "summary": "China asks banks to pause new loans to US-sanctioned refiners, Bloomberg News reports  Reuters",
+    "source": "Reuters",
+    "time": "4小时前",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGJYLUVjYUUxelBEaEJxb3hQUjR1d3hsTEZyZC1OQV9tV3VKZG5OczBPNGctUXk3X3dSNVA3eVlsWEFFWFVXWS1HeHU2MXBTcllfcWVuSzNxT1VoY2RfREtiWGdVcTYxMzdYbjRjYkoxdFJYY3V3b29jbTRFbWhJd1FYVmZXdXBQc21JMjRpa1hDTGFFLTh1cDljNVdNXzAtSHZib0dtYTNzZjRFX2lnNHBON0JwcnZqLUZPUDd3bURlVzVYYzk5Q01qMk9fZw?oc=5"
   },
   {
     "sector": "人工智能",
     "title": "S&P 500 and Nasdaq notch records; AMD results spark AI stock rally - Reuters",
     "summary": "S&P 500 and Nasdaq notch records; AMD results spark AI stock rally  Reuters",
     "source": "Reuters",
-    "time": "5小时前",
+    "time": "7小时前",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3V5RlZkMXFBanpJNkJ0YVlKRkxYamlXOF9kbjl4RDJtZjctOTd2cHZucnI4ckdCbXZ3LUhCQjdnckU4SVZwVU9jeE54Zzk0dy03RGlBMFFLZVRreHdBemhuOFpnY2dIWVVCdTZva3JFWHViN2dlclF1TnYwSWZSMlp4RjFWZHZKa1cxanM2SG5xVHZzN0VxNG5sQUF0UENxbERpdGpKbXFzakVn?oc=5"
   },
   {
@@ -92,7 +100,7 @@
     "title": "Will Elon Musk win his lawsuit against Sam Altman's OpenAI? Here's what prediction markets",
     "summary": "Out of all live events related to Elon Musk, trading activity on his suit against OpenAI is the second highest out of al",
     "source": "CNBC",
-    "time": "8小时前",
+    "time": "10小时前",
     "link": "https://www.cnbc.com/2026/05/06/elon-musk-odds-low-to-win-openai-suit.html"
   },
   {
@@ -100,7 +108,7 @@
     "title": "Snap issues cautious guidance as Perplexity deal ends, Middle East 'geopolitical situation",
     "summary": "Snap reported first-quarter earnings and provided cautious sales guidance while revealing it no longer has a deal with t",
     "source": "CNBC",
-    "time": "8小时前",
+    "time": "10小时前",
     "link": "https://www.cnbc.com/2026/05/06/snap-q1-earnings-report-2026.html"
   },
   {
@@ -108,15 +116,7 @@
     "title": "Why Boeing and Honeywell are rallying — plus, the AI trade gets another boost",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hou",
     "source": "CNBC",
-    "time": "9小时前",
+    "time": "11小时前",
     "link": "https://www.cnbc.com/2026/05/06/why-boeing-and-honeywell-are-rallying-plus-the-ai-trade-gets-a-boost-.html"
-  },
-  {
-    "sector": "人工智能",
-    "title": "One CMA CGM vessel hit in Strait of Hormuz, another exits Gulf - Reuters",
-    "summary": "One CMA CGM vessel hit in Strait of Hormuz, another exits Gulf  Reuters",
-    "source": "Reuters",
-    "time": "10小时前",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2IwVlNkTldxSHk5VmRFYWtaVTdIOEJLeWU5RTJka1prZTBMbllzQWwyMVdwRU90eHhLeVNUZkdIZWZ6ZHdacnM5VUVMMzNLall0M2swb0RMWFAxZ2RGaWYxR3ZGTmdxSFhNODdWUzlXNlc4bTRNSWVCS0VCWk5hNDEydjhCeDEyMEVBWVZKcnB1UUpRa2pTMW5vVWo?oc=5"
   }
 ]
