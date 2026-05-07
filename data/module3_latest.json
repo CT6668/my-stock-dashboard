@@ -1,43 +1,67 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] This \"Magnificent Seven\" Stock Is the Cheapest of Them All. Is It a Bu",
-    "excerpt": "Meta Platforms is trading at a relatively low forward P/E ratio.",
-    "author": "Yahoo",
-    "popularity": "🔥 49分钟前",
-    "link": "https://finnhub.io/api/news?id=2a7bace5e48970ef02918a5ed34a045a238519a85246ba8229d23ecfc6bf87e5"
+    "title": "[英伟达] Peace Hopes, Chip Fireworks, and a Disney Encore",
+    "excerpt": "A ceasefire that isn't done yet, a chipmaker that reset the bar for the entire sector, and a Disney that reminded everyone it knows how to grow. Wedne",
+    "author": "ChartMill",
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=11a50b978f818844d3ff69832579ed2dbe1f6724db6a09e0f9527814bbdc5a38"
   },
   {
     "source": "东财股吧",
-    "title": "【5月7日】“农产品批发价格200指数”比昨天下降0.15个点",
-    "excerpt": "据农业农村部监测，5月7日“农产品批发价格200指数”为115.96，比昨天下降0.15个点，“菜篮子”产品批发价格指数为116.53，比昨天下降0.17个点。截至今日14:00时，全国农产品批发市场猪肉平均价格为15.12元/公斤，比昨天",
-    "author": "5月7日",
+    "title": "【维业股份】涉商品房销售合同纠纷 需执行近9248.43万元标的",
+    "excerpt": "维业股份公告称，公司近日收到云南省丽江市中级人民法院发来的《执行通知书》《报告财产令》等法律文书。此前，云南省高级人民法院判决公司继续履行协议，购买剩余168套房屋，并支付违约金1541.40万元。此次案件执行标的为9248.43万元，执行",
+    "author": "维业股份",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,5月7日.html"
+    "link": "https://guba.eastmoney.com/list,维业股份.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba Group Quant Initiation Analysis: Full-stack AI inflection mask",
     "excerpt": "Alibaba Group Quant Initiation Analysis: Full-stack AI inflection masked by cyclical noise",
     "author": "Fintel",
-    "popularity": "🔥 7小时前",
+    "popularity": "🔥 10小时前",
     "link": "https://finnhub.io/api/news?id=211e6453fdc2d5e8280159cc1e3e2005da9a603d4c48a43cae7ce3a8224748ff"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【西部材料】股价异常波动 2025 年营收增 9.67%、净利润降 34.48%",
+    "excerpt": "西部材料公告称，4 月 30 日、5 月 6 日、5 月 7 日公司股票连续三个交易日收盘价格涨幅偏离值累计超 20%，属异常波动。截至 5 月 7 日，收盘价 73.47 元/股，静态市盈率 347.00、市净率 9.63，均高于同行业。",
+    "author": "西部材料",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,西部材料.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] EV Company News For The Month Of April 2026",
     "excerpt": "March 2026 EV market update: global sales up 5%, Europe surges, China and US fall; plus shipping and EV maker news (Tesla, Geely).",
     "author": "SeekingAlpha",
-    "popularity": "🔥 7小时前",
+    "popularity": "🔥 10小时前",
     "link": "https://finnhub.io/api/news?id=345a68b7d3aa46174e9e277e468e9b544a5b36ce1709857e1595dbf399e5dea9"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【华勤技术】2026年一季度营收增长16% 净利润增长26%",
+    "excerpt": "华勤技术公告称，2026年一季度公司收入总体增长16%，移动终端、AIOT、笔电、创新业务同比分别增长超25%、50%、30%、100%，数据中心业务因基数高同比略降。一季度总体毛利率8.5%，归母净利润10.6亿元，增长26%；归母扣非净",
+    "author": "华勤技术",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,华勤技术.html"
   },
   {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] This \"Magnificent Seven\" Stock Is the Cheapest of Them All. Is It a Bu",
     "excerpt": "Meta Platforms is trading at a relatively low forward P/E ratio.",
     "author": "Yahoo",
-    "popularity": "🔥 49分钟前",
+    "popularity": "🔥 3小时前",
     "link": "https://finnhub.io/api/news?id=2a7bace5e48970ef02918a5ed34a045a238519a85246ba8229d23ecfc6bf87e5"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【ST新华锦】撤销部分其他风险警示",
+    "excerpt": "ST新华锦公告，公司因被间接控股股东新华锦集团及其关联方非经营性资金占用而触及的其他风险警示已完全消除，上海证券交易所已对上述其他风险警示予以撤销。但中兴华对公司2025年度财务报告内部控制的有效性进行审计，并出具了否定意见的《内部控制审计",
+    "author": "ST新华锦",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,ST新华锦.html"
   },
   {
     "source": "BIDU·雪球",
