@@ -1,27 +1,35 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Nvidia Stock Has Huge Momentum. Time to Buy?",
-    "excerpt": "The stock has soared about 19% over the last 30 days. Have investors who didn't buy shares earlier this year missed out?",
-    "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=6e8a44d7566560800078a21c01d547eed8ad5e8d8522d034d6632fd8d2170d1a"
+    "title": "[英伟达] Cybersecurity Steals the Show as Iran Talks Leave Wall Street Guessing",
+    "excerpt": "Two stocks were up 20% and 31% on Thursday. The rest of the market closed in the red. That contrast pretty much tells you everything you need to know ",
+    "author": "ChartMill",
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=5bf557693c64abca0cb8400da5c88164207e1a6172c43f57dab3c628bb239117"
   },
   {
     "source": "东财股吧",
-    "title": "【德意志银行高管】美伊停战情境下 油价可能下探每桶85美元",
-    "excerpt": "德意志银行私人银行部门新兴市场首席投资官Jacky Tang接受采访时表示，在“脆弱”停火维系的基本情境下，油价到二季度末可能会跌至每桶85-90美元。 他指出，基本情境 发生的概率超过60%，大部分能源供应到二季度末将恢复。Jacky T",
-    "author": "德意志银行高管",
+    "title": "【平高电气】中标国家电网项目合计约13.27亿元",
+    "excerpt": "平高电气(600312.SH)公告称，公司及子公司、合营公司中标国家电网多个项目，中标金额合计约13.27亿元，占2025年营收的10.60%。",
+    "author": "平高电气",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,德意志银行高管.html"
+    "link": "https://guba.eastmoney.com/list,平高电气.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] From B2B to A2A: Alibaba.com Reimagines Global Trade with $1M+ AI-Powe",
     "excerpt": "CoCreate 2026 Invites Founders, SMEs and Students to Build the Future with AI-Integrated ProductsNEW YORK, May 7, 2026 /CNW/ -- Alibaba.com, the world",
     "author": "Finnhub",
-    "popularity": "🔥 22小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=0d945eebdee6f1982e458ac4732f8e086fe16db49ffb702f8cdc6bb715a7bbff"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【燕麦科技】2025年度现金分红总额调整为8047.83万元",
+    "excerpt": "燕麦科技公告，公司2025年度利润分配方案进行调整，维持每10股派发现金红利5.5元不变，现金分红总额由7933.77万元（含税）调整为8047.83万元（含税）。调整原因为公司总股本变动，可参与利润分配的股数增加。",
+    "author": "燕麦科技",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,燕麦科技.html"
   },
   {
     "source": "NIO·WSB",
@@ -32,19 +40,35 @@
     "link": "https://finnhub.io/api/news?id=345a68b7d3aa46174e9e277e468e9b544a5b36ce1709857e1595dbf399e5dea9"
   },
   {
+    "source": "东财股吧",
+    "title": "【重庆路桥】2025年营收1.13亿元 拟10派0.26元",
+    "excerpt": "重庆路桥公告称，2025年实现营业收入1.13亿元，同比下降0.13%；净利润1.14亿元，同比下降27.59%。公司拥有嘉华大桥特许经营权，应收通行费全额到账，石门大桥资产仍由公司代管。此外，公司参股渝涪高速、重庆银行等企业获红利。公司拟",
+    "author": "重庆路桥",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,重庆路桥.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Dow Jones Futures: Oil Prices Rise As U.S., Iran Clash; Rocket Lab, Cl",
-    "excerpt": "Iran deal doubts hit stocks Thursday, but Nvidia, Tesla were strong. CoreWeave, Rocket Lab, Cloudflare and IREN were earnings movers late. The jobs re",
-    "author": "Yahoo",
-    "popularity": "🔥 6小时前",
-    "link": "https://finnhub.io/api/news?id=b2395a705f778a46252794ccc5202d0fd357d9d867f4a11b6c66ce0a6975c925"
+    "title": "[特斯拉] Cybersecurity Steals the Show as Iran Talks Leave Wall Street Guessing",
+    "excerpt": "Two stocks were up 20% and 31% on Thursday. The rest of the market closed in the red. That contrast pretty much tells you everything you need to know ",
+    "author": "ChartMill",
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=5bf557693c64abca0cb8400da5c88164207e1a6172c43f57dab3c628bb239117"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【宇通客车】2025年度拟每股派发现金红利2元（含税）",
+    "excerpt": "宇通客车公告称，公司2025年度利润分配方案已获2026年4月27日的2025年年度股东会审议通过。本次利润分配以总股本22.14亿股为基数，每股派发现金红利2元（含税），共计派发现金红利44.28亿元。股权登记日为2026年5月14日，除",
+    "author": "宇通客车",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,宇通客车.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Baidu AI Chip Unit Starts Dual-Listing Push in Shanghai, Hong Kong",
     "excerpt": "By Sherry Qin Baidu's AI chip unit has started the tutoring process for a proposed listing on China's Nasdaq-style STAR market, laying the groundwork ",
     "author": "Finnhub",
-    "popularity": "🔥 4小时前",
+    "popularity": "🔥 7小时前",
     "link": "https://finnhub.io/api/news?id=bbbc8f843976e429a0ca84f563298e0d84598e8ee26afbe4c4f956ad1260f5f3"
   }
 ]
