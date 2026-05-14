@@ -1,27 +1,35 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Nebius Posts 684% Revenue Surge as AI Data Center Demand Accelerates",
-    "excerpt": "Nebius reported $399 million in quarterly revenue and outlined up to $20 billion in planned spending this year.",
+    "title": "[英伟达] Exclusive-US clears H200 chip sales to 10 China firms as Nvidia CEO lo",
+    "excerpt": "The U.S. has cleared around 10 Chinese firms to buy Nvidia's second-most powerful AI chip, the H200, but not a single delivery has been made so far, t",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=e340e8461c1ec4ccac7ebd45ed37e7e538f43b77c94c15dfdb56c553b5465e42"
+    "popularity": "🔥 59分钟前",
+    "link": "https://finnhub.io/api/news?id=02c1eb346c37770321f2bb4a10802a487df09e00281ec88befa635814c9d486d"
   },
   {
     "source": "东财股吧",
-    "title": "【宏利金融】一季度归属于股东的净收入11亿加元，同比增长149%",
-    "excerpt": "5月14日，宏利金融在港交所公告，2026年第一季度归属于股东的净收入11亿加元，同比增长149%；每股普通股摊薄盈利0.65加元。",
-    "author": "宏利金融",
+    "title": "【伊朗外长】关于伊朗不存在任何军事解决方案",
+    "excerpt": "当地时间14日，伊朗外长阿拉格齐表示，关于伊朗不存在任何军事解决方案，伊朗人民永远都不会屈服于任何威胁或压力。阿拉格齐还表示，伊朗已经准备好为了捍卫自由和土地而拼杀，同时也准备好继续通过外交途径来解决问题。（央视新闻）",
+    "author": "伊朗外长",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,宏利金融.html"
+    "link": "https://guba.eastmoney.com/list,伊朗外长.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba Shares Rise Amid Optimism on AI, Cloud Businesses",
     "excerpt": "By Tracy Qu Shares of Alibaba Group surged as investors remained upbeat on the company's cloud and artificial intelligence business. Its Hong-Kong lis",
     "author": "Finnhub",
-    "popularity": "🔥 4小时前",
+    "popularity": "🔥 6小时前",
     "link": "https://finnhub.io/api/news?id=245c6d22b99276d2ff1f524fed4048019e75bcfbf7181bbee598fcbe6de0e80a"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【光大证券】厄尔尼诺协同算电领域持续发酵 火电板块迎来阶段性机会",
+    "excerpt": "光大证券发布研报称，火电而言，由以往高度依赖年度长协电量、电价、煤价(煤价成本为盈利主要影响因素)向中长期市场(电量电价，稳定盘)、现货市场(电量电价，反映实时电量供需)和容量市场(容量电价，反映实时负荷供需)转型，市场化全面推进，整体商业",
+    "author": "光大证券",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,光大证券.html"
   },
   {
     "source": "NIO·WSB",
@@ -33,18 +41,18 @@
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla Gets Belgium Approval for Self-Driving Tests",
-    "excerpt": "The supervised software trial could help Tesla move closer to broader European approval.",
+    "title": "[特斯拉] China's view on Elon Musk? Visionary, occasional villain",
+    "excerpt": "In China, Elon Musk has been the object of love - and occasional loathing.  The Tesla boss has been both lauded as a visionary and criticised by Chine",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=df3629e5a65a510e8008bfeac9201ce2e5777938187453ae07a95a36b01a5565"
+    "link": "https://finnhub.io/api/news?id=747365e469016818345d091856bcbad9483dbd06ad3caa306a30f5f7f2dfe435"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Baidu Q1 Earnings Preview: Kunlunxin IPO Makes BIDU's Valuation Math I",
     "excerpt": "Baidu stock remains a \"Buy\" ahead of Q1 earnings on May 18. Learn more about the company and its potential upside.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 17小时前",
+    "popularity": "🔥 19小时前",
     "link": "https://finnhub.io/api/news?id=65ce32d58094ebdcaf4a8a48b58bb3e3ae6f32167d86e0d1de565d287fd26f78"
   }
 ]
