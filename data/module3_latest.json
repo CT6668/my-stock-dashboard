@@ -1,19 +1,35 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Teva Stock Is at Its Highest Level in Nearly a Decade. Here's Why It C",
-    "excerpt": "The market's rediscovery of Teva Pharmaceuticals remains ongoing.",
+    "title": "[英伟达] Better Space Stock: Firefly Aerospace vs. Intuitive Machines",
+    "excerpt": "Space stocks have been rallying since news of SpaceX's IPO dropped in March. Which of these two stocks is worth a look while you wait for SpaceX to go",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=60914c794081259f41ef25c755c789ce88294976b97fa0606b6492ca7473cea9"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=d8e3c3fcc38529b885ec74cbfc8406a63bff8d1211bd4141dd4d1847d9257982"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【广汽集团】副总经理黄永强辞职",
+    "excerpt": "广汽集团5月15日公告，公司董事会于2026年5月14日收到公司副总经理黄永强送达的《辞职函》，由于组织上工作安排的原因，其申请辞去公司副总经理职务，辞职后将不在公司担任任何职务。黄永强的辞职自其辞职函送达公司董事会之日起生效。",
+    "author": "广汽集团",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,广汽集团.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba Earnings: Cloud Acceleration Is A Bullish Catalyst",
     "excerpt": "Alibaba Q1 earnings missed revenue, but AI cloud growth surged. AI-related revenue increased by triple digits for the 10th consecutive quarter. See mo",
     "author": "SeekingAlpha",
-    "popularity": "🔥 9小时前",
+    "popularity": "🔥 12小时前",
     "link": "https://finnhub.io/api/news?id=51f462ea2cfb5cfb3bff1d0e7993edd1b168892eae513994218d3791b27e06f2"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【海航控股】2026年4月，本集团收入客公里同比增长0.10%",
+    "excerpt": "海航控股公告，2026年4月，本集团收入客公里同比增长0.10%，客座率同比增长1.12个百分点；货邮运收入吨公里同比增长5.61%，货邮载运率同比增长4.44个百分点。",
+    "author": "海航控股",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,海航控股.html"
   },
   {
     "source": "NIO·WSB",
@@ -24,12 +40,28 @@
     "link": "https://finnhub.io/api/news?id=c564e76aeaca1f0b63abaa091062414e20d635ff4bfdea30999c2c0b9dac60fc"
   },
   {
+    "source": "东财股吧",
+    "title": "【海航控股】子公司拟958万元采购厨房设备 构成关联交易",
+    "excerpt": "海航控股公告称，控股子公司海口航食拟向关联方天津百货采购航空食品生产所需厨房设备，含税金额958万元。本次交易构成关联交易，但不构成重大资产重组，在董事会决策权限内，无需股东会审议。付款方式为分期付款，合同签署生效支付30%预付款，交付验收",
+    "author": "海航控股",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,海航控股.html"
+  },
+  {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] The \"Magnificent Seven\" Has Gained $4.8 Trillion Since the Start of Ap",
     "excerpt": "Market concentration can amplify gains but also compound declines during a stock market sell-off.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
+    "popularity": "🔥 4小时前",
     "link": "https://finnhub.io/api/news?id=12d55b9924a52e6f17840a984e1abe944158efc6544fe1ea1765dcf7e0e9e6fb"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【广合科技】预计三季度后PCIE6.0将正式进入量产",
+    "excerpt": "广合科技(001389.SZ)发布投资者关系活动记录表公告，公司有启动针对光模块PCB产品的预研。九派基金已经启动对外投资，目前已经投出三个项目，主要围绕AI产业软硬件进行投资。公司各项重点客户认证工作按计划推进顺利，新客户从认证到量产导入",
+    "author": "广合科技",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,广合科技.html"
   },
   {
     "source": "BIDU·雪球",
