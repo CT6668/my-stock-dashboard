@@ -1,74 +1,42 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Meet the AI Stock Running Rings Around Nvidia in 2026. It Could Just B",
-    "excerpt": "While Nvidia still rules the roost, investors are moving downstream to the next generation of AI winners.",
+    "title": "[英伟达] \"The Big Short's\" Michael Burry vs. Renowned Economist Ed Yardeni: One",
+    "excerpt": "Some investors believe the market's extraordinary run can continue, while others recommend investors move into cash.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=9d62d870e68d2d50f4bd223820495ae2e403d875e551f5f25e8299a3f6d1f4bb"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【先进数通】首次回购0.03%公司股份，成交总金额为 167.24万元",
-    "excerpt": "先进数通公告，2026年5月13日，公司首次通过股份回购专用证券账户以集中竞价交易方式回购公司股份 12.94万股，占公司当前总股本的比例为 0.03%，本次回购股份的最高成交价为 12.97元/股，最低成交价为 12.9元/股，成交总金额",
-    "author": "先进数通",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,先进数通.html"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=4863864f15ad0c879547c67a8e33051ca226ae1c8865d077af4d9e4d3408ef4d"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Correction to Alibaba Article",
-    "excerpt": "HSBC was upbeat on Alibaba's outlook, citing near-term upside for cloud margin, pointing to the deployment of in-house chips and a shift toward higher",
-    "author": "Finnhub",
-    "popularity": "🔥 4小时前",
-    "link": "https://finnhub.io/api/news?id=0926b60d98e39410145b2f89c6b9f4b338eba1278cfc04c8be5eb348997ea4f2"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【天风证券】聘任罗国华担任公司总裁 王琳晶离任",
-    "excerpt": "天风证券公告称，公司第四届董事会第六十三次会议审议通过《关于聘任公司总裁的议案》，同意聘任罗国华担任公司总裁，任期至第四届董事会任期结束。王琳晶不再担任公司总裁。罗国华曾任职于中国建设银行等，2026年4月入职天风证券，截至公告披露日，其未",
-    "author": "天风证券",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,天风证券.html"
+    "title": "[阿里巴巴] Alibaba Earnings: Cloud Acceleration Is A Bullish Catalyst",
+    "excerpt": "Alibaba Q1 earnings missed revenue, but AI cloud growth surged. AI-related revenue increased by triple digits for the 10th consecutive quarter. See mo",
+    "author": "SeekingAlpha",
+    "popularity": "🔥 7小时前",
+    "link": "https://finnhub.io/api/news?id=51f462ea2cfb5cfb3bff1d0e7993edd1b168892eae513994218d3791b27e06f2"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] Tesla's Five-Front Strategy: Why No Rival Can Match Its Full Scope",
-    "excerpt": "Tesla aims at 5 huge markets with vertical integration as FSD adoption jumps 51% YoY.",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=dbfca51c07a069a08fc27d847feebc3cfb94f66f75aeb1acef585cd858ef93c9"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【国投资本】向专业投资者公开发行面值总额不超过90亿元公司债券获同意",
-    "excerpt": "国投资本公告，近日，公司收到中国证券监督管理委员会出具的《关于同意国投资本股份有限公司向专业投资者公开发行公司债券注册的批复》（证监许可〔2026〕1071号），同意公司向专业投资者公开发行面值总额不超过90亿元公司债券的注册申请。本次发行",
-    "author": "国投资本",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,国投资本.html"
+    "title": "[蔚来汽车] Peter Navarro Once Slammed Tesla Over China Reliance—Now Xi Jinping Sa",
+    "excerpt": "Trump and Navarro had previously criticized Tesla for reliance on China-made parts as tariffs dictated U.S. trade policy last year.",
+    "author": "Benzinga",
+    "popularity": "🔥 22小时前",
+    "link": "https://finnhub.io/api/news?id=c564e76aeaca1f0b63abaa091062414e20d635ff4bfdea30999c2c0b9dac60fc"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Xi Tells US CEOs Accompanying Trump That China Will Open Up More",
-    "excerpt": "(Bloomberg) -- Xi Jinping signaled China is moving toward greater openness, striking an upbeat note during his meeting with US business leaders accomp",
+    "title": "[特斯拉] Elon Musk's Tesla Launches Affordable Financing Plan After Dropping Ou",
+    "excerpt": "Tesla Inc. has dropped out of the top ten EV companies in the Chinese domestic market as the Elon Musk-led EV giant’s retail sales fell in April. Tesl",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=b8c553cc47b8a5756db79334da8202b1199e62db56de5597fe5fe9b5a91869c0"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【ST文峰】拟变更回购股份用途并注销",
-    "excerpt": "ST文峰(601010)5月14日公告，公司拟将存放于公司回购专用证券账户中尚未使用的3930.38万股股份用途进行变更，由“用于员工持股计划”变更为“用于注销并减少公司注册资本”。上述股份占公司当前总股本的2.13%。此次股份注销完成后，",
-    "author": "ST文峰",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,ST文峰.html"
+    "popularity": "🔥 5小时前",
+    "link": "https://finnhub.io/api/news?id=c840d3ed23730eed9b5704396e6f0001cf1c91409990dbd9c089c76c185813ef"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Baidu Q1 Earnings Preview: Kunlunxin IPO Makes BIDU's Valuation Math I",
     "excerpt": "Baidu stock remains a \"Buy\" ahead of Q1 earnings on May 18. Learn more about the company and its potential upside.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 22小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=65ce32d58094ebdcaf4a8a48b58bb3e3ae6f32167d86e0d1de565d287fd26f78"
   }
 ]
