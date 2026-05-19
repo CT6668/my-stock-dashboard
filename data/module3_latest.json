@@ -1,50 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Greg Abel Recently Bought $235 Million Worth of Warren Buffett's Favor",
-    "excerpt": "Warren Buffett plowed $77.8 billion into this particular stock between 2018 and 2024.",
+    "title": "[英伟达] I Have 90% of My Net Worth in One Stock. How Do I Diversify Without a ",
+    "excerpt": "Ben Carlson of Ritholtz Wealth Management has flagged what he calls “one of the biggest trends that I’ve seen in the wealth management space in the la",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=b0c2ce1b736580fe54bbf113af8c796d9866ac141c5a28bcb014ff43c939d36d"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=36bb9e1d64170d16346af5be1a7ba59e47f43b6357b62d61cca4ace0e491d89e"
   },
   {
     "source": "东财股吧",
-    "title": "【三联虹普】公司不涉及光模块业务",
-    "excerpt": "三联虹普(300384)5月19日在互动平台表示，公司不涉及光模块业务。公司与台华新材拥有长期稳定的合作关系，双方合作的差别化锦纶6、66纺丝项目，化学法再生尼龙6项目均符合国际功能性纤维及绿色纤维发展趋势，助力台华新材打造以进口替代为目标",
-    "author": "三联虹普",
+    "title": "【盛宝银行】尽管特朗普暂停打击，黄金期货仍受利率预期拖累",
+    "excerpt": "随着伊朗冲突持续，受利率上升预期的拖累，金价维持在每盎司4,500美元上方。纽约期金下跌0.2%，至每盎司4,549.30美元。消息称美国总统特朗普决定推迟对伊朗的计划打击，以为谈判留出更多时间，这提供了一些支撑，尽管自战争开始以来金价已下",
+    "author": "盛宝银行",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,三联虹普.html"
+    "link": "https://guba.eastmoney.com/list,盛宝银行.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba: Cloud's Promise Sustains, But The Stock Is Pricey Still",
     "excerpt": "Since January, China's Alibaba has seen over 20% drop in price. But click here to read why it hasn't made a Buy case for the otherwise strong BABA sto",
     "author": "SeekingAlpha",
-    "popularity": "🔥 5小时前",
+    "popularity": "🔥 7小时前",
     "link": "https://finnhub.io/api/news?id=5ff3c8292a55d271581ae4e6bf7149b8e5adff2b0cd81a732c5690e5c0b61cf4"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【浙江联通】6月15日起浙江省中国联通3G网络将全面退出服务",
+    "excerpt": "5月19日消息，浙江联通日前公告称，2026年6月15日，浙江省中国联通3G网络将全面退出服务。届时，仅支持3G网络的终端设备、相关资费套餐及SIM卡将无法正常使用（包括语音通话、数据上网等所有通信服务），建议相关客户及时完成设备、套餐及业",
+    "author": "浙江联通",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,浙江联通.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Nio's Growth Story In Focus Ahead Of Key Earnings Report",
     "excerpt": "Nio shares are trading lower on Monday as traders weigh mixed April delivery momentum against fresh China regulatory scrutiny tied to EV software upda",
     "author": "Benzinga",
-    "popularity": "🔥 18小时前",
+    "popularity": "🔥 21小时前",
     "link": "https://finnhub.io/api/news?id=6f8cb63b8419bbb46f1bb93e7aa335fa26f36fa9502c2cd508510d0b6301ac5f"
   },
   {
+    "source": "东财股吧",
+    "title": "【*ST中地】撤销退市风险警示申请尚处补充材料阶段",
+    "excerpt": "*ST中地公告称，公司于2026年4月15日向深交所提交撤销退市风险警示的申请。截至公告披露日，相关申请事项尚处于补充材料阶段，能否获批存在不确定性。公司将及时披露进展，提醒投资者注意风险。",
+    "author": "*ST中地",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,*ST中地.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla makes necessary change fans are going to hate",
-    "excerpt": "Coming off a year where the company posted its first-ever annual revenue loss, 2026 was always going to be pivotal for Tesla. While CEO Elon Musk told",
+    "title": "[特斯拉] SpaceX IPO Reshapes Tesla Investor Choices And Musk Ecosystem Exposure",
+    "excerpt": "SpaceX is preparing for an initial public offering, creating a new publicly traded option for investors interested in Elon Musk led businesses. This d",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=9ddeef9656430368d71d25ae270190286b9159d98278c203f41d476f46c9a405"
+    "link": "https://finnhub.io/api/news?id=6f5aba0a75237cea4203a885cc3d2b3a5ed4f8cce7c6d27f3a4a81ea78638855"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【荷兰国际】英国劳动力市场疲软令加息必要性存疑",
+    "excerpt": "荷兰国际集团的James Smith在一份报告中表示，英国弱于预期的劳动力市场数据可能会强化英国央行的谨慎立场。",
+    "author": "荷兰国际",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,荷兰国际.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Baidu, Inc. (BIDU) Q1 2026 Earnings Call Transcript",
     "excerpt": "Baidu, Inc. (BIDU) Q1 2026 Earnings Call May 18, 2026 8:00 AM EDTCompany ParticipantsJuan Lin - Director of Investor RelationsYanhong Li - Co-Founder,",
     "author": "SeekingAlpha",
-    "popularity": "🔥 12小时前",
+    "popularity": "🔥 15小时前",
     "link": "https://finnhub.io/api/news?id=1a37b046d69719b4c71e0e665e5d452942e6a1112b0a6517620071679d273f4b"
   }
 ]
