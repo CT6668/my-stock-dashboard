@@ -1,90 +1,98 @@
 [
   {
+    "sector": "综合",
+    "title": "英国石油公司：其中两份产品分成合同对应宾图尼区块和德拉瓦勘探区块。",
+    "summary": "英国石油公司：其中两份产品分成合同对应宾图尼区块和德拉瓦勘探区块。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "英国石油公司在印度尼西亚签署三份产品分成合同。",
+    "summary": "英国石油公司在印度尼西亚签署三份产品分成合同。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "云迹科技获得千台订单",
+    "summary": "5月20日，云迹科技与AIOT（人工智能物联网）+机器人综合方案提供商深圳中亿集团正式签署合作协议。双方就UP复合多态机器人·小马儿童骑乘上舱达成千台订单，这是云迹科技首次在亲子消费场景落地的规模化订单。小马机器人是云迹科技面向公共亲子场景",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "钛能化学：副总裁冯永刚因个人原因辞职。",
+    "summary": "钛能化学：副总裁冯永刚因个人原因辞职。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
     "sector": "创新药",
-    "title": "公司有大幅度融资计划？晨光生物回应：不属实",
-    "summary": "针对投资者关于“市场传言公司有大幅度融资的计划，请问是否属实？”的提问，晨光生物5月20日在互动平台回应，相关传闻不属实。",
+    "title": "赛诺医疗：冠脉支架产品全人群双抗疗程缩短至1个月获欧盟批准",
+    "summary": "赛诺医疗(688108.SH)公告称，公司于近日收到欧盟公告机构批准，其HTSupreme™药物洗脱支架系统在欧盟产品说明书中增加“在全冠心病人群中植入后，可将双联抗血小板治疗疗程缩短至1个月”。该批准基于公司欧洲上市后关键临床研究PION",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "交易员权衡特朗普关于伊朗的最新言论之际油价下跌",
-    "summary": "在美国总统特朗普于最新言论中表示伊朗战争将“很快“结束之后，油价下跌1%。在欧洲交易时段早盘，布伦特原油下跌1%，至每桶110.15美元，而西得州中质油期货下跌1.1%，至每桶103.30美元。特朗普周二表示，他取消了针对伊朗的计划袭击，但",
+    "title": "玛氏集团 2023 至 2028 年将向英国现有工厂投资 1.9 亿英镑。",
+    "summary": "玛氏集团 2023 至 2028 年将向英国现有工厂投资 1.9 亿英镑。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "金融",
+    "title": "三菱日联：即使日本央行暗示加息，日元也可能保持疲软",
+    "summary": "三菱日联银行的Derek Halpenny在一份报告中表示，即使日本央行行长植田和男在6月会议前倾向于加息，从而释放出更加“偏紧缩”的信号，日元也可能保持疲软。他说：“市场定价已经反映出（6月）加息的可能性达到80%，因此现阶段更加偏紧缩的",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "印尼央行行长表示：在基准利率上调50个基点后，核心通胀预计将处于1.5%-3.5%区间内。",
-    "summary": "印尼央行行长表示：在基准利率上调50个基点后，核心通胀预计将处于1.5%-3.5%区间内。",
+    "title": "智光电气：股价连续3日涨幅偏离值累计达26.52% 不存在应披露未披露信息",
+    "summary": "智光电气公告称，公司股票交易价格连续3个交易日（2026年5月18日、5月19日、5月20日）收盘价涨幅偏离值累计达26.52%，属于异常波动。经核查，公司前期披露信息无需更正补充，经营正常，媒体无相关重大报道，控股股东、实控人期间无买卖公",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "10天5板三孚股份：存储芯片相关收入占公司营业收入比重不足1%",
+    "summary": "三孚股份(603938.SH)发布股票交易风险提示公告，关注到近期市场对于存储芯片相关概念关注度较高。公司主要产品包括三氯氢硅、四氯化硅、高纯四氯化硅、硅烷偶联剂、氢氧化钾、硫酸钾、电子特气、气相二氧化硅等，产品应用于光伏、光纤、精细化工、",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "波兰国防部长表示：对我们而言，最重要的是得到保证，这不会削弱（美国在波兰的）驻军存在。",
-    "summary": "波兰国防部长表示：对我们而言，最重要的是得到保证，这不会削弱（美国在波兰的）驻军存在。",
+    "title": "立陶宛部分地区发布防空警报",
+    "summary": "立陶宛国防部20日在社交媒体上称，在该国靠近白俄罗斯边境地区监测到一架疑似来自白俄罗斯的无人机，立陶宛部分地区因此发布防空警报。另据多家外媒报道，立陶宛军方当天上午向首都维尔纽斯居民发送信息，提醒他们“前往安全地点”。立陶宛议会大楼拉响警报",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
-    "sector": "创新药",
-    "title": "国家中医药管理局通报3・15晚会曝光涉中医药相关事件进一步调查处置情况",
-    "summary": "针对2026年央视3·15晚会曝光的涉中医药领域违法违规问题，国家中医药管理局高度重视，第一时间作出部署，相关省市中医药主管部门及有关方面迅速响应、依法开展初步核查处置。在此基础上，我局进一步派出工作组赴实地开展督导，联合地方相关部门深入调",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "瑞迪智驱：精密行星减速机已完成研发",
-    "summary": "瑞迪智驱5月20日在互动平台表示，公司精密行星减速机已完成研发，前期已形成相关的技术与应用沉淀。后续相关业务模式与推进策略，将根据市场实际需求与公司规划审慎推进。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "新能源汽车",
-    "title": "香港环境及生态局：将推出2000万港元高速充电桩计划 助力商用电动车普及",
-    "summary": "香港署理环境及生态局局长黄淑娴答复议员提问时表示，香港电动商用车目前发展较慢，主要原因是技术尚未成熟，未能达到规模化使用。当局会采取多管齐下的策略，透过政策导向建设以高速充电桩为骨干的公共充电网络，推出一项2,000万港元的商用车专用高速充",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "金沃股份与北京发那科签约战略合作协议",
-    "summary": "5月19日，浙江金沃精工股份有限公司（简称“金沃股份”）与北京发那科机电有限公司（简称“北京发那科”）签署战略合作协议。双方将围绕设备技术升级、人才联合培养、全流程服务保障及商务协同等方面展开合作。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "立陶宛国防部长：北约空中警务任务在立陶宛领空探测到一架无人机目标。",
-    "summary": "立陶宛国防部长：北约空中警务任务在立陶宛领空探测到一架无人机目标。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "印尼央行行长：我们预计资本流入规模可观，足以覆盖 6 月美元需求。",
-    "summary": "印尼央行行长：我们预计资本流入规模可观，足以覆盖 6 月美元需求。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "sector": "人工智能",
+    "title": "Europe's airlines say wars, red tape are holding them back as rivals streak ahead - Reuter",
+    "summary": "Europe's airlines say wars, red tape are holding them back as rivals streak ahead  Reuters",
+    "source": "Reuters",
+    "time": "5小时前",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0ZwcTNrd3NfR0pRbzNLWjlRTFJNQXhMdGI5UkhpNDZULVUwc3NoVWN2WEQzVEpkVUNGS3hmQk5GWFNfNXJ5VG5IeDN3SVlDWk1qeklMVDlCRGtaMzRWRlVxYW5jenFFMXdrZjhwa1FPZXNCdGo4ZDZwdWVteWVRWVJnM2hncHVBUC1mbkpISnhTZ0l5Q2F2bjhZbHN4NTQwV05KRThwcno2eGx2Snc3UDVxa3cxY3hZSEllWmh3?oc=5"
   },
   {
     "sector": "海外市场",
     "title": "Rupee hits record low as US-Iran stalemate stokes global rate hike wagers - Reuters",
     "summary": "Rupee hits record low as US-Iran stalemate stokes global rate hike wagers  Reuters",
     "source": "Reuters",
-    "time": "1小时前",
+    "time": "6小时前",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcnJWb2twbUxjXzhOTTJfMnJEWklqOHNfY3ZzNlM5NFhSbVd5WUxLdGpwYjQ5VEJTQ1c0ZDBBMFNxbW93WDFTTEdUMkxOTnY5a2l6RFg4VjI0QnBRSnFXOEtWSjF4Z0tNQkNQRENlbEN0ZHlySGpHSDhEZUpQWXhKMXVSY3pQRXZrRGxVeFJaUUd3eUhVUnJ6QVNiSnduRndFZllobXhKYzd5d0J4OGMwUXRqTFd0ZEJQTTJnRQ?oc=5"
   },
   {
@@ -92,15 +100,15 @@
     "title": "Indian shares drop as global bond yields jump on Iran uncertainty - Reuters",
     "summary": "Indian shares drop as global bond yields jump on Iran uncertainty  Reuters",
     "source": "Reuters",
-    "time": "5小时前",
+    "time": "7小时前",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2FBR1hTVGw3dDVCVld5YXhPNnM0YlNHZE1WOEpfSEdubU9zV1JyZF9RaTF4TGtsQjBPeFNQWTNFcWJhdEFVRWtJZ3NYdF9oamN3UFNJUUxfUkIwam9ReGZvUkFCeERzcS12Y1B3M2VlQkNUN283dTZuX1VYZHd6bnMwelhHV09XYW1Db3NRcHJUSFRsRHVoU0RuSnZfZDdHcFJsLUtWdlJCNUU?oc=5"
   },
   {
     "sector": "人工智能",
-    "title": "Dollar steady near six-week highs on rate-hike bets, war uncertainty - Reuters",
-    "summary": "Dollar steady near six-week highs on rate-hike bets, war uncertainty  Reuters",
+    "title": "Dollar rises to six-week high on rate hike bets and war uncertainty - Reuters",
+    "summary": "Dollar rises to six-week high on rate hike bets and war uncertainty  Reuters",
     "source": "Reuters",
-    "time": "6小时前",
+    "time": "8小时前",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWlpMNmFpSU54eHZwMjNnUkhyS3dQOEZDQVRLNDd3YmZqa2JUQjNUajZna3lXSlVTTVppbTBrLUhTM0EtRUF5T3NfdEFJRUdPUHB4UjZzLVByUFU2NUkzZEZRZlVpQkpselNfVDVkVUNFSWt0dEl2SUNvTFRfamhRempTQ1lCenFmS3ZVNUlveUlkZGxIR0ZtQkpFRlp4TERtWFByUkwwY1N5ci1sc0Jqbw?oc=5"
   },
   {
@@ -108,15 +116,7 @@
     "title": "China leaves lending benchmarks unchanged for 12th month in May - Reuters",
     "summary": "China leaves lending benchmarks unchanged for 12th month in May  Reuters",
     "source": "Reuters",
-    "time": "6小时前",
+    "time": "9小时前",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlRNclJ4MkN4b0FpeW96b3NVRVY5TDJHTXFTMWUyV3lxc0JZVXRKSXpwVXpJb1g2RGZKNDJaV2RFOU9vUWVac0VQbnpNeWU2TWU1dDBRUHV5M2RjQUJPNzFuQUd1aTVPdTZKRDdXMDZqcndxaWJYbnhiS3pqWHpHeGZjNVdJSUs5aE5fVU9EanM1VDQzRUdXTzJxd0JmakVkUVlCamZLRzBmdGRweHc?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Chinese tankers exit Strait of Hormuz with 4 million barrels of crude oil - Reuters",
-    "summary": "Chinese tankers exit Strait of Hormuz with 4 million barrels of crude oil  Reuters",
-    "source": "Reuters",
-    "time": "6小时前",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXNrRTVhT0c5MGxfUmJneWZOYWpMblUyU2pHRFUzS1czM1ZWaTY5XzVCcHZKUzZnMnBpZ2wydzdSSS1uNExYd21adTY2QlkwODBIUmNpeHBtTG1rblN5dzJOUkxjLVFzYV9xQUctWmxXcWNJTTdNVGpCbnlqYkZTQW5RN084YTU2QklES3VuX21kTUJBR2Y5akFzOFBUd3BEVE5HdkYwdk5wSktsS2pvZHM5QUwtSUhONkNqQ0UweE1fNWN0emdQZTZR?oc=5"
   }
 ]
