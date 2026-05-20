@@ -1,74 +1,50 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Could Cerebras Be the Next Nvidia?",
-    "excerpt": "Cerebras says its AI chip has outperformed current leaders.",
+    "title": "[英伟达] Dow Jones Futures Fall With Nvidia Earnings Due; Micron, Sandisk, Aste",
+    "excerpt": "The stock market fell Tuesday as yields hit new highs, but some AI leaders like Micron and Sandisk rebounded. Nvidia earnings loom.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=81cf66c0858270f2acc92b582c260a028b0a8bec5fa264612cf9a839fff8b310"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=128c6e29d519b92162648174591031eb91739e5b38ae37abf9a48c00716b8168"
   },
   {
     "source": "东财股吧",
-    "title": "【金融监督管理总局】增加小微企业法人贷款投放，重点支持科技、消费、外贸等领域",
-    "excerpt": "国家金融监督管理总局发布《关于做好2026年小微企业金融服务工作的通知》。金融监管总局近日印发了《关于做好2026年小微企业金融服务工作的通知》。《通知》指出，2026年要充分发挥支持小微企业融资协调工作机制作用，推动小微企业金融服务“稳投",
-    "author": "金融监督管理总局",
+    "title": "【市场消息】美国特使威特科夫将于近期出访俄罗斯",
+    "excerpt": "克里姆林宫随行记者亚历山大・尤纳舍夫援引俄方谈判代表基里尔・德米特里耶夫消息在社交平台上透露，美国特使史蒂文・威特科夫即将前往莫斯科进行访问。身为俄乌和谈斡旋人的威特科夫，上一次到访俄罗斯是在今年1月。注：1月23日美方特使与俄方举行乌克兰",
+    "author": "市场消息",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,金融监督管理总局.html"
+    "link": "https://guba.eastmoney.com/list,市场消息.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Alibaba: Cloud's Promise Sustains, But The Stock Is Pricey Still",
-    "excerpt": "Since January, China's Alibaba has seen over 20% drop in price. But click here to read why it hasn't made a Buy case for the otherwise strong BABA sto",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 10小时前",
-    "link": "https://finnhub.io/api/news?id=5ff3c8292a55d271581ae4e6bf7149b8e5adff2b0cd81a732c5690e5c0b61cf4"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【中国建筑】1-4月新签合同总额15208亿元，同比持平",
-    "excerpt": "中国建筑公告，2026年1-4月新签合同总额15208亿元，同比持平。",
-    "author": "中国建筑",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,中国建筑.html"
+    "title": "[阿里巴巴] Shares of stocks in the broader REIT space are trading higher. Strengt",
+    "excerpt": "Shares of stocks in the broader REIT space are trading higher. Strength may be due to a decline in Treasury yields. Additionally, Prologis announced a",
+    "author": "Benzinga",
+    "popularity": "🔥 1058天前",
+    "link": "https://finnhub.io/api/news?id=29e08ce1e8985afc4dcbc0d36aeeed10d282207d9191eef06b65c31dc3beacd0"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Nio's Growth Story In Focus Ahead Of Key Earnings Report",
     "excerpt": "Nio shares are trading lower on Monday as traders weigh mixed April delivery momentum against fresh China regulatory scrutiny tied to EV software upda",
     "author": "Benzinga",
-    "popularity": "🔥 23小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=6f8cb63b8419bbb46f1bb93e7aa335fa26f36fa9502c2cd508510d0b6301ac5f"
   },
   {
-    "source": "东财股吧",
-    "title": "【安利股份】公司与苹果合作深化，有新项目处于开发阶段",
-    "excerpt": "安利股份在特定对象调研时表示，公司与苹果合作深化，有新项目处于开发阶段。同时，公司积极联系谷歌、亚马逊等品牌，努力开发拓展新的应用场景，提高市场份额。公司研发的应用于半导体领域的复合新材料实现一定量产，但订单金额较小，短期内对公司营收不构成",
-    "author": "安利股份",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,安利股份.html"
-  },
-  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] This EV Stock Could Soar By 79%, According to a Wall Street Analyst (H",
-    "excerpt": "There are some reasons for optimism, but it's important to look at the full picture.",
+    "title": "[特斯拉] Most People Won't Lose Jobs To AI, Nvidia CEO Jensen Huang Says — But ",
+    "excerpt": "Workers are more likely to be replaced by people who know how to use artificial intelligence than by the technology itself, according to Nvidia (NASDA",
     "author": "Yahoo",
-    "popularity": "🔥 50分钟前",
-    "link": "https://finnhub.io/api/news?id=31dc82ab2725b60a1d5bd2660fd35cb75518127a5cf07e071a501f59a063cb92"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【肯特催化】股东毅达专精、毅达成果拟合计减持不超3%股份",
-    "excerpt": "肯特催化公告称，股东毅达专精、毅达成果基于企业自身资金需要，拟通过集中竞价和大宗交易方式合计减持公司股份不超过总股本的3%，减持期间为2026年6月10日至2026年9月9日。",
-    "author": "肯特催化",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,肯特催化.html"
+    "popularity": "🔥 4小时前",
+    "link": "https://finnhub.io/api/news?id=3876fcffa525a621db41f4370aa8a568874be6b3cb1fa7a06e60e9650f05559f"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] Baidu, Inc. (BIDU) Q1 2026 Earnings Call Transcript",
-    "excerpt": "Baidu, Inc. (BIDU) Q1 2026 Earnings Call May 18, 2026 8:00 AM EDTCompany ParticipantsJuan Lin - Director of Investor RelationsYanhong Li - Co-Founder,",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 18小时前",
-    "link": "https://finnhub.io/api/news?id=1a37b046d69719b4c71e0e665e5d452942e6a1112b0a6517620071679d273f4b"
+    "title": "[百度] Benchmark Reiterates Buy on Baidu, Maintains $215 Price Target",
+    "excerpt": "Benchmark  analyst Fawne Jiang   reiterates Baidu (NASDAQ:BIDU) with a Buy and maintains $215 price target.",
+    "author": "Benzinga",
+    "popularity": "🔥 20小时前",
+    "link": "https://finnhub.io/api/news?id=094cec8d0a7db04c18fb1cb6268887576f66fc5a8c3b797f7d7edf2f7abe4e8d"
   }
 ]
