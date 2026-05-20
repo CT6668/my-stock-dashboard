@@ -1,19 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Dow Jones Futures Fall With Nvidia Earnings Due; Micron, Sandisk, Aste",
-    "excerpt": "The stock market fell Tuesday as yields hit new highs, but some AI leaders like Micron and Sandisk rebounded. Nvidia earnings loom.",
+    "title": "[英伟达] Nvidia's Earnings Are Hours Away. Here Are 3 Things to Watch.",
+    "excerpt": "The AI chipmaker's outlook for the quarter ahead, its Vera Rubin transition, and any fresh China commentary could matter more than the headline number",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=128c6e29d519b92162648174591031eb91739e5b38ae37abf9a48c00716b8168"
+    "link": "https://finnhub.io/api/news?id=d584a819926f639a4bd33b1c497595d4fd585ea4b114c72a72e5a9a82ee8296c"
   },
   {
     "source": "东财股吧",
-    "title": "【市场消息】美国特使威特科夫将于近期出访俄罗斯",
-    "excerpt": "克里姆林宫随行记者亚历山大・尤纳舍夫援引俄方谈判代表基里尔・德米特里耶夫消息在社交平台上透露，美国特使史蒂文・威特科夫即将前往莫斯科进行访问。身为俄乌和谈斡旋人的威特科夫，上一次到访俄罗斯是在今年1月。注：1月23日美方特使与俄方举行乌克兰",
-    "author": "市场消息",
+    "title": "【瑞迪智驱】精密行星减速机已完成研发",
+    "excerpt": "瑞迪智驱5月20日在互动平台表示，公司精密行星减速机已完成研发，前期已形成相关的技术与应用沉淀。后续相关业务模式与推进策略，将根据市场实际需求与公司规划审慎推进。",
+    "author": "瑞迪智驱",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,市场消息.html"
+    "link": "https://guba.eastmoney.com/list,瑞迪智驱.html"
   },
   {
     "source": "BABA·雪球",
@@ -24,6 +24,14 @@
     "link": "https://finnhub.io/api/news?id=29e08ce1e8985afc4dcbc0d36aeeed10d282207d9191eef06b65c31dc3beacd0"
   },
   {
+    "source": "东财股吧",
+    "title": "【香港环境及生态局】将推出2000万港元高速充电桩计划 助力商用电动车普及",
+    "excerpt": "香港署理环境及生态局局长黄淑娴答复议员提问时表示，香港电动商用车目前发展较慢，主要原因是技术尚未成熟，未能达到规模化使用。当局会采取多管齐下的策略，透过政策导向建设以高速充电桩为骨干的公共充电网络，推出一项2,000万港元的商用车专用高速充",
+    "author": "香港环境及生态局",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,香港环境及生态局.html"
+  },
+  {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Nio's Growth Story In Focus Ahead Of Key Earnings Report",
     "excerpt": "Nio shares are trading lower on Monday as traders weigh mixed April delivery momentum against fresh China regulatory scrutiny tied to EV software upda",
@@ -32,19 +40,35 @@
     "link": "https://finnhub.io/api/news?id=6f8cb63b8419bbb46f1bb93e7aa335fa26f36fa9502c2cd508510d0b6301ac5f"
   },
   {
+    "source": "东财股吧",
+    "title": "【豪能股份】向不特定对象发行可转换公司债券申请获得中国证监会注册批复",
+    "excerpt": "豪能股份公告，公司于近日收到中国证券监督管理委员会出具的《关于同意成都豪能科技股份有限公司向不特定对象发行可转换公司债券注册的批复》。批复内容为：同意公司向不特定对象发行可转换公司债券的注册申请。公司本次发行应严格按照报送上海证券交易所的申",
+    "author": "豪能股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,豪能股份.html"
+  },
+  {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Most People Won't Lose Jobs To AI, Nvidia CEO Jensen Huang Says — But ",
     "excerpt": "Workers are more likely to be replaced by people who know how to use artificial intelligence than by the technology itself, according to Nvidia (NASDA",
     "author": "Yahoo",
-    "popularity": "🔥 4小时前",
+    "popularity": "🔥 6小时前",
     "link": "https://finnhub.io/api/news?id=3876fcffa525a621db41f4370aa8a568874be6b3cb1fa7a06e60e9650f05559f"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【乾照光电】砷化镓太阳能电池业务目前收入占比较低",
+    "excerpt": "乾照光电5月20日在互动平台表示，公司的砷化镓太阳能电池产品，具备高转化效率、高可靠性和高寿命，具备较强的多场景适配能力，且出货量稳居国内市场头部地位。但该业务目前收入占比较低。",
+    "author": "乾照光电",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,乾照光电.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Benchmark Reiterates Buy on Baidu, Maintains $215 Price Target",
     "excerpt": "Benchmark  analyst Fawne Jiang   reiterates Baidu (NASDAQ:BIDU) with a Buy and maintains $215 price target.",
     "author": "Benzinga",
-    "popularity": "🔥 20小时前",
+    "popularity": "🔥 23小时前",
     "link": "https://finnhub.io/api/news?id=094cec8d0a7db04c18fb1cb6268887576f66fc5a8c3b797f7d7edf2f7abe4e8d"
   }
 ]
