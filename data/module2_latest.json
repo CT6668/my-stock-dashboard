@@ -1,80 +1,80 @@
 [
   {
-    "sector": "黄金",
-    "title": "有色金属金属板块走强 中金岭南等涨停",
-    "summary": "有色金属板块午后走强，中金岭南、中钨高新、东方钽业等股涨停。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "新能源",
-    "title": "A股太空光伏概念震荡拉升，拉普拉斯涨超10%，联泓新科、晶盛机电、福斯特、晶科能源、奥特维涨幅居前。",
-    "summary": "A股太空光伏概念震荡拉升，拉普拉斯涨超10%，联泓新科、晶盛机电、福斯特、晶科能源、奥特维涨幅居前。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "科技",
-    "title": "超级电容概念持续走强，元力股份、江海股份涨停，此前艾华集团、东方钽业、华锋股份、华生科技等涨停，法拉",
-    "summary": "电子、万顺新材、铜峰电子等跟涨。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "政策",
-    "title": "何淳宽任安徽省副省长",
-    "summary": "5月22日，安徽省第十四届人民代表大会常务委员会第二十四次会议通过人事任免案。决定任命：何淳宽为安徽省人民政府副省长。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "瑞银：铜仍处于本轮采矿周期的中心 澳大利亚铜业股受价格前景走强提振",
-    "summary": "在提高铜价预测后，瑞银将Evolution Mining的评级从中性上调至买入，将Sandfire Resources的评级从卖出上调至中性。该行将Evolution的目标价从13.80澳元上调至14.00澳元，将Sandfire的目标价从",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "科技",
-    "title": "今年来公募283亿元参与定增，电子个股浮盈显著",
-    "summary": "公募排排网最新数据，按增发上市日统计，截至5月21日，今年来22家公募已参与55只A股定增，覆盖A股年内定增总量（81只）的67.9%，合计获配282.62亿元。以当日收盘价核算，这22家公募中20家实现浮盈，整体浮盈66.96亿元，跑赢同",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "午后港股大模型概念股继续冲高，智谱涨超24%",
-    "summary": "午后港股大模型概念股继续冲高，智谱涨超24%，报1247.00港元。MINIMAX-W涨超14%。",
+    "sector": "综合",
+    "title": "广汇能源：甲醇、乙二醇等化工品销售价格随市场稳步上行",
+    "summary": "广汇能源5月22日在互动平台表示，公司当前主要产品价格运行良好，甲醇、煤焦油、乙二醇等化工品销售价格随市场稳步上行，与国内市场价格全面接轨。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "土耳其里拉兑美元贬值约0.3%，跌至纪录低点45.7425。",
-    "summary": "土耳其里拉兑美元贬值约0.3%，跌至纪录低点45.7425。",
+    "title": "阿布扎比交易所将于 5 月 26 日至 29 日因开斋节休市。",
+    "summary": "阿布扎比交易所将于 5 月 26 日至 29 日因开斋节休市。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "创新药",
+    "title": "新诺威：控股子公司乌司奴单抗注射液获药品注册证书",
+    "summary": "新诺威公告，控股子公司石药集团巨石生物制药有限公司近日收到国家药品监督管理局核准签发的乌司奴单抗注射液《药品注册证书》。乌司奴单抗是一种全人源IgG1κ单克隆抗体，可与人白细胞介素IL-12和IL-23的p40蛋白亚单位结合，阻断细胞因子级",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "金融",
+    "title": "央行上海总部：4月份长三角地区人民币贷款增加343亿元 外币贷款增加8亿美元",
+    "summary": "央行上海总部发布2026年4月长三角地区货币信贷运行情况。4月末，长三角地区本外币各项贷款余额80.32万亿元，同比增长8.0%，增速与上月持平；人民币贷款余额79.37万亿元，同比增长8.0%，增速与上月持平；外币贷款余额1379亿美元，",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "本轮强降雨趋于结束 刷新广东多个气象历史纪录",
-    "summary": "广东省本轮强降水过程趋于结束。广东省气象台预计，22日白天广东省西部市县仍有较明显降水，夜间降雨明显减弱；23日起全省多云间晴为主，午后有分散（雷）阵雨；24日起广东中南部市县35℃以上的高温天气逐渐增强、影响市县逐渐增多。从广东省气象台获",
+    "title": "富春染织：“富春转债”累计转股占比达24.8420% 致股本变动",
+    "summary": "富春染织公告称，截至2026年4月20日，累计已有3.71亿元“富春转债”转换为公司A股股票，累计转股股份数为3100.28万股，占可转债转股前公司已发行股份总额的24.8420%。尚未转股的“富春转债”金额为1.58亿元，占可转债发行总量",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "金融",
+    "title": "杭州银行增资至72.5亿，增幅约22%",
+    "summary": "天眼查App显示，近日，杭州银行股份有限公司发生工商变更，注册资本由约59.3亿人民币增至约72.5亿人民币，增幅约22%。该公司成立于1996年9月，法定代表人为宋剑斌，经营范围为银行业务，结汇、售汇业务，公募证券投资基金销售，证券投资基",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "惠誉评级：亚太地区交易量改善；信用质量差异化依然显著。",
-    "summary": "惠誉评级：亚太地区交易量改善；信用质量差异化依然显著。",
+    "title": "银邦股份：控股股东沈于蓝解除质押4.26%股份",
+    "summary": "银邦股份公告，控股股东、实际控制人沈于蓝于2026年5月21日解除质押无限售流通股3500万股，占其直接持股66.16%，占公司股份总数4.26%，质押始于2022年11月1日，质权人为无锡产业发展集团有限公司。截至本公告日，其及一致行动人",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "金融",
+    "title": "视觉中国：全资子公司投资的基金备案完成 认缴规模5500万元",
+    "summary": "视觉中国公告，全资子公司北京华夏视觉科技集团有限公司参与投资的生生不息（天津）股权投资合伙企业（有限合伙）已取得私募投资基金备案证明。该基金认缴规模5500万元，其中北京华夏认缴出资600万元，占比10.91%。备案日期为2026年5月19",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "渣打行政总裁就其“价低价值人力资本”言论在网上致歉。",
+    "summary": "渣打行政总裁就其“价低价值人力资本”言论在网上致歉。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "辽宁能源：聘任王庆国为公司副总经理",
+    "summary": "辽宁能源公告称，公司于2026年5月22日召开第十一届董事会第二十七次会议，审议通过聘任王庆国为公司副总经理，任期自董事会审议通过之日起至2026年6月30日。截至公告披露日，王庆国未持有公司股票，与公司相关人员无关联关系，无不得担任高管的",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
@@ -84,7 +84,7 @@
     "title": "SpaceX, OpenAI valuations would mean they leapfrog Berkshire Hathaway on first day of trad",
     "summary": "Traders on prediction market Polymarket think SpaceX, OpenAI and Anthropic on their first day of trading will surpass va",
     "source": "CNBC",
-    "time": "10小时前",
+    "time": "13小时前",
     "link": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html"
   },
   {
@@ -92,7 +92,7 @@
     "title": "How Walmart's gas price warning shapes our retail outlook — plus, Honeywell's quantum conn",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hou",
     "source": "CNBC",
-    "time": "11小时前",
+    "time": "13小时前",
     "link": "https://www.cnbc.com/2026/05/21/how-walmarts-gas-price-warning-shapes-our-retail-outlook-plus-honeywells-quantum-connection.html"
   },
   {
@@ -100,7 +100,7 @@
     "title": "LIV Golf seeks to raise up to $350 million from investors as post-PIF reality sets in",
     "summary": "LIV Golf is preparing to take its updated business plan and investor pitch on the road as soon as Thursday, in an effort",
     "source": "CNBC",
-    "time": "14小时前",
+    "time": "16小时前",
     "link": "https://www.cnbc.com/2026/05/21/liv-golf-fundraise-up-to-350-million-post-pif.html"
   },
   {
@@ -108,7 +108,7 @@
     "title": "Retail investors will get access to SpaceX's IPO—here's what to know before buying",
     "summary": "Elon Musk's rocket and sattelite firm will make IPO shares available on platforms such as Fidelity, Robinhood and Charle",
     "source": "CNBC",
-    "time": "14小时前",
+    "time": "17小时前",
     "link": "https://www.cnbc.com/2026/05/21/spacex-ipo-what-retail-investors-need-to-know-before-buying-shares.html"
   },
   {
@@ -116,7 +116,7 @@
     "title": "Billionaire families bet on semiconductor and energy stocks in first quarter during Iran w",
     "summary": "Private investment firms of David Tepper and other billionaires doubled down on chipmakers despite the Iran war pressuri",
     "source": "CNBC",
-    "time": "17小时前",
+    "time": "20小时前",
     "link": "https://www.cnbc.com/2026/05/21/billionaire-investments-q1.html"
   }
 ]
