@@ -1,42 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Is Cardano Too Cheap to Ignore Right Now?",
-    "excerpt": "Even at a heavily discounted price, Cardano could be a value trap.",
+    "title": "[英伟达] Walmart vs. Costco: Which Is the Better \"Recession-Proof\" Stock to Buy",
+    "excerpt": "These seemingly boring dividend stocks have crushed the S&P 500 and Nasdaq over the last five years.",
     "author": "Yahoo",
-    "popularity": "🔥 3小时前",
-    "link": "https://finnhub.io/api/news?id=d239383b939e0bf1fc6af19aeaadee8e78e7f342513a8222f3294b952225c9fe"
+    "popularity": "🔥 47分钟前",
+    "link": "https://finnhub.io/api/news?id=1c2ff284eb782b0136321e5dd1ab542a0b99c253b5313e351a1232b5232ebc87"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【上海亚虹】持股5%以上股东谢亚明减持计划期满未实施减持",
+    "excerpt": "上海亚虹公告，持股5%以上股东谢亚明此前披露的减持计划时间已届满（2026年2月26日至2026年5月25日），期间未通过大宗交易或集中竞价方式减持公司股份，减持数量为0股，占公司总股本0%。目前谢亚明持有公司无限售流通股2823.3万股，",
+    "author": "上海亚虹",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,上海亚虹.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Consumer Tech News (May 18-22): Meta Cuts 8,000 Jobs, Nvidia Posts Str",
     "excerpt": "Nvidia earnings, Boeing&#39;s China aircraft order, AI regulation proposals and major semiconductor investments dominate this week&#39;s market-moving",
     "author": "Benzinga",
-    "popularity": "🔥 20小时前",
+    "popularity": "🔥 22小时前",
     "link": "https://finnhub.io/api/news?id=0c18ff0fa8396a5a462e6e07973d8c349bae4a09699c9af29cc18b71e9cbe406"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【露笑科技】公司已攻克6/8/12英寸碳化硅晶体生长、衬底精密加工等关键核心技术",
+    "excerpt": "露笑科技5月22日在机构现场参观时表示，公司已攻克6/8/12英寸碳化硅晶体生长、衬底精密加工等关键核心技术，实现8英寸碳化硅衬底稳定量产、12英寸新品研发突破。",
+    "author": "露笑科技",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,露笑科技.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Nio Stock's Earnings Selloff Raises Stakes for Li Auto and Xpeng",
     "excerpt": "Nio stock price retreated sharply after releasing its financial results last week, with traders shifting their focus to XPeng and Li Auto.",
     "author": "Benzinga",
-    "popularity": "🔥 12小时前",
+    "popularity": "🔥 15小时前",
     "link": "https://finnhub.io/api/news?id=e45bca08c7984a6ab81291f5ee85980056ad031ecf4aa807f2e63fc1fb421c3d"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【万润股份】控股股东中国节能增持公司股份4.81%完成，增持金额7.26亿元",
+    "excerpt": "万润股份公告，控股股东、实际控制人中国节能环保集团有限公司自2025年11月24日至2026年5月23日期间，通过集中竞价交易方式累计增持公司股份4436.33万股，占总股本4.81%，增持金额为7.26亿元（不含交易费用），超过本次增持计",
+    "author": "万润股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,万润股份.html"
   },
   {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran",
     "excerpt": "President Donald Trump said an interim agreement is close that would open the Strait of Hormuz, but negotiations continue.",
     "author": "Yahoo",
-    "popularity": "🔥 6小时前",
+    "popularity": "🔥 8小时前",
     "link": "https://finnhub.io/api/news?id=3727e804f2df9f5256bd896ee2db51355a9040a548227146bddcdd9923a06786"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【汇宇制药】持股5%以上股东黄乾益减持股份至6.00%",
+    "excerpt": "汇宇制药公告称，2026年5月21日至5月25日，股东黄乾益通过集中竞价减持公司股份509,000股，持股数量由25,919,439股减至25,410,439股，占公司总股本比例由6.12%降至6.00%，触及1%的整数倍。本次权益变动是股",
+    "author": "汇宇制药",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,汇宇制药.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Consumer Tech News (May 18-22): Meta Cuts 8,000 Jobs, Nvidia Posts Str",
     "excerpt": "Nvidia earnings, Boeing&#39;s China aircraft order, AI regulation proposals and major semiconductor investments dominate this week&#39;s market-moving",
     "author": "Benzinga",
-    "popularity": "🔥 20小时前",
+    "popularity": "🔥 22小时前",
     "link": "https://finnhub.io/api/news?id=0c18ff0fa8396a5a462e6e07973d8c349bae4a09699c9af29cc18b71e9cbe406"
   }
 ]
