@@ -1,74 +1,42 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Nvidia's Latest AI Partner Was a Bargain Hiding in Plain Sight. Is It ",
-    "excerpt": "This manufacturer's growth is only getting faster.",
+    "title": "[英伟达] Is Cardano Too Cheap to Ignore Right Now?",
+    "excerpt": "Even at a heavily discounted price, Cardano could be a value trap.",
     "author": "Yahoo",
-    "popularity": "🔥 52分钟前",
-    "link": "https://finnhub.io/api/news?id=828a379f60ee7b80f6cb64d6327e003d3d5e8554234f346db696bb3a44204708"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【英唐智控】OCS整体需求量逐步增加，128/256等大通道产品有望在2026年逐步推向市场",
-    "excerpt": "英唐智控在特定对象调研时表示，光隆集成主要从事光开关等无源光器件和相关模块、设备的研发、生产和销售，客户涵盖传统光模块厂商、光通信设备厂商、电信运营商以及系统级供应商等。目前光隆集成小通道的OCS产品已经进入市场，128/256等大通道产品",
-    "author": "英唐智控",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,英唐智控.html"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=d239383b939e0bf1fc6af19aeaadee8e78e7f342513a8222f3294b952225c9fe"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Alibaba: Consolidated Revenue Growth Will Be Much Higher In FY2027",
-    "excerpt": "Alibaba is rated a Buy, transition from traditional e-commerce to AI and quick commerce continues despite the Q4 revenue miss. Read more on BABA stock",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 17小时前",
-    "link": "https://finnhub.io/api/news?id=1fed7d351d32f747f3594a055f20013502e593af2b696a4ab32b349ef522b22b"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【立方制药】向全体股东每10股派发现金人民币3元，共计派发现金股利为5705.47万元",
-    "excerpt": "立方制药公告，2025年度利润分配及资本公积金转增股本方案为：以公司当前总股本1.9亿股为基数，向全体股东每10股派发现金人民币3元（含税），共计派发现金股利为5705.47万元（含税），不送红股；同时以公司当前总股本1.9亿股为基数，以资",
-    "author": "立方制药",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,立方制药.html"
+    "title": "[阿里巴巴] Consumer Tech News (May 18-22): Meta Cuts 8,000 Jobs, Nvidia Posts Str",
+    "excerpt": "Nvidia earnings, Boeing&#39;s China aircraft order, AI regulation proposals and major semiconductor investments dominate this week&#39;s market-moving",
+    "author": "Benzinga",
+    "popularity": "🔥 20小时前",
+    "link": "https://finnhub.io/api/news?id=0c18ff0fa8396a5a462e6e07973d8c349bae4a09699c9af29cc18b71e9cbe406"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] Most active stocks in Thursday's session",
-    "excerpt": "Curious about the most active stocks on Thursday? Find out which stocks are dominating the market action!",
-    "author": "ChartMill",
-    "popularity": "🔥 16小时前",
-    "link": "https://finnhub.io/api/news?id=91c4293e048813de98ee222d37381057cd1672192982278a752be2b04238d8fb"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【宇信科技】2023年员工持股计划所持股票已全部出售完毕",
-    "excerpt": "宇信科技公告，公司2023年员工持股计划所持有的327万股公司股票已全部出售完毕，占公司总股本的0.46%。",
-    "author": "宇信科技",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,宇信科技.html"
+    "title": "[蔚来汽车] Nio Stock's Earnings Selloff Raises Stakes for Li Auto and Xpeng",
+    "excerpt": "Nio stock price retreated sharply after releasing its financial results last week, with traders shifting their focus to XPeng and Li Auto.",
+    "author": "Benzinga",
+    "popularity": "🔥 12小时前",
+    "link": "https://finnhub.io/api/news?id=e45bca08c7984a6ab81291f5ee85980056ad031ecf4aa807f2e63fc1fb421c3d"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] TSLA Stock Rises Premarket Despite Model Y Recalls — Retail Expects Mu",
-    "excerpt": "Prediction market traders currently see the highest odds for a SpaceX debut valuation between $2 trillion and $2.5 trillion.",
+    "title": "[特斯拉] Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran",
+    "excerpt": "President Donald Trump said an interim agreement is close that would open the Strait of Hormuz, but negotiations continue.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=6c5adbed9ed93dde5e65f63d006cc752b4350fb331c3b38d9bdfe432ee0c85b5"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【*ST宝实】控股股东宁夏电投已增持0.24%",
-    "excerpt": "*ST宝实公告，控股股东宁夏电投已完成增持计划，自2025年11月27日至2026年5月22日通过集中竞价累计增持277万股，占总股本0.24%，增持金额2100.92万元。原计划增持不超过0.66%（7,515,132股），金额区间210",
-    "author": "*ST宝实",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,*ST宝实.html"
+    "popularity": "🔥 6小时前",
+    "link": "https://finnhub.io/api/news?id=3727e804f2df9f5256bd896ee2db51355a9040a548227146bddcdd9923a06786"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] Baidu: Hidden AI Inflection",
-    "excerpt": "Baidu is at an AI inflection point, with surging cloud and GPU growth now eclipsing legacy online marketing revenues. Read why BIDU stock is a strong ",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 6小时前",
-    "link": "https://finnhub.io/api/news?id=9a094e9c34823db38bcd6e10f736c9a15ad6ae1499209a31528a6281b65b65d5"
+    "title": "[百度] Consumer Tech News (May 18-22): Meta Cuts 8,000 Jobs, Nvidia Posts Str",
+    "excerpt": "Nvidia earnings, Boeing&#39;s China aircraft order, AI regulation proposals and major semiconductor investments dominate this week&#39;s market-moving",
+    "author": "Benzinga",
+    "popularity": "🔥 20小时前",
+    "link": "https://finnhub.io/api/news?id=0c18ff0fa8396a5a462e6e07973d8c349bae4a09699c9af29cc18b71e9cbe406"
   }
 ]
