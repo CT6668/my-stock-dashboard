@@ -1,42 +1,58 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Why Is Crypto Crashing Today? Bitcoin, XRP, and Ethereum Slide on Fres",
-    "excerpt": "The crypto market is deep in the red this morning. The total market is down more than 3% in a day, and Bitcoin (CRYPTO: BTC) has slipped under $73,000",
-    "author": "Yahoo",
-    "popularity": "🔥 27分钟前",
-    "link": "https://finnhub.io/api/news?id=239fe1ee4fcd9efe81301a7b21e017a3d9f65d134189ac6a094caf8022ed29df"
+    "title": "[英伟达] NVIDIA Corp (NASDAQ:NVDA) Flashes Strong High Growth Momentum and Setu",
+    "excerpt": "NVIDIA (NVDA) earns strong High Growth Momentum and Technical ratings, signaling accelerating earnings, sales growth, and a solid uptrend. Patience is",
+    "author": "ChartMill",
+    "popularity": "🔥 40分钟前",
+    "link": "https://finnhub.io/api/news?id=53e4ce66d0d11954575946895dfa67760ff664a0079e3898883316bb47e724e1"
   },
   {
     "source": "东财股吧",
-    "title": "【东来技术】回购股份累计减持比例达1.11%",
-    "excerpt": "东来技术公告称，公司于2024年1月31日至4月30日累计回购股份5815348股。截至2026年5月27日，本期减持计划已出售已回购股份284745股，占总股本0.24%，加上第二期出售数量，累计出售已回购股份1331740股，占总股本1",
-    "author": "东来技术",
+    "title": "【欧盟能源总司】若未来几周情况未好转 供应将更加紧张",
+    "excerpt": "当地时间28日，欧盟能源总司发布声明称，霍尔木兹海峡的关闭对原油和所有主要石油产品都造成了影响，所有欧盟国家都受到了影响。如果未来几周情况没有好转，预计市场供应将变得越来越紧张，尤其是航空燃油市场。声明称，此前，欧盟委员会天然气协调小组与欧",
+    "author": "欧盟能源总司",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,东来技术.html"
+    "link": "https://guba.eastmoney.com/list,欧盟能源总司.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Temu Parent PDD Warns Of Heavy Spending Push, Stock Tanks",
     "excerpt": "Temu parent PDD reports mixed Q1 2026 results: Revenue rises 11% to $15.4B, while adjusted net income falls 17% amid fierce rivalry.",
     "author": "Benzinga",
-    "popularity": "🔥 21小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=a7fd07eedf0ed25d5d40c0c00b6801695a50a0c02a29378b6a58b8927b1ef1ee"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【禾盛新材】拟募集资金不超过1.9亿元，拟全部用于国产智能算力中心建设项目等",
+    "excerpt": "禾盛新材公告，公司拟向特定对象发行股票募集资金不超过1.9亿元，扣除发行费用后拟全部用于国产智能算力中心建设项目及补充流动资金。本次发行股票数量按照募集资金总额除以发行价确定，不超过本次发行前公司总股本的30%。",
+    "author": "禾盛新材",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,禾盛新材.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Nio Stock Rallies Wednesday, Shaking Off Beijing Regulatory Scrutiny",
     "excerpt": "NIO Inc - ADR (NYSE:NIO) shares are trading higher Wednesday as risk appetite improves in pockets of the tape and traders revisit China-related volati",
     "author": "Benzinga",
-    "popularity": "🔥 19小时前",
+    "popularity": "🔥 22小时前",
     "link": "https://finnhub.io/api/news?id=00ead5fe727091d8db543b992d006b938adc236a4dc22d4bf2c824a4c4b4026b"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【伊朗副安全事务负责人】谈判成功取决于美国不再过分索求",
+    "excerpt": "据报道，伊朗最高国家安全委员会副秘书巴盖里表示，前方的成功之路取决于美国停止过分索求。他指出，“我们不会允许通过霍尔木兹海峡威胁伊朗的国家安全，美国的观点属于野蛮时代。”",
+    "author": "伊朗副安全事务负责人",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,伊朗副安全事务负责人.html"
   },
   {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Tesla Stock Slips Overnight: Retail Turns Cautious On SpaceX Merger Hy",
     "excerpt": "Early SpaceX investor Peter Diamandis reignited merger speculation by saying a Tesla-SpaceX merger is “not a matter of if but only a matter of when.”",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
+    "popularity": "🔥 4小时前",
     "link": "https://finnhub.io/api/news?id=19eeed31650feb8bca5f0c418d72fd176dc79eb5b01dde550b08a6c01c59773c"
   },
   {
@@ -44,7 +60,7 @@
     "title": "[百度] Baidu: The AI Re-Rating Has Begun",
     "excerpt": "Baidu (BIDU) is transitioning from a legacy search engine to an AI-driven platform, with AI now comprising 52% of General Business revenue.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 20小时前",
+    "popularity": "🔥 23小时前",
     "link": "https://finnhub.io/api/news?id=c3f79833ae9d94dd4e654c1a6c15c1dabdb60e00164a68e1dcf2f75ff223dc55"
   }
 ]
