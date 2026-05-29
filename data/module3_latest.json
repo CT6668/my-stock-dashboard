@@ -1,43 +1,67 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Samsung Electronics ships faster HBM4E chip samples to customers; shar",
-    "excerpt": "Samsung Electronics on Friday said it started shipping samples of its latest high-bandwidth memory (HBM) chip to customers, pulling ahead of rivals in",
+    "title": "[英伟达] For the third time this month, a chip giant has joined the $1 trillion",
+    "excerpt": "SK Hynix became one of the few companies in the world with a $1 trillion market cap this week, as a global AI boom propels chip stocks to record level",
     "author": "Yahoo",
     "popularity": "🔥 3小时前",
-    "link": "https://finnhub.io/api/news?id=3f1be087dda49a2e83807b10899ae1b23fedd21cdff9f8c054b79a10e3837da4"
+    "link": "https://finnhub.io/api/news?id=2fd265eb753b7c613d135abd3e3b0833d054a1d979d4baa033aef5347321a455"
   },
   {
     "source": "东财股吧",
-    "title": "【俄外交部】日本并未改变反俄政策",
-    "excerpt": "俄罗斯外交部发言人扎哈罗娃28日在例行记者会上表示，尽管日本经济代表团正在访问俄罗斯，但日方并未改变反俄政策。扎哈罗娃说，俄方从未阻碍俄日商界之间的交流，但商界交流必须务实且互利。尽管日本经济代表团正在莫斯科访问，但日本对俄立场没有任何改变",
-    "author": "俄外交部",
+    "title": "【中国医药】子公司卡络磺钠注射液通过仿制药一致性评价",
+    "excerpt": "中国医药公告称，下属全资子公司康力药业收到国家药监局核准签发的三份卡络磺钠注射液《药品补充申请批准通知书》，该药品通过仿制药质量和疗效一致性评价。该药品用于多种出血疾病，截至公告披露日，累计投入约492万元。2025年中国三大终端六大市场销",
+    "author": "中国医药",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,俄外交部.html"
+    "link": "https://guba.eastmoney.com/list,中国医药.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] AI Glasses Shipments Are Exploding — And The Real Battle May Be Over O",
     "excerpt": " ",
     "author": "Benzinga",
-    "popularity": "🔥 16小时前",
+    "popularity": "🔥 18小时前",
     "link": "https://finnhub.io/api/news?id=60bf873a85c80e761f0b9b9bb1163343c790d197a97e2696c52d05d6b75c579e"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【招商港口】2026年短期公司债券（第一期）6月1日起深交所上市",
+    "excerpt": "招商港口公告称，公司2026年面向专业投资者公开发行短期公司债券（第一期）符合深交所债券上市条件，将于2026年6月1日起在深交所上市，面向专业投资者中的机构投资者交易。债券简称“26招港D1”，代码524813.SZ，发行总额10亿元，期",
+    "author": "招商港口",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,招商港口.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Li Auto Stock Sinks To 52-Week Low - Here's Why",
     "excerpt": "Li Auto (LI) stock hits a 52-week low after reporting mixed Q1 2026 results and an earnings miss. Read the full financial breakdown.",
     "author": "Benzinga",
-    "popularity": "🔥 19小时前",
+    "popularity": "🔥 21小时前",
     "link": "https://finnhub.io/api/news?id=e803fa1e1c574701c71d240fd9ae10e8b93e5949255e9453dd74133984c2088f"
   },
   {
+    "source": "东财股吧",
+    "title": "【天海电子】拟以4.94亿元募集资金置换预先投入自筹资金",
+    "excerpt": "天海电子公告称，公司首次公开发行股票募集资金总额21.48亿元，扣除发行费用后，实际募集资金净额为20.06亿元。截至2026年5月13日，公司以自筹资金预先投入募投项目4.79亿元，已用自筹资金支付发行费用1519.73万元。公司决定以募",
+    "author": "天海电子",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,天海电子.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] TSLA Stock Slips After-Hours: Waymo's Massive Robotaxi Lead Casts New ",
-    "excerpt": "Tesla's Austin robotaxi fleet was also reportedly linked to 17 known incidents between July 2025 and April 2026, including two involving minor injurie",
+    "title": "[特斯拉] Assessing Tesla (TSLA) Valuation After Recent Share Price Strength And",
+    "excerpt": "Tesla stock snapshot after recent performance moves Tesla (TSLA) has attracted fresh attention after recent share price moves, prompting investors to ",
     "author": "Yahoo",
     "popularity": "🔥 3小时前",
-    "link": "https://finnhub.io/api/news?id=d37902e10886a0c584618744d5d47c318076034da87bb0f18c6bb2465bee826c"
+    "link": "https://finnhub.io/api/news?id=a02d893a0d178f40c3f41382efa5f0df55cbf83d9d2d0cf03c56edd49ae9e38e"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【天元智能】子公司500万元认购私募基金12.25%份额",
+    "excerpt": "天元智能公告称，公司全资子公司泽煜未来与普通合伙人金拓资本等签署合伙协议，以自有资金500万元认购深圳星拓智神创业投资合伙企业12.25%份额。基金规模4083万元，存续期为2026年5月25日至2036年5月25日，投资范围为北京星河动力",
+    "author": "天元智能",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,天元智能.html"
   },
   {
     "source": "BIDU·雪球",
