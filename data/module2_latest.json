@@ -1,114 +1,122 @@
 [
   {
+    "sector": "综合",
+    "title": "*ST荣控：撤销退市风险警示 股票简称变更为荣丰控股 日涨跌幅限制变更为10%",
+    "summary": "*ST荣控公告，公司股票将于2026年6月2日停牌一天，并于2026年6月3日复牌。自2026年6月3日起，公司股票撤销退市风险警示，股票简称由“*ST荣控”变更为“荣丰控股”，证券代码仍为“000668”，日涨跌幅限制变更为10%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "中东谈判继续之际美债收益率持稳",
+    "summary": "在重新开放霍尔木兹海峡的谈判继续之际，债券市场表现平静，尽管美国和伊朗仍在不断交锋。本周将公布一系列劳动力数据，首先是明日的职位空缺和劳动力流动调查报告。根据平均预期，周三的ADP报告预计将显示私营部门招聘人数增加。周五的就业人数增幅预计将",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "被控贪污的菲律宾参议员称将自首",
+    "summary": "据当地媒体报道，菲律宾参议员兴戈伊·埃斯特拉达6月1日表示，在菲律宾反贪法庭对其发出逮捕令后，他将主动向警方投案，并称不会申请参议院庇护。1日早些时候，菲反贪法庭对埃斯特拉达下达逮捕令，指控其贪污受贿。（新华社）",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "*ST美芝：股价异常波动 提示多项经营与退市风险",
+    "summary": "*ST美芝公告称，公司股票2026年5月29日、6月1日收盘价涨幅偏离值累计超12%，属异常波动。2026年3月23日至6月1日累计涨幅122.78%，偏离基本面。公司澄清“实际控制人资产注入”等传闻不实。债权人5月15日申请公司重组，能否",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "科技",
+    "title": "智洋创新：以3亿元认购灵明光子9.1463%股权，已签署增资协议",
+    "summary": "智洋创新公告，公司此前披露拟终止重大资产重组并变更为战略投资事项。2026年6月1日，公司第四届董事会第二十一次会议审议通过，同意与杭州灵明光子科技有限公司及相关股东签署增资协议及股东协议。公司以人民币3亿元认购灵明光子人民币33.44万元",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "黄金",
+    "title": "多晶硅价格暂稳 组件成交重心延续弱势",
+    "summary": "周末多晶硅N型复投料报价33-35.7元/千克，上周前期市场仍有少量订单签订，后半程订单逐渐减少，周末价格暂时稳定，市场观望展会以及相关会议情况。上周国内组件价格维持下跌走势，企业竞价出货氛围再度上升，且目前集中式方面企业报价也开始不断下降",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "伊朗：确保日本船只更便捷地通过霍尔木兹海峡。",
+    "summary": "伊朗：确保日本船只更便捷地通过霍尔木兹海峡。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "【*ST交投：公司股票将于6月3日撤销退市风险警示和其他风险警示 日涨跌幅限制变更为10%】*ST交",
+    "summary": "投公告，公司股票交易将于2026年6月2日停牌一天，并于6月3日开市起复牌。自6月3日起，公司股票将撤销“退市风险警示”和“其他风险警示”，证券简称由“*ST交投”变更为“交投生态”，证券代码不变，日涨跌幅限制由5%变更为10%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "外媒：欧盟呼吁以色列停止在黎巴嫩的军事行动升级",
+    "summary": "据法新社、英国《卫报》等媒体报道，欧盟当地时间1日呼吁以色列停止其在黎巴嫩的军事行动升级。法新社称，欧盟外交事务发言人阿努瓦尔·阿努尼表示，“我们呼吁以色列停止其在黎巴嫩的军事行动升级，并尊重黎巴嫩的主权和领土完整。”（环球网）",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "中文在线：张帆、谢广才、王京京减持计划实施完毕，合计减持0.0892%股份",
+    "summary": "中文在线公告，董事张帆、董事兼常务副总经理谢广才、副总经理兼董事会秘书兼财务总监王京京的股份减持计划已实施完毕。三人于2026年6月1日通过集中竞价方式合计减持公司股份64.97万股，占总股本0.0892%。其中，张帆减持18.15万股，谢",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
     "sector": "人工智能",
-    "title": "【德生科技：全资子公司与广西医科大学第一附属医院签署AI中医体质辨识系统成果转化项目】5月28日，德",
-    "summary": "生科技全资子公司广州德生智能信息技术有限公司与广西医科大学第一附属医院正式签署AI中医体质辨识系统成果转化项目，签约金额过千万元。该系统深度融合中医辨证经验与人工智能技术，依托海量临床数据，可快速完成体质分型、健康风险评估，精准生成个性化中",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "title": "Iran and US trade strikes, Kuwait comes under fire as diplomacy drags on - Reuters",
+    "summary": "Iran and US trade strikes, Kuwait comes under fire as diplomacy drags on  Reuters",
+    "source": "Reuters",
+    "time": "57分钟前",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmZseGFNR05tMVJiV2tLRjdhdUFTUkwyT3pSdVFYdTJYWDdCZ0tRR2JNU002UEtMVHA1TXhabGhlUlMxUkIyOEh5dTNMR0dIQk1FQmxqUDRhcFZaREtrQkMyci1NS2lycENBOWtqbEpQVV9lX3FGOEJXU19ROEtaS0o0bTg0TGV5NGhtcGhORy12aUo4dzVxUlY2UElhZDFUalVqeWZmbUotQ21jQWxPeE5LZFM3WkNSZjE4bTR6MVhsTWFvRGpIMlpzeGpwTXZVby1Za2k5TQ?oc=5"
   },
   {
-    "sector": "综合",
-    "title": "城投控股：董事张列列和副总裁吴春辞职",
-    "summary": "城投控股公告称，5月29日公司收到董事张列列和副总裁吴春的书面辞职报告。张列列因工作原因，辞去董事、战略与ESG委员会委员职务；吴春因达到法定退休年龄，辞去副总裁职务。二人辞职后不在公司及控股子公司任职，辞职报告自送达董事会之日起生效，且已",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "sector": "人工智能",
+    "title": "US stock futures rise as AI push eclipses US-Iran war; Nvidia, Microsoft up - Reuters",
+    "summary": "US stock futures rise as AI push eclipses US-Iran war; Nvidia, Microsoft up  Reuters",
+    "source": "Reuters",
+    "time": "1小时前",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcUNQekF0VTVYU1pWSkxuYnE4cklIRTliQzVsN2NLUlItQ0Jvd1Q5My1lQlZJTUZMQmZpaWxDN1YtY3RGY1h0R1BIeHlrbm1qcFhpU1dxZjhfTmFwVERDd0VsOUFxTHRBZzNfNFdCYkFqVDE1ODVXVGNxaEpTdTd3SjlGZGMwRDdtUFBWQ3RtOVZoOGtGZmZWRGtnOUotbmxYejNobloxaGFqV1dSUWJRek5VYw?oc=5"
   },
   {
-    "sector": "综合",
-    "title": "ST华扬：新增诉讼本金2100.76万元 近12个月涉诉金额2116.76万元",
-    "summary": "ST华扬公告称，本次新增诉讼案件本金金额为2100.76万元；连续十二个月未披露累计新增诉讼、仲裁事项11个，涉及本金金额2116.76万元，占公司最近一期经审计净资产的37.69%。此外，2026年2月14日披露的诉讼、仲裁事项已调解结案",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "sector": "人工智能",
+    "title": "Nvidia, Meta and Schlumberger rank among top companies adopting AI, new study says",
+    "summary": "The AI-Driven Enterprise Institute released new research that breaks down how well S&P 500 companies are adopting AI com",
+    "source": "CNBC",
+    "time": "1小时前",
+    "link": "https://www.cnbc.com/2026/06/01/nvidia-meta-walmart-among-top-companies-adopting-ai.html"
   },
   {
-    "sector": "综合",
-    "title": "克里姆林宫就法国扣押与俄罗斯有关联的油轮一事表态：我们认为此类行为是非法的。",
-    "summary": "克里姆林宫就法国扣押与俄罗斯有关联的油轮一事表态：我们认为此类行为是非法的。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "飞利浦影像引导治疗系统在华装机突破6000台",
-    "summary": "在第二十届东方心脏病学会议举办期间，飞利浦宣布其影像引导治疗系统在华装机量突破6000台。未来将携手多方，持续深化协同合作，助力诊断、治疗与随访全链路的泛血管介入诊疗能力建设，为中国介入医学的高质量发展注入新动能。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "克里姆林宫：俄罗斯正采取措施保障航运货物安全，并将结合此次事件继续采取相应措施。",
-    "summary": "克里姆林宫：俄罗斯正采取措施保障航运货物安全，并将结合此次事件继续采取相应措施。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "政策",
-    "title": "克里姆林宫谈及俄控乌克兰部分地区实施燃料配给：各级政府正着力解决这些问题。",
-    "summary": "克里姆林宫谈及俄控乌克兰部分地区实施燃料配给：各级政府正着力解决这些问题。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "方大集团：拟以4000万元-6000万元回购公司股份",
-    "summary": "方大集团公告，拟以4000万元-6000万元回购公司股份，回购价格不超过5.38元/股。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "伊朗打击美军基地导弹发射画面",
-    "summary": "据美联社报道，伊朗军方公布了据称是今天（6月1日）打击美军基地的导弹发射瞬间的画面。伊朗伊斯兰革命卫队今天最新证实，美军不久前袭击了伊朗霍尔木兹甘省锡里克岛上的一座通信塔。革命卫队航空航天部队随即对发动袭击的一处美国空军基地实施了打击，并摧",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "sector": "人工智能",
+    "title": "Morning Bid: AI and 1984 - Reuters",
+    "summary": "Morning Bid: AI and 1984  Reuters",
+    "source": "Reuters",
+    "time": "2小时前",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVZqWUVCWTB1UWNfZkR6Yk5GVjctaERlbm1tSFZwN0dBUzBTTUxQODhMdEQ4REdRQWt4Snh0TXd2SG91aU5UZVVqWmFUSWh0Q1JxX2pmWlZVNGkxelZkblRuMTBrcDViTTlncUxXTDUzU0FkekItRnpNcE9UcDhuTFQ3YVhxdlpLS0lidEtvYXZsRVh4NC1j?oc=5"
   },
   {
     "sector": "人工智能",
     "title": "Stocks shake off Iran jitters as AI rules supreme; oil climbs - Reuters",
     "summary": "Stocks shake off Iran jitters as AI rules supreme; oil climbs  Reuters",
     "source": "Reuters",
-    "time": "1小时前",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRk9ON041eXk2OUtrQ0NFZTdHeXJCVG8zemM5OHkzX18tSnA5aThmdlczZ1lnZ19vN0tSenhmVTV1b05RMEJGTzdvaDVUd1pMR2Mza1lhWWtFaHVHV3V5Y2NSV1prOUtGNTgzTU56aUdaT1ZJRC0xVWloakpndUFTdWpqRQ?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Gold slips on stronger dollar, oil as markets await Trump decision on Iran - Reuters",
-    "summary": "Gold slips on stronger dollar, oil as markets await Trump decision on Iran  Reuters",
-    "source": "Reuters",
-    "time": "2小时前",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmkybDRsSTE5dExGbEF3WFo1bnk0d21mT2x2dzZ5QllRVklGUnpmWkNvVXpKTnhzNWs1OUstZnRYRHFUU1ZpOEJBZjdrZ29RZlFoUGU1c3N3b2x2ejBIOWp4X3lqamtIR09wanRjd1FRSThnMXpjSHE3WC1xR2xsalpqUEREbkczYlNRRDZlcXl1UW5ndGtBR0pBQ3hUNDJ1NDhhMC1BVDlxbTItRGJ2eDVn?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Morning Bid: Who needs oil when there's AI to buy? - Reuters",
-    "summary": "Morning Bid: Who needs oil when there's AI to buy?  Reuters",
-    "source": "Reuters",
     "time": "4小时前",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fcmIyR0F6Z2Q4VU9ZeTZBQVFqWkVJNUFXZ1Awa2lwb2FnbGhXckU5YTFSRXI1eGpBdERlS3huWWMxVWg3R041NzlnZHFsc2MxZU1XRHZENlB6aUFRWEd6TEFLV3NHMDNMeVZfRGNwNnhvbVQ2blYyYWkzbUVMLTQ?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "US says it struck Iranian military sites, Tehran responds with air base attack - Reuters",
-    "summary": "US says it struck Iranian military sites, Tehran responds with air base attack  Reuters",
-    "source": "Reuters",
-    "time": "5小时前",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmZseGFNR05tMVJiV2tLRjdhdUFTUkwyT3pSdVFYdTJYWDdCZ0tRR2JNU002UEtMVHA1TXhabGhlUlMxUkIyOEh5dTNMR0dIQk1FQmxqUDRhcFZaREtrQkMyci1NS2lycENBOWtqbEpQVV9lX3FGOEJXU19ROEtaS0o0bTg0TGV5NGhtcGhORy12aUo4dzVxUlY2UElhZDFUalVqeWZmbUotQ21jQWxPeE5LZFM3WkNSZjE4bTR6MVhsTWFvRGpIMlpzeGpwTXZVby1Za2k5TQ?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Dollar steady as markets await progress on Middle East peace talks - Reuters",
-    "summary": "Dollar steady as markets await progress on Middle East peace talks  Reuters",
-    "source": "Reuters",
-    "time": "8小时前",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDBZYzhnVW50SGxJS1NkTDVCeFdLNG9hS3dCOU5iYjVUZlJGUXJheGpRTHE1eWFuY0RVdnZkTE9kM0VrcGRoSkgzU3dDeTJkcFN4STVPNHpqalFWY0dQTGdrVzQ2Z0dCRXhGWmg4Qmg3Tzhqa2NrX2hvbzdOX2ZwUHNmZHJqVnV6bHlDbFEzdFpZVGo3NExaMDFLVUZwSmtydGpqb1ZYdnktT3VuYXVwV3c1TTdIZw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRk9ON041eXk2OUtrQ0NFZTdHeXJCVG8zemM5OHkzX18tSnA5aThmdlczZ1lnZ19vN0tSenhmVTV1b05RMEJGTzdvaDVUd1pMR2Mza1lhWWtFaHVHV3V5Y2NSV1prOUtGNTgzTU56aUdaT1ZJRC0xVWloakpndUFTdWpqRQ?oc=5"
   }
 ]
