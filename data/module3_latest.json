@@ -1,51 +1,67 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Wall Street Dumped This Magnificent ETF, but It's Making a Roaring Com",
-    "excerpt": "Investors might have overestimated the impact of artificial intelligence on the software industry.",
+    "title": "[英伟达] Meta Platforms Just Hinted at a New Business Unit That Could Generate ",
+    "excerpt": "Meta may enter the cloud computing market.",
     "author": "Yahoo",
-    "popularity": "🔥 50分钟前",
-    "link": "https://finnhub.io/api/news?id=e97f6e71caf7e80c5867bb1eb06559bb0874db04fec3eb62e3448ed98c8d35ad"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=913583ece4eb027249df91568238f704547a06ad6f7a06d99993b98c73b26a13"
   },
   {
     "source": "东财股吧",
-    "title": "【中信证券】维持比亚迪股份买入评级",
-    "excerpt": "中信证券发布关于比亚迪股份（01211.HK）的研报，维持“买入”评级。公司推出天神之眼5.0智能驾驶系统及自研4nm璇玑A3芯片（2,100 TOPS），并提供城市ADAS无限保险，彰显技术领先优势。年初至今60%购车者选装激光雷达版智驾",
-    "author": "中信证券",
+    "title": "【中国东航】拟5-10亿元回购股份 截至5月底尚未实施",
+    "excerpt": "中国东航公告称，公司于2026年4月29日通过以集中竞价交易方式回购部分A股股份的议案，拟回购资金总额5-10亿元，回购价格上限为5元/股，回购期限从2026年4月29日至2027年4月28日。截至2026年5月31日，公司尚未开始实施回购",
+    "author": "中国东航",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,中信证券.html"
+    "link": "https://guba.eastmoney.com/list,中国东航.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] SpaceX: Lessons From The Post-IPO Drawdowns Of Mega-Tech Royalty",
     "excerpt": "SpaceX is set for a record-breaking IPO with a $1.7â$2.0 trillion valuation and a $75 billion targeted raise. Read more on SPCX here.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 14小时前",
+    "popularity": "🔥 17小时前",
     "link": "https://finnhub.io/api/news?id=075e025dfbeb6a7217a4f9798f938164c957df7cbdf5d0136afebeb3caa20d40"
   },
   {
     "source": "东财股吧",
-    "title": "【快手旗下可灵AI正进行融资】投前估值180亿美元，计划2027年赴港上市",
-    "excerpt": "据消息称，快手(01024.HK)旗下视频生成业务可灵AI正在进行分拆以来的首轮融资，投前估值为180亿美元。这也是可灵AI的Pre-IPO轮融资。据了解到，可灵AI目前内部按照2027年年初能够递交港股上市申报材料推进相关工作。（IPO早",
-    "author": "快手旗下可灵AI正进行融资",
+    "title": "【灿瑞科技】公司暂无光模块光通信相关行业客户",
+    "excerpt": "灿瑞科技(688061)6月3日在互动平台回复称，公司产品目前没有用在光模块光通信相关行业，暂无该行业的客户。",
+    "author": "灿瑞科技",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,快手旗下可灵AI正进行融资.html"
+    "link": "https://guba.eastmoney.com/list,灿瑞科技.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] NIO Stock Keeps Climbing: What's Going On Today?",
     "excerpt": "NIO Inc. shares are extending their run Tuesday after strong May deliveries across NIO, ONVO and FIREFLY brands, following Monday&#39;s rally.",
     "author": "Benzinga",
-    "popularity": "🔥 16小时前",
+    "popularity": "🔥 19小时前",
     "link": "https://finnhub.io/api/news?id=4599bf32164f88c599b02af610b09217439c5399112cef55bc140a32703cc816"
   },
   {
+    "source": "东财股吧",
+    "title": "【兖矿能源】拟16.42亿元收购股权并调整回购股份价格上限",
+    "excerpt": "兖矿能源公告称，公司第九届董事会第二十四次会议通过多项议案。一是拟以15.57亿元收购新能源集团100%股权、以0.85亿元收购山能售电100%股权，提交2026年度第一次临时股东会审议；二是批准与控股股东签署2026 - 2028年度持续",
+    "author": "兖矿能源",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,兖矿能源.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] SpaceX Seeks $135 a Share for $75 Billion IPO, Reuters Says",
-    "excerpt": "(Bloomberg) -- SpaceX aims to sell 555.6 million shares ​at $135 apiece for its record-breaking $75 ​billion ⁠initial public ​offering, Reuters report",
+    "title": "[特斯拉] Tesla Faces China FSD Lawsuit As Robotics And Valuation Risks Grow",
+    "excerpt": "Chinese consumers have filed a new class-action lawsuit against Tesla (NasdaqGS:TSLA) alleging fraudulent marketing and consumer deception related to ",
     "author": "Yahoo",
-    "popularity": "🔥 4小时前",
-    "link": "https://finnhub.io/api/news?id=4b778791f20553c02138e5d5bc6ca6c0efcfe365da5bf080cfee5473f9bc8b5c"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=11f6296e1ac03f66dd7c950915d3cd579edf723ce08b5be749935ae4e0c4597c"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【宁波能源】子公司720万元投资设立控股子公司",
+    "excerpt": "宁波能源公告称，为拓展工业节能业务，公司全资子公司甬能综能与浙江博旭按90%和10%的持股比例，合资设立甬能博旭，开展余热发电等项目。甬能博旭注册资本800万元，甬能综能认缴720万元，以自有资金出资。本次投资在公司管理层审批权限内，无需董",
+    "author": "宁波能源",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,宁波能源.html"
   },
   {
     "source": "BIDU·雪球",
