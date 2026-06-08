@@ -1,11 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Will SpaceX Merge With Tesla? Here's What Prediction Markets Say.",
-    "excerpt": "Trends on Kalshi and Polymarket are increasingly showing people betting that Elon Musk will push to combine his two largest companies.",
+    "title": "[英伟达] Forget the SpaceX IPO: 3 AI Space Stocks to Buy and Hold Instead",
+    "excerpt": "While SpaceX is getting most of the attention, other AI space stocks could have more long-term growth potential.",
     "author": "Yahoo",
-    "popularity": "🔥 17分钟前",
-    "link": "https://finnhub.io/api/news?id=fad5163ff2b0325ae8621afe34a29797640f6ff425ceb2d7a0b83df058c2d1ba"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=30c7190e0dc2580470b57c04b40fcb13682672e4f5f6027c0fe31b7ce70e423a"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【龙净环保】与紫金矿业签署股份认购补充合同 拟向其定增",
+    "excerpt": "龙净环保公告称，6月8日公司召开会议，审议通过调整2025年度向特定对象发行股票的定价基准日、发行价格及发行数量并签署补充合同的相关议案。同日，公司与控股股东紫金矿业签署《附条件生效的股份认购合同之补充合同》，定价基准日调整为发行期首日，发",
+    "author": "龙净环保",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,龙净环保.html"
   },
   {
     "source": "BABA·雪球",
@@ -16,6 +24,14 @@
     "link": "https://finnhub.io/api/news?id=c519b1126500c7b6ce6d1f5a33f849f0062b260ff08b1ffb3b76b5eab2a77f60"
   },
   {
+    "source": "东财股吧",
+    "title": "【龙净环保】调整定增方案并拟0.7-1亿元回购股份",
+    "excerpt": "龙净环保公告称，公司第十届董事会第二十八次会议审议通过多项议案。一是调整向特定对象发行股票发行价格和数量，定价基准日调整为发行期首日，发行价格调整为不低于定价基准日前二十个交易日公司股票交易均价的80%；二是公司与认购对象签署《附条件生效的",
+    "author": "龙净环保",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,龙净环保.html"
+  },
+  {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] NIO Stock Is Falling Friday: What Investors Need To Know",
     "excerpt": "NIO shares are falling Friday as risk-off tape pressures growth names and traders test the delivery-driven rebound through consolidation.",
@@ -24,19 +40,35 @@
     "link": "https://finnhub.io/api/news?id=49c15f7448d0347be3bea1b6c7c2f68bb237ec761ffae4de3fe33a8cf33fe3b1"
   },
   {
+    "source": "东财股吧",
+    "title": "【金杨精密】调整限制性股票授予数量和价格并作废部分股票",
+    "excerpt": "金杨精密公告称，公司2025年限制性股票激励计划已获必要批准与授权。因2025年中期和年度利润分配，限制性股票授予价格调整为10.46元/股，首次授予数量调整为233.3254万股，预留授予数量调整为17.1248万股。因2名激励对象离职及",
+    "author": "金杨精密",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,金杨精密.html"
+  },
+  {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Will SpaceX Merge With Tesla? Here's What Prediction Markets Say.",
     "excerpt": "Trends on Kalshi and Polymarket are increasingly showing people betting that Elon Musk will push to combine his two largest companies.",
     "author": "Yahoo",
-    "popularity": "🔥 17分钟前",
+    "popularity": "🔥 3小时前",
     "link": "https://finnhub.io/api/news?id=fad5163ff2b0325ae8621afe34a29797640f6ff425ceb2d7a0b83df058c2d1ba"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【南亚新材】向特定对象发行股票申请获证监会同意注册批复",
+    "excerpt": "南亚新材6月8日公告称，公司收到证监会出具的批复，同意公司向特定对象发行股票的注册申请。该批复自同意注册之日起12个月内有效，公司将按规定办理发行事宜并及时履行信息披露义务。",
+    "author": "南亚新材",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,南亚新材.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Yimutian To Implement 15-For-1 ADS Reverse Split, Changing Ratio To 37",
     "excerpt": "Yimutian To Implement 15-For-1 ADS Reverse Split, Changing Ratio To 375 Class A Ordinary Shares Per ADS",
     "author": "Benzinga",
-    "popularity": "🔥 39天前",
+    "popularity": "🔥 40天前",
     "link": "https://finnhub.io/api/news?id=42f21fca0e39217d1a15e8744e5d37b32c6f86cdd3c73e5386a02601aba2ab70"
   }
 ]
