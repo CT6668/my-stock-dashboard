@@ -1,66 +1,42 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Nvidia CEO Sends Stark Message on Brutal Tech Selloff",
-    "excerpt": "Jensen Huang Calls Chip Rout a Buying Opportunity as AI Boom Remains Intact",
+    "title": "[英伟达] Forget the Big Chipmakers for a Minute: This Overlooked AI Stock Is Up",
+    "excerpt": "Investors chasing the AI trade through chipmakers may be overlooking the company that makes the fiber tying those chips together.",
     "author": "Yahoo",
-    "popularity": "🔥 7分钟前",
-    "link": "https://finnhub.io/api/news?id=c2f9975334ecae4c05c0d2af319925e03093641edf5251ccbbded56155201a5a"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=803e25c7567c2a7ad944d51a4e0189d0e06fc68943f9eb072af7a766a225109d"
   },
   {
     "source": "东财股吧",
-    "title": "【居然智家】股价异常波动 与优必选合作未产生实际贡献",
-    "excerpt": "居然智家公告称，公司股票于2026年6月5日、6月8日连续两个交易日收盘价格涨幅偏离值累计达20%以上，属异常波动。公司与优必选2025年3月签战略合作框架协议，截至目前无业务往来，未签具法律约束力的实质性订单协议，对经营业绩无实际贡献。2",
-    "author": "居然智家",
+    "title": "【消息人士】瑞士议员拟就瑞银资本规则推出新折中方案",
+    "excerpt": "据媒体援引消息人士报道，瑞士议员正考虑一项新提议，放宽对瑞银的资本监管要求。该方案若落地，将大幅削减政府草案给这家银行带来的数十亿美元合规压力。瑞士政府今年4月向议会提交法案草案，拟出台更严苛监管规定，避免瑞士信贷危机重演。草案要求瑞银必须",
+    "author": "消息人士",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,居然智家.html"
+    "link": "https://guba.eastmoney.com/list,消息人士.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] White House Says U.S. AI Technologies Shall Neither Be Developed Nor U",
-    "excerpt": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-signs-historic-directive-on-ai-in-the-national-security-enterprise/",
-    "author": "Benzinga",
-    "popularity": "🔥 2天前",
-    "link": "https://finnhub.io/api/news?id=c519b1126500c7b6ce6d1f5a33f849f0062b260ff08b1ffb3b76b5eab2a77f60"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【机器人ETF广发】2026年6月9日在深交所上市交易",
-    "excerpt": "广发基金公告称，广发国证机器人产业交易型开放式指数证券投资基金于2026年6月9日在深交所上市交易，场内简称“机器人ETF广发”，代码为159050，上市首日开盘参考价为基金份额参考净值1.060元。截至6月8日，该基金投资于标的指数成份股",
-    "author": "机器人ETF广发",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,机器人ETF广发.html"
-  },
-  {
-    "source": "NIO·WSB",
-    "title": "[蔚来汽车] NIO Stock Is Falling Friday: What Investors Need To Know",
-    "excerpt": "NIO shares are falling Friday as risk-off tape pressures growth names and traders test the delivery-driven rebound through consolidation.",
-    "author": "Benzinga",
-    "popularity": "🔥 2天前",
-    "link": "https://finnhub.io/api/news?id=49c15f7448d0347be3bea1b6c7c2f68bb237ec761ffae4de3fe33a8cf33fe3b1"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【嘉美包装】控股股东逐越鸿智质押2.47亿股用于并购贷款担保",
-    "excerpt": "嘉美包装6月8日公告，公司于近日收到控股股东逐越鸿智出具的《告知函》，获悉其持有公司的部分股份办理了股票质押业务，相关登记手续已办理完毕。根据告知函，逐越鸿智办理质押2.47亿股，占其所持股份的50%及公司总股本的22.51%，质押用途为并",
-    "author": "嘉美包装",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,嘉美包装.html"
+    "title": "[阿里巴巴] Wall Street Lunch: Intel Leads Chip And AI Rally On Google, Nvidia Fou",
+    "excerpt": "Intel (INTC) is leading chip and AI-related stocks higher following a report that Google (GOOG) and Nvidia (NVDA) are evaluating the company as a back",
+    "author": "SeekingAlpha",
+    "popularity": "🔥 15小时前",
+    "link": "https://finnhub.io/api/news?id=c2123a413263c6e1be5b3a745f7372bfff54e4c2695c779e1ec3f42453a499fb"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] The 3x Leverage That Built a 192% Year Just Took Back 18% in Hours",
-    "excerpt": "On Friday, June 5, 2026, the MicroSectors FANG Innovation 3x Leveraged ETN (NYSEARCA:BULZ) closed at $41.05, down roughly 18% from the prior close of ",
+    "title": "[特斯拉] Why Is Tesla (TSLA) Stock Rocketing Higher Today",
+    "excerpt": "Shares of electric vehicle pioneer Tesla (NASDAQ:TSLA) jumped 5.5% in the afternoon session after the company's unsupervised robotaxi service launched",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=750e4c8955ef24ff93ab28ed1f98beda58368f538a1ad9887f9ebe3807d07678"
+    "link": "https://finnhub.io/api/news?id=56b04c633e43182ad99c0ac760a01f4cb1879a15da00a2e60bd34fdda73bfc28"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] Yimutian To Implement 15-For-1 ADS Reverse Split, Changing Ratio To 37",
-    "excerpt": "Yimutian To Implement 15-For-1 ADS Reverse Split, Changing Ratio To 375 Class A Ordinary Shares Per ADS",
+    "title": "[百度] Pentagon's List For Designation As 'Chinese Military Company' Include ",
+    "excerpt": "https://public-inspection.federalregister.gov/2026-11571.pdf",
     "author": "Benzinga",
-    "popularity": "🔥 40天前",
-    "link": "https://finnhub.io/api/news?id=42f21fca0e39217d1a15e8744e5d37b32c6f86cdd3c73e5386a02601aba2ab70"
+    "popularity": "🔥 16小时前",
+    "link": "https://finnhub.io/api/news?id=99ba054baf340592506b6f5db3aabce52e565fbd35ac1ccf5237e2353f5c57bf"
   }
 ]
