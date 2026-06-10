@@ -1,90 +1,106 @@
 [
   {
+    "sector": "综合",
+    "title": "领英(LinkedIn)推出新举措以吸引商业广告客户。",
+    "summary": "领英(LinkedIn)推出新举措以吸引商业广告客户。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "巴基斯坦 KSE-100 指数收盘下跌 0.5%，报 169588 点。",
+    "summary": "巴基斯坦 KSE-100 指数收盘下跌 0.5%，报 169588 点。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "捷克央行：预计今年剩余时间整体通胀率将在2%至3%之间波动。",
+    "summary": "捷克央行：预计今年剩余时间整体通胀率将在2%至3%之间波动。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "捷克央行：核心通胀高企叠加全球成本压力推高通胀展望，是需要提高警惕的原因。",
+    "summary": "捷克央行：核心通胀高企叠加全球成本压力推高通胀展望，是需要提高警惕的原因。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "捷克央行：服务业通胀进而核心通胀仍处于高位。",
+    "summary": "捷克央行：服务业通胀进而核心通胀仍处于高位。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "捷克央行就5月通胀数据发表观点：5月燃油价格基本趋稳。",
+    "summary": "捷克央行就5月通胀数据发表观点：5月燃油价格基本趋稳。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "美国MBA抵押贷款申请指数上周上升10.8%。",
+    "summary": "美国MBA抵押贷款申请指数上周上升10.8%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "政策",
+    "title": "尼日利亚霍乱疫情已致74人死亡",
+    "summary": "据尼日利亚方面9日消息，博尔诺州卫生部门数据显示，5月初以来暴发的霍乱疫情在尼东北部快速传播，已波及14个地方政府区和50个选区，截至6月7日，已累计报告疑似病例7850例，死亡74例。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "博格华纳盘前上涨1.8%，此前瑞银将该股评级从中性上调至买入。",
+    "summary": "博格华纳盘前上涨1.8%，此前瑞银将该股评级从中性上调至买入。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "*ST瑞茂：股价连续三日跌幅偏离值超12% 提示多项风险",
+    "summary": "*ST瑞茂公告称，公司股票6月8日至10日连续3个交易日内日收盘价格跌幅偏离值累计超12%，属异常波动。受债务逾期及诉讼等影响，各品类业务销售量下降，2026年一季度营收同比降90.69%，归母净利润为负。控股股东及实控人股份100%被司法",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
     "sector": "人工智能",
-    "title": "日立以液冷、光模块和电力设备切入全球数据中心建设热",
-    "summary": "全球数据中心建设热潮给日立这家已经延续上百年的企业提供了新的市场空间。在海外市场，日立与OpenAI、新加坡电信等企业达成了合作。在国内，日立正在将旗下与数据中心相关的多项业务统一展示，涵盖液冷冷却、光模块、电力设备、数字化运维等方向，参与",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "title": "Netanyahu to run for re-election, his party says, after Trump raises doubts - Reuters",
+    "summary": "Netanyahu to run for re-election, his party says, after Trump raises doubts  Reuters",
+    "source": "Reuters",
+    "time": "2小时前",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM2N3WHJucE9BMHlhTlVtRmdBS3BpVHdZd1JIdElRR1pkNTFveVltckJRX2k2Tk55TnRJZWQwMVpISG9VV3AwbnpZYmgwbllVckh0dHc4bWZRZnNpeEo1NERrdDNYZndWaWtuTGo4RVltdVpKNW81azlsQXBxTnN6Nm5zRVk1VzVhU0xXcTNsWUNPU1lGakF4ZFdWZXhhRjhCRE8yOVBSWEdFLWd6c1dFZGhKUXNMWWFzNnc4cA?oc=5"
   },
   {
-    "sector": "新能源",
-    "title": "港股收盘：恒生指数跌0.696%，恒生科技指数跌0.911%",
-    "summary": "中信股份跌4.505%，零跑汽车跌4.631%，汇丰控股跌5.278%，宁德时代跌5.427%，蔚来-SW跌6.505%，智谱跌8.011%，联想集团跌9.535%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "黄金",
-    "title": "消息人士称，俄罗斯未能成功拍卖黄金生产商UGC的股权。",
-    "summary": "消息人士称，俄罗斯未能成功拍卖黄金生产商UGC的股权。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "彤程新材：拟修订公司章程等制度以适配H股发行上市",
-    "summary": "彤程新材公告称，公司拟发行H股并在港交所主板上市，为完善公司治理结构，将增加1名独立董事，董事会人数从9名调至10名，独立董事从3名增至4名。同时，修订累积投票条款，将常住香港的独立董事津贴调至20万港币/年。《公司章程》等现行制度待股东会",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "锐科激光：拟无偿划转生产设备并拟定2026年用工计划",
-    "summary": "锐科激光公告称，6月10日召开第四届董事会第二十六次会议，审议通过《关于锐科激光拟向智慧光子、锐威公司、睿芯公司、无锡锐科及无锡锐科拟向锐科激光无偿划转生产设备的议案》，以盘活闲置资产。还审议通过《关于锐科激光2026年用工计划的议案》，将",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "多浦乐：聘任王晓宁为公司副总经理",
-    "summary": "多浦乐公告称，公司于2026年6月10日召开第三届董事会第六次会议，审议通过聘任王晓宁为公司副总经理的议案，任期至第三届董事会任期届满。王晓宁1980年生，毕业于北京航空航天大学，曾任职于奥林巴斯（中国）有限公司等，截至目前未持有公司股份，",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "【摩尔线程MusaCoder正式开源：基于国产全功能GPU全栈训练，性能比肩国际SOTA】近日，摩尔",
-    "summary": "线程正式发布并开源面向GPU底层算子生成的专用代码大模型MusaCoder。这是业内首个基于国产GPU算力底座完成全链路训练与验证的开源代码大模型，其完整后训练流程均在基于MTT S5000构建的夸娥智算集群上完成。在KernelBench",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "科技",
-    "title": "鹏辉能源在广州成立智飞动能科技公司 注册资本500万",
-    "summary": "天眼查App显示，近日，广州鹏辉智飞动能科技有限公司成立，法定代表人为方李一凡，注册资本500万人民币，经营范围包括电池销售、蓄电池租赁、电池零配件销售、电力电子元器件销售等。股东信息显示，该公司由鹏辉能源（300438）全资持股。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "印度贸易官员：印度正考虑征收反倾销税及采取其他贸易救济措施，以遏制钢铁倾销。",
-    "summary": "印度贸易官员：印度正考虑征收反倾销税及采取其他贸易救济措施，以遏制钢铁倾销。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "苹果盘前微涨 美银仍看好该股",
-    "summary": "美股盘前，苹果微涨超0.2%，前一交易日收跌3.67%。美国银行维持苹果股票买入评级，目标价定为380美元。 分析师Wamsi Mohan在研报中写道，2026年全球开发者大会公布了苹果人工智能战略的重要进展。依托丰厚的股东回报、庞大的存量",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "sector": "海外市场",
+    "title": "China's factory-gate inflation at nearly 4-year high in May - Reuters",
+    "summary": "China's factory-gate inflation at nearly 4-year high in May  Reuters",
+    "source": "Reuters",
+    "time": "9小时前",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnlMRVVYaTJwMmxySXVZWndaOGNyanZHaWR4LUZWeFpEMEQ3el8xR3pueldSZ3lhOWZLOFZ6UkFMMnJwb0hUbWtEc191Wm4tNHJSZ01hYW1EbnlrRzVTb291eWJMbGZnLVJQVlFBdTEzTjN0dHIxU2N6VE00LU4wem1BQTJtdkw2d2IxMG93R0RmUmhsQmZ2N1Y2VEdzeUg5X0NoZjJrcmZVNjA5RGJJdFp4cnExaEdLWUFjY3hKb2FkVV9XcGdVTXI3ZVdkdw?oc=5"
   },
   {
     "sector": "海外市场",
     "title": "LNG demand in Asia recovers from Iran shock as China buys - Reuters",
     "summary": "LNG demand in Asia recovers from Iran shock as China buys  Reuters",
     "source": "Reuters",
-    "time": "10小时前",
+    "time": "13小时前",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPME8tR25BVGlpS1lPR09idGVCV2dUQ205eXM5SmdaRGlWMjZ5WWswRjdsLVY1R183Nmk5ZkEzOWNUTUtJSFc2VHEtdU5qTmRLS0RxeXZXVlBTTEpnaGI1VWRlOE1UdkxBbmxZcWkwSzJZMlNobFZKTFZPdUdLZjBYN000ZnExcE1BQkUxYWdKQWVkdlRoUUhwcnVlbWtpVHFJQWQwakxwTjFYZ1NsTzNFaXQwSk41QQ?oc=5"
   },
   {
@@ -92,7 +108,7 @@
     "title": "We're updating our rating on recently spun FedEx Freight after a strong run-up",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hou",
     "source": "CNBC",
-    "time": "13小时前",
+    "time": "16小时前",
     "link": "https://www.cnbc.com/2026/06/09/were-updating-our-rating-on-recently-spun-fedex-freight-after-run-up.html"
   },
   {
@@ -100,23 +116,7 @@
     "title": "New Zealand poll shows US seen as more of a threat than China - Reuters",
     "summary": "New Zealand poll shows US seen as more of a threat than China  Reuters",
     "source": "Reuters",
-    "time": "14小时前",
+    "time": "16小时前",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVh0Uk5ibXZnSUJ5ZjRGVThRTW5ZQktQOGhGVGVmbE9UX05WRWFmaHNCaFhpVUhhOFpQbWlIZklHaTBIWURWVGZEZkM4UFhsdVNuM2NyWDNENkNFOFA0SjlTRUtYUWhLUTJlTVpNRTZIWEI3cURHOEl2NWF3WE9HZVVQd2tYMkJVTTBHa1BnanJlUEhCZnNzU1FTRFF1Njg4Q1pV?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "US energy chief says oil exports through Strait of Hormuz, Gulf will 'continue to rise' - ",
-    "summary": "US energy chief says oil exports through Strait of Hormuz, Gulf will 'continue to rise'  Reuters",
-    "source": "Reuters",
-    "time": "16小时前",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkQ0OXA4S3Q1RUVWUm9sMmdoUExjQ1diMnpNNHJWSUhtbkZNbm5DemxTWUF2NF9aVVBtQ0RrWE5Ya3dzRlZSeENVWDlJU091N1ZEWm80WlV5UDdkOHYzU2xiWXpMZDVMeUYzMTVSVTRQemplNG8yUlkteDV0VUtMSVdfLVJVZVhJd3dyTTlsV2ROaGprNHZFQlNjNU9EVUhLWXk4MzBybk9qTmhhV1RXSW5pb1F4UmVNX3ZtQnh5Z2pNWTQ?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Apple shares slide after big Siri AI reveal",
-    "summary": "Apple unveiled new artificial intelligence software at WWDC, highlighted by its long-awaited update to Siri.",
-    "source": "CNBC",
-    "time": "16小时前",
-    "link": "https://www.cnbc.com/2026/06/09/apple-stock-siri-ai-reaction.html"
   }
 ]
