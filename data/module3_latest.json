@@ -1,58 +1,42 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] A Robinhood Insider Just Bought a Boatload of Shares of the Beaten-Dow",
-    "excerpt": "Director Micky Malka was recently buying shares of the stock.",
+    "title": "[英伟达] I'm Sitting Out the SpaceX IPO. Here's What I'm Buying Instead.",
+    "excerpt": "While everyone else is fighting to own a stock that's likely to be down significantly in the foreseeable future, I'll be stepping into this overlooked",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=791e9ba96495ec73134553919c0277116b35bc938b8e378e15a356945c805c0e"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【晋景新能】预计截至2026年3月31日止年度实现扭亏为盈",
-    "excerpt": "晋景新能(01783.HK)发布盈利预告，预计公司截至2026年3月31日止年度将实现扭亏为盈，录得纯利约5800万-6300万港元。去年同期录得净亏损1570万港元。董事会认为，转亏为盈及纯利增加主要由于以下因素的综合效应所致：截至202",
-    "author": "晋景新能",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,晋景新能.html"
+    "popularity": "🔥 11分钟前",
+    "link": "https://finnhub.io/api/news?id=a92b3e43340fc10701f51b69041831c627df076577624bfffb74b9a5bb6f59b8"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] GigaCloud Soars 70+% In One Year Despite U.S. Furniture Sale Declines",
-    "excerpt": "GigaCloud Technology (GCT) Q1 2026 results: revenue +32% YoY, net income +41%, resilient model and attractive valuation. See here for more details.",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 9小时前",
-    "link": "https://finnhub.io/api/news?id=9564fe4d9aacfa2574c254d2c015670813cb230fad80a81677d5364888334d69"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【多晶硅涨停背后】产能出清预期升温",
-    "excerpt": "6月11日，广期所多晶硅主力合约年内第三次触及涨停，单日涨幅达到8.99%。消息层面上，光伏产能出清相关传闻或成为最大的推手。记者6月11日了解到，《晶体硅光伏组件和逆变器能效限定值及能效等级》已进入发布前最后审批阶段，预计不久后将正式发布",
-    "author": "多晶硅涨停背后",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,多晶硅涨停背后.html"
+    "title": "[阿里巴巴] Alibaba Stock Falls After Chinese Regulator Warnings, US Pentagon List",
+    "excerpt": "Alibaba (BABA) stock slips 4.51% to $110.18 premarket as an intense regulatory holiday crackdown clashes with an official U.S. Pentagon military-linke",
+    "author": "Benzinga",
+    "popularity": "🔥 18小时前",
+    "link": "https://finnhub.io/api/news?id=d936870c0a523cc39f187e846e2c8d7e09cd723555b7ceec308eca08c89dd5fd"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] CrowdStrike Warns China Is Behind 58% Of State-Backed Cyber Attacks As",
-    "excerpt": "CrowdStrike warns China-linked hackers are escalating attacks on U.S. tech firms to steal AI technology and IP.",
+    "title": "[蔚来汽车] What's Going On With NIO Stock Thursday?",
+    "excerpt": "NIO shares are edging higher in Thursday&#39;s premarket as traders weigh fresh geopolitical and regulatory risks, with Nasdaq futures up 0.7%.",
     "author": "Benzinga",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=2a7e26c0a5fe40527aa728844f35ce24211f6eafdaadcc5cb2d373067cbfaf50"
+    "popularity": "🔥 20小时前",
+    "link": "https://finnhub.io/api/news?id=a1fcf82fbe1095d8677a63b36b95522a99f13f2a8f89fe2b298f52a1bb72d565"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] History Offers a $974 Billion Warning Ahead of the Game-Changing Space",
-    "excerpt": "Caveat emptor, retail investors!",
+    "title": "[特斯拉] JPMorgan Echoes Why Tesla, Inc. (TSLA) is One of the Best Forever Stoc",
+    "excerpt": "Tesla, Inc. (NASDAQ:TSLA) is one of the best forever stocks to buy, according to analysts. On June 7, JPMorgan reiterated that Tesla (NASDAQ:TSLA)’s a",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=07eaed2eca74d6b55b3bedd6d1c46da1abdff982960d8b2217d00f0345e1b0ee"
+    "link": "https://finnhub.io/api/news?id=3b1b997342be704dc4e44f51f0e5e09eadd92ade1a3b21f6806032807f99e88b"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] CrowdStrike Warns China Is Behind 58% Of State-Backed Cyber Attacks As",
-    "excerpt": "CrowdStrike warns China-linked hackers are escalating attacks on U.S. tech firms to steal AI technology and IP.",
+    "title": "[百度] Alibaba Stock Falls After Chinese Regulator Warnings, US Pentagon List",
+    "excerpt": "Alibaba (BABA) stock slips 4.51% to $110.18 premarket as an intense regulatory holiday crackdown clashes with an official U.S. Pentagon military-linke",
     "author": "Benzinga",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=2a7e26c0a5fe40527aa728844f35ce24211f6eafdaadcc5cb2d373067cbfaf50"
+    "popularity": "🔥 18小时前",
+    "link": "https://finnhub.io/api/news?id=d936870c0a523cc39f187e846e2c8d7e09cd723555b7ceec308eca08c89dd5fd"
   }
 ]
