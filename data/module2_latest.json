@@ -1,90 +1,98 @@
 [
   {
     "sector": "综合",
-    "title": "江苏常州发生一起小型直升机降落事故 致2人受伤",
-    "summary": "从江苏省常州市武进区南夏墅街道办事处获悉，6月11日14时许，武进区海湖路附近一架小型直升机降落时发生事故，造成2名驾乘人员受伤，其中1人已医治出院，另外1人伤势较重仍在救治中。目前，事故原因正在调查中。",
+    "title": "日出东方：参与设立的合伙企业经营期限延长3年",
+    "summary": "日出东方公告称，公司参与设立的南京同兴赢典壹号投资管理中心（有限合伙），因剩余所投项目短期内无法完全退出，经全体合伙人协商一致，将经营期限从2015年7月28日-2026年7月27日延长至2015年7月28日-2029年7月27日。截至公告",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "平高电气：中标国家电网20.92亿元特高压项目",
+    "summary": "平高电气公告称，公司及子公司、合营公司为“国家电网有限公司2026年特高压项目第二次设备公开招标采购”中标单位，中标产品包括1000kV组合电器等，中标金额合计约20.92亿元，占2025年营收的16.71%。相关项目签约后将对公司未来经营",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "科技",
+    "title": "申通地铁：拟公开挂牌转让申电通49%股权",
+    "summary": "申通地铁公告称，公司拟以公开挂牌方式转让所持有的上海申电通轨道交通科技有限公司49%股权，转让挂牌底价不低于经备案的评估结果所对应的股权价值，交易对方及价格以挂牌结果为准。申电通另一股东电气自动化可依法行使优先购买权。本次交易已获董事会批准",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "科技",
+    "title": "紫光云在成都成立新智能科技公司 注册资本6000万",
+    "summary": "天眼查App显示，近日，紫鸾智能科技（成都）有限公司成立，法定代表人为刘云峰，注册资本6000万人民币，经营范围包括电子产品销售、软件销售、网络设备销售等，由紫光云技术有限公司全资持股。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "科技",
+    "title": "火山引擎在武汉成立科技公司 注册资本1000万",
+    "summary": "天眼查 App 显示，近日，武汉矢量引擎科技有限公司成立，法定代表人为王峥，注册资本1000万人民币，经营范围包括计算机系统服务、数据处理服务、社会经济咨询服务等，由北京火山引擎科技有限公司全资持股。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "英国10年期国债收益率下跌12个基点至4.79%，为4月20日以来最低水。",
+    "summary": "英国10年期国债收益率下跌12个基点至4.79%，为4月20日以来最低水。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "政策",
-    "title": "凯迪拉克官宣推出全系燃油车3年8折回购政策",
-    "summary": "6月12日，凯迪拉克宣布限时推出全系燃油车三年八折保值回购政策，涵盖CT5、CT6、XT4、XT5车型，并承诺3年内单次事故损失达到原车购车发票价的30%可免费换新车。该活动时间截至2026年6月30日。",
+    "title": "澳门出现非洲埃博拉病毒个案？卫生局：纯属谣言，已报案追责",
+    "summary": "就社交平台流传澳门出现非洲埃博拉病毒个案，澳门卫生局表示，澳门至今从未出现任何埃博拉病毒确诊个案，该讯息纯属谣言，严厉谴责有关人士恶意散播不实疫情讯息，引起公众不必要恐慌及扰乱社会秩序。卫生局指出，捏造及散布虚假疫情讯息，须承担刑事责任，已",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "金融",
+    "title": "摩根士丹利调高韩股Kospi指数目标位至9000点 理由为散户买气强劲",
+    "summary": "根士丹利将韩国股市基准股指Kospi的12个月目标点位从8500点上调至9000点，理由是散户买入力道强劲。策略师Seok Joon和Kathleen Oh等人在报告中写道：“在超级周期与改革相互交织的格局保持不变的前提下，散户资金的黏性应",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "金融",
+    "title": "【华虹宏力：上交所并购重组审核委员会定于2026年6月18日召开2026年第9次并购重组审核委员会审",
+    "summary": "议会议审核公司发行股份购买资产并募集配套资金暨关联交易事项】华虹宏力公告，公司拟通过发行股份方式向上海华虹（集团）有限公司、上海集成电路产业投资基金股份有限公司、国家集成电路产业投资基金二期股份有限公司、上海国投先导集成电路私募投资基金合伙",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "德国5月CPI月率终值 -0.2%，预期-0.2%，前值-0.20%。",
-    "summary": "德国5月CPI月率终值 -0.2%，预期-0.2%，前值-0.20%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "英国4月季调后商品贸易帐 -260.46亿英镑，预期-225亿英镑，前值由-272.18亿英镑修正为",
-    "summary": "-272.18亿英镑。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "英国4月制造业产出月率 0.4%，预期-0.2%，前值1.20%。",
-    "summary": "英国4月制造业产出月率 0.4%，预期-0.2%，前值1.20%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "英国4月三个月GDP月率 0.7%，预期0.7%，前值0.6%。",
-    "summary": "英国4月三个月GDP月率 0.7%，预期0.7%，前值0.6%。",
+    "title": "德国国防部长皮斯托里乌斯：我们尚未收到美国何时将停止为北约防御计划提供部分能力的官方公告。",
+    "summary": "德国国防部长皮斯托里乌斯：我们尚未收到美国何时将停止为北约防御计划提供部分能力的官方公告。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "晶科科技成立航天新智能科技公司，含AI业务",
-    "summary": "企查查APP显示，近日，江西晶科航天新智能科技有限公司成立，经营范围包含：卫星通信服务，卫星导航服务，卫星技术综合应用系统集成，卫星遥感数据处理等。企查查股权穿透显示，该公司由晶科科技全资持股。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "朱江涛任招商证券董事长",
-    "summary": "天眼查 App 显示，近日，招商证券发生工商变更，霍达卸任法定代表人、董事长，由朱江涛接任。该公司成立于1993年8月，注册资本约87亿人民币，经营范围包括证券经纪，证券投资咨询，与证券交易、证券投资活动有关的财务顾问等，由招商局金融控股有",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "华为开发者大会2026即将拉开帷幕 HarmonyOS 7有望亮相",
-    "summary": "华为开发者大会2026（HDC 2026）于6月12日-14日在东莞松举办，今日14:30在东莞篮球中心，将开启首场主题演讲。余承东、何刚、龚体等华为高管将出席并发布核心内容。 HarmonyOS 7（纯血鸿蒙正式大版本）有望在本次大会亮相",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "IDC：蚂蚁数科位列中国智能体平台私有化市场非云厂商第一",
-    "summary": "IDC发布《中国智能体开发平台市场份额，2025》，2025年中国智能体开发平台私有化市场总规模达17.5亿元人民币。市场前五名依次为火山引擎、腾讯云、阿里云、蚂蚁数科及电信AI公司，蚂蚁数科也是排名最高的非云厂商。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "title": "Trump says Iran war deal close as Strait of Hormuz tensions linger - Reuters",
+    "summary": "Trump says Iran war deal close as Strait of Hormuz tensions linger  Reuters",
+    "source": "Reuters",
+    "time": "3小时前",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXk5cUo1M00yVjgxUGh5ZHl5SWdsUFcxZWhQUUF4MUhZY3pzNGZUbUU1SEtHUEh0dnZJM1Y4TFU0SzloMWNlQ1VqcjBZZ09raU1QdnFXallaeTBVMEZsNGhsOVVDcFNUZ2tjY29zX3hYYjJ6ZzAtZU1FSURnY0J3TktmSEk2eGFpd1Njek1SUG1mbkJrVmltN3RMQVk5WFpOOUxuMEVLUHRuVE50alhrTGk0VGs?oc=5"
   },
   {
     "sector": "人工智能",
     "title": "Wall Street indexes jump, Trump says strikes against Iran canceled - Reuters",
     "summary": "Wall Street indexes jump, Trump says strikes against Iran canceled  Reuters",
     "source": "Reuters",
-    "time": "7小时前",
+    "time": "9小时前",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlhSNlNaTm02QnN2dzg4bUw0U3UwR29UTUxLRXNCamhCMWtMbHlibEhLYjM4ZXE0SGUwWG9Jd2E0SjlWYk1MYkFMbktVSGFXd2xoM3RhR08tRUZZWDdwcm1VMTl0XzhxRjdfTGpHWVczaUZtcU0zb2E5SlVwTzhtZDlqb3ZtVG14RFBkbElXbTF5WWxIQjVmcEROWVJEUFlzOHhV?oc=5"
   },
   {
@@ -92,7 +100,7 @@
     "title": "Iran-born engineer wins bail ahead of U.S. trial tied to deadly drone strike - Reuters",
     "summary": "Iran-born engineer wins bail ahead of U.S. trial tied to deadly drone strike  Reuters",
     "source": "Reuters",
-    "time": "8小时前",
+    "time": "10小时前",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWmFjbHNPWW5PX1VQTzg0bjZqMEtrTHV4SzdRU1RvQnc0Wm82OTNNSVh0YXF3QzdCczgwRjU2ZWNkOEVfY21lZlVzakZhZ0QtVWJfMS1hUjdVVmpEUHhwdDlrRHlabklyLXpTWGVYa3pJZmRicFNaLWc5U21pbUZQZEw0ZU0yOUFqQWxhdE55eFVnWVlDTlU3eHVqVHRFYnJfOC12eVJxdGVncFN6Mm1tLXBSTy1oQThHWVVjYThB?oc=5"
   },
   {
@@ -100,7 +108,7 @@
     "title": "Trump says 'great' Iran settlement will trigger opening of Strait of Hormuz - Reuters",
     "summary": "Trump says 'great' Iran settlement will trigger opening of Strait of Hormuz  Reuters",
     "source": "Reuters",
-    "time": "9小时前",
+    "time": "12小时前",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQakItaGt5Nk9kbUd6UXhQS1V6Vlp5MjVOSlhwYjlOQXllMjEySkFqcWRKU3NxeEFFQnhTWnptM0NlSnkwWVd1bG5hODN3UHB1MGhIVGlXS1UzUHlINXdWVHYwSjJlOFk2OFBjQzFPWXpvdHFScDFFQWR1Zkt3X1RmeHpVZGVpUmg5bVVoNjVzMUVKRXRnSlo3U3JBOHVnZUhqVlBUSUotNHVzZw?oc=5"
   },
   {
@@ -108,15 +116,7 @@
     "title": "Eaton moves one step closer to becoming a cleaner bet on the AI boom",
     "summary": "Auto parts manufacturer Dana has agreed to combine with Eaton's Mobility business in a deal that values the unit at $5.1",
     "source": "CNBC",
-    "time": "9小时前",
+    "time": "12小时前",
     "link": "https://www.cnbc.com/2026/06/11/eaton-moves-one-step-closer-to-becoming-a-cleaner-bet-on-the-ai-boom.html"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Trump cancels strikes against Iran planned for Thursday evening - Reuters",
-    "summary": "Trump cancels strikes against Iran planned for Thursday evening  Reuters",
-    "source": "Reuters",
-    "time": "11小时前",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOamhQQXRZb2JYdUNtQ1pGRzBUYWplRG8yRS1HOTdLR0RQRllRYTdkSzZJLU5sUzdhbnpUUUl6Q0VQa1Uta3BVblpPQUlUX0dubVlJd2VTd2N5OWZNTm85VU9fcXNYbEtaVS1kWktDZnV4SGRkSUxNYzBVejNobHBzZzF2QmVEU0JQV2NHQkxfUF95YVNCcnNIcDRtUkRFeUJKS0pOSjdTMkVla2V1X050Z1V0UQ?oc=5"
   }
 ]
