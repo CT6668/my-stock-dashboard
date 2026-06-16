@@ -1,43 +1,67 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] SMCZ vs. SMCX: Betting Against or All-In on Super Micro?",
-    "excerpt": "The choice between Defiance Daily Target 2X Short SMCI ETF (NASDAQ:SMCZ) and Defiance Daily Target 2X Long SMCI ETF (NASDAQ:SMCX) is the cleanest bull",
-    "author": "Yahoo",
+    "title": "[英伟达] Peace Deal Lights the Fuse - Dow Hits Record, Chips Go Vertical",
+    "excerpt": "A signed framework, a falling oil price, and a chip index that just broke through a level it had never seen before, Monday gave investors a session th",
+    "author": "ChartMill",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=f043340592f1e2d0aa74183e030aded5f93f5e5a767e2d179cbee1f1818e8fe2"
+    "link": "https://finnhub.io/api/news?id=7b69d98eaf269113e3fc2315241adb19a5a9cd239e2b9fb01a35042bf8bb8d8e"
   },
   {
     "source": "东财股吧",
-    "title": "【据港交所文件】白鸽在线（厦门）数字科技股份有限公司通过港交所上市聆讯",
-    "excerpt": "据港交所文件：白鸽在线（厦门）数字科技股份有限公司通过港交所上市聆讯。",
-    "author": "据港交所文件",
+    "title": "【巨星农牧】不向下修正巨星转债转股价格，转股价格24.86元/股",
+    "excerpt": "巨星农牧公告，截至2026年6月16日，公司股价已出现连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格80%的情形，触发“巨星转债”转股价格向下修正条款。公司第五届董事会第十次会议审议通过，决定本次不向下修正“巨星转债”转股价格",
+    "author": "巨星农牧",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,据港交所文件.html"
+    "link": "https://guba.eastmoney.com/list,巨星农牧.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] SpaceX Traded More Than Apple, Microsoft, Tesla, Meta And Google Stock",
     "excerpt": "SpaceX&#39;s debut set new records for retail investor demand, with over 522 million shares traded and generating $33 billion in dollar volume.",
     "author": "Benzinga",
-    "popularity": "🔥 15小时前",
+    "popularity": "🔥 18小时前",
     "link": "https://finnhub.io/api/news?id=b17b741f476dc812cb170492eeaa59d45f06577f3590ab60d161e48d7eddcfad"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【运机集团】签订3.08亿元合同",
+    "excerpt": "运机集团公告，近日，公司与四川省钒钛产业投资发展有限公司签订了《一期露天采矿工程带式输送机系统（第一批次）买卖、安装合同》，合同金额为人民币3.08亿元（含税）。",
+    "author": "运机集团",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,运机集团.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] What's Going On With NIO Stock Monday?",
     "excerpt": "NIO shares are edging higher in Monday&#39;s premarket as investors weigh fresh US geopolitical and regulatory headlines with futures firmer.",
     "author": "Benzinga",
-    "popularity": "🔥 21小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=4e5c7ee0fa8be8e371a946e0d30d917f256fc6674ff5dd5538381aba1c41fe30"
   },
   {
+    "source": "东财股吧",
+    "title": "【奥本海默】SpaceX将重塑1.6万亿美元通信市场 传统宽带与电信运营商面临冲击",
+    "excerpt": "奥本海默指出，SpaceX正从发射公司转型为横跨太空、连接和AI基础设施的综合平台，其近期最直接的收入机会来自全球1.6万亿美元通信市场。奥本海默认为，星链有望在未来几年获取全球固定宽带新增用户的大部分份额，并长期挑战传统宽带、电信和移动服",
+    "author": "奥本海默",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,奥本海默.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] 1 Analyst Puts the Odds of a Tesla and SpaceX Merger at 80%. Here's Wh",
-    "excerpt": "What such a deal would actually hand the automaker's shareholders is less clear-cut than the headline odds suggest.",
+    "title": "[特斯拉] Legacy global automakers falter in ambition despite momentum in the EV",
+    "excerpt": "WASHINGTON, June 16, 2026 (GLOBE NEWSWIRE) -- Legacy automakers across the United States, Japan, and Europe risk falling further behind new market lea",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=e601a5cd6f1e6d350eb4ebe172134e9805a4f7c2d23134d88568e2e098504395"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=10aaebea71051d3ec7453f289458348d9d2fc44a94d0fd1292f1b4f766574fc2"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【*ST雅博】股票连续三日跌幅偏离值累计超12% 提示多项风险",
+    "excerpt": "*ST雅博公告称，公司股票连续三个交易日（2026年6月12日、6月15日和6月16日）日收盘价格跌幅偏离值累计超过12%，属于异常波动。经核查，公司及控股股东不存在应披露而未披露的重大事项。公司2025年度净亏损1.78亿元，营收2.93",
+    "author": "*ST雅博",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,*ST雅博.html"
   },
   {
     "source": "BIDU·雪球",
