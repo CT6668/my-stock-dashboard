@@ -1,11 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Should You Buy SpaceX Stock This Week or Wait for the Hype to Die Down",
-    "excerpt": "The stock is taking off, and some investors fear they are missing out.",
+    "title": "[英伟达] SpaceX Made Elon Musk a Trillionaire. Can SpaceX Stock Make You a Mill",
+    "excerpt": "SpaceX went public at a $2.1 trillion valuation, propelling CEO Elon Musk's net worth into trillionaire status.",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=00cebe32703e665c05027d6e7c213f5e6ee04d3b6281d1db10c80f8ab6f001bb"
+    "link": "https://finnhub.io/api/news?id=ab62f196d58ca25af5fdd6a3a7e9ee4d7032e4fe7a04f587e6f3733dc58c761f"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【甘李药业】甘精胰岛素注射液（预填充笔）获得阿联酋药品注册批件",
+    "excerpt": "甘李药业公告，近日，欧洲全资子公司甘李药业欧洲有限责任公司收到阿拉伯联合酋长国药品管理局核准签发的甘精胰岛素注射液（预填充笔）注册批件（批件号：75391-1572-221797-C1）。药品名称为Basalin®，适应症为糖尿病，剂型为注",
+    "author": "甘李药业",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,甘李药业.html"
   },
   {
     "source": "BABA·雪球",
@@ -16,20 +24,44 @@
     "link": "https://finnhub.io/api/news?id=4b4340fbd5a34636159afaadbd8aaa6ce269269d8ca20d63ac4fbc658c66f8ff"
   },
   {
+    "source": "东财股吧",
+    "title": "【宿迁联盛】拟1000万元合资设立公司 面临多项风险",
+    "excerpt": "宿迁联盛公告称，公司拟与朱蓉辉、汇智光芯共同出资1000万元设立江苏光铟半导体有限公司，从事磷化铟衬底的研发和生产销售。公司出资700万元，持股70%。该事项已通过董事会审议，尚需股东会通过。此次投资系战略延伸，短期内不影响业绩。不过，合作",
+    "author": "宿迁联盛",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,宿迁联盛.html"
+  },
+  {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] NIO Stock Pauses Wednesday: What Traders Should Watch Next Amid Regula",
     "excerpt": "NIO shares are trading flat Wednesday morning as traders weigh geopolitical and regulatory headlines tied to its U.S. standing.",
     "author": "Benzinga",
-    "popularity": "🔥 20小时前",
+    "popularity": "🔥 23小时前",
     "link": "https://finnhub.io/api/news?id=2ad802f24ba174090c49e51777ddb53811f5356fc4832b8505a909a7eee2c303"
   },
   {
+    "source": "东财股吧",
+    "title": "【斯瑞新材】投资9.19亿元建设“电热功能材料研发制造基地建设项目”",
+    "excerpt": "斯瑞新材公告，公司第四届董事会第十二次会议审议通过了《关于投资建设“电热功能材料研发制造基地建设项目”的议案》。项目总投资9.19亿元，包括“4000万件光模块芯片基座及壳体材料项目”拟投资4.79亿元，“1290吨高压开关触头及零组件项目",
+    "author": "斯瑞新材",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,斯瑞新材.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] TSLA Stock Rises Overnight: Analyst Sees Q2 Delivery Beat, Says SPCX M",
-    "excerpt": "Wolfe expects Tesla to deliver 420,000 vehicles in Q2, above the 400,000-unit consensus.",
+    "title": "[特斯拉] Elon Musk, The World's First Trillionaire, Holds Bitcoin And 'Some' Do",
+    "excerpt": "Popular cryptocurrency analyst Ali Martinez drew attention to the fact that Elon Musk, who became the world’s first trillionaire, owns Bitcoin (CRYPTO",
     "author": "Yahoo",
-    "popularity": "🔥 3小时前",
-    "link": "https://finnhub.io/api/news?id=2998541c5a8c0b8e2468fd02d5a64370a0bb7ba52186d0e665c228278c5692f2"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=e932ad8f8fb73fc3d525233e07a5e9919b403a36ce50a95c5cc819b2f3429881"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【三环集团】确定H股全球发售及在港上市相关事宜",
+    "excerpt": "三环集团公告称，公司第十一届董事会第二十次会议于2026年6月18日召开，审议通过《关于确定公司H股全球发售及在香港联合交易所有限公司主板上市相关事宜的议案》，同意H股全球发售相关安排等；还通过《关于修改的议案》及《关于制定H股发行并上市后",
+    "author": "三环集团",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,三环集团.html"
   },
   {
     "source": "BIDU·雪球",
