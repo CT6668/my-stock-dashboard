@@ -1,19 +1,11 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Down Nearly 40% From Its Highs, Is Palantir Stock a Once-in-a-Decade B",
-    "excerpt": "Palantir hasn't been as good an investment as it once was.",
+    "title": "[英伟达] Should You Buy SpaceX Stock This Week or Wait for the Hype to Die Down",
+    "excerpt": "The stock is taking off, and some investors fear they are missing out.",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=7d795b86b1ef471b5b34bbbcbed12abd8126ecd27d0b4814c9281a7483f6a17c"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【世名科技】股票交易异常波动 提醒多项投资风险",
-    "excerpt": "世名科技公告称，公司股票交易价格在2026年6月15 - 17日连续三个交易日收盘价格涨幅偏离值累计超30%，属异常波动。经核查，公司、控股股东和实控人不存在应披露而未披露的重大事项。同时，公司提醒多项风险，如辽滨项目产能利用率未达理想水平",
-    "author": "世名科技",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,世名科技.html"
+    "link": "https://finnhub.io/api/news?id=00cebe32703e665c05027d6e7c213f5e6ee04d3b6281d1db10c80f8ab6f001bb"
   },
   {
     "source": "BABA·雪球",
@@ -24,51 +16,27 @@
     "link": "https://finnhub.io/api/news?id=4b4340fbd5a34636159afaadbd8aaa6ce269269d8ca20d63ac4fbc658c66f8ff"
   },
   {
-    "source": "东财股吧",
-    "title": "【麦格米特】股票交易异常波动 不存在应披露未披露事项",
-    "excerpt": "麦格米特公告称，公司股票于2026年6月15日、16日、17日连续三个交易日收盘价格涨幅偏离值累计超20%，属异常波动。经自查并向控股股东等核实，截至公告披露日，公司日常经营正常，外部环境无重大变化，前期披露信息无需补充更正，不存在应披露而",
-    "author": "麦格米特",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,麦格米特.html"
-  },
-  {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] What's Going On With NIO Stock Monday?",
-    "excerpt": "NIO shares are edging higher in Monday&#39;s premarket as investors weigh fresh US geopolitical and regulatory headlines with futures firmer.",
+    "title": "[蔚来汽车] NIO Stock Pauses Wednesday: What Traders Should Watch Next Amid Regula",
+    "excerpt": "NIO shares are trading flat Wednesday morning as traders weigh geopolitical and regulatory headlines tied to its U.S. standing.",
     "author": "Benzinga",
-    "popularity": "🔥 2天前",
-    "link": "https://finnhub.io/api/news?id=4e5c7ee0fa8be8e371a946e0d30d917f256fc6674ff5dd5538381aba1c41fe30"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【复旦大学】五大未来创新中心正式挂牌 驱动未来产业发展路径",
-    "excerpt": "复旦大学消息，今天，智能医疗、超越摩尔、智能水凝胶三家卓越创新中心以及科学智能、脑机接口、可控核聚变、量子科技、类脑智能五大未来创新中心正式挂牌。这标志着复旦大学探索以基础研究驱动未来产业发展的路径，正式迈入系统化、功能化的运作新阶段。",
-    "author": "复旦大学",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,复旦大学.html"
+    "popularity": "🔥 20小时前",
+    "link": "https://finnhub.io/api/news?id=2ad802f24ba174090c49e51777ddb53811f5356fc4832b8505a909a7eee2c303"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla (TSLA) Faces Senate Inquiry Over FSD Safety Claims In Europe Too",
-    "excerpt": "Two U.S. senators have requested a federal investigation into Tesla's self-published safety data for its Full Self-Driving system, questioning whether",
+    "title": "[特斯拉] TSLA Stock Rises Overnight: Analyst Sees Q2 Delivery Beat, Says SPCX M",
+    "excerpt": "Wolfe expects Tesla to deliver 420,000 vehicles in Q2, above the 400,000-unit consensus.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=b425cb72eed682f83b72cc210939b8d239f2e7598f80dd892293b23224096900"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【晶丰明源】股东晶哲瑞询价转让292.85万股",
-    "excerpt": "晶丰明源公告，股东海南晶哲瑞创业投资合伙企业（有限合伙）通过询价转让方式转让292.85万股，转让价格为146.55元/股。此次转让后，晶哲瑞及其一致行动人持有公司股份比例由25.08%减少至23.68%，权益变动触及5%的整数倍。本次转让",
-    "author": "晶丰明源",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,晶丰明源.html"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=2998541c5a8c0b8e2468fd02d5a64370a0bb7ba52186d0e665c228278c5692f2"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Nvidia's China Woes Deepen As TikTok Parent ByteDance Eyes AI Chips Fr",
     "excerpt": "ByteDance eyes AI chips from Iluvatar CoreX and Baidu, signaling growing demand for China&#39;s homegrown AI hardware.",
     "author": "Benzinga",
-    "popularity": "🔥 2天前",
+    "popularity": "🔥 3天前",
     "link": "https://finnhub.io/api/news?id=38afea00cf858b7ae1411ee7a9258b68df7341397ce649c82dea1bc101e56732"
   }
 ]
