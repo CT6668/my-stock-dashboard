@@ -1,34 +1,50 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] In 10 Years, Will You Wish You'd Bought Shopify Stock During This Dip?",
-    "excerpt": "AI is changing how people shop, while Shopify continues to report strong growth.",
+    "title": "[英伟达] Is First Solar Dirt Cheap Amid the AI Boom?",
+    "excerpt": "First Solar hasn't received as much love as other stocks riding the AI tailwind.",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=dd14361fca207fddd99f1c09df5dae727f8674f2a8ac91d6bbc37bec3e37dc89"
+    "link": "https://finnhub.io/api/news?id=99f01498ec2540a299bdca6b3ae1ed236daa85ecce807dd2090b2df38c7100d4"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【内塔尼亚胡强硬表态】以军不会撤出黎巴嫩",
+    "excerpt": "以色列总理内塔尼亚胡21日说，以军将继续留在黎巴嫩南部的“安全区”，并强调伊朗“永远不能”拥有核武器。内塔尼亚胡当天在一场公开活动上说，不管美伊谈判能否达成协议，只要他还担任以色列总理，就绝不会允许伊朗拥有核武器。（新华社）",
+    "author": "内塔尼亚胡强硬表态",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,内塔尼亚胡强硬表态.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Open-Source AI Models Are Eating The Frontier: Where Value Goes",
-    "excerpt": "Open-weight models now rival the closed frontier on coding tasks at a fraction of the cost. Alibabaâs Qwen alone passed one billion downloads in Jan",
+    "title": "[阿里巴巴] Alibaba: If AI Is The Future, The Largest Cloud Provider In China Shou",
+    "excerpt": "Alibaba: If AI Is The Future, The Largest Cloud Provider In China Should Be A Winner",
     "author": "SeekingAlpha",
-    "popularity": "🔥 21小时前",
-    "link": "https://finnhub.io/api/news?id=185163aaf84ac9f30e4c32c68b199d21405c72b6bd4da811e941b8cb485b8f23"
+    "popularity": "🔥 22小时前",
+    "link": "https://finnhub.io/api/news?id=e73038b52349768a6c0c3e32453efcef4b0fb97c9b71b4e1aaf59b65b58e56a5"
   },
   {
-    "source": "NIO·WSB",
-    "title": "[蔚来汽车] What's Going On With NIO Stock Thursday?",
-    "excerpt": "NIO shares are up in Thursday&#39;s premarket as tech-leaning futures firm and traders weigh U.S. geopolitical, regulatory headlines.",
-    "author": "Benzinga",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=62f352724e9d51a8c72ac6f99d2ea73fb44ce12221e2c5acf795f05f2d476aed"
+    "source": "东财股吧",
+    "title": "【东方证券】首予国城矿业“买入”评级，锂钼金同辉，景气共潮生",
+    "excerpt": "东方证券研报指出，全球钼供需偏紧格局延续，核心矿山并表后国城矿业有望充分受益于钼景气上行周期。公司围绕党坝锂矿持续推进采选冶一体化布局，未来随着选厂、锂盐项目分期投产爬坡，锂业务有望逐步迈向盈利兑现期，成为公司中长期业绩增长的重要支撑。未来",
+    "author": "东方证券",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,东方证券.html"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] SpaceX lands investment-grade credit ratings as shares tumble from rec",
-    "excerpt": "SpaceX has been awarded investment-grade credit ratings by all three major agencies just days after its record stock market debut, even as its newly l",
+    "title": "[特斯拉] Are the three mega-AI IPOs about to break the market?",
+    "excerpt": "SpaceX just had its IPO, with Anthropic and OpenAI both set to launch initial public offerings soon — their collective financial weight threatens to b",
     "author": "Yahoo",
-    "popularity": "🔥 3小时前",
-    "link": "https://finnhub.io/api/news?id=0c4d7d80a2219a756d45b9d0c9400e77b5cb9e81bb91da1eaca268e009a04312"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=4ae2e6a498d830b62e2749c06a68ade17565dd219fb9c3cbc8f870d96222021a"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【波兰总理】波乌争端只会“两败俱伤”",
+    "excerpt": "据俄罗斯连塔网6月21日报道，波兰总理唐纳德·图斯克在社交平台X上表示，因乌克兰美化纳粹引发的波乌争端是一种战略性错误。他表示：“波乌两国政界人士爆发冲突是一种战略性错误，双方因此会在经贸、地缘政治和声誉层面两败俱伤。众所周知，在政治领域，",
+    "author": "波兰总理",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,波兰总理.html"
   }
 ]
