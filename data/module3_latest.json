@@ -1,50 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] 2 Wide-Moat Stocks That Are Drop-Dead Bargains Right Now",
-    "excerpt": "Two FAANG stocks are looking cheaper than they have in years.",
+    "title": "[英伟达] 3 Dividend Stocks to Buy Right Now and Hold Forever",
+    "excerpt": "Companies that consistently increase their dividends have outperformed the market over the long term.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=9a1950e71c925a1d70462981b256efdee365b62c66df2900b5447d20dffe2da9"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=6de80edbb191501aea1934c3da6d4fe167a68e719dbf7334615b76d49347470a"
   },
   {
     "source": "东财股吧",
-    "title": "【日本气象厅】今年7至9月日本气温偏高概率为50%",
-    "excerpt": "日本气象厅最新发布的三个月气象展望显示，日本东西部地区7、8、9三个月气温高于常年均值的概率为50%。分月份来看，7月、8月高温异常概率最高，日本东西部出现异常高温的可能性为60%。未来三个月，日本北部气温较常年偏高的概率为40%。日本气象",
-    "author": "日本气象厅",
+    "title": "【海辰药业】注射用醋酸西曲瑞克获得药品注册批件",
+    "excerpt": "海辰药业公告，公司于近日收到国家药品监督管理局核准签发的《药品注册证书》。药品名称为注射用醋酸西曲瑞克，规格为0.25mg，注册分类为化学药品4类。该药品为第三代促性腺激素释放激素（GnRH）拮抗剂，适应症为辅助生育技术中控制性卵巢刺激患者",
+    "author": "海辰药业",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,日本气象厅.html"
+    "link": "https://guba.eastmoney.com/list,海辰药业.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba Group: Qwen-Robot Triggers Full-Stack Physical AI Inflection P",
     "excerpt": "Alibaba (BABA) could re-rate on Qwen-Robot embodied AI, boosting cloud/MaaS revenue and upside. Read here for a detailed analysis.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 4小时前",
+    "popularity": "🔥 7小时前",
     "link": "https://finnhub.io/api/news?id=fbad6ae429a09d993b1a1955919e4ade685c93c5b8f26792fba788565cca6333"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【九强生物】取得Ⅲ类医疗器械注册证（人ABO血型反定型用红细胞试剂盒）",
+    "excerpt": "九强生物公告，公司于近日收到国家药品监督管理局颁发的《医疗器械注册证》，产品名称为人ABO血型反定型用红细胞试剂盒，注册证编号为国械注准20263401280，注册类别为Ⅲ，有效期至2031年06月21日，预期用途用于人ABO血型反定型检测",
+    "author": "九强生物",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,九强生物.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] 'Chinese Carmakers Weighing Canada Manufacturing Deals, Joly Says' - B",
     "excerpt": "https://www.bloomberg.com/news/articles/2026-06-22/chinese-carmakers-weighing-canada-manufacturing-deals-joly-says",
     "author": "Benzinga",
-    "popularity": "🔥 17小时前",
+    "popularity": "🔥 19小时前",
     "link": "https://finnhub.io/api/news?id=ddae8c4dd9bee142b090d1b10349fd94e2fedec7ec987ce87d04d6c384fb5ad1"
   },
   {
+    "source": "东财股吧",
+    "title": "【悦心健康】控股股东1亿股股份解除质押",
+    "excerpt": "悦心健康公告称，近日，公司控股股东斯米克工业所持1亿股股份解除质押，占其所持股份比例29.05%，占公司总股本比例10.87%，质押起始日为2021年8月18日，解除日为2026年6月22日，质权人为上海农村商业银行股份有限公司。截至公告披",
+    "author": "悦心健康",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,悦心健康.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Is Rivian Automotive Stock A Smart Buy Right Now?",
-    "excerpt": "The electric vehicle maker has a promising new vehicle and a mountain of cash to fund its future, but the road to profitability is paved with near-ter",
+    "title": "[特斯拉] Tesla headed for its biggest fight in Europe yet",
+    "excerpt": "Tesla's recovery in Europe has been remarkable. Europe, the world's second-largest EV market behind China, seemed done with the company in 2025. Tesla",
     "author": "Yahoo",
-    "popularity": "🔥 3小时前",
-    "link": "https://finnhub.io/api/news?id=dd47e9b96b38e8cf22e020a4402ee4cec547bc42486e33b4749f966be7f72632"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=89bd20bdf737f2e5575efdfe8d3924af85979434a74ef9ba3f6972bea26fe5e8"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【四川双马】控股股东部分股份6月22日解除质押",
+    "excerpt": "四川双马公告称，近日接到控股股东和谐恒源函告，其于2026年6月22日对所持公司625万股股份办理解除质押手续，占其所持股份比例1.61%，占公司总股本比例0.82%，原质押起始日为2025年11月6日，质权人为红塔证券。截至公告披露日，和",
+    "author": "四川双马",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,四川双马.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] 8 Communication Services Stocks Whale Activity In Today’s Session",
     "excerpt": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transac",
     "author": "Benzinga",
-    "popularity": "🔥 15小时前",
+    "popularity": "🔥 18小时前",
     "link": "https://finnhub.io/api/news?id=eac49fd8dc690f906cdbc7f2ae2747085c5fcdc72e367b74d95bfcc44ab1c5f4"
   }
 ]
