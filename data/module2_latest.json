@@ -1,90 +1,106 @@
 [
   {
     "sector": "综合",
-    "title": "华为等成立云衢星汇技术服务新公司",
-    "summary": "企查查APP显示，近日，云衢星汇（深圳）技术服务有限公司成立，经营范围包含：信息系统集成服务；信息系统运行维护服务；数据处理和存储支持服务等。企查查股权穿透显示，该公司由华为投资控股有限公司等共同持股。",
+    "title": "伊朗总统将访问巴基斯坦 讨论外交、能源等领域合作",
+    "summary": "伊朗总统马苏德·佩泽希齐扬计划周二抵达伊斯兰堡，讨论在安全、贸易和其他领域加强合作。这是继巴基斯坦斡旋促成美伊停火之后，两国关系进一步密切的最新迹象。佩泽希齐扬将会见巴基斯坦总统阿西夫·阿里·扎尔达里以及总理夏巴兹·谢里夫。据巴基斯坦外交部",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "纽约期金日内跌2%，现报4118.19美元/盎司。",
+    "summary": "纽约期金日内跌2%，现报4118.19美元/盎司。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "金融",
+    "title": "汇丰人寿保险获批增加注册资本5.56亿元",
+    "summary": "6月23日，上海金融监管局网站发布批复，同意汇丰人寿保险有限公司增加注册资本5.56亿元人民币，由26.76亿元人民币变更为32.32亿元人民币。该公司应按照有关规定及时办理变更事宜。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "纽约期金失守4120美元/盎司，日内跌1.98%。",
+    "summary": "纽约期金失守4120美元/盎司，日内跌1.98%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "特朗普点名英意德差劲",
+    "summary": "当地时间6月22日，美国总统特朗普在白宫再次对记者抱怨说，美国给北约花了那么多钱，北约盟友却在美国打击伊朗寻求援助时“没提供任何帮助”。特朗普抱怨说，虽然自己并不需要任何帮助，只是出于好奇看看北约盟友会不会来帮助美国，但他们在这件“小菜一碟",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "创新药",
+    "title": "海辰药业：注射用醋酸西曲瑞克获得药品注册批件",
+    "summary": "海辰药业公告，公司于近日收到国家药品监督管理局核准签发的《药品注册证书》。药品名称为注射用醋酸西曲瑞克，规格为0.25mg，注册分类为化学药品4类。该药品为第三代促性腺激素释放激素（GnRH）拮抗剂，适应症为辅助生育技术中控制性卵巢刺激患者",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "美元指数上涨0.1%，报101.13，创2025年5月以来新高。",
+    "summary": "美元指数上涨0.1%，报101.13，创2025年5月以来新高。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "夏季达沃斯论坛今起举行 将发布多份旗舰报告",
-    "summary": "第十七届夏季达沃斯论坛今天起在辽宁大连举行，来自90多个国家和地区的1700余名各界代表齐聚大连，共同探寻全球经济复苏与高质量发展新路径。今年的外国嘉宾比去年增长近三成，专精特新“小巨人”和独角兽企业参会数量增长40%，三天的会期将举办百余",
+    "title": "OpenAI推出新举措 协助发现修复开源软件漏洞",
+    "summary": "OpenAI于周一推出一项全新举措，旨在助力开源社区提升网络安全防护能力、防范程序漏洞。 该项目名为“守护星球漏洞计划”（英文原名Patch the Planet，明显化用了1995年经典影片《黑客》中的标志性台词“入侵整个星球”（Hack",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "卡塔尔再派一艘空舱液化天然气运输船穿越霍尔木兹海峡",
-    "summary": "船舶追踪数据显示，卡塔尔国有航运企业旗下的液化天然气运输船“米拉哈卡塔尔号”（ Milaha Qatar）周二出现在阿联酋以北的波斯湾水域，说明该船刚刚驶过霍尔木兹海峡。船舶航行数据显示，这艘油轮6月21日曾现身阿曼东部附近海域，随后船舶定",
+    "title": "伊朗外交部：我们可以自由使用将被解冻的资金，且对此没有任何限制。",
+    "summary": "伊朗外交部：我们可以自由使用将被解冻的资金，且对此没有任何限制。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
-    "sector": "黄金",
-    "title": "创业板指午后跌超3％",
-    "summary": "创业板指午后跌超3％，有色金属、元件、PCB产业链跌幅居前。",
+    "sector": "创新药",
+    "title": "九强生物：取得Ⅲ类医疗器械注册证（人ABO血型反定型用红细胞试剂盒）",
+    "summary": "九强生物公告，公司于近日收到国家药品监督管理局颁发的《医疗器械注册证》，产品名称为人ABO血型反定型用红细胞试剂盒，注册证编号为国械注准20263401280，注册类别为Ⅲ，有效期至2031年06月21日，预期用途用于人ABO血型反定型检测",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "与SK海力士挂钩产品成为香港最大ETF 资产规模飙升至约170亿美元",
-    "summary": "南方东英资产管理有限公司的与SK海力士挂钩杠杆式交易所交易产品已超越盈富基金，成为香港最大的ETF，凸显投资者对火热的半导体行业进行高风险投资的巨大兴趣。这款与SK海力士挂钩的ETF产品于10月推出，旨在提供两倍于该股单日收益的回报，截至周",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "title": "US waives Iran sanctions, Trump says he will 'do what I have to' if Tehran misbehaves - Re",
+    "summary": "US waives Iran sanctions, Trump says he will 'do what I have to' if Tehran misbehaves  Reuters",
+    "source": "Reuters",
+    "time": "2小时前",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcS1OdmpfbHlfTkxhM2xVM0cwWHVDeWhRUTNiY284YkViREtCTWpoSmRJVGpVdFBVWnpaS1BpZEFHcjd1Y2s0VDZ1Z25oOUQzY1FtQ1ZTOGlKRE1JRm1Ma3k0RUZoN0RCTlBjTV84eUtfZ05Cdk1lSzd3aXV3QkJtVklEa3FIYk92MkUzTW5YMm82Wmd0TmpYMEF5dnBnUmU2M0RKamprTjRJcnd1Z292dE1nM1A0ekFiS1M3YVhGZUQ3T0pQ?oc=5"
   },
   {
-    "sector": "综合",
-    "title": "创业板指跌3.00%，现报4228.499点；上证指数跌0.67%，现报4135.215点；深证成指",
-    "summary": "跌2.36%，现报15986.000点。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "科技",
-    "title": "Meta斥资9亿美元投资印度金融科技公司Cred",
-    "summary": "当地时间6月22日，据报道，Facebook母公司Meta Platforms斥资9亿美元，投资印度金融科技初创公司Cred。此外，Meta同时任命Cred的创始人Kunal Shah为WhatsApp的新主管。报道称，该笔投资将使Meta",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "伊朗总统佩泽希齐扬抵达伊斯兰堡",
-    "summary": "当地时间6月23日，伊朗总统佩泽希齐扬抵达巴基斯坦首都伊斯兰堡。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "刚果民主共和国称，已确诊的埃博拉病例达1,048例，其中267人死亡。",
-    "summary": "刚果民主共和国称，已确诊的埃博拉病例达1,048例，其中267人死亡。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "电力板块局部异动，大连热电涨停，杭州热电、福能股份、京能热力、国投电力、川投能源跟涨。",
-    "summary": "电力板块局部异动，大连热电涨停，杭州热电、福能股份、京能热力、国投电力、川投能源跟涨。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "sector": "海外市场",
+    "title": "Gold falls as dollar holds firm on Fed rate-hike expectations - Reuters",
+    "summary": "Gold falls as dollar holds firm on Fed rate-hike expectations  Reuters",
+    "source": "Reuters",
+    "time": "6小时前",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUVBUOEYtdFRVZ0FwQ2pUYXpSUFQ1YjhZdHh6RjU2ZzV5RzdRUGtjajlLRTBIUDBoYk5ZcXcwNTE5UmZZVnR5aDVHR2MzVG5UUlE5TEVnTGo0VnplM2FuZnk3SnpQNmJ2ZnpSZ1A4RWhVcU5DUnBMUUh3YXFTUkktZGJXV25TSzBOODNaYm93ckJ0NUZDOF9pazlHRQ?oc=5"
   },
   {
     "sector": "人工智能",
     "title": "Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies - Reuters",
     "summary": "Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies  Reuters",
     "source": "Reuters",
-    "time": "14小时前",
+    "time": "16小时前",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa3pPeDA3VWswbEdsWVBhVWxMcE54bWlTbTd3RXJiajBUeDR6cTFqMlVhTHQ4YndKeTRkRDE0Vmxpd1F4ZkgyakNPSHdrQnRuQXpvZk5wLWRRa1hRRVo2a053cFdZOUM4SWZtOFUwQVpkSTJNeHpRcFdIM3BVUnlhMnFyUExELTVhbEc2WTlBd1BzM0ZNZjNmT3JnVm5sNzBWT19NY1BKZ1ZmZFcwckFxXzNrSDhFZl90clA3Sg?oc=5"
   },
   {
@@ -92,7 +108,7 @@
     "title": "Airline ticket prices may stay high as carriers bank fuel relief from Iran deal - Reuters",
     "summary": "Airline ticket prices may stay high as carriers bank fuel relief from Iran deal  Reuters",
     "source": "Reuters",
-    "time": "19小时前",
+    "time": "22小时前",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVB4ZG5yUDVOYUpKajhiSmwyOWRRUi0yQkw3SHM0Sm83Vk0tWV9QRUV6U1BjU3ZubVFwZ3BkTWMyZXVEejlVenpfZ0ZnUlBSdTYtNUFSd1p2QzZfUHJRa3FLMXR0VFF0NS1CV0duMk1VMll1QUY3TkJkU1RYb0FDNlduUE0ybmpGSkVRSG5kN0xmdDdYT1p5ZEsyUkl0dm1sWEg4ZXgyZ21KWFRmZU1IRjhJWkZ2aGlCWWJ1U2hPNldwaGt3?oc=5"
   },
   {
@@ -102,21 +118,5 @@
     "source": "Reuters",
     "time": "1天前",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYnptR25GLUVoNTJ0Zlpva0N6X2s1S3ZhVWRobEpCakdkWmluZ2dtYVltREJqNFZSdkJmcUYwTW9pcnZPeGRFUmdybGdwZ2VzUFJ3bnVYLUhsNVFSa0JZeWpSU3dYZnhTNzNKaThkOEl6ZVhpbGR0cFFNbl9rZDIxdEFDRHlXd2ZOUmU5T3l1NHlQNzNOYVB2TmJCQ0ZjUTVkY2taQlFoZE9USU0wYm9PVFJTVFRzWDg2Wmx3b21SUjNxSHc0Tk44dmE0Mm9VV0U?oc=5"
-  },
-  {
-    "sector": "海外市场",
-    "title": "Stocks flat, oil falls as rate worries offset Iran talks optimism - Reuters",
-    "summary": "Stocks flat, oil falls as rate worries offset Iran talks optimism  Reuters",
-    "source": "Reuters",
-    "time": "1天前",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUJKVXNjdDQ1Qk4wVGUxU0VYY2FROHplR3N5UW0zT0JjZUgyQnN5MDltTHRxVWtwQktOdUdEcXh1YUY3OTNOUnNWMmNoMXNnRmZTNlI4NzFMeHRoR2Zmd1dwTlJSUldqUkVQcXJfVThwYnhSR0tPMnBUbm5jTW8tQTU3cmtmdw?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "US waives Iran sanctions after talks; Lebanon fighting abates - Reuters",
-    "summary": "US waives Iran sanctions after talks; Lebanon fighting abates  Reuters",
-    "source": "Reuters",
-    "time": "1天前",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWY0di1pSncycGtYTEtHQm9lQXhCWUxRSnlhMHlKdnJIdzdxYWlCcjdPVF9TeWJ6YXZQYU1oVjh0d1hRajdRaklhYU9CMHROR3VIbnNnSTFSaHJHYk1iNUJmLWhpVWU3VDN0cEE0UVZXTmFFQjYzUFZ1eUNNUFh0MmtDWmxWaUhFTjN0aWxMNGlCQ3Uyb0hBSk1Bd1h5cm9lN0RtOEdZSHdRdUlILVJueXJIQTBoMHMy?oc=5"
   }
 ]
