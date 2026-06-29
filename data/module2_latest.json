@@ -1,90 +1,98 @@
 [
   {
     "sector": "综合",
-    "title": "韩国SK集团会长崔泰源：即便SK海力士加快推进在建晶圆厂的建设，存储器短缺问题仍将持续。",
-    "summary": "韩国SK集团会长崔泰源：即便SK海力士加快推进在建晶圆厂的建设，存储器短缺问题仍将持续。",
+    "title": "巴基斯坦就卡拉奇袭击事件向阿富汗特使提出外交照会。",
+    "summary": "巴基斯坦就卡拉奇袭击事件向阿富汗特使提出外交照会。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "政策",
+    "title": "埃塞俄比亚价值10亿美元的债券报价跳涨逾2美分，至107.625美分，此前该国政府表示已就债务重组协",
+    "summary": "议草案达成一致。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "金融",
+    "title": "中东地缘风险溢价消退，迪拜股市将创一年最佳季度表现",
+    "summary": "中东冲突停火吸引投资者回流，迪拜股指有望录得近一年来表现最好的一个季度。迪拜金融市场综合指数二季度（4-6 月）累计上涨约 11%，抹平 2026 年年内跌幅，但指数点位仍远低于冲突爆发前水平。富兰克林邓普顿中东与北非股票投资主管萨拉赫・沙",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "沪深两市成交额超3万亿元，较上日此时放量146亿元。",
-    "summary": "沪深两市成交额超3万亿元，较上日此时放量146亿元。",
+    "title": "Topbuild美股盘前跌超12%",
+    "summary": "Topbuild美股盘前跌超12%，现报373.67美元。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "欧元斯托克50指数期货上涨0.34%，德国DAX指数期货上涨0.48%，法国CAC 40指数期货上涨",
-    "summary": "0.02%，富时指数期货上涨0.13%。",
+    "title": "隆基绿能：“隆22转债”2026年跟踪评级维持AAA级",
+    "summary": "隆基绿能公告称，联合资信对公司2021年度公开发行的“隆22转债”进行跟踪信用评级。前次（2025年6月25日）公司主体长期信用等级、“隆22转债”信用等级均为AAA，评级展望稳定。2026年6月26日出具的报告显示，本次维持公司主体长期信",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "科技",
+    "title": "银信科技：控股股东部分股份质押及解除质押",
+    "summary": "银信科技公告称，公司控股股东、实际控制人詹立雄部分股份办理质押及解除质押业务。6月25日，詹立雄质押1500万股，占其所持股份16.29%，占公司总股本3.38%，用于置换存续质押；6月26日，詹立雄解除质押1980万股，占其所持股份21.",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "巴克莱将施耐德电气目标股价从307欧元上调至340欧元。",
-    "summary": "巴克莱将施耐德电气目标股价从307欧元上调至340欧元。",
+    "title": "顾家家居：高林辞任财务负责人职务，刘海兰接任",
+    "summary": "顾家家居6月29日公告，公司收到财务负责人高林的书面辞职报告，高林因工作调整申请辞去公司财务负责人职务，辞职后仍在公司担任事业部副总经理职务。公司于同日召开董事会会议，同意聘任刘海兰为公司副总裁兼财务负责人，任期自本次董事会审议通过之日起至",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "政策",
+    "title": "香港海事处落实便利措施以促进游艇访港",
+    "summary": "香港特区政府海事处今日（29日）公布推出游艇跨境便利措施，包括提升电子业务系统、放宽对访港游艇的泊位要求以及便利内地访港游艇船长取得所需资历。 海事处发言人表示，今日推出的三项措施，将通过简化审批程序和提升通关效率，在现行境外游艇访港政策上",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "政策",
+    "title": "阿富汗称巴基斯坦空袭致36死163伤",
+    "summary": "阿富汗政府副发言人菲特拉特29日在社交媒体发文称，巴基斯坦军方对阿富汗发动的空袭已造成至少36名平民死亡、163人受伤。 菲特拉特称，伤亡最严重的袭击发生在帕克蒂亚省，已造成30人死亡、158人受伤，有3栋民宅被完全摧毁。 当日早些时候，阿",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "科技",
+    "title": "哈啰单车骑行时轮胎抱死致用户摔伤，客服回应：平台已有专员跟进处理",
+    "summary": "据媒体报道，有杭州用户表示，6月20号晚上自己骑行哈啰单车出行，但过程中发生了意外，突然前后轮抱死，导致自己被摔伤。针对此事，截至发稿前，哈啰官方暂无回应。哈啰单车客服则向新浪科技表示，平台已有专员跟进处理。对于车辆锁死的具体原因，客服表示",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "韩国计划到2035年建成18.4吉瓦的人工智能数据中心",
-    "summary": "据外媒报道，韩国计划到2035年建成18.4吉瓦的人工智能数据中心。第一阶段：SK集团、GS集团和Naver将投资550万亿韩元，到2029年建成8.4吉瓦的人工智能数据中心。第二阶段：SK集团计划到2035年将其人工智能数据中心容量从第一",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "摩根士丹利将欧莱雅目标股价从375欧元上调至376欧元。",
-    "summary": "摩根士丹利将欧莱雅目标股价从375欧元上调至376欧元。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "摩根士丹利将达能目标股价从78欧元上调至80欧元。",
-    "summary": "摩根士丹利将达能目标股价从78欧元上调至80欧元。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "英国央行首席经济学家皮尔：短期和中期预期在承压环境中能够发挥更大作用。",
-    "summary": "英国央行首席经济学家皮尔：短期和中期预期在承压环境中能够发挥更大作用。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "英国央行首席经济学家皮尔：脱欧令英国更容易陷入自我持续的通胀。",
-    "summary": "英国央行首席经济学家皮尔：脱欧令英国更容易陷入自我持续的通胀。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "SK集团崔泰源：将在韩国建设总规模15吉瓦的人工智能数据中心。",
-    "summary": "SK集团崔泰源：将在韩国建设总规模15吉瓦的人工智能数据中心。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "title": "Asian markets mixed in choppy trade as AI doubts, Iran tensions cloud outlook - Reuters",
+    "summary": "Asian markets mixed in choppy trade as AI doubts, Iran tensions cloud outlook  Reuters",
+    "source": "Reuters",
+    "time": "3小时前",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkdzTjRhWXJHYlExaGNxZUF6cGxORnpJSUVyYkpMMWFSeXI2dk5sZHNBSWI3c1RoR01tZk9QMFNDVHNhcUprUjVtZ1dOeHFTajU5NkxRcnVxUHpMTUFhaU1GSzUtNnhDUHpaRHlHUm42blpPNXF0NlNtbmhoMDRraGN5bTl0WVJZbnZTMWVDUm1rQzA4SVNBYmNkOFY0UnBWR2hpN1NyYUNySF9YQTZ4c1hEY2F0SW00TUE?oc=5"
   },
   {
     "sector": "海外市场",
     "title": "Gold slips as fresh US-Iran strikes boost oil, Fed rate-hike bets weigh - Reuters",
     "summary": "Gold slips as fresh US-Iran strikes boost oil, Fed rate-hike bets weigh  Reuters",
     "source": "Reuters",
-    "time": "3小时前",
+    "time": "6小时前",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU1FJMWFsaWpkbDVuSUFiVldPeE1GRVFLbDVYeTZ5RTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ1VYck9ENEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ?oc=5"
   },
   {
@@ -92,7 +100,7 @@
     "title": "Asia stocks adrift as Middle East worries meet rate-hike bets - Reuters",
     "summary": "Asia stocks adrift as Middle East worries meet rate-hike bets  Reuters",
     "source": "Reuters",
-    "time": "4小时前",
+    "time": "7小时前",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUFwVXVYYUk3ZXZGYUhac1BmQjhYN1JiSHM5SlhvWW9taHVTRkFZeVlrNFVfTl8wQVY0VTc3ekNEd1EyX2NMYjdNZXFwWi1WMFJWTHVIaE8yNTNNVWR4NkFHelBmSFlwYWdjRTZQREo4elhtYnNhZ3RMMjg2ckttSw?oc=5"
   },
   {
@@ -100,7 +108,7 @@
     "title": "America can't get enough of protein. The dairy industry can't keep up",
     "summary": "Demand for whey protein is off the charts as American diet trends change and GLP-1s boom, and the dairy industry is stru",
     "source": "CNBC",
-    "time": "14小时前",
+    "time": "17小时前",
     "link": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html"
   },
   {
@@ -108,15 +116,7 @@
     "title": "Iraq detains politicians, officials in anti-corruption crackdown - Reuters",
     "summary": "Iraq detains politicians, officials in anti-corruption crackdown  Reuters",
     "source": "Reuters",
-    "time": "15小时前",
+    "time": "18小时前",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObjhiREF4Z2I3aFhFRG1DTVJEaDlpcERlMWRmd19NRks1T05nYVUtcS05N1p6NmNZeWsyeEl0c3lRMkFsYnBfQmU5TU1kR0FnQ3ZaNTJNcGhtRmE1ODBLd1dCS0NHNkRYLTVCZ1duX052Mmw2a2l3WW9Cb3NkeHlrYXNqcnFFZU5LSUJwZnlqUVhWY2haeFBIU20zYk4xd25rUFhqY3F4NlBqUEJMWXZlZHh5UQ?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Egypt sweat on Salah fitness after hamstring strain - Reuters",
-    "summary": "Egypt sweat on Salah fitness after hamstring strain  Reuters",
-    "source": "Reuters",
-    "time": "1天前",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmdLSWVSN09JTDNHdDdGY1pCeDZYS2dFWTBzQWZjMzBfZzN1Z1NNNWxoMHFZUDF3b2FFVGM4a1NIN3F3WVhyT0phQWgwUmZ4bldaZmlkcEpTZllXRFlURTFFdEFMM0FwcHJ3R3ZVTk1Cc0NsdS1HcTByMGxBejNqRUVEUjlfRERsblpKc25ha1NYRktPMldtc3h1ZVBtSHM?oc=5"
   }
 ]
