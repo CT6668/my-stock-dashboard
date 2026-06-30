@@ -1,42 +1,58 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Why Amazon, Alphabet, and Other Tech Stocks Popped Today",
-    "excerpt": "AWS and Google Cloud could be in store for larger-than-expected gains.",
+    "title": "[英伟达] Alphabet Just Replaced Verizon in the Dow. Could Nike Be the Next Dow ",
+    "excerpt": "The longer Nike's turnaround drags on, the more its seat in the Dow looks up for grabs.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=aaa640ec712b305b9103f7a9752fcf71ee15b09c3c00d4f99f5647b92da3667a"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=e6b1128af0af46c3059a3ec4a46b6c6b9bfa0185c3206817890f97aded6bd6d5"
   },
   {
     "source": "东财股吧",
-    "title": "【环联连讯】已获得大量销售合约 主要涉及200Gb/s磷化铟光电二极管",
-    "excerpt": "环联连讯在港交所公告，集团近期已获得大量销售合约，使得集团手头所有销售合约总值于本公告日期已超过10亿美元。该等销售订单大部分来自全球制造商。该等销售合约主要涉及200Gb/s磷化铟（InP）光电二极管。其应用范围包括用于AI数据中心与下一",
-    "author": "环联连讯",
+    "title": "【Omdia】预计2026年全球近眼显示市场整体营收将达6.75亿美元 同比增长12%",
+    "excerpt": "市场研究机构Omdia现已发布最新一期“XR 近眼显示（Near-Eye Display）报告”，其中显示全球近眼显示市场在经历2025年明显萎缩之后，预计将在2026年回暖，整体营收将达到6.75亿美元，同比增长12%；出货量则预计达到1",
+    "author": "Omdia",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,环联连讯.html"
+    "link": "https://guba.eastmoney.com/list,Omdia.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] KWEB: World Class Tech Weighed By The China Discount",
     "excerpt": "KWEB offers concentrated exposure to leading Chinese internet and AI companies, currently trading near 52-week lows. Read more on KWEB ETF here.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 9小时前",
+    "popularity": "🔥 11小时前",
     "link": "https://finnhub.io/api/news?id=8667545fb5eac3079a5f1f18b0db6279990334aefdfd7b7c435c5c17782e345e"
   },
   {
     "source": "东财股吧",
-    "title": "【世界经济论坛人工智能专家】全球最终或仅剩10个基础模型，AI碎片化不等于被孤立",
-    "excerpt": "世界经济论坛人工智能卓越中心（CAIE）人工智能应用与影响力负责人巴索（Maria Basso）在接受记者专访时表示，“碎片化”并不等同于“孤立”，没有任何一个国家能够独立掌控整条AI价值链。她认为，未来全球AI的竞争范式将不再是全产业链的",
-    "author": "世界经济论坛人工智能专家",
+    "title": "【开立医疗】控股股东之一吴坤祥质押210万股股份",
+    "excerpt": "开立医疗公告称，公司控股股东之一吴坤祥于2026年6月29日质押210万股公司股份，占其持股比例2.19%，占公司总股本0.49%，质权人为广发证券股份有限公司。截至公告披露日，公司控股股东陈志强、吴坤祥（一致行动人）累计质押股份1713万",
+    "author": "开立医疗",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,世界经济论坛人工智能专家.html"
+    "link": "https://guba.eastmoney.com/list,开立医疗.html"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Innoviz Technologies Backs Mobileye (MBLY) Robotaxi Push With LiDAR Su",
-    "excerpt": "Given its significant hedge fund backing and attractive upside potential, Mobileye Global Inc. (NASDAQ:MBLY) is one of the most promising robotics sto",
+    "title": "[特斯拉] TSLA Q2 Deliveries May Miss Estimates, But Cantor Says AI, Robotics, C",
+    "excerpt": "The firm expects 397,414 Q2 deliveries, below Tesla’s company-compiled consensus of 408,609.",
     "author": "Yahoo",
-    "popularity": "🔥 3小时前",
-    "link": "https://finnhub.io/api/news?id=eefdfbf93f932f8453f8651b3a47951a6b70a997dbfe5c3fb1f48a12571500e1"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=db3ac3a8389dc367c2a42bfa657d3aa5b2d52a08c0bba913bda7a2aacb62c9a1"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【南山铝业】选举董事长并聘任多位高管",
+    "excerpt": "南山铝业公告称，6月30日召开的第十二届董事会第一次会议，选举吕正风为董事长，任期至本届董事会结束。会议还通过多项议案，聘任吕正风为总经理；聘任张华、徐良振等为副总经理，谭树青为财务总监；聘任隋冠男为董事会秘书、范基莉为董事会办公室主任兼证",
+    "author": "南山铝业",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,南山铝业.html"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【中国汽车流通协会】2026年6月中国汽车经销商库存预警指数为57.2%",
+    "excerpt": "中国汽车流通协会发布的最新一期“中国汽车经销商库存预警指数调查”VIA（Vehicle Inventory Alert Index）显示，2026年6月中国汽车经销商库存预警指数为57.2%，同比上升0.6个百分点，环比下降0.7个百分点，",
+    "author": "中国汽车流通协会",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,中国汽车流通协会.html"
   }
 ]
