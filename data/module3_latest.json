@@ -1,27 +1,51 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] SpaceX Joins the Nasdaq-100 on July 7. What It Means for Index Fund In",
-    "excerpt": "On July 7, millions of index-fund investors will start owning a rocket company they never chose.",
+    "title": "[英伟达] Here's Where Oklo Will Be in 5 Years (And Why You Should Buy Right Now",
+    "excerpt": "With a large backlog of orders and skyrocketing demand for energy, Oklo is well-positioned to takeoff in the next half-decade.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=7d4a12cc207c8043b4441f2d8cb29aa0990136b5c3a1717d1f3b009c123a2dba"
+    "popularity": "🔥 26分钟前",
+    "link": "https://finnhub.io/api/news?id=a8cb846d7050f3a06973252e41196151ddd53c8b18615eaf85e5839302a06314"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【吉祥航空】暑运旺季计划执行2.4万班次航班",
+    "excerpt": "从吉祥航空获悉，7月1日至8月31日共62天内，吉祥航空计划执行国内外及地区航班约2.4万班次，日均约387班次。国内航线方面，吉祥航空将全新开通上海浦东至锡林浩特航线，同步恢复上海浦东至嘉峪关、白山、西宁、敦煌等热门旅游目的地航线。国际航",
+    "author": "吉祥航空",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,吉祥航空.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] 10 Consumer Discretionary Stocks With Whale Alerts In Today’s Session",
     "excerpt": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transac",
     "author": "Benzinga",
-    "popularity": "🔥 16小时前",
+    "popularity": "🔥 18小时前",
     "link": "https://finnhub.io/api/news?id=b5d5d543a89d6b118cb4e069dc9de198ce80db42dc63c175f82ef914403b3921"
   },
   {
+    "source": "东财股吧",
+    "title": "【汇川技术】已回购142.18万股公司股份，使用资金总额约1亿元",
+    "excerpt": "汇川技术7月1日公告，公司于2026年4月24日召开第六届董事会第十四次会议，审议通过了《关于以集中竞价方式回购公司股份方案的议案》。公司计划使用不低于1亿元，不高于2亿元的自有资金，以不超过84.5元/股（除权除息调整后）的价格通过集中竞",
+    "author": "汇川技术",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,汇川技术.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Lemonade (LMND) Is Up 12.4% After Expanding Coverage And Securing Impr",
-    "excerpt": "In June 2026, Lemonade expanded its renters insurance into Mississippi and launched its Autonomous Car coverage for Tesla drivers in Colorado, while a",
+    "title": "[特斯拉] Ford And Ferrari Left Tesla, Rivian, Every Other Auto Rival In The Dus",
+    "excerpt": "The broader auto sector struggled as the EV boom cooled, with U.S. EV sales down 27% in Q1.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=6615b38e85ffbbe6655015ecbc9b404ac46cda4f4cacf965cbe7a91b376a4d4b"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=37d6b408325ffd969a965fc9ef93e445383c744ffa25355ed7b23685b8a98536"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【复星医药】晋升聘任Xingli Wang先生为本公司总裁",
+    "excerpt": "复星医药公告称，公司第十届董事会第三十三次会议（临时会议）审议通过对现任高级管理人员改聘的议案。经首席执行官刘毅提名，同意晋升聘任Xingli Wang先生为本公司总裁，任期自2026年7月1日起至本届董事会任期届满之日止；同日起，刘毅不再",
+    "author": "复星医药",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,复星医药.html"
   },
   {
     "source": "BIDU·雪球",
@@ -30,5 +54,13 @@
     "author": "SeekingAlpha",
     "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=9c879f1b372ea074c110a3aea204039e2143b83a054cedd8987de448ebcbf064"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【厦门钨业】控股子公司洛阳豫鹭因尾矿供应暂停基本停产",
+    "excerpt": "厦门钨业公告称，其控股子公司洛阳豫鹭因洛阳钼业暂停提供尾矿，已基本停产。洛阳豫鹭厦门钨业持股60%、洛阳钼业持股40%。2025年实现营收3.63亿元、净利润1.23亿元，厦门钨业合并层面归母净利润0.61亿元，分别占公司当期合并营收、归母",
+    "author": "厦门钨业",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,厦门钨业.html"
   }
 ]
