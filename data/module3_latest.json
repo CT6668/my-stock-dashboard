@@ -1,19 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Why Palantir Stock Popped This Week",
-    "excerpt": "The AI leader's stock is a buy, according to a respected Wall Street analyst.",
+    "title": "[英伟达] Can Micron and Sandisk Continue Their Unprecedented Rise Through 2027?",
+    "excerpt": "Micron and Sandisk have risen for a good reason.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=c92cf6f5c70e332fa7d4ddc3992971f423e3abe82185f8ac3aad448ab731b7f5"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=77f2f5313e671b6e86af5a7dd39a479ab54b4d597ad4b47799b3b9eeae358d86"
   },
   {
     "source": "东财股吧",
-    "title": "【模拟芯片大厂亚德诺发通知信】部分产品交期拉长 提醒客户提前半年下单",
-    "excerpt": "模拟芯片大厂亚德诺半导体（ADI）日前再度向客户发出通知书，表示需求回升带动供应吃紧，部分产品交期最长达六个月，若客户未能提前六个月下单，未来可能面临更长交付时间。",
-    "author": "模拟芯片大厂亚德诺发通知信",
+    "title": "【蓝箭电子】拟申请不超过2.35亿元并购贷款用于收购成都芯翼股权",
+    "excerpt": "蓝箭电子(301348.SZ)公告称，公司董事会审议通过向招商银行佛山分行申请不超过2.35亿元并购贷款，用于支付收购成都芯翼科技有限公司60%股权的对价，并质押该部分股权。",
+    "author": "蓝箭电子",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,模拟芯片大厂亚德诺发通知信.html"
+    "link": "https://guba.eastmoney.com/list,蓝箭电子.html"
   },
   {
     "source": "BABA·雪球",
@@ -24,11 +24,35 @@
     "link": "https://finnhub.io/api/news?id=a664584e5b6adf36e0eaa214a5dafa0688eff43291c95b5f263e62c564f7c44f"
   },
   {
+    "source": "东财股吧",
+    "title": "【国联水产】控股股东1200万股股份解除质押",
+    "excerpt": "国联水产公告称，近日，公司控股股东新余国通将所持1200万股公司股份办理解除质押业务，占其所持股份比例7.60%，占公司总股本比例1.06%，质权人为天津中财商业保理有限公司。截至公告披露日，新余国通及其一致行动人累计被质押股份2.16亿股",
+    "author": "国联水产",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,国联水产.html"
+  },
+  {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Tesla’s blowout quarter comes with a warning sign",
     "excerpt": "Tesla (TSLA) finally gave investors the number they had been waiting for. The electric-vehicle maker produced a lot more automobiles than Wall Street ",
     "author": "Yahoo",
-    "popularity": "🔥 3小时前",
+    "popularity": "🔥 5小时前",
     "link": "https://finnhub.io/api/news?id=505233b97d0fd5f5dc0464ad36aa3a1cda8239bf218a89a7058c559411b10179"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【北京利尔】向特定对象发行股票申请获深交所受理",
+    "excerpt": "北京利尔公告称，公司近日收到深交所出具的通知，深交所对公司报送的向特定对象发行股票的申请文件核对后，认为文件齐备，决定予以受理。本次发行尚需通过深交所审核，并获中国证监会同意注册批复方可实施，能否通过审核及获批时间尚不确定。公司将及时披露进",
+    "author": "北京利尔",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,北京利尔.html"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【鹏鹞环保】董事长兼原总经理离任，聘任蒋永军为总经理",
+    "excerpt": "鹏鹞环保公告称，2026年7月3日，董事长兼总经理王鹏鹞因公司战略发展等原因申请辞去总经理职务，辞职报告自送达董事会之日起生效，其将继续担任董事长、法定代表人。7月6日，公司第五届董事会第七次会议审议通过，聘任蒋永军为总经理，任期至第五届董",
+    "author": "鹏鹞环保",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,鹏鹞环保.html"
   }
 ]
