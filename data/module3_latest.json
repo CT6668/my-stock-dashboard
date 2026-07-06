@@ -1,74 +1,34 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Tesla, BYD, or Rivian: Which Stock Currently Has the EV Crown?",
-    "excerpt": "The EV race is about more than vehicle sales.",
+    "title": "[英伟达] Why Palantir Stock Popped This Week",
+    "excerpt": "The AI leader's stock is a buy, according to a respected Wall Street analyst.",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=4fb2d8cf3c192eac66914c5ef4b58d505961e513a2063f13f38ab8e45d0a3159"
+    "link": "https://finnhub.io/api/news?id=c92cf6f5c70e332fa7d4ddc3992971f423e3abe82185f8ac3aad448ab731b7f5"
   },
   {
     "source": "东财股吧",
-    "title": "【*ST 九鼎】股价异常波动 提示退市及经营风险",
-    "excerpt": "*ST 九鼎公告称，公司股票于 2026 年 7 月 1 - 3 日连续三个交易日内日收盘价格涨幅偏离值累计超 12%，属异常波动。因 2025 年度营收低于 3 亿元且净利润为负，股票已于 4 月 30 日被实施退市风险警示，若 2026",
-    "author": "*ST 九鼎",
+    "title": "【模拟芯片大厂亚德诺发通知信】部分产品交期拉长 提醒客户提前半年下单",
+    "excerpt": "模拟芯片大厂亚德诺半导体（ADI）日前再度向客户发出通知书，表示需求回升带动供应吃紧，部分产品交期最长达六个月，若客户未能提前六个月下单，未来可能面临更长交付时间。",
+    "author": "模拟芯片大厂亚德诺发通知信",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,*ST 九鼎.html"
+    "link": "https://guba.eastmoney.com/list,模拟芯片大厂亚德诺发通知信.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] ETW: Decent For Income, But Likely To Underperform Over The Long Term",
     "excerpt": "The Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund offers an 8.32% yield via global equities + buy-write calls. Click here to read more o",
     "author": "SeekingAlpha",
-    "popularity": "🔥 6小时前",
+    "popularity": "🔥 3天前",
     "link": "https://finnhub.io/api/news?id=a664584e5b6adf36e0eaa214a5dafa0688eff43291c95b5f263e62c564f7c44f"
   },
   {
-    "source": "东财股吧",
-    "title": "【金杯汽车】因与意向受让方分歧终止转让子公司95%股权",
-    "excerpt": "金杯汽车公告，公司此前拟公开挂牌转让子公司铁岭华晨橡塑95%股权，已产生1个意向受让方。近日因与意向受让方就审计基准日后净资产变动承担等事宜产生分歧且无法达成统一约定，子公司金晨汽车与意向受让方签订《股权终结交易协议》，双方同意终止本次股权",
-    "author": "金杯汽车",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,金杯汽车.html"
-  },
-  {
-    "source": "NIO·WSB",
-    "title": "[蔚来汽车] Lucid Shares Sink After CFO Change Despite Higher Vehicle Deliveries",
-    "excerpt": "Lucid shares decline despite reporting higher Q2 production and deliveries, as investors focused on the company&#39;s CFO change.",
-    "author": "Benzinga",
-    "popularity": "🔥 21小时前",
-    "link": "https://finnhub.io/api/news?id=9d056239ac875bc6c8e4d20d2df6dbc43c7b398615662d197fde91096e1c6fa7"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【中通国脉】公司股票于2026年7月2日、2026年7月3日连续两个交易日内收盘价格涨幅偏离值累计超过20%",
-    "excerpt": "中通国脉公告，公司股票于2026年7月2日、2026年7月3日连续两个交易日内收盘价格涨幅偏离值累计超过20%。经公司自查，并向公司控股股东及实际控制人核实：公司、控股股东及实际控制人均不存在涉及公司应披露而未披露的重大信息，包括但不限于重",
-    "author": "中通国脉",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,中通国脉.html"
-  },
-  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla, BYD, or Rivian: Which Stock Currently Has the EV Crown?",
-    "excerpt": "The EV race is about more than vehicle sales.",
+    "title": "[特斯拉] Tesla’s blowout quarter comes with a warning sign",
+    "excerpt": "Tesla (TSLA) finally gave investors the number they had been waiting for. The electric-vehicle maker produced a lot more automobiles than Wall Street ",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=4fb2d8cf3c192eac66914c5ef4b58d505961e513a2063f13f38ab8e45d0a3159"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【央行等三部门】对金融等重要行业和领域的关键信息基础设施实行重点保护",
-    "excerpt": "央行等三部门发布《金融业网络安全管理办法（征求意见稿）》公开征求意见的通知。健全金融业网络安全跨部门综合监管机制。《网络安全法》强调，国家对金融等重要行业和领域实行重点保护，《保护条例》明确，对金融等重要行业和领域的关键信息基础设施实行重点",
-    "author": "央行等三部门",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,央行等三部门.html"
-  },
-  {
-    "source": "BIDU·雪球",
-    "title": "[百度] Franklin Covey Cuts Revenue Forecast, Joins Ouster And Other Big Stock",
-    "excerpt": "US stock futures mixed, Franklin Covey Co drops 19.7% after lowering revenue guidance. Other stocks moving lower in pre-market trading.",
-    "author": "Benzinga",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=757ad0f64090dbd5edbe1a251ac98bbcf405010869811b620a0ceafc40145f5e"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=505233b97d0fd5f5dc0464ad36aa3a1cda8239bf218a89a7058c559411b10179"
   }
 ]
