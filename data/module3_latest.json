@@ -1,58 +1,50 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Wall Street Got the Weak Jobs Report It Wanted. Chip Stocks Wrecked th",
-    "excerpt": "Thursday's jobs report came in far below forecasts, initially easing pressure on the Federal Reserve, before a fresh slide in memory and semiconductor",
-    "author": "ChartMill",
+    "title": "[英伟达] Prediction: Why Buying Brookfield Renewable Instead of Bloom Energy Co",
+    "excerpt": "Bloom Energy is well-positioned to serve AI data centers, but so is high-yield Brookfield Renewable.",
+    "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=5bb378871c4d7250110c755b530ad54ad40bcf2da5fe3ace6f349cc9076ef393"
+    "link": "https://finnhub.io/api/news?id=8355dba28d4f482643b3a12e1765c2eac78c5dbc791928d6e393b8975e87d02e"
   },
   {
     "source": "东财股吧",
-    "title": "【国新能源】股东宏展房产减持2349万股 减持计划实施完毕",
-    "excerpt": "国新能源公告称，持股5%以上股东宏展房产及其一致行动人兰旭合计持股7.9971%。宏展房产原计划于2026年4月7日至7月6日，通过集中竞价和大宗交易方式减持不超4000万股，占总股本不超2.0734%。截至7月6日，减持计划时间届满，宏展",
-    "author": "国新能源",
+    "title": "【摩根大通】机器人和自动驾驶汽车或成为下一个AI赢家",
+    "excerpt": "摩根资产管理全球市场策略师Raisah Rasid在一场吹风会上表示，机器人和自动驾驶汽车概念股可能成为人工智能(AI)交易的下一个赢家。”AI是一个将长期存在的主题，”Rasid说。“大规模采用的速度真的非常非常快，尤其是在生成式AI方面",
+    "author": "摩根大通",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,国新能源.html"
+    "link": "https://guba.eastmoney.com/list,摩根大通.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] ETW: Decent For Income, But Likely To Underperform Over The Long Term",
-    "excerpt": "The Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund offers an 8.32% yield via global equities + buy-write calls. Click here to read more o",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 3天前",
-    "link": "https://finnhub.io/api/news?id=a664584e5b6adf36e0eaa214a5dafa0688eff43291c95b5f263e62c564f7c44f"
+    "title": "[阿里巴巴] 'China’s Alibaba bans Anthropic AI for employees after ‘distillation a",
+    "excerpt": "https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html?&amp;qsearchterm=alibaba",
+    "author": "Benzinga",
+    "popularity": "🔥 12小时前",
+    "link": "https://finnhub.io/api/news?id=05e74855a74419992bdccdcec7d9ca9a92d6e69b3f467c4cf7edd7a923b5528e"
   },
   {
     "source": "东财股吧",
-    "title": "【赛意信息】预计2026年半年度净利润同比增长188.36%-257.01%",
-    "excerpt": "赛意信息(300687.SZ)公告称，预计2026年半年度归属于上市公司股东的净利润为5250万元-6500万元，同比增长188.36%-257.01%。业绩变动主要系公司强化内部经营管理改善，优化交付运营体系、控制成本费用，同时加大市场开",
-    "author": "赛意信息",
+    "title": "【法国检方】拉利克博物馆被盗，损失超450万欧元",
+    "excerpt": "法国媒体6日援引当地检方消息称，位于法国东北部莫代河畔的拉利克博物馆5日清晨遭遇入室盗窃，共计被盗走价值超450万欧元的27件展品。法媒援引检察官弗朗索瓦·安东纳的话说，失窃案发生在5日清晨5时25分许，三名戴着面罩和手套的窃贼在强行打开一",
+    "author": "法国检方",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,赛意信息.html"
+    "link": "https://guba.eastmoney.com/list,法国检方.html"
+  },
+  {
+    "source": "NIO·WSB",
+    "title": "[蔚来汽车] What's Driving NIO Stock as New ES9 Hits 10,000 Deliveries in First Mo",
+    "excerpt": "NIO shares are trading marginally higher during Monday&#39;s premarket session as traders continue to react to strong Q2 delivery momentum.",
+    "author": "Benzinga",
+    "popularity": "🔥 19小时前",
+    "link": "https://finnhub.io/api/news?id=abf432ef6a509efe2b8fb2c023cafa2417b08ea29fd2bef236c00fbc77e01f1b"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Wall Street Got the Weak Jobs Report It Wanted. Chip Stocks Wrecked th",
-    "excerpt": "Thursday's jobs report came in far below forecasts, initially easing pressure on the Federal Reserve, before a fresh slide in memory and semiconductor",
-    "author": "ChartMill",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=5bb378871c4d7250110c755b530ad54ad40bcf2da5fe3ace6f349cc9076ef393"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【惠柏新材】持股5%以上股东减持1.0863%股份",
-    "excerpt": "惠柏新材公告称，持股5%以上股东东瑞国际有限公司于2026年6月17日至7月3日，通过集中竞价、大宗交易方式合计减持公司股份1,002,300股，占公司总股份的比例为1.0863%。本次减持后，其持股比例由8.9972%降至7.9109%。",
-    "author": "惠柏新材",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,惠柏新材.html"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【抖音电商运动消费趋势报告】观赛季足球相关商品成交额同比增长113%",
-    "excerpt": "抖音电商发布《2026抖音电商运动消费趋势报告》，报告显示，2026年世界杯观赛季以来，平台足球相关商品成交额同比增长113%。同期，2000余个运动品牌集中上新，新品数同比增长63%；直播间买家人数同比增长68%，商品卡、短视频成交额分别",
-    "author": "抖音电商运动消费趋势报告",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,抖音电商运动消费趋势报告.html"
+    "title": "[特斯拉] TSLA Stock Cools Overnight After Miami Robotaxi Rally — But Morgan Sta",
+    "excerpt": "Morgan Stanley expects Tesla to launch robotaxis in Phoenix, Orlando, Tampa, and Las Vegas by year-end.",
+    "author": "Yahoo",
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=3bafa72f7688b1c3ccc6d4bd62a2bf2c8271fd36c8751f2ba81d81ae6858669d"
   }
 ]
