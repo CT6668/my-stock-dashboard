@@ -1,19 +1,35 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Why Mara Holdings Stock Spiked Today",
-    "excerpt": "An intriguing acquisition is set to double the energy tech provider's power capacity.",
+    "title": "[英伟达] Costco's June Sales Rose 10.6%, but the Stock Fell 4%. Here's What Spo",
+    "excerpt": "The headline numbers looked great. So why did the stock sell off?",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=e679b03ce1f9f3e813132598719a8c2d05799ac325831679635f04c101db7298"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=f8cc3c4e4d4679716b495438d89ecea0426202de31649840d05bdd4e31626468"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【华盛锂电】调整年产6万吨碳酸亚乙烯酯项目实施计划",
+    "excerpt": "华盛锂电公告称，公司原计划以控股子公司祥和新能源为主体，分两期投资16亿元建设年产6万吨碳酸亚乙烯酯项目（一期3万吨投资9.5亿元）。现经内部决策，取消分两期建设规划，改为一次性整体投资建设，总投资仍为16亿元，其他如投资主体、建设地点等维",
+    "author": "华盛锂电",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,华盛锂电.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba: Agentic AI Could Be Another Headwind To Growth",
     "excerpt": "Alibaba downgraded to Sell: AI agents disrupt e-commerce, revenue slows, FCF turns negative, CAPEX rises. Click for more on BABA stock prospects.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 11小时前",
+    "popularity": "🔥 14小时前",
     "link": "https://finnhub.io/api/news?id=864aac58e517a262eacebc3e8820be5df7714b68b3e9fba11c7676c291d8554c"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【南侨食品】2026年6月营收2.24亿元 同比减少5.39%",
+    "excerpt": "南侨食品公告称，2026年6月公司合并营业收入为22,379.13万元，同比减少5.39%。本简报为初步核算数据，未经审计，最终数据以定期报告为准。",
+    "author": "南侨食品",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,南侨食品.html"
   },
   {
     "source": "NIO·WSB",
@@ -24,12 +40,28 @@
     "link": "https://finnhub.io/api/news?id=dd5d5793250dec7977ee9a7c332b92c27c8ac2fecfbe7fc2f3c538c0e02b673e"
   },
   {
+    "source": "东财股吧",
+    "title": "【三星电气】预计2026年上半年净利润同比减少50.80%到63.81%",
+    "excerpt": "三星电气公告，预计2026年半年度实现归属于母公司所有者的净利润4.45亿元到6.05亿元，与上年同期相比，将减少7.85亿元到6.25亿元，同比减少63.81%到50.80%。预计2026年半年度实现归属于母公司所有者的扣除非经常性损益的",
+    "author": "三星电气",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,三星电气.html"
+  },
+  {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Small Cap ETFs Are Beating the S 500 as the Mag 7 Stumble",
     "excerpt": "A rough year for most of the megacaps has opened the door for funds that tilt away from the biggest stocks.",
     "author": "Yahoo",
-    "popularity": "🔥 4小时前",
+    "popularity": "🔥 6小时前",
     "link": "https://finnhub.io/api/news?id=ab1e79f1c4abf04c5ddf8b7fc713a69e02fe7548ea4ec58e4f20247753c2fcb3"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【岳阳林纸】2026年上半年预计净亏损800万-1400万元",
+    "excerpt": "岳阳林纸公告称，经初步测算，2026年上半年归属于母公司所有者的净利润预计亏损1400万元到800万元，上年同期盈利1.41亿元；扣非净利润预计亏损1500万元到900万元。业绩预亏主要因产品售价下降、毛利率降低，政府补助减少、营业外支出增",
+    "author": "岳阳林纸",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,岳阳林纸.html"
   },
   {
     "source": "BIDU·雪球",
