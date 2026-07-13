@@ -1,90 +1,106 @@
 [
   {
-    "sector": "政策",
-    "title": "调查显示今年法国失业率将触及七年新高",
-    "summary": "法国失业率预计将达到2019年以来的最高水平，料引发对欧元区第二大经济体脆弱性的新一轮担忧。7月3日-8日调查16位经济学家所得的预估中值显示，今年法国失业率将达到8.2%。早在伊朗战争爆发前，法国经济就已显露疲弱迹象。第一季度失业率飙升至",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "金融",
-    "title": "德意志银行：资金大举涌入，科技板块持仓规模大幅飙升",
-    "summary": "德意志银行策略师表示，上周整体股票持仓水平走高，伴随指数波动率回落，量化趋势策略再度大幅增持股票。由帕拉格・塔特领衔的团队表示，各类量化策略中，波动控制型基金股票配置比例升至高位，商品交易顾问基金（CTA）股票持仓也触及历史区间上半段。超大",
+    "sector": "综合",
+    "title": "【东方中科：预计2026年上半年亏损4000万元-4400万元，上年同期亏损4934.09万元】东方",
+    "summary": "中科公告，预计2026年上半年归属于上市公司股东的净利润亏损4000万元-4400万元，比上年同期亏损4934.09万元增加10.82%-18.93%（亏损收窄）；扣除非经常性损益后的净利润亏损5500万元-5900万元，比上年同期亏损59",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "根据俄罗斯国防部的消息，俄罗斯武装部队打击了黑海港口“切尔诺莫尔斯克”内的两艘海运渡轮和一艘集装箱船",
-    "summary": "，这些船只当时正为乌克兰武装部队运送货物。切尔诺莫尔斯克港用于军事货物运输的港口基础设施，包括储罐，遭到破坏。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "越南VN指数跌2%，报1791.46点。",
-    "summary": "越南VN指数跌2%，报1791.46点。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "赶在禁令生效前“扫货”：上半年欧洲从俄罗斯北极LNG项目进口近千万吨",
-    "summary": "分析公司Kpler数据显示，今年前六个月，欧盟从俄罗斯私营企业Novatek控制的Yamal LNG项目采购量达到创纪录的989万吨，比去年同期增长了18%。法国、比利时、西班牙为主要买家。自2027年1月1日起，欧盟将禁止长期进口俄罗斯液",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "伊媒公布“复仇”名单 特朗普、内塔尼亚胡上榜",
-    "summary": "伊朗一家媒体11日晚发布一份为已故最高领袖哈梅内伊“复仇”名单，名单上有13名外国政要，包括美国总统特朗普、以色列总理内塔尼亚胡和英法德意四国领导人。不过，暂无迹象表明这份名单获得伊朗官方认可。伊朗现任最高领袖穆杰塔巴的社交媒体账号11日发",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "辽宁浑河发生2026年1号洪水",
-    "summary": "受近期强降雨影响，今日14时，浑河沈阳水文站水位37.99米，依据《全国主要江河洪水编号清单》的标准，此次洪水编号为“浑河2026年第1号洪水”。请各级防汛部门、沿河各有关单位及社会公众加强防范，注意避险。（央视新闻）",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "敏华控股（）在港上市的股价最大跌幅达19%，报217.8港元，创历史新低。",
-    "summary": "敏华控股（）在港上市的股价最大跌幅达19%，报217.8港元，创历史新低。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "香港恒生人工智能指数下跌超4%。",
-    "summary": "香港恒生人工智能指数下跌超4%。",
+    "title": "花旗集团将百胜餐饮集团目标股价从175美元上调至178美元。",
+    "summary": "花旗集团将百胜餐饮集团目标股价从175美元上调至178美元。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "科技",
-    "title": "伊朗战争拖累欧元区前景 经济学家下调增长预测",
-    "summary": "经济学家表示，在中东地区冲突再度升级后，欧元区经济增长前景较此前预测有所恶化。7月3日至8日对56位经济学家进行的调查预测中值显示，2026年欧元区经济增速预计为0.5%。这一数字低于上月调查时的0.7%，也低于欧洲央行基准情景预测的0.8",
+    "title": "淳中科技：预计2026年上半年实现扭亏为盈，净利润1.25亿-1.35亿",
+    "summary": "淳中科技公告，预计2026年半年度归属于上市公司股东的净利润为1.25亿元到1.35亿元，与上年同期亏损4001.86万元相比实现扭亏为盈。预计扣除非经常性损益的净利润为-4300万元到-4000万元。报告期内，公司传统专业视听业务新签合同",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "潜能恒信：蒙古Ergel - 12区块2026年7月12日启动钻探作业",
+    "summary": "潜能恒信公告称，海外全资公司智慧油气享有蒙古国Ergel - 12区块石油勘探开采权益。2025年度已在合同区西部实施4口探井作业。2026年将在南、北部部署3口探井，并对已钻探井进行地层测试。钻探总包服务由潜能蒙古承接，部分装备及配套服务",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "英国国债跌幅扩大；英国10年期国债收益率上涨5个基点至4.92%。",
+    "summary": "英国国债跌幅扩大；英国10年期国债收益率上涨5个基点至4.92%。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
+    "title": "天普股份：股价波动大且业绩下滑 提示多项投资风险",
+    "summary": "天普股份公告称，公司因股票交易异常波动公告涉嫌重大遗漏，于2026年1月被证监会立案。2025年营收3.18亿元，同比降6.99%，净利润2614.66万元，同比降20.93%；2026年一季度营收7199.97万元，同比降11.29%，净",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "【沃格光电：预计2026年上半年亏损1.4亿-1亿元，上年同期亏损5415.49万元】沃格光电公告，",
+    "summary": "预计2026年上半年营业收入12亿-13亿元，同比增长0.84%-9.24%；归属于母公司所有者的净利润亏损1.4亿-1亿元，上年同期亏损5415.49万元；扣非净利润亏损1.5亿-1.1亿元。亏损主要因子公司新产线处于投入期，当期折旧和固",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "政策",
+    "title": "印度政府公布：6月以居民消费价格衡量的食品通胀率为同比5.32%。",
+    "summary": "印度政府公布：6月以居民消费价格衡量的食品通胀率为同比5.32%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "新能源",
+    "title": "【中伟新材：预计2026年上半年净利润12.5亿-13.5亿元，同比增长70.58%-84.23%】",
+    "summary": "中伟新材公告，预计2026年上半年归属于上市公司股东的净利润为12.5亿元-13.5亿元，比上年同期的7.33亿元增长70.58%-84.23%；扣除非经常性损益后的净利润为12亿元-13亿元，同比增长83.63%-98.93%。业绩增长主",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "印度6月份CPI同比增长4.38% 预估为4.20%。",
+    "summary": "印度6月份CPI同比增长4.38% 预估为4.20%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Hormuz traffic slows to multi-week low as renewed US, Iran strikes raise safety risk - Reu",
+    "summary": "Hormuz traffic slows to multi-week low as renewed US, Iran strikes raise safety risk  Reuters",
+    "source": "Reuters",
+    "time": "5小时前",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVVJyVWNDbGpUSGtYdm1NUzhqZmpSVFp2SnEtS0N4VzBJZnJTeDZ5X21NN0I4SGJ6V2lYZDBLM3FvSkNTbFRNTkkxWlhtNjRqakpmRGotN3lub0RMZkxmOUlWSUU4WEdBVUZrU09lNzl2d0xMT09aVEw3aU5KNkJaZmpEYlllTTZfMl9ULXg4cDBHZkd4MVJ4OEo0SzNwYkxRUjIta0tONkVJb2puQnhNN0g1WTQwcjZaX0ZYZG85dnZWT0pyUHZFbUY2TQ?oc=5"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Oil gains over 2% as fresh military strikes threaten Hormuz shipments - Reuters",
+    "summary": "Oil gains over 2% as fresh military strikes threaten Hormuz shipments  Reuters",
+    "source": "Reuters",
+    "time": "12小时前",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5"
+  },
+  {
+    "sector": "人工智能",
     "title": "US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports - Reute",
     "summary": "US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports  Reuters",
     "source": "Reuters",
-    "time": "14小时前",
+    "time": "17小时前",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlFEMTBmd3hvZzZpVnBYcnNnUlBnQW9DRlkydFVqUTM0S3I2emo0TDczX3NJSGNHdXJqZGJreUhDRDhoYnNUck9vRGVpWEVtMGNnNElfY1lzR0NZakdlSWtTZEExQ2YyWFFKWTNhLXpwbk9HRkF6VGs4V0pLTDRRT013Z3dvc1hZVWthV0x6MzFneHlxei1LZWg5NVNKUE1oV2pfTUNlbkIwNU1tVU14MmhXc1Z2VmNNZnR5Q2thYjFDMWRyaUNJbw?oc=5"
   },
   {
@@ -92,7 +108,7 @@
     "title": "Trump says Strait of Hormuz open to commercial traffic - Reuters",
     "summary": "Trump says Strait of Hormuz open to commercial traffic  Reuters",
     "source": "Reuters",
-    "time": "17小时前",
+    "time": "21小时前",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM04zYVJRb2pfTkwzT0lIUm8wWHpKRkc4WE9TazFxdGQ4RktValc5UXhBbmM3ZGlHaFNBZm5MVDI4a3dDMG8zX2pza3NSb2o5dS1RYVNLUzFhd0wtOFZucWdhcHMzZFgyRWRaNUJUOUJ6VXp2ZEl4NXFmeXFiRWQzZDNQbWFqRDRpVnZXNmNwWmQ0a3RMeDRkTUQ0NkZXUUhZUHc?oc=5"
   },
   {
@@ -100,23 +116,7 @@
     "title": "US forces ready to ensure navigation in Strait of Hormuz, Central Command says - Reuters",
     "summary": "US forces ready to ensure navigation in Strait of Hormuz, Central Command says  Reuters",
     "source": "Reuters",
-    "time": "18小时前",
+    "time": "22小时前",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDMxYmdvOG53OXFHRXRla2dlUjR0WXYyc3E0TS1WaUVaMDJBUnp1RFhGeUdlMVdUTFpUdmZmbU42RTJIVi1Cc1ZvWWE5U0NsR2ZIeE5Hd2cyeERTMGdWQ0pPV1JmempuQzZQckp1NkY4SDJwbWR0aWhkaXVsSjd3SWVXbnFZcTZ5ZnlOdmVzZXZnTzlQMERBY2gzTV9LbEpDR1RZcDV4d1gtR29Vc0lJOVZrZDdxdzN1MmlIUHAxMA?oc=5"
-  },
-  {
-    "sector": "海外市场",
-    "title": "China EVs average 1.8 years on road, less than cell phones",
-    "summary": "Chinese electric vehicles average just 1.8 years on the road, shorter than cell phone lifespan, driven by rapid tech adv",
-    "source": "Bloomberg",
-    "time": "1天前",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-12/china-evs-average-1-8-years-on-road-less-than-cell-phones"
-  },
-  {
-    "sector": "人工智能",
-    "title": "UKMTO says crew abandon container ship near Oman after fire onboard - Reuters",
-    "summary": "UKMTO says crew abandon container ship near Oman after fire onboard  Reuters",
-    "source": "Reuters",
-    "time": "1天前",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaHVJWXlEeHJuZW53MnM3WXcyc0dCUTJhblFZaTlxRlgyZjQyWVRNT2NzWVdXY0ZhM2FBTEZWU21xRUFuQW1rRDVRZW9mNVkwLUFCOXlpb1ZfTHR5ejNHbVV5dlhaVnJEWHJ2bUNuU2Y5cm44TjlxSVl0RFhEcmpIeVVtN3J5dkQ4NVpUZzVIUlVHVUd5WG1OVjU1YnExOURic0laUkswemQxa2kzT09ySlpaREtScnN3UzJXaVVB?oc=5"
   }
 ]
