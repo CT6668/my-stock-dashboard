@@ -1,42 +1,50 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Voyager Technologies Completes Astrobotic Acquisition And Was Just Awa",
-    "excerpt": "The space company is bulking up with a company that just signed a major deal with NASA.",
+    "title": "[英伟达] 29 Wall Street Analysts Priced SpaceX. Here Is the Target Worth Paying",
+    "excerpt": "If this analyst is correct, investors who don't own SpaceX's shares will kick themselves later.",
     "author": "Yahoo",
-    "popularity": "🔥 34分钟前",
-    "link": "https://finnhub.io/api/news?id=26ffba732eb14d1cbe57ec583e422615e6a05bb7f3e64f7b2b7bf05ef8c5ded4"
+    "popularity": "🔥 52分钟前",
+    "link": "https://finnhub.io/api/news?id=a8f5e71f8497d950dcb81e6995268e7cd9446352db201139f27c188722fca3dd"
   },
   {
     "source": "东财股吧",
-    "title": "【港股午评】恒生指数跌0.47%，恒生科技指数跌1.42%",
-    "excerpt": "港股午间收盘，恒生指数跌0.47%，恒生科技指数跌1.42%。恒指港股通ETF银华（159318）跌0.56%，港股通科技ETF鹏华（159751）跌1.26%。板块方面，海上运输、能源设备与服务板块涨幅靠前；生命科学工具、电气设备板块跌幅",
-    "author": "港股午评",
+    "title": "【国盛证券】首予安井食品“买入”评级，业绩弹性可期",
+    "excerpt": "国盛证券研报指出，安井食品作为国内速冻食品行业龙头，在调制食品和菜肴制品这两个增长最快的子赛道的份额领先同业，集中化红利持续兑现。2026Q1公司凭借定价权率先收促变相提价，助力业绩显著提速、利润先于同行修复，业绩拐点明确。中长期看，锁鲜装",
+    "author": "国盛证券",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,港股午评.html"
+    "link": "https://guba.eastmoney.com/list,国盛证券.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Baird International And Global Growth Funds Q2 2026 Contributors And D",
     "excerpt": "The Baird Chautauqua Global Growth Fund Net Investor Class returned +12.18% during the quarter, underperforming the MSCI ACWI IndexÂ® ND, which return",
     "author": "SeekingAlpha",
-    "popularity": "🔥 12小时前",
+    "popularity": "🔥 14小时前",
     "link": "https://finnhub.io/api/news?id=988faa5279f6bb7023f37e0c82bdbb474e0802b57d4e2da7d56058e5bd5f2aa0"
   },
   {
+    "source": "东财股吧",
+    "title": "【软银孙正义】AI热潮将需要每年5万亿美元的投资",
+    "excerpt": "软银集团创始人孙正义表示，到2040年，全球人工智能基础设施将需要每年5万亿美元的投资，以支持数据中心、电力供应和人形机器人的扩张，从而推动“以人类为中心”的工作模式向新模式的转变。他指出，随着人工智能发展为“人工超级智能”（ASI），由此",
+    "author": "软银孙正义",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,软银孙正义.html"
+  },
+  {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] This Biogen Analyst Turns Bullish; Here Are Top 5 Upgrades For Monday",
-    "excerpt": "Top Wall Street analysts changed their outlook on top names. Upgrade on NIO, COF, KEYS, BIIB, and AXP, see other ratings and consider buying BIIB.",
-    "author": "Benzinga",
-    "popularity": "🔥 21小时前",
-    "link": "https://finnhub.io/api/news?id=43dc3f2fbf49498f6c2f58a8aa218fa43ebfdadaa4aa691f465c7bacff007dfd"
+    "title": "[蔚来汽车] Goldman Sachs Upgrades NIO Inc. - Depositary Receipt (NIO)",
+    "excerpt": "Goldman Sachs Upgrades NIO Inc. - Depositary Receipt (NIO)",
+    "author": "Fintel",
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=9c856cf6c49650ef5b2b1e5b8d293a817e3a87b4ecba130417df5dbce8f9bd27"
   },
   {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Already rich, already successful, why the last wave of tech winners is",
     "excerpt": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even ",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
+    "popularity": "🔥 3小时前",
     "link": "https://finnhub.io/api/news?id=88888fde750a56890dba97e3b1bac01a06fa86837220afd7bfc2c6f43ee83632"
   },
   {
@@ -44,7 +52,7 @@
     "title": "[百度] BOTZ: There Are Better Options",
     "excerpt": "BOTZ: There Are Better Options",
     "author": "SeekingAlpha",
-    "popularity": "🔥 18小时前",
+    "popularity": "🔥 20小时前",
     "link": "https://finnhub.io/api/news?id=a6b641ac95b6e3bb0d9a02743ec42a47f1cc2c6ecda8f8c3926cdf25d9ee275d"
   }
 ]
