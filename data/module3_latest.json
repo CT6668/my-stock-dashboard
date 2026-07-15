@@ -1,74 +1,58 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Here Are the Coca-Cola Shares You'd Need to Generate $12,000 in Annual",
-    "excerpt": "Sometimes the smart move is starting with the goal and then working your way back from there.",
+    "title": "[英伟达] Why Goldman Sachs Stock Jumped Today",
+    "excerpt": "Corporate dealmaking is booming.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=e96846dfcb70049046d22120ce6eda68f6c028f7be4bbf46fce398f7501c32e7"
+    "popularity": "🔥 58分钟前",
+    "link": "https://finnhub.io/api/news?id=6f3e833ad20a21a149d11b447b5d9ecef2cafc333475262e798f24c7989547d5"
   },
   {
     "source": "东财股吧",
-    "title": "【野马电池】2026年上半年预计净亏损889.04万至1333.55万元",
-    "excerpt": "野马电池公告称，预计2026年半年度实现归属于母公司所有者的净利润为-1333.55万元至-889.04万元，上年同期为3062.61万元；扣除非经常性损益后的净利润为-1658.04万元至-1105.37万元，上年同期为2437.05万元",
-    "author": "野马电池",
+    "title": "【港股午评】恒生指数涨1.46%，恒生科技指数涨1.39%",
+    "excerpt": "港股午间收盘，恒生指数涨1.46%，恒生科技指数涨1.39%。恒指港股通ETF银华（159318）涨0.95%，港股通科技ETF鹏华（159751）涨1.82%。板块方面，生命科学工具、生物科技板块涨幅靠前；客运航空公司板块跌幅靠前。个股方",
+    "author": "港股午评",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,野马电池.html"
+    "link": "https://guba.eastmoney.com/list,港股午评.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Mega-Deals Push H1 2026 U.S. Equity Issuance Into Orbit",
     "excerpt": "U.S. equity new issuance shifted into a new gear in H1 2026, as a wave of multi-billion-dollar deals built upon the strong momentum of 2025.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 5小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=87ee3002823bd5a42276a60e87d16946028923bdc24744588891a7f22ff04034"
   },
   {
     "source": "东财股吧",
-    "title": "【深圳新星】预计2026年上半年净利润为1900万元到2200万元",
-    "excerpt": "深圳新星公告，预计2026年半年度实现归属于母公司所有者的净利润为1900万元到2200万元，与上年同期相比，将实现扭亏为盈。报告期内，公司电池铝箔坯料冷精轧产品销售占比持续提升，带动铝箔坯料业务综合毛利改善；六氟磷酸锂市场价格较上年同期有",
-    "author": "深圳新星",
+    "title": "【科伦药业】TROP2 ADC联合疗法肺癌3期临床达主要终点",
+    "excerpt": "科伦药业公告，控股子公司科伦博泰核心产品TROP2 ADC芦康沙妥珠单抗联合帕博利珠单抗一线治疗PD-L1阴性局部晚期或转移性非鳞状非小细胞肺癌的3期临床研究（OptiTROP-Lung06），在预设期中分析中经独立数据监查委员会确认达到无",
+    "author": "科伦药业",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,深圳新星.html"
+    "link": "https://guba.eastmoney.com/list,科伦药业.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Goldman Sachs Upgrades NIO Inc. - Depositary Receipt (NIO)",
     "excerpt": "Goldman Sachs Upgrades NIO Inc. - Depositary Receipt (NIO)",
     "author": "Fintel",
-    "popularity": "🔥 5小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=9c856cf6c49650ef5b2b1e5b8d293a817e3a87b4ecba130417df5dbce8f9bd27"
   },
   {
-    "source": "东财股吧",
-    "title": "【莱绅通灵】预计2026年上半年净利润同比下降65%",
-    "excerpt": "莱绅通灵公告，预计2026年上半年净利润为2130万元左右，同比下降65%左右。报告期内，受金价大幅波动引发消费者观望情绪以及人工、租金等成本较刚性等多重因素影响，第二季度主营业务收入较上年同期下降50%左右，致使上半年营业收入及盈利能力下",
-    "author": "莱绅通灵",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,莱绅通灵.html"
-  },
-  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Why We Still Like ASML At Current Levels",
-    "excerpt": "Bristlemoon Global Fund analyzes ASML's valuation and growth potential amid a semiconductor capital equipment supercycle. Read the full analysis for m",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 5小时前",
-    "link": "https://finnhub.io/api/news?id=116c49f90fbe221767b798dc18e07ab477d3c273626a49b311786f4db2d0a114"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【海天精工】控股股东已增持0.26%，拟继续增持2500万至5000万元",
-    "excerpt": "海天精工公告，控股股东海天股份于2026年7月14日通过集中竞价方式增持公司股份133.88万股，占公司总股本的0.26%，合计增持金额2466.58万元，增持后持股比例由38.69%增加至38.95%。海天股份计划自首次增持之日起6个月内",
-    "author": "海天精工",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,海天精工.html"
+    "title": "[特斯拉] Michael Burry's biggest moneymaker isn't a stock",
+    "excerpt": "There is a version of getting rich on Wall Street that has nothing to do with being right about a stock. You can spend a career building a reputation ",
+    "author": "Yahoo",
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=8c41606f69309ca21b1ced715df76eb0092eb5f706ac487f0203fdf0c50b35d5"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] BOTZ: There Are Better Options",
-    "excerpt": "BOTZ: There Are Better Options",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 23小时前",
-    "link": "https://finnhub.io/api/news?id=a6b641ac95b6e3bb0d9a02743ec42a47f1cc2c6ecda8f8c3926cdf25d9ee275d"
+    "title": "[百度] B of A Securities Maintains Buy on Baidu, Lowers Price Target to $165",
+    "excerpt": "B of A Securities  analyst Eddie Leung   maintains Baidu (NASDAQ:BIDU) with a Buy and lowers the price target from $180 to $165.",
+    "author": "Benzinga",
+    "popularity": "🔥 18小时前",
+    "link": "https://finnhub.io/api/news?id=fc9b051c0ad482425eb1f12dcefe6eb0a65b711de9933b137436f04b84faaf1b"
   }
 ]
