@@ -1,19 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Why Goldman Sachs Stock Jumped Today",
-    "excerpt": "Corporate dealmaking is booming.",
+    "title": "[英伟达] Cathie Wood of Ark Invest Thinks Bitcoin Has Finally Bottomed Out. If ",
+    "excerpt": "Wood's predictions for the coin's price are known for being ambitious.",
     "author": "Yahoo",
-    "popularity": "🔥 58分钟前",
-    "link": "https://finnhub.io/api/news?id=6f3e833ad20a21a149d11b447b5d9ecef2cafc333475262e798f24c7989547d5"
+    "popularity": "🔥 41分钟前",
+    "link": "https://finnhub.io/api/news?id=374894c00d3fc6b16b0e4773498fe86203e44b2feab86325fe82dbb1d86e5739"
   },
   {
     "source": "东财股吧",
-    "title": "【港股午评】恒生指数涨1.46%，恒生科技指数涨1.39%",
-    "excerpt": "港股午间收盘，恒生指数涨1.46%，恒生科技指数涨1.39%。恒指港股通ETF银华（159318）涨0.95%，港股通科技ETF鹏华（159751）涨1.82%。板块方面，生命科学工具、生物科技板块涨幅靠前；客运航空公司板块跌幅靠前。个股方",
-    "author": "港股午评",
+    "title": "【东吴证券】维持云南锗业“买入”评级，磷化铟量价齐升，业绩超市场预期",
+    "excerpt": "东吴证券研报指出，磷化铟量价齐升，云南锗业业绩超市场预期。公司预计26H1归母净利润5500-8000万元，同比增长148%-261%；扣非净利润5200-6700万元，同比增长576%-771%，超市场预期。磷化铟是光模块核心基础材料，下",
+    "author": "东吴证券",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,港股午评.html"
+    "link": "https://guba.eastmoney.com/list,东吴证券.html"
   },
   {
     "source": "BABA·雪球",
@@ -22,14 +22,6 @@
     "author": "SeekingAlpha",
     "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=87ee3002823bd5a42276a60e87d16946028923bdc24744588891a7f22ff04034"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【科伦药业】TROP2 ADC联合疗法肺癌3期临床达主要终点",
-    "excerpt": "科伦药业公告，控股子公司科伦博泰核心产品TROP2 ADC芦康沙妥珠单抗联合帕博利珠单抗一线治疗PD-L1阴性局部晚期或转移性非鳞状非小细胞肺癌的3期临床研究（OptiTROP-Lung06），在预设期中分析中经独立数据监查委员会确认达到无",
-    "author": "科伦药业",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,科伦药业.html"
   },
   {
     "source": "NIO·WSB",
@@ -41,18 +33,18 @@
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Michael Burry's biggest moneymaker isn't a stock",
-    "excerpt": "There is a version of getting rich on Wall Street that has nothing to do with being right about a stock. You can spend a career building a reputation ",
+    "title": "[特斯拉] Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Perfor",
+    "excerpt": "Semiconductor stocks still have plenty of runway in front of them.",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=8c41606f69309ca21b1ced715df76eb0092eb5f706ac487f0203fdf0c50b35d5"
+    "link": "https://finnhub.io/api/news?id=baf9e2ab66a7f7ae1f3b0dcf82161b1ce1467fdee8c3c55976fb8997e09c2757"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] B of A Securities Maintains Buy on Baidu, Lowers Price Target to $165",
     "excerpt": "B of A Securities  analyst Eddie Leung   maintains Baidu (NASDAQ:BIDU) with a Buy and lowers the price target from $180 to $165.",
     "author": "Benzinga",
-    "popularity": "🔥 18小时前",
+    "popularity": "🔥 20小时前",
     "link": "https://finnhub.io/api/news?id=fc9b051c0ad482425eb1f12dcefe6eb0a65b711de9933b137436f04b84faaf1b"
   }
 ]
