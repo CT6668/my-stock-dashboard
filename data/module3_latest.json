@@ -1,27 +1,35 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] 3 High-Yield Dividend Stocks to Buy and Hold",
-    "excerpt": "All three can be bought on the dip.",
+    "title": "[英伟达] History Might Be Telling Us Why Nvidia Stock Is So Cheap. Should Inves",
+    "excerpt": "A forgotten historical trend related to capital expenditures could weigh on the tech giant.",
     "author": "Yahoo",
-    "popularity": "🔥 58分钟前",
-    "link": "https://finnhub.io/api/news?id=405a05fc41aab22c382255930ba97d658555a30994d96cac9cd5312c989a4307"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=8836fd08e6c73d2620a3d1c83b37362aeb6605503115ff89b9261af5ded1dc41"
   },
   {
     "source": "东财股吧",
-    "title": "【美国纽约直升机坠河事件最新调查】有鸟类撞击痕迹",
-    "excerpt": "美国纽约一架观光直升机去年4月坠入哈德逊河，致6人遇难。调查人员当地时间7月16日说，在直升机多个部位发现了多只大雁的残骸，表明该直升机曾遭鸟类撞击。（央视新闻）",
-    "author": "美国纽约直升机坠河事件最新调查",
+    "title": "【恒瑞医药】7月17日斥资1508.88万元回购28万股A股",
+    "excerpt": "恒瑞医药公告称，7月17日，公司以集中竞价交易方式回购28万股A股，占回购前已发行股份（不包括库存股份）的0.0044%，用于A股员工持股计划。回购价格区间为每股53.75 - 54.05元，付出的价格总额为1508.88万元。截至当日收盘",
+    "author": "恒瑞医药",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,美国纽约直升机坠河事件最新调查.html"
+    "link": "https://guba.eastmoney.com/list,恒瑞医药.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Korea Drives Semi Stocks Lower Despite Solid Taiwan Semi Earnings; App",
     "excerpt": "\n\n\n\nKorea Leading Semiconductors \n\n\n\nPlease click here for an enlarged chart of Taiwan Semiconductor Manufacturing Co Ltd (NYSE:TSM).\n\n\n\nNote the foll",
     "author": "Benzinga",
-    "popularity": "🔥 16小时前",
+    "popularity": "🔥 18小时前",
     "link": "https://finnhub.io/api/news?id=c44a54e68a11aa7e1cc92edf0a125464642478926263eb1b4a8dffac95f11a71"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【中国中冶】7月17日回购股份耗资约2499.59万元",
+    "excerpt": "中国中冶公告称，7月17日，公司在香港联交所回购333.2万股，每股价格1.49-1.52港元，付出总额499.93万港元（约449.59万元人民币）；在上海证券交易所回购757.05万股，每股价格2.62-2.65元，付出总额1999.6",
+    "author": "中国中冶",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,中国中冶.html"
   },
   {
     "source": "NIO·WSB",
@@ -32,19 +40,35 @@
     "link": "https://finnhub.io/api/news?id=9c856cf6c49650ef5b2b1e5b8d293a817e3a87b4ecba130417df5dbce8f9bd27"
   },
   {
+    "source": "东财股吧",
+    "title": "【兴蓉环境】信环绿色控股增持2985.68万股持股比例达到7.12%",
+    "excerpt": "兴蓉环境公告，持股5%以上股东信环绿色控股于2026年7月9日至2026年7月16日期间通过深交所交易系统以集中竞价交易方式累计增持公司股份2985.68万股，占公司总股本的1.00%。本次增持后，信环绿色控股持有公司股份2.12亿股，占公",
+    "author": "兴蓉环境",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,兴蓉环境.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] MSFT Stock Dips Overnight: Satya Nadella Calls Anthropic’s Fable 5 ‘Ed",
-    "excerpt": "Users on social media, too, are criticizing what they believe are excessively stringent guardrails in Fable 5.",
+    "title": "[特斯拉] Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Befo",
+    "excerpt": "Is Tesla's dip below $400 a buying opportunity, or is Wall Street still pricing in too much optimism? Here's why the answer depends more on your long-",
     "author": "Yahoo",
-    "popularity": "🔥 47分钟前",
-    "link": "https://finnhub.io/api/news?id=7cbc633245eb32c28eedfd490e0abdec35044fb7e4c9eba1f7f36d15884f8ff2"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=986d9ca8e78cc0576b4c5f9ad0b230c8544f3953bf06e87fec51ee96433aaaff"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【华润新能源】2026年1-6月售电量355.26亿千瓦时，同比增长6.66%",
+    "excerpt": "华润新能源公告，2026年1-6月，公司累计售电量为355.26亿千瓦时，同比增加6.66%。其中，风力发电项目售电量为272.6亿千瓦时，同比下降2.19%；太阳能发电项目售电量为82.66亿千瓦时，同比增加52.06%。",
+    "author": "华润新能源",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,华润新能源.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Korea Drives Semi Stocks Lower Despite Solid Taiwan Semi Earnings; App",
     "excerpt": "\n\n\n\nKorea Leading Semiconductors \n\n\n\nPlease click here for an enlarged chart of Taiwan Semiconductor Manufacturing Co Ltd (NYSE:TSM).\n\n\n\nNote the foll",
     "author": "Benzinga",
-    "popularity": "🔥 16小时前",
+    "popularity": "🔥 18小时前",
     "link": "https://finnhub.io/api/news?id=c44a54e68a11aa7e1cc92edf0a125464642478926263eb1b4a8dffac95f11a71"
   }
 ]
