@@ -1,58 +1,66 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] 2 Cryptocurrencies Poised to Soar 3,000% or More, According to 1 Top W",
-    "excerpt": "If Tom Lee is right, Ethereum could be headed to $250,000 and Bitcoin could be headed to $2 million.",
+    "title": "[英伟达] AI infrastructure stock surges after landing massive $2.8B win",
+    "excerpt": "Some contract announcements move stocks. And then there are the ones that reframe an entire investment thesis. We saw the latter on a Monday, July 20.",
     "author": "Yahoo",
-    "popularity": "🔥 31分钟前",
-    "link": "https://finnhub.io/api/news?id=72a79e7fc98b8bdd10946873a4efd0d9200e308e807b6a66d12a4386824a0529"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=b1cf311acf3388d9bcd05e30c9558152451b385b4a414d0c168e7b3842149630"
   },
   {
     "source": "东财股吧",
-    "title": "【共达电声】控股股东的一致行动人拟1.5亿元—2.5亿元增持公司股份",
-    "excerpt": "共达电声(002655)7月20日公告，控股股东的一致行动人上海韦豪创芯投资管理有限公司拟通过深圳证券交易所交易系统以集中竞价交易方式增持公司股份。本次拟增持股份的金额不低于1.5亿元，不超过2.5亿元，本次增持计划增持价格不超过35元/股",
-    "author": "共达电声",
+    "title": "【交通运输部】2030年新能源重卡渗透率有望超过40%",
+    "excerpt": "7月21日上午，国务院新闻办公室举办介绍加快建设交通强国、完善现代化综合交通运输体系有关情况的新闻发布会。交通运输部安全总监兼运输服务司司长蔡团结表示，交通运输部高度重视，会同有关部门采取了一系列举措。今年5月，交通运输部会同国家发改委等十",
+    "author": "交通运输部",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,共达电声.html"
+    "link": "https://guba.eastmoney.com/list,交通运输部.html"
+  },
+  {
+    "source": "BABA·雪球",
+    "title": "[阿里巴巴] Alibaba's AliExpress Hit With Record $628 Million Fine For Failing To ",
+    "excerpt": "EU fines Alibaba&#39;s AliExpress a record $628 million under the DSA for failing to curb illegal and unsafe products.",
+    "author": "Benzinga",
+    "popularity": "🔥 19小时前",
+    "link": "https://finnhub.io/api/news?id=bc0a659670d905ca14fb140a0fa68539a2a9bcc4ae9a54e3b016a5c6ed3f1004"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【美国未来产业研究院院长】中国助力全球人工智能协同发展",
+    "excerpt": "2026世界人工智能大会20日在上海落下帷幕。美国未来产业研究院院长乔·韦曼19日在上海接受总台记者专访时表示，中方高度重视人工智能的发展，并坚持开放共享，为人工智能普惠包容发展注入动力。作为“人工智能经济学”概念的提出者，乔·韦曼认为人工",
+    "author": "美国未来产业研究院院长",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,美国未来产业研究院院长.html"
+  },
+  {
+    "source": "NIO·WSB",
+    "title": "[蔚来汽车] Tesla Stock in Focus as It Expands German Production Ahead of Earnings",
+    "excerpt": "Tesla stock has landed at a crucial support level as the company expands its German manufacturing ahead of its earnings report",
+    "author": "Benzinga",
+    "popularity": "🔥 1天前",
+    "link": "https://finnhub.io/api/news?id=da4a3e278ec0e3eea6e1006994d253607c96a6f7fb77c032cfcf41bed0e9eb24"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【招商证券】当前不存在全市场系统性风险 底部布局窗口已逐步打开",
+    "excerpt": "7月20日，招商证券宏观首席分析师张静静、策略联席首席分析师李昊阳在接受记者采访时表示，近期A股市场调整并非国内基本面发生系统性恶化，而是海内外多重因素共振引发的波动。此次调整特征为科技主线过度拥挤后的结构性去杠杆，不存在全市场系统性风险，",
+    "author": "招商证券",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,招商证券.html"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Elon Musk's Tesla Releases Wall Street Estimates Ahead of Q2 Earnings:",
-    "excerpt": "Tesla Inc. (NASDAQ:TSLA) released its company-compiled data of sell-side analysts’ forecasts for the automaker’s second-quarter 2026 earnings estimate",
+    "title": "[特斯拉] Asia stocks up as chip stocks recover, oil eases",
+    "excerpt": "Asian stocks mostly rebounded after days of losses on Tuesday led by technology shares, while oil prices eased slightly even as Iran said it had struc",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=5ef832a0014fc9c67fdd37385e31e22049f42153bc50987b5dfff39448efbdce"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【科华生物】子公司获1项全自动生化分析仪医疗器械注册证",
-    "excerpt": "科华生物公告，公司全资子公司科华（西安）生物工程有限公司近日收到陕西省药品监督管理局颁发的医疗器械注册证，产品为全自动生化分析仪，注册证编号陕械注准20262220117，有效期自2026年07月17日至2031年07月16日。该产品采用比",
-    "author": "科华生物",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,科华生物.html"
+    "link": "https://finnhub.io/api/news?id=359b7f325b35f4b439f879bb91946925874c92042aabb2acb060c234512d27d6"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] Baidu Q2 2026 Preview: Upgrade To HOLD; Focus On AI Catalysts",
-    "excerpt": "Baidu has been considered an early mover into the AI space with its investments in autonomous driving and cloud applications. Learn why BIDU stock is ",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 2天前",
-    "link": "https://finnhub.io/api/news?id=7a002fdc50788f7542c563f98e0275207329c128a0c301060b3fde1806bf4b17"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【国网信通】国网四川省电力公司将不再持有公司股份",
-    "excerpt": "南财智讯7月20日电，国网信通公告，信息披露义务人国网四川省电力公司拟将其持有的公司95,385,704股股份（占总股本7.96%）无偿划转至国网信息通信产业集团有限公司。本次权益变动尚未实施，尚需经上海证券交易所合规性确认，并在中国证券登",
-    "author": "国网信通",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,国网信通.html"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【国海证券首席经济学家夏磊】资本市场“向新”运行动力持续增强",
-    "excerpt": "国海证券首席经济学家夏磊在7月20日表示，当前科技自立自强向新向好，上半年我国规模以上工业企业集成电路产量规模达到2798亿块，平均每天生产集成电路超过15亿块；工业机器人、服务机器人产量同比分别增长28%和11.9%；规模以上制造业企业人",
-    "author": "国海证券首席经济学家夏磊",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,国海证券首席经济学家夏磊.html"
+    "title": "[百度] Xunlei Transfers 50% Equity Interest In Shenzhen Onething Technology F",
+    "excerpt": "Xunlei Transfers 50% Equity Interest In Shenzhen Onething Technology For RMB125M; Shenzhen Xunlei To Transfer 20% Of Equity Interest To Kinsoft Cloud ",
+    "author": "Benzinga",
+    "popularity": "🔥 16小时前",
+    "link": "https://finnhub.io/api/news?id=2f9a35f013328b6840f503c5470d9cde157f296e0900034b91d76b811f6a01a2"
   }
 ]
