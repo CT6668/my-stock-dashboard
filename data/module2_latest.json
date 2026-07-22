@@ -1,114 +1,106 @@
 [
   {
     "sector": "综合",
-    "title": "伊朗袭击驻约旦和巴林美军基地",
-    "summary": "伊朗军队今天（7月22日）发布声明称，自今天凌晨起展开新一轮无人机袭击，对美军在约旦阿兹拉克空军基地内的人员住宿和生活保障设施以及装备仓库发动袭击。此外，伊朗军队出动“阿拉什”自杀式无人机，对在巴林的谢赫艾萨美军基地内的大型装备库房以及重型",
+    "title": "布伦特原油突破95美元/桶，日内涨4.50%。",
+    "summary": "布伦特原油突破95美元/桶，日内涨4.50%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "金融",
+    "title": "白云电器：获中行3600万元股票回购专项贷款承诺函",
+    "summary": "白云电器公告称，公司于2026年7月20日通过回购股份方案，拟用2000万-4000万元自有及自筹资金回购股份，用于员工持股计划及/或股权激励，回购价不超22.12元/股，期限12个月。近日，公司获中国银行广东省分行出具的《贷款承诺函》，承",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "中国30年期公债期货创6月25日以来最大涨幅。",
-    "summary": "中国30年期公债期货创6月25日以来最大涨幅。",
+    "title": "白云电器：公布回购股份前十大股东和无限售条件股东持股情况",
+    "summary": "白云电器公告称，公司于2026年7月20日通过回购股份方案，将用2000万-4000万元自有及自筹资金以集中竞价交易方式回购股份，用于员工持股计划及/或股权激励。现公布董事会公告回购股份决议前一交易日（7月20日）登记在册的前十大股东和前十",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "孙东旭：新公司美丽明天8月首播",
-    "summary": "7月21日，主播明明、天权在新公司小号开直播，直播中回应了首播时间、准备工作、招聘进展等问题。 明明称首播时间最快可能也要一周之后，有大量的准备工作在做，包括收样品、调设备、样品质检等环节，孙东旭也在短视频中表示首播将在8月份。 此外直播中",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "政策",
-    "title": "遭美国加征关税 加拿大取消与美共同庆祝大桥通车",
-    "summary": "加拿大政府21日宣布，取消原定本周与美国联合举行的戈迪·豪跨国大桥开通庆祝活动，理由是美方日前宣布对加拿大特定商品加征50%关税。据美联社报道，加拿大住房和基础设施部长格雷戈尔·罗伯逊的发言人吉娜·加萨贝在一封电子邮件声明中说：“鉴于美国本",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "甘肃：上半年地区生产总值同比增长4.9%",
-    "summary": "甘肃省统计局公布2026年上半年经济数据，根据地区生产总值统一核算结果，上半年，甘肃全省地区生产总值6959.1亿元，按不变价格计算，同比增长4.9%。分产业看，第一产业增加值450.2亿元，同比增长5.9%；第二产业增加值2500.9亿元",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "WTI原油日内涨2%，现报86.03美元/桶。",
-    "summary": "WTI原油日内涨2%，现报86.03美元/桶。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "布伦特原油日内涨2%，现报92.84美元/桶。",
-    "summary": "布伦特原油日内涨2%，现报92.84美元/桶。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "WTI原油突破86美元/桶，日内涨1.99%。",
-    "summary": "WTI原油突破86美元/桶，日内涨1.99%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "美国股指期货延续跌势，纳斯达克100指数期货下跌0.8%。",
-    "summary": "美国股指期货延续跌势，纳斯达克100指数期货下跌0.8%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "SpaceX做空比例飙至32% 马斯克警告空头：几无存活可能",
-    "summary": "据金融分析机构S3 Partners估算，目前约有2.06亿股SpaceX股份被做空，约占该公司可公开交易流通股的32%，名义空仓规模约250亿美元。马斯克对此警告称，做空SpaceX的投资者几无存活可能。SpaceX周二确认，将于8月4日",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "海外市场",
-    "title": "Rubio to hold talks with China's Wang Yi as regional powers join ASEAN meeting - Reuters",
-    "summary": "Rubio to hold talks with China's Wang Yi as regional powers join ASEAN meeting  Reuters",
-    "source": "Reuters",
-    "time": "4小时前",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUU3WElZU3gydzRFZEY1Q1lSR1pQOWM3M2dfM3pQbkFwMlFJbG45LS1MZnFYX2M3dVBpRVlyR3lLWlhGOXpHTGxyVjBsNUY0d0RkVDRfcnV3MGdaQ3dLc0Z5dzNqakR3b0FSNjBNemduOU9jRXNQd2NOZ3BCQmJOdHJPX25mcWhHWWZXOFdBZ0Z6aEJwak1mcWVtZkowU2l6QWgwZ0NnczdZeDJmTS1yS0RFTnNQMTFjWWhv?oc=5"
-  },
-  {
-    "sector": "海外市场",
-    "title": "Gold hits two-week high as Fed outlook, Middle East conflict stay in focus - Reuters",
-    "summary": "Gold hits two-week high as Fed outlook, Middle East conflict stay in focus  Reuters",
-    "source": "Reuters",
-    "time": "4小时前",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSEhsalF5aHFJNWhKX1N0MFJGc2tUSkUtZnN2Qk43cW5leGhtZkFaenZuWWJ0SDRiZ2xuVDNhMG0teU5JeDZhRGRMV0xNSDFoQlF2akZ5OWlYbmRGRDNIa3VtNElkZlJLVXczWEdLR2ZfRFJCd0kzaDhYU3pMWEhGMnp4S0N5THd0YUZvVkhuNUJJbzgxaTJfRzdSamd3a0gxc2pjUTEyVUZIWGFEdUc4S012RzVaS0U?oc=5"
   },
   {
     "sector": "人工智能",
-    "title": "Oil extends gains on fresh Mideast supply risks - Reuters",
-    "summary": "Oil extends gains on fresh Mideast supply risks  Reuters",
+    "title": "李飞飞旗下World Labs收购机器人仿真公司",
+    "summary": "近日，AI教母李飞飞创办的World Labs宣布收购SceniX。SceniX是一家专注于机器人仿真的美国初创公司。该公司通过创建高保真的虚拟环境，让机器人可以在其中完成操作、移动和交互训练。该公司的核心产品是一套高保真混合仿真平台，专注",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "普惠GTF发动机年内获订单超800台",
+    "summary": "7月22日，2026年范堡罗航展期间，普惠宣布年内已获超过800台GTF发动机订单及承诺。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "苏丹北达尔富尔州一供水点遭无人机袭击 至少21人死亡",
+    "summary": "当地时间21日，苏丹北达尔富尔州一处重要供水点遭无人机袭击，造成至少21名平民死亡，另有数十人受伤。当地消息人士称，实施袭击的无人机据信隶属于苏丹快速支援部队。（央视新闻）",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "圆通速递与双溪低空经济运营基地签约，低空物流航线将在上海闵行落地",
+    "summary": "今日举行的2026国际低空经济博览会期间，双溪低空经济运营基地与圆通速递签署低空智慧物流项目战略合作协议，短期率先落地上海闵行本地低空物流航线，配套建设标准化中转起降设施。中长期将打通双溪低空经济运营基地至嘉兴东方天地港跨省域低空货运专线，",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "海程邦达：拟5500万-1.1亿元回购股份用于减资及激励",
+    "summary": "海程邦达公告称，公司拟以集中竞价交易方式回购股份，回购金额不低于5500万元且不超过1.1亿元，回购价格不超过11元/股。回购股份将部分用于注销并减少注册资本，部分用于后续实施股权激励或员工持股计划，其中300万股用于激励或持股计划，剩余用",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "鲁比奥：伊朗正深陷困境。",
+    "summary": "鲁比奥：伊朗正深陷困境。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "创新药",
+    "title": "山外山：全资子公司获一次性使用血液透析管路医疗器械注册证",
+    "summary": "山外山公告称，公司全资子公司重庆天外天生物技术有限公司近日收到国家药监局颁发的《中华人民共和国医疗器械注册证》，产品为一次性使用血液透析管路，注册类别为首次注册，管理类别为Ⅲ类，有效期至2031年7月19日。该产品注册证的取得是公司推进研发",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "海外市场",
+    "title": "Gold hits two-week high as Fed outlook, Mideast conflict stay in focus - Reuters",
+    "summary": "Gold hits two-week high as Fed outlook, Mideast conflict stay in focus  Reuters",
     "source": "Reuters",
-    "time": "6小时前",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVktKb0FFdG9HQ0VvZ0dKR2ozZExNVVZ5eU1Wc29kUmhBRHVQclVYNk14WXhfb0MxV2lyaEk2UDJLdGJOdk9sRjE2M3NaNXpmUVBOSTFTLVFHSTV0UnJKTG5fZm95czJacHdDVVU2cE8wd013R1B4M0RHcHF2YURVX3pmbENTbktzRzRfZ0htelRKU1hQNUp4Z3ZFNUV5RkZ1NFE3STNndlFVSVVFT0JHUWVudU1XXzcwQXc?oc=5"
+    "time": "2小时前",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSEhsalF5aHFJNWhKX1N0MFJGc2tUSkUtZnN2Qk43cW5leGhtZkFaenZuWWJ0SDRiZ2xuVDNhMG0teU5JeDZhRGRMV0xNSDFoQlF2akZ5OWlYbmRGRDNIa3VtNElkZlJLVXczWEdLR2ZfRFJCd0kzaDhYU3pMWEhGMnp4S0N5THd0YUZvVkhuNUJJbzgxaTJfRzdSamd3a0gxc2pjUTEyVUZIWGFEdUc4S012RzVaS0U?oc=5"
+  },
+  {
+    "sector": "海外市场",
+    "title": "Rubio holds talks with China's Wang Yi as regional powers join ASEAN meet - Reuters",
+    "summary": "Rubio holds talks with China's Wang Yi as regional powers join ASEAN meet  Reuters",
+    "source": "Reuters",
+    "time": "7小时前",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUU3WElZU3gydzRFZEY1Q1lSR1pQOWM3M2dfM3pQbkFwMlFJbG45LS1MZnFYX2M3dVBpRVlyR3lLWlhGOXpHTGxyVjBsNUY0d0RkVDRfcnV3MGdaQ3dLc0Z5dzNqakR3b0FSNjBNemduOU9jRXNQd2NOZ3BCQmJOdHJPX25mcWhHWWZXOFdBZ0Z6aEJwak1mcWVtZkowU2l6QWgwZ0NnczdZeDJmTS1yS0RFTnNQMTFjWWhv?oc=5"
   },
   {
     "sector": "海外市场",
     "title": "Nike to cut off thousands of online distributors in China, restructure digital footprint",
     "summary": "Nike is streamlining its online business in China as the company looks to stabilize pricing and branding and get back to",
     "source": "CNBC",
-    "time": "6小时前",
+    "time": "9小时前",
     "link": "https://www.cnbc.com/2026/07/21/nike-to-cut-off-thousands-of-online-distributors-in-china.html"
   },
   {
@@ -116,7 +108,15 @@
     "title": "Apple prepares a new way to buy iPhones. Plus, making sense of Google's new AI models",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hou",
     "source": "CNBC",
-    "time": "11小时前",
+    "time": "14小时前",
     "link": "https://www.cnbc.com/2026/07/21/apple-prepares-a-new-way-to-buy-iphones-plus-making-sense-of-googles-new-ai-models.html"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Houthis warn shipping companies to avoid Saudi ports, email shows - Reuters",
+    "summary": "Houthis warn shipping companies to avoid Saudi ports, email shows  Reuters",
+    "source": "Reuters",
+    "time": "16小时前",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFE2MFI3R2M4S2lDTDFZMGZtNnJ0cm5FMThZT1pYVldXUzUwVUdFQTd0RUprcjhzbVB3OFl5NTFLMk5MX3NSV3U0UWxTempZdGJLaXdKU09VS3ZGaXo1b0hLdWJPN0JkRFplalkwNXM5SFJfLXNKTl83Tm9ZNmlJTjJRMVJ1clRETy1SOWpIYmN0cXd0WnZEYVZ0VXN4OWpMN0V4X2RaeGpvc3RyTFpRa2drYWhtQQ?oc=5"
   }
 ]
