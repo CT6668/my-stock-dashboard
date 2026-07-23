@@ -1,90 +1,106 @@
 [
   {
-    "sector": "创新药",
-    "title": "重药控股与唐传生物正式开启战略合作",
-    "summary": "据重药控股消息，7月22日，重药控股与唐传生物科技有限公司（简称“唐传生物”）举行功能糖醇全产业链战略合作签约仪式。重药控股将与唐传生物携手打造覆盖临床及院内营养、功能性食品与低GI健康消费品的全周期肠道健康产品矩阵。",
+    "sector": "综合",
+    "title": "港交所披露信息显示，摩根大通公司7月17日对中远海运能源运输股份H股的持仓占比从6.24%降至5.7",
+    "summary": "3%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "济南：上半年进出口规模创历史同期新高",
+    "summary": "据海关统计，上半年，济南市外贸进出口总值1575.4亿元，同比增长27%，增速列全省首位。其中，出口1036.4亿元，同比增长28.9%；进口539亿元，同比增长23.6%。其中，上半年，济南市进出口、出口、进口规模均创历史同期新高。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "*ST春兴：控股股东及其一致行动人股份被轮候冻结",
+    "summary": "*ST春兴公告称，控股股东孙洁晓持有公司股份2.88亿股，占总股本25.53%，被质押、司法冻结及轮候冻结比例均为100%；董事长袁静持有公司股份3100.00万股，占总股本2.75%，被质押、司法冻结及轮候冻结比例均为100%。二人合计持",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "以色列国防军：收到一则袭击通报，事件发生于肖姆龙分区阿隆莫雷赫定居点露天区域，为持刀伤人事件；具体细",
+    "summary": "节仍在调查中。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "迪拜环球港务集团将在阿联酋东海岸新建两座码头，可绕开霍尔木兹海峡。",
+    "summary": "迪拜环球港务集团将在阿联酋东海岸新建两座码头，可绕开霍尔木兹海峡。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "科技",
+    "title": "肇民科技：“肇民转债”预计触发转股价格修正条件",
+    "summary": "肇民科技公告称，“肇民转债”当前转股价格为33.80元/股，转股期限为2027年1月15日至2032年7月8日。自2026年7月9日至7月22日，公司股票已有10个交易日的收盘价格低于当期转股价格的85%（即28.73元/股），预计后续可能",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "沃尔玛回应防腐剂超标",
+    "summary": "近日，国家市场监督管理总局通报45批次不合格食品，其中沃尔玛（四川）百货有限公司成都成龙大道分店销售的一款“风干鸡胸肉香辣味”，被检出纳他霉素残留量不符合食品安全国家标准。7月23日，现代快报记者致电该沃尔玛门店，工作人员表示已下架，不再对",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "科技",
+    "title": "大恒科技：首次回购0.51%公司股份，支付的资金总额为2226.19万元",
+    "summary": "大恒科技公告，2026年7月23日，公司通过集中竞价交易方式首次回购公司股份223.86万股，已回购股份占公司总股本的比例为0.51%，成交的最高价为10元/股，成交的最低价为9.84元/股，支付的资金总额为2226.19万元（不含印花税、",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "建龙微纳：拟2000万-4000万元回购股份用于员工激励",
+    "summary": "建龙微纳公告称，公司拟以集中竞价交易方式回购股份，金额不低于2000万元且不超过4000万元，价格不超40元/股，回购数量为50万股-100万股，占总股本的0.50%-1.00%，资金源于自有和/或自筹资金，用于员工持股计划或股权激励，期限",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "盛屯矿业：股票异常波动 控股股东等均无应披露重大信息",
+    "summary": "盛屯矿业公告称，公司股票于2026年7月21日至7月23日连续3个交易日内收盘价格涨跌幅偏离值超过20%，属异常波动。控股股东、控股股东一致行动人及实际控制人经自查，均不存在应披露而未披露的影响股价异常波动的重大信息，也无筹划并购重组等重大",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "王毅会见埃及外长阿卜杜勒阿提",
-    "summary": "中共中央政治局委员、外交部长王毅23日上午在马尼拉会见埃及外长阿卜杜勒阿提。王毅表示，今年是中埃建交70周年。70年来，中埃两国风雨兼程，走过了不平凡历程，树立了发展中大国团结合作典范，彰显了两国关系的历史性、特殊性和重要性，也为推动世界和",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "title": "US military completes 12th straight night of strikes on Iran - Reuters",
+    "summary": "US military completes 12th straight night of strikes on Iran  Reuters",
+    "source": "Reuters",
+    "time": "5小时前",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTE4NEl0QlphNDg2Z3VzWFlvd3cxQjBmVzYtOC1HS18tRTNNUWJodlRhUzI4M05DN1lhLWZJWkJCU2wzaXVfVEdqWTBJSmtjeTI1M1BmRkdOclRtOGtCQ3B4bWpxbFVSeXMxRWtwdUtpdFRCOFNLVGFHaFFYRGUtOHZZbFdpRlNScTI5TVZBbi1uMVRvWDlHSWx2RlYxWkFrVGItb1RsdkRpQThH?oc=5"
   },
   {
-    "sector": "综合",
-    "title": "机构：厄尔尼诺减产预期VS近期高库存压力，棕榈油市场或磨底后走强",
-    "summary": "2026年二季度，厄尔尼诺现象已经出现，四季度极强厄尔尼诺发生概率提升。棕榈油远期减产预期提供底部支撑，但产地高库存现实抑制市场涨幅。虽然近日中东局势升级，棕榈油市场跟随原油走高，但后续仍存地缘溢价消退风险。后期，棕榈油市场等待产地减产和销",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "【巴克莱测算：谷歌2028年资本支出进一步升至5000亿美元 将连续两年自由现金流为负】巴克莱研报称",
-    "summary": "，在谷歌公布2026年第二季度财报后，巴克莱将谷歌2027年资本支出预期大幅上调至3500亿美元，2028年进一步升至5000亿美元，均超过同期经营性现金流的100%，这意味着谷歌将在未来两年持续处于自由现金流为负的状态。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "政策",
-    "title": "IDC：中国智能手机市场连续五个季度同比下滑，华为与苹果出货量位居前两位",
-    "summary": "IDC发布最新手机季度跟踪报告显示，2026年第二季度，中国智能手机市场出货量约为6601万台，同比下降4.3%，已连续五个季度出现同比下滑。2026年上半年，中国智能手机市场累计出货量约1.34亿台，同比下降4.2%。报告称，自3月下旬起",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "曾涉爱泼斯坦案的法国星探被发现死于家中",
-    "summary": "法国检察部门22日说，与美国已故富商杰弗里·爱泼斯坦存在关联的星探达尼埃尔·西亚德，被发现在法国首都巴黎郊外的家中身亡。法国巴黎楠泰尔检察院说，西亚德的遗体于20日晚间被发现，有关部门将进行尸检以确定其死因。西亚德的律师梅尼亚·阿拉伯-蒂格",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "上海市气象台2026年07月23日14时18分更新中心城区高温黄色预警信号为高温橙色预警信号：预计今",
-    "summary": "天中心城区大部的最高气温将超过37℃，高温黄色预警信号更新为高温橙色预警信号，请注意防范强高温对城市运行、人体健康、大功率电气设备的不利影响，注意用火用电安全。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "TD COWEN将德州仪器目标价从360美元下调至340美元。",
-    "summary": "TD COWEN将德州仪器目标价从360美元下调至340美元。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "7月23日：“农产品批发价格200指数”比昨天上升0.48个点",
-    "summary": "据农业农村部监测，7月23日“农产品批发价格200指数”为113.62，比昨天上升0.48个点，“菜篮子”产品批发价格指数为113.78，比昨天上升0.57个点。截至今日14:00时，全国农产品批发市场猪肉平均价格为15.92元/公斤，比昨",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "政策",
-    "title": "上海将组建新型国有演艺集团 多举措推动社会主义国际文化大都市建设",
-    "summary": "7月23日下午，上海市政府新闻办举行“开局起步‘十五五’”系列主题市政府新闻发布会，上海市委宣传部常务副部长方世忠介绍《上海市社会主义国际文化大都市建设“十五五”规划》有关情况。据介绍，未来五年，上海将推出多项突破性举措、创新性工作安排，建",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "sector": "海外市场",
+    "title": "Two Chinese supertankers with Saudi oil head to Bab el-Mandeb for Red Sea exit - Reuters",
+    "summary": "Two Chinese supertankers with Saudi oil head to Bab el-Mandeb for Red Sea exit  Reuters",
+    "source": "Reuters",
+    "time": "7小时前",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzBfZ2dVYUNDa2lMZlVQYXFfSWU3bWlaZjRVTV9DM0V3NjRDN2pvWnRhMVE4T2RwYXhGdTd1ZEMybWE4ekJGcC1Oa3lsWnFwQ1ZISE5XcUZOazlVaEZQaU9jLTQ2UmstZkZ3UWw5amhGQU1TTVY4VGRXX2R6d0xOMENmTmlYTHBKOGJnRTNDdzVZQ1p3NXA0alZSOVJxV0dwS3AxQkliUkpES0hneVdYMmtjNFpERW1TRkNUVDN5Z2E?oc=5"
   },
   {
     "sector": "人工智能",
     "title": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S.",
     "summary": "Mercedes-Benz’s largest individual shareholder is Chinese state-owned BAIC. Cruz warned the bill could hurt Mercedes and",
     "source": "CNBC",
-    "time": "12小时前",
+    "time": "15小时前",
     "link": "https://www.cnbc.com/2026/07/22/ted-cruz-china-auto-bill-mercedes-benz-gm.html"
   },
   {
@@ -92,7 +108,7 @@
     "title": "Iran war drains U.S. blood and treasure - Reuters",
     "summary": "Iran war drains U.S. blood and treasure  Reuters",
     "source": "Reuters",
-    "time": "13小时前",
+    "time": "16小时前",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUWFQRmRTdXBpWjUySjA2ZFJKQnAzOHdwcE0yMjMwcDJvY3V6RXE3UHBPRWtRZ1k5ZWxhQUd6ckQ2NS03Ukk2dzFuY3NxcTRHM1NRNE5RMDVBWHFPMHBncFZrQXRSaExHOHRtR09aQWxlMjliVzNTbWlQcjlGQl93WXlpRjh4NldZYlhLZ0hUalM?oc=5"
   },
   {
@@ -100,23 +116,7 @@
     "title": "Bulgaria approves stationing of US tanker aircraft despite Iran warning - Reuters",
     "summary": "Bulgaria approves stationing of US tanker aircraft despite Iran warning  Reuters",
     "source": "Reuters",
-    "time": "18小时前",
+    "time": "20小时前",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWnpvQ2JXM0N2U19UTndHNGVlc05wU0Y4dEoyZkZtWG82NUhNTmM4dVl5dVRRQ0gySnJidVdHVk9iUlhFdWdMRWlBbnZ0TXJvMkM2Slg0U2IzQ0RqclFKWHNzWnZ6SVN2ZFRSc0lVd1dWNGVZVi1QcU5ibUtIckxWU0FINW0xRDJoblhEVDNmc25wNFZtNFJnTHpvMnJyeFBBVkdlamNHTUJVbXJoeTZWQXpKSWM5WnlPeDkw?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "IOC, MRPL said to have halted Iraq oil loadings on rising Hormuz risk",
-    "summary": "Indian refiners halt Iraq oil loadings due to escalating security risks in the Strait of Hormuz, impacting shipping safe",
-    "source": "Bloomberg",
-    "time": "1天前",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/indian-refiners-halt-iraq-oil-loadings-as-hormuz-risks-escalate"
-  },
-  {
-    "sector": "人工智能",
-    "title": "India weighs letting airport owners run airlines to curb duopoly",
-    "summary": "India considers allowing airport owners to operate airlines, potentially disrupting the duopoly held by IndiGo and Air I",
-    "source": "Bloomberg",
-    "time": "1天前",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/india-weighs-letting-airport-owners-run-airlines-to-curb-duopoly"
   }
 ]
