@@ -1,19 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Is Intel Stock a Buy as AI Revenue Surges Nearly 60%?",
-    "excerpt": "Intel has joined the AI infrastructure party, but that doesn't make its stock a buy.",
+    "title": "[英伟达] Cathie Wood's Ark Bought $21.3 Million of SpaceX Stock as Shares Fell ",
+    "excerpt": "Cathie Wood's investment fund is heavily invested in SpaceX stock.",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=55715ecd97824afc4b6d142ceaa38b8bf00ef3f171ef622c5c6b782523f39e13"
+    "link": "https://finnhub.io/api/news?id=9427b8c4528ba97ed313e1f25f8738a48bcf9d6a82eb1ed86084bc0fb9e5ecf3"
   },
   {
     "source": "东财股吧",
-    "title": "【中信建投】车企智驾自研格局分层 三方供应商长期价值凸显",
-    "excerpt": "中信建投发布研报称，智能驾驶产业正由单一产品竞争迈向平台化竞争，全栈自研车企、第三方算法供应商及智能驾驶芯片企业三类主体分别依托整车生态、算法平台和软硬一体能力构建差异化竞争优势。随着软件定义汽车(SDV)持续推进，产业价值加速由硬件向软件",
-    "author": "中信建投",
+    "title": "【*ST亚士】股价异常波动 存在终止上市风险",
+    "excerpt": "*ST亚士公告称，公司股票于2026年7月23日、7月24日、7月27日连续三个交易日内日收盘价格涨幅偏离值累计超20%，属异常波动。经自查，公司、控股股东和实控人不存在应披露未披露重大信息。截至2025年12月31日，公司期末净资产为-6",
+    "author": "*ST亚士",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,中信建投.html"
+    "link": "https://guba.eastmoney.com/list,*ST亚士.html"
   },
   {
     "source": "BABA·雪球",
@@ -25,11 +25,11 @@
   },
   {
     "source": "东财股吧",
-    "title": "【伊朗外交部发言人】每逢能源价格飙升 美国就会重返谈判",
-    "excerpt": "伊朗外交部发言人巴加埃：美国正面临困难。我们不会允许美国决定战争与和平的时机和持续时间。美国在战争爆发之初曾认为“伊朗会在三天内崩溃并投降，如今数月过去，美国陷入了当前的局面，却还对其所犯下的罪行感到自豪。”巴加埃还表示，每当全球能源价格上",
-    "author": "伊朗外交部发言人",
+    "title": "【赛分科技】持股5%以上股东及董事拟减持不超1.014%股份",
+    "excerpt": "赛分科技公告称，截至公告披露日，持股5.91%的疌泉成达和持股0.0570%的董事张敏，其股份于2026年1月12日起解除限售。疌泉成因基金期限与资金安排，拟于8月18日至11月17日集中竞价减持不超416.464万股，占总股本1.00%；",
+    "author": "赛分科技",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,伊朗外交部发言人.html"
+    "link": "https://guba.eastmoney.com/list,赛分科技.html"
   },
   {
     "source": "NIO·WSB",
@@ -40,19 +40,35 @@
     "link": "https://finnhub.io/api/news?id=c911e89e858ad358ebed56e899ef09128006ba17bdad4169c0d36c9b94032f23"
   },
   {
+    "source": "东财股吧",
+    "title": "【永臻股份】拟4000万元—8000万元回购股份",
+    "excerpt": "永臻股份(603381)7月27日公告，公司拟以不低于4000万元（含）且不超过8000万元（含）通过集中竞价交易方式回购股份，用于实施员工持股计划或股权激励，回购股份价格不超过22.79元/股（含）。",
+    "author": "永臻股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,永臻股份.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
-    "excerpt": "Tech, AI and earnings drove a busy week across software and chips sectors.",
+    "title": "[特斯拉] US Equity Investors to Focus on Mag-7 Earnings, Fed Policy Statements ",
+    "excerpt": "US equity investors will focus on big-tech earnings, inflation, and the Federal Reserve policy meeti",
     "author": "Yahoo",
-    "popularity": "🔥 5小时前",
-    "link": "https://finnhub.io/api/news?id=bc3612c1016ed4a46e27f755675a8b0605cf87c7e0a252852113d3e5cdf6e0e4"
+    "popularity": "🔥 52分钟前",
+    "link": "https://finnhub.io/api/news?id=b622018f1b79a31c2c64cdf59627a81c78a4b320bddf456b7a6d6d1526511bcd"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【ST荣科】违规担保情形未消除 股票继续被实施其他风险警示",
+    "excerpt": "ST荣科公告称，因所涉相关违规担保情形尚未消除，公司股票将继续被实施其他风险警示（ST）。公司已采取应对措施，包括委托律师梳理担保协议、与相关方谈判协商推动债务人协调资产置换、与债权人沟通争取免除责任等。截至公告披露日，相关案件尚未开庭审理",
+    "author": "ST荣科",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,ST荣科.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Here’s How Much You Would Have Made Owning Baidu Stock In The Last 20 ",
     "excerpt": "Baidu (NASDAQ:BIDU) has outperformed the market over the past 20 years by 9.34% on an annualized basis producing an average annual return of 18.54%. C",
     "author": "Benzinga",
-    "popularity": "🔥 2天前",
+    "popularity": "🔥 3天前",
     "link": "https://finnhub.io/api/news?id=2a8a9d0e8360346075abcba5049c8e36a0bd20be00bfe3fd85c62169ddf7b100"
   }
 ]
