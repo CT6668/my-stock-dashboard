@@ -1,72 +1,80 @@
 [
   {
-    "sector": "创新药",
-    "title": "新和成新设功能材料公司，含民用航空材料销售业务",
-    "summary": "企查查APP显示，近日，新昌新和成功能材料有限公司成立，法定代表人为周贵阳，注册资本为3000万元，经营范围包含：新材料技术研发；生物基材料技术研发；电子专用材料研发；民用航空材料销售等。企查查股权穿透显示，该公司由新和成间接全资持股。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
     "sector": "人工智能",
-    "title": "光弘科技：液冷服务器相关业务将于下半年逐步进入量产",
-    "summary": "光弘科技(300735)7月28日在互动平台表示，公司液冷服务器相关业务会于今年下半年逐步进入量产。公司正为此加紧量产场地、产线布设，并针对工艺难点与客户共同进行技术攻关。目前公司已涉及AI服务器中算力板卡、液冷组件、专用电源、等重要部件的",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "我国启动人工智能大模型IPv6能力提升专项行动",
-    "summary": "记者今天（7月28日）从雄安新区了解到，“人工智能大模型IPv6能力提升专项行动”由中央网信办联合北京、上海、浙江、深圳四地网信办，会同5家头部大模型企业在雄安新区共同启动，推动生成式大模型应用，全面支持IPv6，为智能时代筑牢网络根基。当",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "生益科技松山湖第二工厂项目正式动工",
-    "summary": "据东莞发布，7月28日，总投资约52亿元的生益科技松山湖第二工厂项目正式动工。项目聚焦AI服务器高频高速材料、智能汽车电子基材、高端封装基板材料等前沿领域，建成后将年产4800万平方米高性能覆铜板、10000万米商品粘结片。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "科技",
-    "title": "六部门发布通告：禁止涉军队退役报废装备销售活动",
-    "summary": "中央军委后勤保障部、中央军委装备发展部、中央军委政法委员会、公安部、国家市场监督管理总局、国家国防科技工业局于7月23日发布《关于禁止涉军队退役报废装备销售活动的通告》。通告指出，严禁任何单位和个人销售军队退役报废装备，严禁生产、改装或利用",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "政策",
-    "title": "澳大利亚能源零售商Origin Energy称数据泄露事件波及90万客户",
-    "summary": "澳大利亚最大的能源零售商Origin Energy表示，一次数据安全事件导致约90万名现有和前客户的个人数据被获取。截至2025年底拥有约480万客户的Origin周二表示，该公司正与网络安全和法证专家合作，以控制该事件。该公司上周首次公布",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "香港特区政府与国家工信部签署《关于推进部港共建制造业创新中心的合作协议》",
-    "summary": "香港特区政府与国家工业和信息化部（国家工信部）今日（28日）在特区政府总部签署《关于推进部港共建制造业创新中心的合作协议》（《合作协议》）。 《合作协议》旨在切实推进双方于2024年9月签署的《关于发展新质生产力推进新型工业化的合作协议》，",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "创新药",
-    "title": "【银行快报传暖意 红利低波ETF华泰柏瑞（512890）逆市飘红 机构：关注两条主线】7月28日，市",
-    "summary": "场低开低走，创指跌5.37％，沪指跌0.98％。在此背景下，红利低波ETF华泰柏瑞（512890）逆市上涨0.34％，报1.171元，换手率1.24％，半日成交额4.29亿元，居同类标的ETF首位。消息面上，近日重庆银行、渝农商行率先发布2",
+    "title": "小摩：大幅上调联想集团目标价至30港元，评级升至“增持”",
+    "summary": "摩根大通发表报告，将联想集团的投资评级由“中性”上调至“增持”，目标价由20港元大幅上调至30港元，主要受惠服务器业务盈利能力显著改善，以及智能设备业务集团(IDG)业务价格弹性优于预期。该行的行业研究显示，联想AI相关客户需求快速增长，服",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "浙江新增8家国家4A级旅游景区",
-    "summary": "日前，经有关市文化和旅游行政部门推荐，浙江省旅游区（点）质量等级评定委员会按程序组织综合评定和公示后，确定8家旅游景区为国家4A级旅游景区。",
+    "title": "【国家邮政局召开快递员诉求直通车试点经验总结交流暨建立快递企业党组织全覆盖联系机制任务部署会】7月2",
+    "summary": "7日，国家邮政局召开快递员诉求直通车试点经验总结交流暨建立快递企业党组织全覆盖联系机制任务部署会，总结快递员诉求直通车试点情况，交流经验做法，对建立快递企业党组织全覆盖联系机制任务进行再部署再动员。国家邮政局党组成员、副局长陈凯出席会议并讲",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "浙商证券：冰轮环境布局新兴制冷设备，打开中长期空间",
+    "summary": "浙商证券研报指出，冰轮环境受益于全球AIDC建设，冷水机组订单加速。公司是国内温控装备龙头，主营工业制冷设备、暖通空调装备、绿能装备、数智工业等，产品覆盖压缩机、制冷机、工业热泵、储能储蓄装置、工业换热装置。业绩拐点已现，2026Q1业绩高",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "梅赛德斯-奔驰首席财务官表示：集团业绩指引不包含进一步出售戴姆勒卡车股权的安排。",
+    "summary": "梅赛德斯-奔驰首席财务官表示：集团业绩指引不包含进一步出售戴姆勒卡车股权的安排。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "CPO板块遭重挫 多支通信ETF逼近跌停",
+    "summary": "CPO板块遭重挫，新易盛、中继旭创回调15%，德明利、东山精密等多股跌停。通信ETF富国（159583）、通信ETF国泰（515880）、通信ETF华夏（515050）等多支ETF逼近跌停。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "据猫眼专业版数据，电影《功夫女足》暑期档总票房（含预售）破20亿，持续领跑暑期档票房榜！",
+    "summary": "据猫眼专业版数据，电影《功夫女足》暑期档总票房（含预售）破20亿，持续领跑暑期档票房榜！",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "海湾消息人士称，根据该提议，伊朗不会独控霍尔木兹海峡。",
+    "summary": "海湾消息人士称，根据该提议，伊朗不会独控霍尔木兹海峡。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "海湾消息人士透露，该方案参照马六甲海峡模式，由海峡通行方自愿出资，用于航道维护、环境保护及海上搜救工",
+    "summary": "作。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "海湾消息人士称，阿曼的提议得到了地区支持。",
+    "summary": "海湾消息人士称，阿曼的提议得到了地区支持。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "海湾消息人士称，阿曼已向伊朗提交一份关于建立联合地区机制、通过收缴自愿费用管理霍尔木兹海峡的提议。",
+    "summary": "海湾消息人士称，阿曼已向伊朗提交一份关于建立联合地区机制、通过收缴自愿费用管理霍尔木兹海峡的提议。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
@@ -76,7 +84,7 @@
     "title": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
     "summary": "This is yet another sign that investors need to look beyond AI stocks.",
     "source": "CNBC",
-    "time": "8小时前",
+    "time": "10小时前",
     "link": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html"
   },
   {
@@ -84,7 +92,7 @@
     "title": "From 'oil' to 'shock',  here's what Kalshi traders expect Fed Chair Kevin Warsh will say t",
     "summary": "Kalshi traders are predicting Warsh will mention last week's supply shock at this week's Federal Reserve press conferenc",
     "source": "CNBC",
-    "time": "9小时前",
+    "time": "11小时前",
     "link": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html"
   },
   {
@@ -92,23 +100,23 @@
     "title": "More tech pain means gains elsewhere. What's winning in Monday's mixed market",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hou",
     "source": "CNBC",
-    "time": "9小时前",
+    "time": "11小时前",
     "link": "https://www.cnbc.com/2026/07/27/more-tech-pain-means-gains-elsewhere-what-is-winning-in-the-mixed-market.html"
   },
   {
     "sector": "人工智能",
-    "title": "Instagram, Facebook ran AI ‘Nudify’ ads from China, report says",
-    "summary": "Meta's Facebook and Instagram allegedly ran thousands of banned AI 'nudify' ads, raising concerns about user safety and ",
+    "title": "Bitcoin ETFs end inflow streak as Fed rate concerns mount",
+    "summary": "Amid fluctuating investor sentiment over Fed rate hikes and legislative uncertainties, Bitcoin ETFs face significant wit",
     "source": "Bloomberg",
     "time": "1天前",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/instagram-facebook-ran-ai-nudify-ads-from-china-report-says"
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount"
   },
   {
     "sector": "人工智能",
-    "title": "Gold gains over 1% on pause in US-Iran fighting; Fed decision looms - Reuters",
-    "summary": "Gold gains over 1% on pause in US-Iran fighting; Fed decision looms  Reuters",
-    "source": "Reuters",
+    "title": "Nvidia in talks to back OpenAI lease of $500 billion data center",
+    "summary": "Nvidia is in discussions to help the creator of ChatGPT lease a $500 billion, 10-gigawatt hub that SoftBank Group Corp. ",
+    "source": "Bloomberg",
     "time": "1天前",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHhXdm1LMW9wUmp6UHctWldmTGpCQWlBOWVTdk5GeEtuMzNYQU42TGlWWXQtSDAxeE1aa3JvNFRDRUx6WVB5eGliS21TMEluRkJEUndXeHE1MUYzUVZlZG9CQ1V4VXFITFIyMEhJNUNlczhueTJpX2FjbFBoSmVkSnZJX0pQOS05RExueWpHMGpRMElqUTBVV0lqajBCRG9Kc1E?oc=5"
+    "link": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says"
   }
 ]
