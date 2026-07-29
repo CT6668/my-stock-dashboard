@@ -1,19 +1,35 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Nvidia (NVDA) Pours $5 Billion Into Safe AI And Expands Data Center Re",
-    "excerpt": "Nvidia (NasdaqGS:NVDA) is committing US$5b to Safe Superintelligence, a new AI safety startup led by former OpenAI chief scientist Ilya Sutskever. The",
+    "title": "[英伟达] The S&P 500 and Dow Are on Track to Beat the Nasdaq for the First Time",
+    "excerpt": "The tech-driven Nasdaq is selling off amid shifting investor sentiment toward artificial intelligence (AI) spending.",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=c3efe06e73f9be462a7d612dff8c81561a203ed11ade765e48721a45286f7432"
+    "link": "https://finnhub.io/api/news?id=efda01ca8d7f8593a145ec2978cb3372560c07d7091e0bfbae2fa74f507be194"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【7月29日】“农产品批发价格200指数”比昨天上升0.11个点",
+    "excerpt": "据农业农村部监测，7月29日“农产品批发价格200指数”为113.79，比昨天上升0.11个点，“菜篮子”产品批发价格指数为113.99，比昨天上升0.13个点。截至今日14:00时，全国农产品批发市场猪肉平均价格为15.92元/公斤，比昨",
+    "author": "7月29日",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,7月29日.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba: China AI Policies And Robust Competitiveness To Support Cloud",
     "excerpt": "Alibaba (BABA) Cloudâs AI-driven growth outlook: Qwen models, margins, pricing, and Chinaâs $295B data-center capexâget key insights and invest ",
     "author": "SeekingAlpha",
-    "popularity": "🔥 23小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=5c8ed32e3d44efd0c5bbec1bd62b442c3682a5f52ad69b8ab0e84759f00310dc"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【长江证券】维持中金公司“买入”评级，投行龙头ROE修复与估值重估",
+    "excerpt": "长江证券研报指出，中金公司与传统券商客群结构有显著差异，聚焦中高端及高净值客户，权益市场震荡期资产配置需求仍然存在，陪伴客户穿越周期。摩根士丹利与中金均以机构证券、财富管理为主要业务，业务结构较为接近。估值方面，中金当前估值演变相当于大摩2",
+    "author": "长江证券",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,长江证券.html"
   },
   {
     "source": "NIO·WSB",
@@ -24,12 +40,28 @@
     "link": "https://finnhub.io/api/news?id=3dce3b5ba9e75ac87af8a709c20c12157915313f2d601f26648f624f7478a3f2"
   },
   {
+    "source": "东财股吧",
+    "title": "【商务部办公厅】进一步加力推动城市一刻钟便民生活圈建设",
+    "excerpt": "商务部办公厅印发关于进一步加力推动城市一刻钟便民生活圈建设的工作通知。通知提出，各地要加快工作进度，划定便民生活圈总量，明确逐年建设数量，按照有关规划安排，在保证质量的前提下，2026年完成全国建设1万个便民生活圈的既定目标。各地要依托便民",
+    "author": "商务部办公厅",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,商务部办公厅.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla (TSLA) Secures Long Term Power Deals And Expands Optimus Teleope",
-    "excerpt": "Tesla (NasdaqGS:TSLA) has signed multiple long term renewable energy power purchase agreements, including a deal in Arizona with a KKR backed solar an",
+    "title": "[特斯拉] Gary Black Warns Tesla Stock Could Break Below $300, SpaceX Below $100",
+    "excerpt": "Well-known Tesla Inc (NASDAQ:TSLA) commentator Gary Black said Tuesday he expects the electric vehicle company’s shares to fall below $300 and Space E",
     "author": "Yahoo",
-    "popularity": "🔥 3小时前",
-    "link": "https://finnhub.io/api/news?id=f2f4feb02417d1846e19d183852f754d7b4a41b3b0958da499946a3102a5e81e"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=46161209cadb3e0e6681c1119700adfea2a823ea4c5f39de5aa7d02d8d56afe6"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【深圳市银行业协会】高息高返、违规返佣等现象得到有效遏制",
+    "excerpt": "深圳金融监管局7月29日组织召开2026年上半年新闻发布会。招商银行深圳分行代表深圳市银行业协会介绍上半年银行业深化整治无序竞争有关情况时表示，协会锚定稳定净息差目标，聚焦高息揽储、贷款隐形返利等重点领域，通过“定标准、强监测、严惩戒”，有",
+    "author": "深圳市银行业协会",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,深圳市银行业协会.html"
   },
   {
     "source": "BIDU·雪球",
