@@ -1,26 +1,74 @@
 [
   {
+    "source": "NVDA·Reddit",
+    "title": "[英伟达] If I Had $1,000 to Invest Today, Here's the Trillion-Dollar Stock I'd ",
+    "excerpt": "This company just reported stellar quarterly operating results, driven by its artificial intelligence-related efforts.",
+    "author": "Yahoo",
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=00b27534a35ef1e75f7fcbc04e38f47647828fcab162abde9a64246e5a9f119d"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【华纳药厂】琥珀酸亚铁片、双氯芬酸钠缓释片拟中选集采",
+    "excerpt": "华纳药厂公告称，2026年7月31日，公司参加了第十二批全国药品集中采购投标，琥珀酸亚铁片、双氯芬酸钠缓释片拟中选。琥珀酸亚铁片2025年、2026年一季度销售收入分别为8945.50万元、1906.22万元；双氯芬酸钠缓释片同期分别为89",
+    "author": "华纳药厂",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,华纳药厂.html"
+  },
+  {
+    "source": "BABA·雪球",
+    "title": "[阿里巴巴] Wall Street Breakfast Podcast: Say Hello To Qwen3.8-Max",
+    "excerpt": "Alibaba launches Qwen3.8-Max to challenge global rivals. Google pulls a new Earth feature. AstraZeneca and Bristol Myers explore potential mega-merger",
+    "author": "SeekingAlpha",
+    "popularity": "🔥 5小时前",
+    "link": "https://finnhub.io/api/news?id=1586e648d7ee9f612d236e4e6b5c51eb2e4fd691e812902b3992dc9792322f77"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【韵达股份】截至7月底已耗资7709.27万元回购股份",
+    "excerpt": "韵达股份公告称，公司于2026年4月23日决定以集中竞价交易方式回购股份，用于股权激励或员工持股计划，回购资金5000万元（含）-10000万元（含），回购价不超10.12元/股，期限不超6个月。截至7月31日，已回购1046.20万股，占",
+    "author": "韵达股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,韵达股份.html"
+  },
+  {
+    "source": "NIO·WSB",
+    "title": "[蔚来汽车] EV Company News For The Month Of July 2026",
+    "excerpt": "June 2026 EV sales: global up 8% as Europe surges, China & US dip.",
+    "author": "SeekingAlpha",
+    "popularity": "🔥 8小时前",
+    "link": "https://finnhub.io/api/news?id=a0f06598653a507625d21d6833dd6fb0acda61d42a82c4204dc5765726db6aae"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【宣泰医药】注射用硫酸艾沙康唑及恩扎卢胺片拟中选第十二批全国药品集采",
+    "excerpt": "宣泰医药公告，公司参与第十二批全国药品集中采购投标，根据联采办于2026年7月31日发布的拟中选结果公示，公司产品注射用硫酸艾沙康唑（规格1支/盒）、合作开发产品恩扎卢胺片（40mg：56片/盒、80mg：28片/盒）拟中选本次集中采购，采",
+    "author": "宣泰医药",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,宣泰医药.html"
+  },
+  {
+    "source": "TSLA·Reddit",
+    "title": "[特斯拉] Nasdaq, S&P 500 Futures Rise, Oil Tumbles On Iran Relief Hopes: Why PL",
+    "excerpt": "Despite the risk-on mood, Stocktwits retail sentiment remained bearish on both the SPY and QQQ ETFs.",
+    "author": "Yahoo",
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=ceab390cb083b5ec5fb6da217da3dcbc7f06a3ea1f54716ce7b0df4360d67ef0"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【美股七巨头盘前走势】Alphabet领涨，英伟达小幅回落",
+    "excerpt": "经历上周科技巨头财报分化行情后，美国“科技七巨头”在8月3日盘前交易中整体温和偏强，云业务相关个股延续上周五强势，市场情绪稳定。截至发稿，Alphabet上涨约2.0%，亚马逊上涨约1.7%，微软上涨约1.5%，Meta上涨约1.3%，特斯",
+    "author": "美股七巨头盘前走势",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,美股七巨头盘前走势.html"
+  },
+  {
     "source": "BIDU·雪球",
     "title": "[百度] Apple Stock Is Sinking Friday: What's Going On?",
     "excerpt": "Apple drops 7% premarket after Q3 earnings beat. Analysts highlight Siri AI rollout, China demand, and memory cost risks.",
     "author": "Benzinga",
     "popularity": "🔥 3天前",
     "link": "https://finnhub.io/api/news?id=c8e0ffc9497e50d2dacac19d0a92ff18eca00018ed1b3613111da78399163d83"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【民爆光电】当前公司订单饱满",
-    "excerpt": "民爆光电8月3日在互动平台表示，公司目前已完成发行股份购买资产相关材料的申报；目前公司扩产进展顺利，预计到2026年底产能将突破4000万支/月；当前公司订单饱满。",
-    "author": "民爆光电",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,民爆光电.html"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【伊朗外交部】伊朗目前未与美国进行任何谈判",
-    "excerpt": "伊朗外交部发言人巴加埃表示，伊朗目前未与美国进行任何谈判，目前正在与阿曼就霍尔木兹海峡问题开展对话。正与阿曼合作在霍尔木兹海峡开辟临时安全通道。",
-    "author": "伊朗外交部",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,伊朗外交部.html"
   }
 ]
