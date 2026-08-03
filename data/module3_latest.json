@@ -1,58 +1,26 @@
 [
   {
-    "source": "NVDA·Reddit",
-    "title": "[英伟达] The Bond Market Is Doing Something for the First Time in Nearly 20 Yea",
-    "excerpt": "The Fed and inflation conditions are pushing long-term Treasury yields to multidecade highs.",
-    "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=b4e7f53da79afc7857d7fcf1c95b3d08da19730959de09e0891c57769a06a5ee"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【业绩前瞻】汇丰第二季度净利润或将大幅增长",
-    "excerpt": "汇丰控股定于周二公布第二季度业绩。净利润：根据Visible Alpha对分析师的一项调查，在截至6月的三个月里，汇丰的净利润预计将增长61%，达到73.6亿美元。该行上年同期录得净利润45.8亿美元，当时业绩受到与联营公司交通银行相关的2",
-    "author": "业绩前瞻",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,业绩前瞻.html"
-  },
-  {
-    "source": "BABA·雪球",
-    "title": "[阿里巴巴] 10 Consumer Discretionary Stocks With Whale Alerts In Today’s Session",
-    "excerpt": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transac",
-    "author": "Benzinga",
-    "popularity": "🔥 2天前",
-    "link": "https://finnhub.io/api/news?id=065f85cd79d607151512dd8496fae8a93a95993efa42b8346eecd8e9c28bda83"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【江小白起诉东方甄选案判决公布】构成商业诋毁，赔偿30万元",
-    "excerpt": "8月3日，最高人民法院发布依法规范平台经营、保护消费者合法权益典型案例中，首次披露2年前江小白起诉东方甄选案的判决结果。披露案例显示，最终法院认定：某优选（北京）公司构成商业诋毁，并判令其赔偿重庆某酒业公司经济损失及合理开支共计30万元。一",
-    "author": "江小白起诉东方甄选案判决公布",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,江小白起诉东方甄选案判决公布.html"
-  },
-  {
-    "source": "NIO·WSB",
-    "title": "[蔚来汽车] NIO Stock Pauses Following China EV Policy Signals: What Investors Nee",
-    "excerpt": "NIO shares are trading marginally lower Friday as policy support hopes meet cautious sentiment on riskier names.",
-    "author": "Benzinga",
-    "popularity": "🔥 2天前",
-    "link": "https://finnhub.io/api/news?id=9ea85c54a870c4b9293cbdf50ffe704e355f469acab22ac888bed6dd101edaa7"
-  },
-  {
-    "source": "TSLA·Reddit",
-    "title": "[特斯拉] Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
-    "excerpt": "Big Tech earnings showed AI spending faces a new test as investors weigh returns, cloud growth, and chip costs.",
-    "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=d452ac77315147b55f2d4f482d19015ae63f8d23fcbd4c21e8da30965e04dcaf"
-  },
-  {
     "source": "BIDU·雪球",
     "title": "[百度] Apple Stock Is Sinking Friday: What's Going On?",
     "excerpt": "Apple drops 7% premarket after Q3 earnings beat. Analysts highlight Siri AI rollout, China demand, and memory cost risks.",
     "author": "Benzinga",
-    "popularity": "🔥 2天前",
+    "popularity": "🔥 3天前",
     "link": "https://finnhub.io/api/news?id=c8e0ffc9497e50d2dacac19d0a92ff18eca00018ed1b3613111da78399163d83"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【民爆光电】当前公司订单饱满",
+    "excerpt": "民爆光电8月3日在互动平台表示，公司目前已完成发行股份购买资产相关材料的申报；目前公司扩产进展顺利，预计到2026年底产能将突破4000万支/月；当前公司订单饱满。",
+    "author": "民爆光电",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,民爆光电.html"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【伊朗外交部】伊朗目前未与美国进行任何谈判",
+    "excerpt": "伊朗外交部发言人巴加埃表示，伊朗目前未与美国进行任何谈判，目前正在与阿曼就霍尔木兹海峡问题开展对话。正与阿曼合作在霍尔木兹海峡开辟临时安全通道。",
+    "author": "伊朗外交部",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,伊朗外交部.html"
   }
 ]
