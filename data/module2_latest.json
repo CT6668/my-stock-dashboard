@@ -1,90 +1,114 @@
 [
   {
-    "sector": "金融",
-    "title": "印度储备银行行长：西亚冲突持续给全球经济带来挑战。",
-    "summary": "印度储备银行行长：西亚冲突持续给全球经济带来挑战。",
+    "sector": "综合",
+    "title": "摩根士丹利将AMD目标股价从410美元上调至465美元。",
+    "summary": "摩根士丹利将AMD目标股价从410美元上调至465美元。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "诺和诺德首席财务官：我们目前没有任何在未来推行成本削减的计划。",
+    "summary": "诺和诺德首席财务官：我们目前没有任何在未来推行成本削减的计划。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "两只双创ETF成交额再度双双破百亿",
+    "summary": "科创50ETF华夏（588000）、创业板ETF易方达（159915）成交均突破100亿，延续此前火爆成交状态，7月17日以来日均成交分别为131亿、117亿，上半年两只ETF日均成交额分别为50亿、49亿。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "政策",
-    "title": "上海临港新片区：到2030年，形成3个千亿级制造业产业集群",
-    "summary": "近日，上海市政府官网发布《中国（上海）自由贸易试验区临港新片区发展“十五五”规划》。根据《规划》，形成3个千亿级制造业产业集群，地区生产总值年均增长7.5%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "上海刚刚发布中心城区雷电黄色预警",
-    "summary": "上海市气象台12时17分发布中心城区雷电黄色预警信号：预计未来24小时内，中心城区大部将发生雷电活动，可能会造成雷电灾害事故，请注意防范。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "俄罗斯小麦价格因出口受阻而下跌",
-    "summary": "俄罗斯《生意人报》援引ProZerno机构数据报道，受港口袭击抑制出口、销售遇阻影响，俄罗斯小麦与大麦价格自7月中旬以来下跌8%‑14.5%，同比跌幅达17.8%‑20.1%。截至7月31日，三等小麦价格为每吨13500卢布，自7月10日亚",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "印尼盾保持涨势，第二季度GDP增速高于预期。",
-    "summary": "印尼盾保持涨势，第二季度GDP增速高于预期。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "中国地震台网自动测定：08月05日12时14分在苏拉威西海附近（北纬5.16度，东经125.47度）",
-    "summary": "发生6.4级左右地震，最终结果以正式速报为准。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "路透调查：到2027年10月末及1月末，印度卢比汇率将跌至1美元兑95.25卢比。",
-    "summary": "路透调查：到2027年10月末及1月末，印度卢比汇率将跌至1美元兑95.25卢比。",
+    "title": "核电板块异动拉升 常辅股份涨超10%",
+    "summary": "午后核电板块异动拉升，常辅股份涨超10%，融发核电、久盛电气、中国核建、江苏神通、瑞奇智造、合锻智能等快速冲高。消息面上，2026年7月31日，国常会决定核准辽宁庄河一期等四个核电项目，共8台新机组，总投资预计超过1700亿元。这是2026",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "政策",
-    "title": "昆明一化工厂火情引发气体泄漏：厂区冒出大量白烟，周边居民被连夜疏散",
-    "summary": "8月4日11时50分许，昆明市晋宁区二街镇一家化工企业突发火情，现场涌出大量白色烟雾并向外扩散。险情发生后，应急、消防、公安多部门迅速到场处置，火情伴随化工气体泄漏，当地连夜组织周边居民疏散。当地政府称，4日晚间群众基本疏散完成，火情已得到",
+    "title": "美国铜价逼近历史高点 关税预期与中东缓和提振市场",
+    "summary": "纽约铜期货价格徘徊在历史高位附近，投资者一方面等待美国关税政策决定，另一方面关注霍尔木兹海峡恢复通航的进展。市场风险偏好改善也对铜价形成支撑。今年以来，纽约商品交易所(Comex)铜价累计上涨逾17%，并进一步扩大相对于伦敦金属交易所(LM",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "德国地球科学研究中心（GFZ）：菲律宾棉兰老岛发生6.32级地震。",
-    "summary": "德国地球科学研究中心（GFZ）：菲律宾棉兰老岛发生6.32级地震。",
+    "title": "国泰航空高管表示，该公司将继续运用对冲策略与燃油附加费抵消航空燃油成本上涨的影响。",
+    "summary": "国泰航空高管表示，该公司将继续运用对冲策略与燃油附加费抵消航空燃油成本上涨的影响。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
-    "sector": "地产",
-    "title": "印度NIFTY房地产指数上涨2.6%。",
-    "summary": "印度NIFTY房地产指数上涨2.6%。",
+    "sector": "综合",
+    "title": "诺和诺德首席执行官：减肥药Wegovy口服剂型很快将在德国上市。",
+    "summary": "诺和诺德首席执行官：减肥药Wegovy口服剂型很快将在德国上市。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
+    "title": "国泰航空首席财务官表示，人工智能基础设施热潮正推动航空货运需求居高不下，为收益率提供支撑。",
+    "summary": "国泰航空首席财务官表示，人工智能基础设施热潮正推动航空货运需求居高不下，为收益率提供支撑。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "政策",
+    "title": "首创期货：美伊再传缓和信号，短线黄金震荡走高",
+    "summary": "地缘局势再度缓和，隔夜市场伦敦现货黄金震荡走高，涨0.57%，SHFE黄金收涨0.87%。霍尔木兹海峡重开升温，油价快速回落，另外美国6月JOLTS职位空缺超预期回落。短线黄金或维持底部震荡，关注本周五非农就业数据。宏观数据方面，美国6月J",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "若创科技完成Pre-A+轮融资",
+    "summary": "AI智能硬件与机器人企业若创科技近日完成Pre-A+轮融资，累计融资金额近亿美元。本轮融资获得全球领先出行科技企业、国内头部互联网企业旗下投资基金及大湾区代表性产业基金共同加码。本轮融资资金将主要用于个人物理AI技术研发、全球营销与销售渠道",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Gulf shipping traffic steady amid uncertainty of peace talks - Reuters",
+    "summary": "Gulf shipping traffic steady amid uncertainty of peace talks  Reuters",
+    "source": "Reuters",
+    "time": "3小时前",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWpxYUZIYkdaMkhoNVRrM2ZkZ3NYdWh4aUJEb2pOa29zOFBROGFHdmxwNDZZOHhicHpOOGVlS0FGTC1QdHR4UmRVbmtacWZrc3J4empuUEt5dDNSZTJRb25obllvdEFaQTVQV1B1Q05wRlpwdVpVaEJHZW80MTBxWmViU2d3V0psZHMxMENsV0x3RzBJWXpZV0hlc3MyeWxSQ3dmZllIZzRkaGNvb2ppaQ?oc=5"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Oil extends declines as investors await outcome of US-Iran talks - Reuters",
+    "summary": "Oil extends declines as investors await outcome of US-Iran talks  Reuters",
+    "source": "Reuters",
+    "time": "5小时前",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Gold extends gains on lower oil and softer dollar - Reuters",
+    "summary": "Gold extends gains on lower oil and softer dollar  Reuters",
+    "source": "Reuters",
+    "time": "5小时前",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSmlKVnBzQTlPclFHcWhMcVpJeXB0eVQ1ODYxMTk1bkRLbDVybnI4dXhqQ01HaDR1N1FULU03ZDhZWUlEMkFtV2Z3RmFTWHhpVDFlRi0wRG9ZSkFlWVFTUFhXUFVjN3A5Zm1FSnNUbHlwWHF4OEo0TkxvZVV2OEdJNS1ZdG9OQ3V4ME43NV9QeXpSSnVQUEdIb1Jn?oc=5"
+  },
+  {
+    "sector": "人工智能",
     "title": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes - Reuters",
     "summary": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes  Reuters",
     "source": "Reuters",
-    "time": "5小时前",
+    "time": "7小时前",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5"
   },
   {
@@ -92,31 +116,7 @@
     "title": "Turkey calls on Russia, Ukraine to ensure Black Sea safety after drone attack - Reuters",
     "summary": "Turkey calls on Russia, Ukraine to ensure Black Sea safety after drone attack  Reuters",
     "source": "Reuters",
-    "time": "12小时前",
+    "time": "14小时前",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWxZWjEzUHh2dXNYYUxyS2RjbUhHTXh1RHpVTjZwUUpScFlZbnFUVDkwUlR3bXJMU3otWDY4Q2cyTml6dXV2YVJIZkdiN0lnZUV0T19VN1QwRUY4ZmU5bjNhUHJfU2tWeEw4RVFoTUN4R2lGaW1WSXpzUWxaVmZWSF9kRGhLcE9GU1lxaHp4N0xnNFp0MG9lMkZEeTd4TTEyTTBySlEzYVJFM0RSdjFTRHJZbnFmdFBISndla004RHVTQQ?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Oil prices tumble after Bessent says Strait of Hormuz deal may come this week",
-    "summary": "Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz would allow freedom of navigation.",
-    "source": "CNBC",
-    "time": "12小时前",
-    "link": "https://www.cnbc.com/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain.html"
-  },
-  {
-    "sector": "人工智能",
-    "title": "EXCLUSIVE: Ukraine's Fire Point starts to integrate European tech into missile defence sys",
-    "summary": "EXCLUSIVE: Ukraine's Fire Point starts to integrate European tech into missile defence system  Reuters",
-    "source": "Reuters",
-    "time": "17小时前",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzFrNFI0Ry1iYVEtVTB1SFBPbXF1N244ZjJOaTh4SE52eWVETjFvcHBlRlJ5eXlpdGJsYktuX1JPVW5LbmRneW1jQXdpdC1XSmo4OTVEME42eXk3bEhBYWZUOEdOaHVmSHc0OFk3NUl2Y2lkYXZvdGlFa0Q0ODVMYVdNSHZ1SzU2czZSN3ZuczdBbFVJSTZSTkZPTXItMU1zV0Z0VmxsT2RvaVNxT0tsd0hiWDdKcERacDVsUERSdFpRbXpIU1NGa29aU0xMd08wbl9mc1lUbjA?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Yemen's Houthis say they hit Saudi target at Najran airport - Reuters",
-    "summary": "Yemen's Houthis say they hit Saudi target at Najran airport  Reuters",
-    "source": "Reuters",
-    "time": "17小时前",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNENTczlOZ3BKWHFnNHpqNnNidHgzQzRpeGh3cHdLTElFUFRZNWpQbWpqTzZTckJpS2hpd1huaXhsa05mbkxLdUV0a3dVVkpWS0dLVUY5S21VU2ZzOXRDSWJkN0FRdG9Xdjh1Sl9fNzRtZ19ROExWT1dNSm4zbFhBZWs5VGgzTGFBNUhMdDlZbXZQT3QzUGYwSXdjcmhJVkZQU1plWEdEa2JPdVZ5OUE?oc=5"
   }
 ]
