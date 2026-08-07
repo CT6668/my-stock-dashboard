@@ -1,66 +1,34 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Virginia and Texas Are About to Become Cannabis Battlegrounds. Here's ",
-    "excerpt": "Virginia and Texas could reshape the industry's next growth phase.",
+    "title": "[英伟达] Oklo Reports Friday Morning With Virtually No Revenue to Report. The S",
+    "excerpt": "With virtually no revenue line to judge, four things decide this report.",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=4a416e632bcb12bf8a9aede64bbe9d99fd48b4bacd02e01192c8f20959e4ed26"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【港股午评】恒生指数涨0.15%，恒生科技指数涨0.34%",
-    "excerpt": "港股午间收盘，恒生指数涨0.15%，恒生科技指数涨0.34%。恒指港股通ETF银华（159318）涨0.23%，港股通科技ETF鹏华（159751）涨0.67%。板块方面，IT咨询与其他服务、林业板块涨幅靠前；铅锌、金属包装板块跌幅靠前。个",
-    "author": "港股午评",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,港股午评.html"
+    "link": "https://finnhub.io/api/news?id=1de9b845ca87b50586b1ed8f8e33884d07c9ad0b9bdae2847810bb8bfa40cbac"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] 10 Consumer Discretionary Stocks Whale Activity In Today’s Session",
     "excerpt": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transac",
     "author": "Benzinga",
-    "popularity": "🔥 14小时前",
+    "popularity": "🔥 16小时前",
     "link": "https://finnhub.io/api/news?id=596a10ffe09168aa294cafbb7ca2983f5db547585c7deecdf45d14384d35eba3"
   },
   {
-    "source": "东财股吧",
-    "title": "【金河生物】向特定对象发行股票获证监会同意注册批复",
-    "excerpt": "金河生物公告，公司于近日收到中国证监会出具的《关于同意金河生物科技股份有限公司向特定对象发行股票注册的批复》，同意公司向特定对象发行股票的注册申请，公司应在批复作出十个工作日内完成发行缴款。",
-    "author": "金河生物",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,金河生物.html"
-  },
-  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Ford's first $30,000 shot at increasing U.S. EV demand has a name",
-    "excerpt": "Ford has been losing billions on its electric vehicle ambitions for years, so the company has switched gears. Instead of making high-end EVs that cost",
+    "title": "[特斯拉] SpaceX and Tesla Merger Talks Are Heating Up. Here's Why Investors Sho",
+    "excerpt": "Elon Musk has a lot to gain from a potential megamerger.",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=15e79e1f6e244256b5514528c7052c7b1f2e1f20ccbe2513d71cca13bfc74e3f"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【东方锆业】向特定对象发行股票申请获深交所受理",
-    "excerpt": "东方锆业公告，公司于近日收到深圳证券交易所出具的《关于受理广东东方锆业科技股份有限公司向特定对象发行股票申请文件的通知》，深交所对公司报送的申请文件进行了核对，认为申请文件齐备，决定予以受理。本次发行尚需通过深交所审核及获得中国证监会同意注",
-    "author": "东方锆业",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,东方锆业.html"
+    "link": "https://finnhub.io/api/news?id=9580dfc476605b944309badbd7ef5621f279037e47107f6a7d4e333a5d10ef65"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Lyft Earnings Prediction Market Preview: What Will David Risher Say?",
     "excerpt": "Lyft reports Q2 earnings Thursday as Kalshi traders bet David Risher will discuss Waymo, Nashville, Baidu, New York taxis and robotaxis.",
     "author": "Benzinga",
-    "popularity": "🔥 17小时前",
+    "popularity": "🔥 18小时前",
     "link": "https://finnhub.io/api/news?id=cf31d0ca3e36d6bb6890fb909db17ea1ce4156e511e1308f91fff0b24754effe"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【午间公告】金河生物向特定对象发行股票申请获证监会同意注册批复",
-    "excerpt": "①金河生物：2025年度以简易程序向特定对象发行股票申请获证监会同意注册批复。②东方锆业：向特定对象发行股票申请获深交所受理。",
-    "author": "午间公告",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,午间公告.html"
   }
 ]
