@@ -1,26 +1,58 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Solana Could Boost Its Token Burns by 14X. Would That Make It a Better",
-    "excerpt": "Burning more coins would tamp down supply inflation, but it might not be enough.",
+    "title": "[英伟达] If You'd Invested $10,000 in Tesla a Decade Ago, Here's How Much You'd",
+    "excerpt": "Tesla stock has delivered life-changing returns for its early investors over the last decade.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=df495a5732a22f749098bf07f9ea0f5e3b66f6eb791d7b770e6c8d5b0732c1ef"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=8fbd44fbdccaa3804a6f8518ba033bdc9fe678419cdcdbfef93370ad246ecfbe"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【广博股份】控股股东2700万股股份解除质押",
+    "excerpt": "广博股份公告称，近日，公司控股股东、实际控制人、董事长王利平所持2700万股公司股份完成解除质押手续，占其所持股份的21.95%，占公司总股本的5.05%，质押起始日为2019年5月14日。截至公告披露日，王利平及其一致行动人累计质押股份1",
+    "author": "广博股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,广博股份.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] ByteDance Is Reportedly Training a Massive New AI Model to Rival Anthr",
     "excerpt": "ByteDance is building a 10 trillion-parameter AI model to challenge Anthropic and narrow the AI gap with U.S. rivals.",
     "author": "Benzinga",
-    "popularity": "🔥 2天前",
+    "popularity": "🔥 3天前",
     "link": "https://finnhub.io/api/news?id=a038f1292af81724e7977909667d2f9d8d4d5381e3aad273d67d3cfe20986e03"
   },
   {
+    "source": "东财股吧",
+    "title": "【强力新材】宝鼎瑞诚拟2.40亿元受让5.04%股份",
+    "excerpt": "强力新材公告称，上海宝鼎投资管理有限公司（代表宝鼎瑞诚私募股权投资基金）拟通过协议转让方式，受让钱晓春等5人合计持有的公司2800万股，占总股本的5.0409%，交易金额2.3968亿元。转让价格为8.56元/股，宝鼎瑞诚将分两期支付价款。",
+    "author": "强力新材",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,强力新材.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Explainer-What is Unitree and why are China’s humanoid robot makers ra",
-    "excerpt": "Chinese robot maker Unitree has priced its Shanghai initial public offering at 150.8 yuan per share, with subscriptions to start on ‌Monday, as it see",
+    "title": "[特斯拉] If You'd Invested $10,000 in Tesla a Decade Ago, Here's How Much You'd",
+    "excerpt": "Tesla stock has delivered life-changing returns for its early investors over the last decade.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=d3e2a6c6cfa6e081e469e0ebaf431879b0dfea1c1ee624a0f84ec675c5bcae9f"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=8fbd44fbdccaa3804a6f8518ba033bdc9fe678419cdcdbfef93370ad246ecfbe"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【章源钨业】公司钨保有资源量为7.41万吨",
+    "excerpt": "章源钨业8月10日在互动平台表示，公司所属矿山除钨矿资源外，还伴生具有工业回收价值的锡、铜等金属。根据公司所属矿权最近一次在自然资源部评审备案数据，公司钨保有资源量为7.41万吨，锡保有资源量为1.68万吨，铜保有资源量为0.90万吨。",
+    "author": "章源钨业",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,章源钨业.html"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【*ST长投】涉4712.20万元诉讼，原告不服一审判决提出上诉",
+    "excerpt": "*ST长投公告称，公司作为被上诉人涉及与上海长江联合金属交易中心有限公司的盈余分配纠纷，涉案金额4712.20万元。2026年7月22日一审判决驳回原告全部诉讼请求，近日公司收到法院送达的原告《民事上诉状》，金交中心不服判决向上海市第三中级",
+    "author": "*ST长投",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,*ST长投.html"
   }
 ]
