@@ -1,19 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Super Micro Already Told Us Its Revenue, Its Margins, and Its Orders. ",
-    "excerpt": "The AI server maker preannounced nearly everything three weeks ago -- except the number that frames its next fiscal year.",
+    "title": "[英伟达] Intel's Foundry Grew 31% Last Quarter and Lost $2.1 Billion Doing It.",
+    "excerpt": "The factory arm loses half as much per revenue dollar as it did a year ago -- and almost every one of those dollars is still Intel's own.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=ef517d80c4c25e67109bd500dd34b4edaecc99e74e3a694c774d12fa382ac821"
+    "popularity": "🔥 46分钟前",
+    "link": "https://finnhub.io/api/news?id=51d4fd17a99d69e5aa6bbc33cf4a68a3fd50fd0bf88a3a6b1ba163b3eecc7bbd"
   },
   {
     "source": "东财股吧",
-    "title": "【财通福鑫定开混合】将于8月11日下午开盘起至当日收盘停牌",
-    "excerpt": "财通基金管理有限公司公告，截至2026年8月11日上海证券交易所午间收盘，旗下财通多策略福鑫定期开放灵活配置混合型发起式证券投资基金（场内简称：财通福鑫定开混合，交易代码：501046）二级市场交易价格严重高于基金份额净值，出现极大幅度溢价",
-    "author": "财通福鑫定开混合",
+    "title": "【同力天启】股价异常波动 上半年净利润预降82.39%",
+    "excerpt": "同力天启公告称，公司股票于2026年8月10日、8月11日连续2个交易日内收盘价格涨幅偏离值累计达20%，属异常波动。经自查，公司生产经营正常，无应披露未披露重大信息。公司预计2026年半年度净利润2039.70万元左右，同比减少9544.",
+    "author": "同力天启",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,财通福鑫定开混合.html"
+    "link": "https://guba.eastmoney.com/list,同力天启.html"
   },
   {
     "source": "BABA·雪球",
@@ -24,11 +24,35 @@
     "link": "https://finnhub.io/api/news?id=98725731faf784bae01f148cffd10a14c8982e97b378e9b9dcfb095998ca9a45"
   },
   {
+    "source": "东财股吧",
+    "title": "【浦东金桥】成功发行7亿元中期票据 期限3年票面利率1.68%",
+    "excerpt": "浦东金桥公告称，公司于2026年8月收到交易商协会接受中期票据注册的通知，注册金额15.3亿元，有效期2年。8月7日，公司发行2026年度第二期中期票据，实际发行金额7亿元，期限3年，起息日为8月10日，兑付日为2029年8月10日，票面利",
+    "author": "浦东金桥",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,浦东金桥.html"
+  },
+  {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What Yo",
     "excerpt": "A number of stocks jumped in the afternoon session after the July jobs report showed an unexpected loss of 23,000 jobs, signaling a cooling labor mark",
     "author": "Yahoo",
-    "popularity": "🔥 4小时前",
+    "popularity": "🔥 7小时前",
     "link": "https://finnhub.io/api/news?id=0e36829f262421493eab9a49493f585271bc9274a02ef2eb20de4ba8cb323b07"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【上汽大众高管】很多品牌的车现在还会生锈，防腐防锈并不难，但考虑到成本可能做得不到位",
+    "excerpt": "“很多品牌的车现在还会出现生锈情况，其实从技术上讲，防腐防锈并不难。但一些品牌考虑到成本，可能做得不到位。上汽大众ID.ERA 5S采用了30%的热成型钢，把防腐工作做到位了。”8月11日，上汽大众汽车有限公司销售与市场执行副总经理、上海上",
+    "author": "上汽大众高管",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,上汽大众高管.html"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【港股收盘】恒生指数跌1.098%，恒生科技指数跌1.932%",
+    "excerpt": "比亚迪电子跌3.941%，吉利汽车跌4.261%，蔚来-SW跌4.426%，洛阳钼业跌5.506%，紫金矿业跌5.751%，智谱跌5.910%，老铺黄金跌8.342%。",
+    "author": "港股收盘",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,港股收盘.html"
   }
 ]
