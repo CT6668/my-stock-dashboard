@@ -1,27 +1,35 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Nvidia CEO Jensen Huang Just Introduced a Bold $500 Billion Plan to Po",
-    "excerpt": "During a recent CNBC panel, Huang and some of Wall Street's biggest banks and private credit CEOs announced a potential new way to fund the capital-in",
+    "title": "[英伟达] The Stock Market Just Made a Move That Warren Buffett Has Warned About",
+    "excerpt": "The Buffett indicator, a metric popularized by the Oracle of Omaha, is at a record high.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=44fdf61b38b6decab1442a876b7df103e823eb60dd6c5862b3d289f4064cdd5a"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=1927459bd5654a50de7164c8bfa83465df983b0b76a9b25c62c2ef5435638999"
   },
   {
     "source": "东财股吧",
-    "title": "【中泰证券】从营养补充到功能精准化 乳业结构性增长新引擎",
-    "excerpt": "中泰证券发布研报称，随着乳企技术不断迭代成熟，高蛋白、无乳糖等功能化新品涌现，复合功能产品也愈加丰富，功能性乳品有望持续保持高于大盘的增速。对于能够开拓场景、扩展触达人群、以品质驱动复购的乳企或将受益，建议重点关注伊利股份(600887.S",
-    "author": "中泰证券",
+    "title": "【SK集团董事长】AI智能体的使用量五年内可能增长77倍",
+    "excerpt": "SK海力士董事长崔泰源周四在公司韩国总部接受了媒体专访。崔泰源将当前的AI比作一个四岁的孩子，随着行业逐步成熟，内存需求将大幅增长，他并预测AI智能体的使用量五年内可能增长77倍。",
+    "author": "SK集团董事长",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,中泰证券.html"
+    "link": "https://guba.eastmoney.com/list,SK集团董事长.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] JD.com Breaks A 12-Year Streak: Revenue Falls For First Time Since 201",
     "excerpt": "JD.com posts mixed Q2 2026 results: earnings beat estimates despite revenue dropping 2.9% in its first-ever quarterly decline.",
     "author": "Benzinga",
-    "popularity": "🔥 19小时前",
+    "popularity": "🔥 21小时前",
     "link": "https://finnhub.io/api/news?id=d6f1e18546c73fe343c4cf7b71b90428833bfd2d5501ced8aca61541f38573a2"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【荣威家越07首秀】Momenta最新R7世界模型上车，正式开启盲订",
+    "excerpt": "荣威与火山引擎深度合作的AI原生第一车——家越07正式迎来全球首秀，定位面向中国家庭打造的新能源大五座SUV，即日起正式开启盲订。（新浪科技）",
+    "author": "荣威家越07首秀",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,荣威家越07首秀.html"
   },
   {
     "source": "NIO·WSB",
@@ -36,7 +44,7 @@
     "title": "[特斯拉] Microsoft and Tesla Share a Common Concern, but Here's Why One Is Much",
     "excerpt": "Investors don't care as much about spending with a clear return on investment in sight.",
     "author": "Yahoo",
-    "popularity": "🔥 3小时前",
+    "popularity": "🔥 5小时前",
     "link": "https://finnhub.io/api/news?id=415abf44dc4a47333b87ea6ae2f3a8deb1ebb022422ec4a418617566f95f26f0"
   }
 ]
