@@ -4,23 +4,39 @@
     "title": "[英伟达] Exploring the top movers within the dow jones index during today's ses",
     "excerpt": "Wondering what's happening in today's session for the dow jones index? Stay informed with the top movers within the dow jones index on Monday.",
     "author": "ChartMill",
-    "popularity": "🔥 7小时前",
+    "popularity": "🔥 9小时前",
     "link": "https://finnhub.io/api/news?id=995746628753bb1c107dff0fd621de739c068e1e4feeb404b2f0ce3d0523b435"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【北京上市公司协会】将常态化推进董秘队伍专业化、规范化建设",
+    "excerpt": "北京上市公司协会8月25日消息，为配合北京证监局贯彻落实上市公司治理专项行动相关工作部署，8月19日，在北京证监局指导下，北京上市公司协会举办董事会秘书工作委员会扩大会议暨董事会秘书专题座谈会。本次座谈会旨在摸清董秘履职现状，以交流研讨、互",
+    "author": "北京上市公司协会",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,北京上市公司协会.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Michael Burry May Be Right: The AI Boom May Have Changed Alibaba For T",
     "excerpt": "Alibaba's AI spend is diluting shareholders and weakening cash flow. Click here to read why I rate BABA stock as a Sell.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 11小时前",
+    "popularity": "🔥 13小时前",
     "link": "https://finnhub.io/api/news?id=1e9970eb1ee40d31b2d3cfd3275a5ed73b0aa334cd24308bab874a62baf8805c"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【雅迪控股】上半年公司拥有人应占利润同比减少约27.2%",
+    "excerpt": "雅迪控股8月25日公告，上半年收入同比减少约5.0%至人民币182.36亿元，公司拥有人应占利润同比减少约27.2%至人民币12亿元。",
+    "author": "雅迪控股",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,雅迪控股.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Nio Stock Hits 52-Week Low: What's Happening?",
     "excerpt": "Nio Inc. (NYSE: NIO) stock hit a new 52-week low Monday, pulled down by peer XPeng Inc. (NYSE: XPEV) second-quarter earnings report.",
     "author": "Benzinga",
-    "popularity": "🔥 12小时前",
+    "popularity": "🔥 14小时前",
     "link": "https://finnhub.io/api/news?id=de9eb341af745d689dce48d0e0ec73d1169c483e4a969dcef3952051885d7a82"
   },
   {
@@ -28,7 +44,7 @@
     "title": "[特斯拉] What's going on in today's session: S&P500 most active stocks",
     "excerpt": "Stay informed about the most active S&P500 stocks in today's session as we take a closer look at what's happening on the US markets on Monday. Discove",
     "author": "ChartMill",
-    "popularity": "🔥 8小时前",
+    "popularity": "🔥 10小时前",
     "link": "https://finnhub.io/api/news?id=b4e7862ecff49c01c686f4ff93eb405072c170ffc8e5c83fda06da0f37f4a012"
   },
   {
@@ -36,7 +52,7 @@
     "title": "[百度] Uber Faces Nearly $1 Billion in Fines From Dutch Regulators Over Drive",
     "excerpt": "Uber ordered to pay $966 million fine for automated deactivation of drivers&#39; accounts in the Netherlands, violating GDPR.",
     "author": "Benzinga",
-    "popularity": "🔥 21小时前",
+    "popularity": "🔥 23小时前",
     "link": "https://finnhub.io/api/news?id=abc3163fb13069344e416a777e2c86a68643bc76153dff40095c8d681afdc486"
   }
 ]
