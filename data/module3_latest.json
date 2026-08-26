@@ -1,67 +1,35 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Exploring the top movers within the dow jones index during today's ses",
-    "excerpt": "Wondering what's happening in today's session for the dow jones index? Stay informed with the top movers within the dow jones index on Monday.",
+    "title": "[英伟达] These dow jones stocks are moving in today's session",
+    "excerpt": "Uncover the latest developments among dow jones stocks in today's session. Stay tuned to the dow jones index's top gainers and losers on Tuesday.",
     "author": "ChartMill",
-    "popularity": "🔥 12小时前",
-    "link": "https://finnhub.io/api/news?id=995746628753bb1c107dff0fd621de739c068e1e4feeb404b2f0ce3d0523b435"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【水发燃气】2026年上半年净利润4033.21万元，同比扭亏为盈",
-    "excerpt": "水发燃气公告，2026年上半年营业收入11.17亿元，同比下降6.08%；归属于上市公司股东的净利润4033.21万元，上年同期亏损6105.7万元，同比扭亏为盈；归属于上市公司股东的扣除非经常性损益的净利润3986.13万元，上年同期亏损",
-    "author": "水发燃气",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,水发燃气.html"
+    "popularity": "🔥 7小时前",
+    "link": "https://finnhub.io/api/news?id=4a58a6f746e24ff8c34ddff188f2b82ff0e1326f391c36ca862d996d0c19ac28"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Michael Burry May Be Right: The AI Boom May Have Changed Alibaba For T",
-    "excerpt": "Alibaba's AI spend is diluting shareholders and weakening cash flow. Click here to read why I rate BABA stock as a Sell.",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 17小时前",
-    "link": "https://finnhub.io/api/news?id=1e9970eb1ee40d31b2d3cfd3275a5ed73b0aa334cd24308bab874a62baf8805c"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【威龙股份】2026年上半年营收1.64亿元 净亏损扩大",
-    "excerpt": "威龙股份公告称，2026年上半年实现营业收入1.64亿元，同比下降12.14%；归属于上市公司股东的净亏损1196.28万元，同比扩大398.09%；扣除非经常性损益的净亏损1211.47万元，同比扩大355.51%。基本每股收益-0.04",
-    "author": "威龙股份",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,威龙股份.html"
+    "title": "[阿里巴巴] 10 Consumer Discretionary Stocks Whale Activity In Today’s Session",
+    "excerpt": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transac",
+    "author": "Benzinga",
+    "popularity": "🔥 13小时前",
+    "link": "https://finnhub.io/api/news?id=799bda8ba7607bb1234fee475ff06760dfb4b433c67857889d5c54ae450a716c"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] Nio Stock Hits 52-Week Low: What's Happening?",
-    "excerpt": "Nio Inc. (NYSE: NIO) stock hit a new 52-week low Monday, pulled down by peer XPeng Inc. (NYSE: XPEV) second-quarter earnings report.",
-    "author": "Benzinga",
-    "popularity": "🔥 17小时前",
-    "link": "https://finnhub.io/api/news?id=de9eb341af745d689dce48d0e0ec73d1169c483e4a969dcef3952051885d7a82"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【明泰铝业】近期上调部分产品加工费 上调区间300—500元每吨",
-    "excerpt": "明泰铝业(601677)8月25日在互动平台表示，近期公司上调部分产品加工费，上调区间300—500元每吨。",
-    "author": "明泰铝业",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,明泰铝业.html"
+    "title": "[蔚来汽车] XPeng: Attractive Catalyst Landscape",
+    "excerpt": "XPeng Inc.'s Q2 net loss tripled as deliveries stayed flat; Q3 guidance was lifted. Click for this XPEV earnings update and see whether it is the stoc",
+    "author": "SeekingAlpha",
+    "popularity": "🔥 8小时前",
+    "link": "https://finnhub.io/api/news?id=d4937d273696dbff0307980dca47b9fa83d47b145d7d8408bd20141b4f83013e"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] What's going on in today's session: S&P500 most active stocks",
-    "excerpt": "Stay informed about the most active S&P500 stocks in today's session as we take a closer look at what's happening on the US markets on Monday. Discove",
+    "title": "[特斯拉] Which S&P500 stocks are the most active on Tuesday?",
+    "excerpt": "Curious about the most active S&P500 stocks in today's session? Get insights into the stocks that are leading the way in terms of trading volume and m",
     "author": "ChartMill",
-    "popularity": "🔥 13小时前",
-    "link": "https://finnhub.io/api/news?id=b4e7862ecff49c01c686f4ff93eb405072c170ffc8e5c83fda06da0f37f4a012"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【华森制药】收到注射用二乙酰氨乙酸乙二胺再注册批件",
-    "excerpt": "华森制药公告称，公司近日收到重庆市药监局核准签发的注射用二乙酰氨乙酸乙二胺（0.2g、0.4g）《药品再注册批准通知书》，同意上述产品再注册，药品批准文号有效期至2032年02月20日。该产品适用于预防和治疗各种原因出血，因长期未生产，恢复",
-    "author": "华森制药",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,华森制药.html"
+    "popularity": "🔥 8小时前",
+    "link": "https://finnhub.io/api/news?id=a9251f9283b5230d33a2e52ed6096324c868b9a20066ede8525d714353dc782a"
   },
   {
     "source": "BIDU·雪球",
