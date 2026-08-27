@@ -1,98 +1,106 @@
 [
   {
-    "sector": "综合",
-    "title": "市场消息：伊藤忠商事拟斥资2500亿日元收购电通综研38.2%股权。",
-    "summary": "市场消息：伊藤忠商事拟斥资2500亿日元收购电通综研38.2%股权。",
+    "sector": "人工智能",
+    "title": "HARK：我们的首款人工智能平台很快就会推向市场。",
+    "summary": "HARK：我们的首款人工智能平台很快就会推向市场。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "韦德布什将英伟达(NVDA.O)目标价从330美元上调至345美元。",
-    "summary": "韦德布什将英伟达(NVDA.O)目标价从330美元上调至345美元。",
+    "title": "堪萨斯城联储8月六个月预期生产指数为35，7月该指数为38。",
+    "summary": "堪萨斯城联储8月六个月预期生产指数为35，7月该指数为38。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "中金普洛斯REIT今年上半年实现可供分配金额1.41亿元",
-    "summary": "8月27日，中金普洛斯REIT发布2026年中期报告。报告期内，该REIT实现收入约1.94亿元，实现可供分配金额约1.41亿元，年化现金流分派率约6.20%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "创新药",
-    "title": "卫生健康部门开展西藏吉隆县泥石流受灾医疗应急工作",
-    "summary": "8月26日上午，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。国家卫生健康委坚决贯彻落实习近平总书记重要指示精神和李强总理批示要求，立即对伤员救治、心理疏导、灾区群众医疗服务保障等工作作出安排，委负责同志已赶",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "东望时代：2026年上半年净利润亏损1372.68万元，同比由盈转亏",
-    "summary": "东望时代公告，2026年上半年营业收入1.77亿元，同比下降51.18%；归属于上市公司股东的净利润亏损1372.68万元，2025年同期为6650.76万元，同比由盈转亏；归属于上市公司股东的扣除非经常性损益的净利润3585.86万元，同",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "浩洋股份：2026年上半年净利润9036.22万元，同比增长16.22%",
-    "summary": "浩洋股份公告，2026年上半年营业收入5.83亿元，同比增长11.76%；归属于上市公司股东的净利润9036.22万元，同比增长16.22%；归属于上市公司股东的扣除非经常性损益的净利润8644.05万元，同比增长18.81%。公司计划不派",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "天海防务：2026年上半年净利润1.83亿元，同比增长45.46%",
-    "summary": "天海防务公告，2026年上半年营业收入22.35亿元，同比增长21.27%；归属于上市公司股东的净利润1.83亿元，同比增长45.46%；扣除非经常性损益的净利润1.8亿元，同比增长44.14%。公司2026年度向特定对象发行A股股票方案已",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "十四届全国人大常委会举行第七十二次委员长会议 听取有关草案和议案审议情况汇报",
-    "summary": "十四届全国人大常委会第七十二次委员长会议27日下午在北京人民大会堂举行。赵乐际委员长主持。会议听取了全国人大宪法和法律委员会主任委员信春鹰作的关于医疗保障法草案修改意见的汇报、关于耕地保护和质量提升法草案修改意见的汇报、关于农业法修订草案修",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "金融",
-    "title": "全球基金在交易日前净买入价值286亿卢比的印度股票。",
-    "summary": "全球基金在交易日前净买入价值286亿卢比的印度股票。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "市场消息：伊藤忠商事将与主要股东电通集团一同将电通综研私有化。",
-    "summary": "市场消息：伊藤忠商事将与主要股东电通集团一同将电通综研私有化。",
+    "title": "堪萨斯城联储8月六个月预期综合指数为20，7月为20。",
+    "summary": "堪萨斯城联储8月六个月预期综合指数为20，7月为20。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "Shipping traffic through Strait of Hormuz rises slightly, data shows - Reuters",
-    "summary": "Shipping traffic through Strait of Hormuz rises slightly, data shows  Reuters",
-    "source": "Reuters",
+    "title": "《时代》周刊发布2026年度TIME100 AI百人榜",
+    "summary": "《时代》周刊表示，人工智能行业发展迅猛，同时也充满争议；既承载宏大期许，也伴随着重重担忧。2026年度TIME100 AI上榜人物，正是这个行业动荡格局的缩影。过去12个月，我们见证诸多行业事件：xAI的埃隆·马斯克等企业高管推动头部AI企",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "127HARK：与NVIDIA的合作包括在智能体AI开发和千兆瓦级计算能力方面的深度技术合作。",
+    "summary": "127HARK：与NVIDIA的合作包括在智能体AI开发和千兆瓦级计算能力方面的深度技术合作。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "美国8月堪萨斯联储制造业综合指数 10，预期 10，前值 9。",
+    "summary": "美国8月堪萨斯联储制造业综合指数 10，预期 10，前值 9。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "HARK宣布与英伟达达成多年合作伙伴关系，将依托吉瓦级算力推进个性化智能体人工智能发展。",
+    "summary": "HARK宣布与英伟达达成多年合作伙伴关系，将依托吉瓦级算力推进个性化智能体人工智能发展。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "英伟达股价涨幅扩大至8.22%，报226.895美元/股，总市值报5.47万亿美元，单日增加4200",
+    "summary": "亿美元。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "美国 FDA：美敦力报告 Bravo CF 设备问题已造成 184 起严重伤害事件。",
+    "summary": "美国 FDA：美敦力报告 Bravo CF 设备问题已造成 184 起严重伤害事件。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "夜盘期货收盘",
+    "summary": "焦煤连续涨1.88%，燃料油连续跌1.76%，纸浆连续跌1.71%，焦炭连续涨1.35%，乙二醇连续跌1.26%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "海外市场",
+    "title": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restricti",
+    "summary": "The policymaker stopped just short of calling for an interest rate hike.",
+    "source": "CNBC",
+    "time": "2小时前",
+    "link": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html"
+  },
+  {
+    "sector": "人工智能",
+    "title": "American Airlines adds batch of new international routes on its XLR planes",
+    "summary": "American is adding seven routes to its 2027 schedule, with the majority heading to smaller European cities from its Phil",
+    "source": "CNBC",
     "time": "3小时前",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbC0zcXlqQ0pPcmt1dVA0OGJwY3NmTTdYaGVLY3RrX2JnVHdxSDVFVjNxRTQwTXM1OGlNTEFtZE52M2VMQzRhOUFfMUxEVFB6bW5OQkc3bzF4bzhibEt0WUdyNERfYUVBTERCX0Q4bVFKX0NPMWN1NkJhZGdqZVVSeWt5MTVSNHNCXzJ5cC1lWm1kQlNuRHZYT3pIdVo2WUxoblVKTE9QN2NSdFZUQkhSM2FCVWpEUmV4VGc?oc=5"
+    "link": "https://www.cnbc.com/2026/08/27/american-airlines-routes-xlr.html"
   },
   {
     "sector": "人工智能",
     "title": "OPEC+ loses oil market sway in Iran war as China gains influence - Reuters",
     "summary": "OPEC+ loses oil market sway in Iran war as China gains influence  Reuters",
     "source": "Reuters",
-    "time": "3小时前",
+    "time": "7小时前",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzQ5cjA0LVhLZTN3aEpkcDBvMXNmV3BnTHVtMFBzZnFfN05PSXFjZFAyUTZ3OEtBTnVCRDhIQXkwbGMwUFZSSTBLek9IbmNqTG16bGdlVlVjOHZ1ZER2c3Z5aXJuaV95ZFFObV9XZlYwNHNqdXcxN2FzeVRkSDF1OURPRThrUHhjOThzTEFyY1NBSG10Zlh4VXRTQWhzMXg3TGJINkRyWGhHLTd1NHc?oc=5"
   },
   {
@@ -100,23 +108,15 @@
     "title": "Pernod warns weak US, China will weigh in years to come - Reuters",
     "summary": "Pernod warns weak US, China will weigh in years to come  Reuters",
     "source": "Reuters",
-    "time": "5小时前",
+    "time": "9小时前",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ25ZQWhhZ0E1SWliYi1GZ3RSQTNwUFZtZkN2Qmw4R2RBUXVfSGhhZ09Oc0ZXMWk0enNhYmxkR0F6WWJYU0NkVDFDUHZmb2NpbkFIZzhhM1dWMkEwRGtmT3UwTG9vVXpaY0d1Vkc0Q1I4VXMzckEtSlIzbVEwbTNWVDlZamRlWUVYdWdCcFVFakxKbEJYbU85c2FNRm9CWG1hcjhmdXpWb0VqOVRFMmNmbnVDSE5vY2xINWhLVWNoTE91bnBDTHJZVnpTQUU?oc=5"
   },
   {
     "sector": "人工智能",
-    "title": "Oil gains as traders weigh prospects of Hormuz reopening - Reuters",
-    "summary": "Oil gains as traders weigh prospects of Hormuz reopening  Reuters",
+    "title": "Shipping traffic through Strait of Hormuz rises slightly, data shows - Reuters",
+    "summary": "Shipping traffic through Strait of Hormuz rises slightly, data shows  Reuters",
     "source": "Reuters",
-    "time": "9小时前",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3BzVVdsbG9iUHJoaGxwVFYzR256VFBDQnlQRlh1YVZfVnZmUE1jeXQzRXFHRDhuSnpyanlNZ1NHR0RHUy1TSm8teHRiVHJ1cTZSMDRJaW1MMFJXQ2ZpTmZrN081Y3V4OUM0Qk9lRXJMY2ZONzVZN0J4eWtZT1d4TTR1Uzg1bjR5NU9TRGFQdmpZb2RPQUpYbWI4NzdyVVhsczZkOWVjTzV1ZTRKbHV3RDMwcUJ5U2xTT1M2VFhrMlVpQQ?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Okta pops 15% after topping estimates as AI threat spikes demand for identity security",
-    "summary": "New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period",
-    "source": "CNBC",
-    "time": "15小时前",
-    "link": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html"
+    "time": "11小时前",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbC0zcXlqQ0pPcmt1dVA0OGJwY3NmTTdYaGVLY3RrX2JnVHdxSDVFVjNxRTQwTXM1OGlNTEFtZE52M2VMQzRhOUFfMUxEVFB6bW5OQkc3bzF4bzhibEt0WUdyNERfYUVBTERCX0Q4bVFKX0NPMWN1NkJhZGdqZVVSeWt5MTVSNHNCXzJ5cC1lWm1kQlNuRHZYT3pIdVo2WUxoblVKTE9QN2NSdFZUQkhSM2FCVWpEUmV4VGc?oc=5"
   }
 ]
