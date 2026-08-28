@@ -1,98 +1,106 @@
 [
   {
-    "sector": "综合",
-    "title": "美国司法部长宣布，从下周一开始，将简化审批流程。",
-    "summary": "美国司法部长宣布，从下周一开始，将简化审批流程。",
+    "sector": "政策",
+    "title": "根据文件记录，特朗普政府就要求其继续为160亿美元纽约哈德逊隧道项目提供拨款的裁决提起上诉。",
+    "summary": "根据文件记录，特朗普政府就要求其继续为160亿美元纽约哈德逊隧道项目提供拨款的裁决提起上诉。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "美国农业部长罗林斯：周一将有关于食品加工的重大公告发布。",
-    "summary": "美国农业部长罗林斯：周一将有关于食品加工的重大公告发布。",
+    "title": "美国5年期国债收益率升至4.48%，为2025年2月以来最高水平。",
+    "summary": "美国5年期国债收益率升至4.48%，为2025年2月以来最高水平。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "黄金",
+    "title": "现货黄金失守4470美元/盎司，日内跌2.88%。",
+    "summary": "现货黄金失守4470美元/盎司，日内跌2.88%。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "融创中国：上半年营收163.5亿元人民币。",
-    "summary": "融创中国：上半年营收163.5亿元人民币。",
+    "title": "纽约期金失守4520美元/盎司，日内跌3.09%。",
+    "summary": "纽约期金失守4520美元/盎司，日内跌3.09%。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "钯金期货日内涨7%，现报1450.89美元/盎司。",
-    "summary": "钯金期货日内涨7%，现报1450.89美元/盎司。",
+    "title": "纽约期银日内跌4%，现报67.43美元/盎司。",
+    "summary": "纽约期银日内跌4%，现报67.43美元/盎司。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "根据台风“沙德尔”路径变化 长三角部分途经列车明起逐步恢复开行",
-    "summary": "记者从中国铁路上海局集团有限公司获悉，根据台风“沙德尔”路径变化和影响情况，铁路部门动态调整列车开行方案，计划安排杭温高铁、杭台高铁、金温铁路、金台铁路、甬金铁路、杭深铁路等线路途经列车，8月29日起逐步恢复开行，更好满足旅客出行需求。（央",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "金融",
-    "title": "中国人民保险集团：拟派发2026年中期股息每股0.11元",
-    "summary": "中国人民保险集团公告称，公司拟派发截至2026年6月30日止六个月的中期普通股息，每股派发现金股息0.11元人民币，股息派发日为2026年11月6日。股东批准日期、除净日、记录日期等相关事项有待公布。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "创新药",
-    "title": "据港交所文件，维眸生物科技（浙江）股份有限公司-B向港交所提交上市申请书。",
-    "summary": "据港交所文件，维眸生物科技（浙江）股份有限公司-B向港交所提交上市申请书。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "金融",
-    "title": "中国再保险：上半年归母净利润71.87亿元 同比增长15.1%",
-    "summary": "中国再保险8月28日发布2026年半年报显示，上半年实现归母净利润71.87亿元，同比增长15.1%。实现保险服务收入524.49亿元，同比增长2.7%；总保费收入1026.94亿元，同比下降1.1%。总投资收益率2.29%，净投资收益率1",
+    "title": "以色列军队对黎巴嫩南部阿里‑塔希尔高地以及上纳巴蒂耶镇发动新一轮空袭。",
+    "summary": "以色列军队对黎巴嫩南部阿里‑塔希尔高地以及上纳巴蒂耶镇发动新一轮空袭。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "我国对上合组织其他成员国进出口保持稳定增长",
-    "summary": "经贸合作是上海合作组织蓬勃发展的强大引擎。记者28日从海关总署获悉，近年来我国对上合组织其他成员国进出口保持稳定增长，2024年和2025年分别进出口3.65万亿元、3.75万亿元，较上年同比分别增长3.8%、2.8%；今年前7个月，进出口",
+    "title": "纽约期金日内跌3%，现报4523.67美元/盎司。",
+    "summary": "纽约期金日内跌3%，现报4523.67美元/盎司。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "广发证券：2026年上半年净利润116.52亿元，同比增长80.10%",
-    "summary": "广发证券公告，2026年上半年营业总收入268.83亿元，同比增长74.59%；归属于上市公司股东的净利润116.52亿元，同比增长80.10%，上年同期64.7亿元；扣除非经常性损益的净利润119.05亿元，同比增长88.63%。公司拟每",
+    "title": "现货白银失守67美元/盎司，日内跌3.31%。",
+    "summary": "现货白银失守67美元/盎司，日内跌3.31%。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "黄金",
+    "title": "现货黄金失守4480美元/盎司，日内跌2.68%。",
+    "summary": "现货黄金失守4480美元/盎司，日内跌2.68%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "纽约期金失守4530美元/盎司，日内跌2.88%。",
+    "summary": "纽约期金失守4530美元/盎司，日内跌2.88%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Big Tech's massive AI spending is putting one of its longtime strengths to the test",
+    "summary": "There's new risk emerging from Big Tech's massive artificial intelligence buildout.",
+    "source": "CNBC",
+    "time": "32分钟前",
+    "link": "https://www.cnbc.com/2026/08/28/big-techs-ai-spending-is-putting-a-longtime-strengths-to-the-test.html"
   },
   {
     "sector": "人工智能",
     "title": "Iran's disfigured supreme leader remains invisible six months into an existential war - Re",
     "summary": "Iran's disfigured supreme leader remains invisible six months into an existential war  Reuters",
     "source": "Reuters",
-    "time": "7小时前",
+    "time": "11小时前",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQW14UEoyWExDbUdTdVpKekV0R2F3VGJnZV9hTnpSTW1FeUNWQ1pxV0c4WmFzX0cxbWhyNFJmekItWkVHSmlHQ1ZBTFRvRFlYbVZMQVdiVUw2RlNlZTlXZVBUMXJydUp3RlM0RVBCR056c0IzYUZlQmM2dVV0bVdkMVdXejFkSjhKZ2FWbzZDNDRVSzg1cEhjU3dSUTgwNWdPUnkxelhmWkpLNkhLb2Fibkp0OUZUa25BNVJzRGQxREFnMWFrcmE5ZDIwSnRKR2c?oc=5"
   },
   {
     "sector": "人工智能",
-    "title": "Iran war mediators focus on reopening Strait of Hormuz - Reuters",
-    "summary": "Iran war mediators focus on reopening Strait of Hormuz  Reuters",
+    "title": "Iran urges other nations not to join new US sanctions, mediators focus on reopening strait",
+    "summary": "Iran urges other nations not to join new US sanctions, mediators focus on reopening strait  Reuters",
     "source": "Reuters",
-    "time": "11小时前",
+    "time": "14小时前",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFhWQ0dIN3p1bUEzcUdpNlN2VFhmaWRhUk5zbkhfWE45U2swM1ViQ0RvRHhxZjJfT2xaUEhnWU9jZ3MzRXl3bXdabG1mM0xpTmdoRzZEQ3dRNDJOVEpTUnJfX3lCV0s4b2RPSzhPbXlZSllrb1l6SjA0NVRVRzNRR0pBYWFwTWdPU0xtOTduNnUyd3hpZjFUUDZUb1NnMkRoanl1Z2V5SjIwYWpubGc?oc=5"
   },
   {
@@ -100,7 +108,7 @@
     "title": "Iran sets conditions for reopening Strait of Hormuz, top security official Rezaei says - R",
     "summary": "Iran sets conditions for reopening Strait of Hormuz, top security official Rezaei says  Reuters",
     "source": "Reuters",
-    "time": "16小时前",
+    "time": "19小时前",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmkxelpGUFVScGp3akpHZlFURmRaaF9haHpzOVVkdnphX3pDd2hhUTIzZk9UeEJqd3RwOUU3cXc4b0hITEpkY1pkbjZWTVpaRzZVWnZyZi1wa3l4UjVfa0NDNlNQNGtFYk5QbU5wc2VTVkdYbENjc093UW84bE9mTE9DNEJkRFIzdC1Hc1JlSS1hZVUzME9KVTBmeDlUVi1fTXlMaF94RW1aU2NNS3JKUGIwMURObWs5cVhtbXVYcTZpUTZwY01GQVVYd1o?oc=5"
   },
   {
@@ -108,15 +116,7 @@
     "title": "Iran's security chief denies report about a potential plot against Trump's son - Reuters",
     "summary": "Iran's security chief denies report about a potential plot against Trump's son  Reuters",
     "source": "Reuters",
-    "time": "17小时前",
+    "time": "20小时前",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMmxfUzFLX1V3NWtDWmZFZ3dsUGIzWV9VZmNZVUo1NjV6dUxQM1VpRTNPS3UtQzg3TWtPaHBuUDJ5STJNSGFnZlMwT2w4UHlpWjMtejRnbUllbWtFeVpXWUJSVkMyeGZjU1hwc1ZSU0xTdHN2eFlMNXd2SEFIWG9EeFlxNkh4TjBOM0J0dUFFV1FrYmp4NVJXZXZjbWM2UGtrRWYyMFlJeEJOb3lBSXdoRm03bmZucjhUN05yejhTRWV6cUpsV1lHVHBDZWJWdw?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Trump to meet refiners, fuel retailers as Iran war boosts gas prices ahead of midterms, so",
-    "summary": "Trump to meet refiners, fuel retailers as Iran war boosts gas prices ahead of midterms, sources say  Reuters",
-    "source": "Reuters",
-    "time": "18小时前",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTVfLVZrNnM2eTJJcmZaVjN5Ym83a094ZUYxR3RqenVKVUxyWGpIaldFZTJpZUVaRFJ4TkpJUkctd0VIc1Nzb05qamt6cnZVU3lqSkw3NUdUYmE3WXpXNTUyTjNnLUFUZERfYXp6SjMzV2hrOV9nN1FDWTI4QUxSWGpIMnhwUURoeWRoOUNsYVRMOGx3d1BwdFF1LVNYejhVSjJpT201YWxKTWNBeEdJNm5nZjEyNE1zMWg4TTN4QXNORzN1akNuVEgyWQ?oc=5"
   }
 ]
