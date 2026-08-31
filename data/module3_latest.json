@@ -1,42 +1,66 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Most active S&P500 stocks in Friday's session",
-    "excerpt": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session. Stay updated with the stocks that are capturing m",
-    "author": "ChartMill",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=13210fb760447de0323c53e269c5825ad9bb4aa1c29a666deefc719645c7df3f"
+    "title": "[英伟达] Tech Rallies In September, I'm Adding Software And Chip Stocks",
+    "excerpt": "Nvidiaâs earnings and bold guidance fuel bullish sentiment; see why NVDA, MRVL and AVGO could rally into midâSeptemberâand how to manage correct",
+    "author": "SeekingAlpha",
+    "popularity": "🔥 8小时前",
+    "link": "https://finnhub.io/api/news?id=489d22b32da9cee09f148951e508dd220168e5c4fe174fda6d01dcbd9b29741a"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【A股收评】上证指数低开高走涨0.86% 影视院线、AI应用板块全线爆发",
+    "excerpt": "截至收盘，上证指数涨0.86%报3986.30点，深证成指涨0.44%报14015.00点，创业板指涨0.42%报3438.68点，北证50涨0.14%报1065.29点。三市成交额21453亿元，较上日放量276亿元。全市场超3100只个",
+    "author": "A股收评",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,A股收评.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Alibaba: Three-Year AI CapEx Payback Period Silence Bears",
-    "excerpt": "Alibaba looks undervalued at 13x forward P/E with 73% upside, Alicloud at +45% growth and improving quick commerce economics. Click to read the bull c",
+    "title": "[阿里巴巴] Wall Street Week Ahead",
+    "excerpt": "Wall Street heads into September: August jobs report, AI chip earnings, and Teslaâs Cybercab launchâplus Fed Beige Book insights.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 5小时前",
-    "link": "https://finnhub.io/api/news?id=81756289c0ce0683628b25cf2dadf9f5cb34d7afdd9d7b5348f0bcb4e47bbb2f"
+    "popularity": "🔥 1天前",
+    "link": "https://finnhub.io/api/news?id=ba315618ffbe316cfaad6942270af6a92eed58515a9f13eba6d622c94ad24900"
   },
   {
-    "source": "NIO·WSB",
-    "title": "[蔚来汽车] Tesla Denies It’s Pulling Back on FSD in China—Elon Musk’s EV Giant Fi",
-    "excerpt": "Tesla denies winding down Full Self-Driving efforts in China, clarifies it&#39;s not shutting down data center in Shanghai.",
-    "author": "Benzinga",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=fdef3407f7f468287ef8a843cc5c07b4fb779fd26544e51928a1902c8e199da5"
+    "source": "东财股吧",
+    "title": "【首创期货】成本提振，苯乙烯期价逼近涨停",
+    "excerpt": "供应方面，上周苯乙烯开工环比下降0.5个百分点。安庆石化40万吨计划9月5日开始停车大修2个月；盛虹45万吨停车检修中；连云港石化60万吨由于换热器故障计划于9月下旬停车检修10天；京博思达睿67万吨苯推迟至9月初重启。苯乙烯港口总库存环比",
+    "author": "首创期货",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,首创期货.html"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Most active S&P500 stocks in Friday's session",
-    "excerpt": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session. Stay updated with the stocks that are capturing m",
-    "author": "ChartMill",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=13210fb760447de0323c53e269c5825ad9bb4aa1c29a666deefc719645c7df3f"
+    "title": "[特斯拉] Wall Street Brunch: Jobs And More AI Litmus Test Earnings",
+    "excerpt": "Augustâs jobs report could cement a September rate hike. Broadcom earnings give another look at the AI spending. John Ternus takes the reins from Ti",
+    "author": "SeekingAlpha",
+    "popularity": "🔥 20小时前",
+    "link": "https://finnhub.io/api/news?id=b65dcfa0f8f8e542ff67693f72381cc5309af36902e5be4ba7bbc2a6c8f91e94"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【ETF收评】影视ETF领涨7.07%，纳指生物科技ETF领跌4.43%",
+    "excerpt": "ETF收盘涨跌不一，影视ETF（516620）领涨7.07%，影视ETF（159855）涨6.33%，能源化工ETF（159981）涨5.09%，纳指生物科技ETF（513290）领跌4.43%，标普生物科技ETF（159502）跌3.91",
+    "author": "ETF收评",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,ETF收评.html"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] Baidu To Become Dual-Primary Listed On Hong Kong Stock Exchange And Na",
-    "excerpt": "Baidu, Inc. (&#34;Baidu&#34; or the &#34;Company&#34;) (Nasdaq: BIDU; HKEX: 9888 (HKD Counter) and 89888 (RMB Counter)), a leading AI company with str",
+    "title": "[百度] Susquehanna Maintains Neutral on Baidu, Lowers Price Target to $105",
+    "excerpt": "Susquehanna  analyst Shyam Patil   maintains Baidu (NASDAQ:BIDU) with a Neutral and lowers the price target from $140 to $105.",
     "author": "Benzinga",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=639f79c401b520d90c0d6e7158a9a3f4b104b2e2389d19d478f7273da695b18e"
+    "popularity": "🔥 2天前",
+    "link": "https://finnhub.io/api/news?id=5f95ce2a62e6fd9f146ae6844393a65b3fb10b6a44126f6b361d798b2a295e1e"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【TrendForce】DDR5 16Gb (2Gx8) 4800/5600现货均价较上日下跌0.03%",
+    "excerpt": "TrendForce数据显示，8月31日内存颗粒DDR5 16Gb (2Gx8) 4800/5600现货均价较上日下跌0.03%，DDR4 16Gb (2Gx8) 3200现货均价较上日上涨0.53%，DDR4 8Gb (1Gx8) 320",
+    "author": "TrendForce",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,TrendForce.html"
   }
 ]
