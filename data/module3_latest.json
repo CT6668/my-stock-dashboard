@@ -1,42 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] A Video Game Trailer Was Netflix's Most-Watched English Film Late Last",
-    "excerpt": "The streaming giant didn't produce it and only had it exclusively for six hours. So, what did it get?",
+    "title": "[英伟达] 3 No-Brainer Tech Stocks to Buy With $5,000 Right Now",
+    "excerpt": "Cipher Digital, Marvell Technology, and Fortinet are riding multiyear tailwinds.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=c328de356d25a97bbaa5b653c92890092acb1c2de5eaadd1a58bb5e0d65bec66"
+    "popularity": "🔥 43分钟前",
+    "link": "https://finnhub.io/api/news?id=23d1526091181d162f0b83fec259ddbfc3e99b1e02efd9b4e0a5ad7b66b4b243"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【普洛药业】拟向子公司提供2.55亿元财务资助",
+    "excerpt": "普洛药业公告称，公司与关联方横店有限公司按出资比例，为下属子公司浙江安特禹泰生物技术有限公司提供财务资助，其中公司出资2.55亿元，横店有限公司出资2.45亿元，资金按需分批提供，资助期限不超过3年，年化利率3%。本次交易构成关联交易，已经",
+    "author": "普洛药业",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,普洛药业.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Anthropic Announces Claude Fable 5.1 And Mythos 5.1",
-    "excerpt": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-    "author": "Benzinga",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=ca308d31833b124c4a9f19c5790e4c67bddbef0e676e26a5982c2b2cbe31d4c6"
+    "title": "[阿里巴巴] AGIX Vs. CHAT: I'm Buying The Loser",
+    "excerpt": "AGIX and CHAT offer broad AI ecosystem exposure but differ in holdings and risk profiles. Read why I lean on AGIX ETF despite the fee and the performa",
+    "author": "SeekingAlpha",
+    "popularity": "🔥 5小时前",
+    "link": "https://finnhub.io/api/news?id=7861a469391d2e4332d86912e29f5d04d1349175d52c37120bddef2dcf2ca53f"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【节能国祯】联合体中标污水处理及中水回用特许经营项目",
+    "excerpt": "节能国祯公告称，公司与麦王环境技术有限公司、山东圣立创建设集团有限公司组成的联合体，中标中捷产业园区石化工业园污水处理及中水回用特许经营项目。该项目采用BOOT模式，特许经营期30年，污水处理规模1万m³/d，中水回用能力0.5万m³/d，",
+    "author": "节能国祯",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,节能国祯.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] JP Morgan Downgrades NIO to Neutral, Lowers Price Target to $4.5",
     "excerpt": "JP Morgan  analyst Nick Lai   downgrades NIO (NYSE:NIO) from Overweight to Neutral and lowers the price target from $7 to $4.5.",
     "author": "Benzinga",
-    "popularity": "🔥 15小时前",
+    "popularity": "🔥 18小时前",
     "link": "https://finnhub.io/api/news?id=4867feccc5b127e536c97404d211313f4bc0ac56f07577a3e122aacd9a36ce49"
   },
   {
+    "source": "东财股吧",
+    "title": "【*ST康佳A】拟主动终止上市 9月4日起停牌",
+    "excerpt": "*ST康佳A公告称，公司拟以股东会决议方式主动撤回A、B股股票在深交所的上市交易，终止上市后申请转入退市板块转让。公司将于2026年9月14日召开临时股东会审议相关议案，经申请，公司A、B股股票自2026年9月4日开市起停牌，直至深交所公告",
+    "author": "*ST康佳A",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,*ST康佳A.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla uses data transparency to get what it wants",
-    "excerpt": "Tesla is putting pressure on European Union regulators by making its safety information public.",
+    "title": "[特斯拉] TSLA Stock Revs Up Slowly As Elon Musk Tells A ‘Storm Of Cybercabs’ Ar",
+    "excerpt": "Cybercabs were spotted across Austin and Miami as Tesla’s Texas robotaxi fleet reached 420 vehicles.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=b3feeb4218667bb37918d7afd8fcbc58e340f7fba34828e68e5c9c5a468565e5"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=2698b45a18385fced06b28dda137f5eec5072014f82f460403c7660a2e8c9d87"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【上交所张斌】将进一步丰富跨境ETF产品体系 持续完善双向互联互通机制",
+    "excerpt": "上交所国际合作部总监张斌表示，未来，上交所将持续深耕跨境产品合作，进一步丰富覆盖包括中东市场在内的跨境ETF产品体系，持续完善双向互联互通机制，为全球投资者搭建更高效、更便捷的跨境资产配置平台。据透露，截至2026年8月底，上交所跨境ETF",
+    "author": "上交所张斌",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,上交所张斌.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Gary Black Warns Tesla Risks Falling Behind in the Self-Driving Race: ",
     "excerpt": "Tesla risks falling behind in the self-driving race as competitors invest heavily in autonomous driving technology.",
     "author": "Benzinga",
-    "popularity": "🔥 23小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=6e591822ce09b7c8100a511f19676d86b07e0ba8ecafac31e918e668b3b1a4b9"
   }
 ]
