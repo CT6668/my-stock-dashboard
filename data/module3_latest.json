@@ -1,43 +1,67 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Opinion: TSMC Is a Better Buy Than Any of the \"Magnificent Seven\" Stoc",
-    "excerpt": "TSMC is a key partner for every member of the \"Magnificent Seven.\"",
-    "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=9d36cc9eb490aa7103e7db5046afc338a6b06400fa583372f80ddb71940e8e44"
+    "title": "[英伟达] Waller Cracks the Door to a September Pause and the Tape Rewards the A",
+    "excerpt": "Wall Street closed sharply higher on Thursday as Fed Governor Christopher Waller opened the door to a September rate pause and long yields eased. Snow",
+    "author": "ChartMill",
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=e1137d7b3201b2cd54809b0556e12e60c6e1a4424bf8275d93f9da26f9cf0b5a"
   },
   {
     "source": "东财股吧",
-    "title": "【明新旭腾】电子皮肤等产品尚处前期研发及与客户联合开发阶段",
-    "excerpt": "明新旭腾(605068)在9月4日召开的2026年半年度业绩说明会上表示，公司电子皮肤、功能皮革等产品目前尚处于前期研发及与客户联合开发阶段。由于行业技术路线尚未形成统一标准，相关技术开发存在较大不确定性，暂未产生实际订单及收入。现有固定资",
-    "author": "明新旭腾",
+    "title": "【严牌股份】2670.24万元募集资金被司法冻结",
+    "excerpt": "严牌股份公告称，公司因与赖永然的建设工程合同纠纷，对方申请财产保全，导致公司2024年向不特定对象发行可转换公司债券的募集资金专项账户被冻结2670.24万元，占该次募集资金净额的5.80%，占公司最近一期经审计归母净资产的2.40%。该案",
+    "author": "严牌股份",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,明新旭腾.html"
+    "link": "https://guba.eastmoney.com/list,严牌股份.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] 'India Stalls Alipay+ Payments Link Over Security, Data Concerns, Sour",
     "excerpt": "https://www.reuters.com/world/china/india-stalls-alipay-payments-link-over-security-data-concerns-sources-say-2026-09-03/?taid=6a996f75ce2a520001af165",
     "author": "Benzinga",
-    "popularity": "🔥 20小时前",
+    "popularity": "🔥 23小时前",
     "link": "https://finnhub.io/api/news?id=788b171f21d04bed32f0f7539f8c8bd9827fa4497bd711a4cc6c4548a457a91e"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【长安汽车】8月销量19.68万辆 新能源销量同比增12.98%",
+    "excerpt": "长安汽车公告称，2026年8月汽车产量17.81万辆，同比下降18.04%；本年累计产量140.67万辆，同比下降13.09%。8月汽车销量19.68万辆，同比下降15.87%；本年累计销量147.72万辆，同比下降17.92%。其中8月新",
+    "author": "长安汽车",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,长安汽车.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] JP Morgan Downgrades NIO Inc. - Depositary Receipt (NIO) to Neutral fr",
     "excerpt": "JP Morgan Downgrades NIO Inc. - Depositary Receipt (NIO) to Neutral from Overweight",
     "author": "Fintel",
-    "popularity": "🔥 15小时前",
+    "popularity": "🔥 17小时前",
     "link": "https://finnhub.io/api/news?id=def87f982a788906a89206553cf262a5f38fc01d06ff1a81980f65918de3bcaf"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【速达股份】设立控股子公司并完成工商注册登记",
+    "excerpt": "速达股份公告称，公司与捷泰网络、宋刚、周林帅共同设立控股子公司郑州速达油气智能装备科技有限公司，该合资公司已完成工商注册登记。合资公司注册资本3000万元，其中公司以现金认缴1530万元，持股51%；捷泰网络认缴930万元，持股31%；宋刚",
+    "author": "速达股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,速达股份.html"
   },
   {
     "source": "TSLA·Reddit",
     "title": "[特斯拉] Dow Jones Futures Await Jobs Report After Bullish Market Move; Tesla C",
     "excerpt": "The stock market jumped above key levels Thursday, buoyed by Snowflake and dovish Fed comments. Tesla Cybercabs are now live in Austin robotaxi app. T",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
+    "popularity": "🔥 5小时前",
     "link": "https://finnhub.io/api/news?id=4d47d9e4de9b2edd086977f6f843750a1d541ce8429472ff501406f87e95f81e"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【安永吴晓颖】CRO行业下半年有望持续改善 AI将加速分化",
+    "excerpt": "安永大中华区咨询服务主管合伙人吴晓颖表示，当前较为积极的信号在于，CRO新签订单与在手订单均出现明显改善。部分临床前CRO企业上半年新签订单同比已实现较高增长；临床CRO方面，新项目数量及新签价格也开始恢复，反映出需求端的实质性回暖。“如果",
+    "author": "安永吴晓颖",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,安永吴晓颖.html"
   },
   {
     "source": "BIDU·雪球",
