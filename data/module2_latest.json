@@ -1,122 +1,82 @@
 [
   {
-    "sector": "人工智能",
-    "title": "华尔街大空头伯里平仓英伟达和Palantir看跌期权",
-    "summary": "华尔街知名大空头——亿万富翁投资者伯里（Michael Burry）减少了其投资组合中的敞口，包括与英伟达和Palantir相关的看跌期权头寸。伯里表示，他平仓了英伟达和Palantir在今年12月到期的看跌期权，原因是希望持有更多现金，以",
+    "sector": "综合",
+    "title": "周大福申请注册至多100亿元人民币熊猫债券。",
+    "summary": "周大福申请注册至多100亿元人民币熊猫债券。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "政策",
+    "title": "法国政府预测 2027 年国内生产总值增长 1%。",
+    "summary": "法国政府预测 2027 年国内生产总值增长 1%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "政策",
+    "title": "浙江：到2030年体育产业总规模达到1万亿元",
+    "summary": "近日，《浙江省“十五五”体育改革与发展规划》正式印发。其中提到，到2030年，体育产业总规模达到1万亿元，更好地服务经济社会发展全局。培育壮大市场主体。积极培育一批体育领域“专精特新”企业、单项冠军企业和体育服务领军企业，培育10家左右具有",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "俄罗斯国防部：俄军在黑海击沉两艘为乌军运送补给的船只。",
-    "summary": "俄罗斯国防部：俄军在黑海击沉两艘为乌军运送补给的船只。",
+    "title": "天通股份：筹划发行H股股票并在港交所主板上市",
+    "summary": "天通股份公告称，公司正在筹划发行境外上市外资股（H股）股票并申请在香港联合交易所有限公司主板挂牌上市，本次H股上市不会导致公司控股股东和实际控制人发生变化。截至公告披露日，公司正与相关中介机构就本次H股上市的相关工作进行商讨，相关细节尚未确",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "印度矿业部长表示，关键矿产是金砖国家的核心议程之一。",
-    "summary": "印度矿业部长表示，关键矿产是金砖国家的核心议程之一。",
+    "title": "印度央行行长马尔霍特拉：不排除运用任何工具管理流动性，使隔夜利率与回购利率保持一致。",
+    "summary": "印度央行行长马尔霍特拉：不排除运用任何工具管理流动性，使隔夜利率与回购利率保持一致。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "科技",
+    "title": "ST金鸿顺：控股股东所持股份全部被冻结/标记 存控制权变更风险",
+    "summary": "ST金鸿顺公告称，公司控股股东海南众德科技有限公司持有公司股份5374.21万股，占公司总股本的29.99%，目前该部分股份已全部处于司法标记/司法冻结/轮候冻结状态。其中累计司法冻结150.11万股，占其持股的2.79%、占公司总股本的0",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "俄罗斯国防部：俄军在黑海击中一艘乌克兰货船。",
-    "summary": "俄罗斯国防部：俄军在黑海击中一艘乌克兰货船。",
+    "title": "法国财政部长：受地缘政治危机影响，今年法国偿债成本预计将达650亿欧元，较原计划增加45亿欧元。",
+    "summary": "法国财政部长：受地缘政治危机影响，今年法国偿债成本预计将达650亿欧元，较原计划增加45亿欧元。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "小米汽车：小米澎程明天开启交付，覆盖全国75个城市。",
-    "summary": "小米汽车：小米澎程明天开启交付，覆盖全国75个城市。",
+    "title": "印度央行行长马尔霍特拉：除VRRR外，还有公开市场操作或外汇互换等充足工具来管理流动性。",
+    "summary": "印度央行行长马尔霍特拉：除VRRR外，还有公开市场操作或外汇互换等充足工具来管理流动性。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "斯托克50股指期货上涨0.24%，德国DAX股指期货上涨0.15%，富时股指期货上涨0.22%。",
-    "summary": "斯托克50股指期货上涨0.24%，德国DAX股指期货上涨0.15%，富时股指期货上涨0.22%。",
+    "title": "法国将 2026 年国内生产总值增长预期从 0.7% 下调至 0.5%。",
+    "summary": "法国将 2026 年国内生产总值增长预期从 0.7% 下调至 0.5%。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "英国7月三个月GDP月率 0.4%，预期0.3%，前值0.4%。英国7月工业产出月率 0.2%，预期",
-    "summary": "-0.2%，前值-0.20%。英国7月季调后商品贸易帐 -209.65亿英镑，预期-223亿英镑，前值由-230.07亿英镑修正为-230.07亿英镑。",
+    "title": "印度央行行长马尔霍特拉：必要时将运用公开市场操作、外汇互换工具。",
+    "summary": "印度央行行长马尔霍特拉：必要时将运用公开市场操作、外汇互换工具。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "住友商事与Sakana AI达成全面合作伙伴关系。",
-    "summary": "住友商事与Sakana AI达成全面合作伙伴关系。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "黄金",
-    "title": "现货黄金突破4350美元/盎司，日内涨0.79%。",
-    "summary": "现货黄金突破4350美元/盎司，日内涨0.79%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "纽约期金突破4390美元/盎司，日内跌0.39%。",
-    "summary": "纽约期金突破4390美元/盎司，日内跌0.39%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "US slaps new sanctions on networks aiding Iran's proxies in Middle East - Reuters",
-    "summary": "US slaps new sanctions on networks aiding Iran's proxies in Middle East  Reuters",
-    "source": "Reuters",
-    "time": "9小时前",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2p0aERlM3VXMFFWMkg4ZUtIejRIWDdUNUtlbnkwLWlyTWFBNGMyUzBUVnczaGdsNGIxcjJNT3BIekZrQXhOVEdwY0ZaQ0RZVmE2SW5RWTdLN1F6M01vbXZyMXF1OE9XbHphN1dnRWxwWmNyV2V2WDg3dGVOTDR3TXd5dDFwcEl6X2pxd05LRmc4d2NkUzFMS3piTFg1eWppdW8xNWNHd0VYZ3EwOFM4a19SMmNkeE9TZlE?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Carney says he spoke recently to Trump about Iran, Ukraine - Reuters",
-    "summary": "Carney says he spoke recently to Trump about Iran, Ukraine  Reuters",
-    "source": "Reuters",
-    "time": "11小时前",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVZHZ3p3WFkzek96eVB5elNZRXdVTWoxN1ZHM0kxMlpDN1hZN3llRFBKcjRrRlY1Y1I2czhYdzBRSDcwUE91cldXdWtsTklIZk5vRlZXMkEzVDgtSy1qdElvV2N1TUgtRGhyQkV4NlRSenhVanVvU3lkWXZPdkt4ODM3cFBpbV9vdWhMMlZTSVczN0FkdmlTdm14cVc?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Israeli whistleblowers detail Gaza civilian toll in Venice film - Reuters",
-    "summary": "Israeli whistleblowers detail Gaza civilian toll in Venice film  Reuters",
-    "source": "Reuters",
-    "time": "11小时前",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3YwMVozSG9aYk5BZDkybFJFMFMxUF9nNGtNdm1mN2w3VVpwc3lYOWFWbnZoTmNFUEVFM3owWHRZSVBJdTRucFh3ckFpZUh5TW1BanFOdE1DT1lSMGFsVzhsRFZkemgtRnJPQWk2WlFJMVVmaV9KS2FrQWVBMHJhSzFzQmZHUEttOHZCSW52SEROVmVGNjFOZHdpcUZCTmd5Szl0UGFLRmE2WGpfS0FFdnNoeDI?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-    "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling, and pitchbook tasks tr",
-    "source": "CNBC",
-    "time": "12小时前",
-    "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html"
-  },
-  {
-    "sector": "海外市场",
-    "title": "ECB hikes rates as Iran war adds to inflation angst - Reuters",
-    "summary": "ECB hikes rates as Iran war adds to inflation angst  Reuters",
-    "source": "Reuters",
-    "time": "14小时前",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY0VWcFhfaVg1bHdEUzlqVTlvNlREOFdweDVteVNCVWFCY29MVFJMRVdWeEJuSDAxWlY3cjU4ZGlxdkNremFBTThYSVQ5cFNBaTliSGMwbmJRR0NkNkwtUUhORFFwZ3gwLXJSZnNOR1ZfVDlEanZ5TzFNZ3FsX1hobnkyODI3cE96RkI2S3htVk5LRWNWbmF1c1FvNA?oc=5"
   }
 ]
