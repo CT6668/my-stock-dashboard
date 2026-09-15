@@ -1,19 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Why Micron, Intel, AMD, and Other Chip Stocks Fell Today",
-    "excerpt": "AI fears are mounting.",
+    "title": "[英伟达] 3 Top Stocks Poised to Capitalize on the AI Infrastructure Boom",
+    "excerpt": "The AI infrastructure boom is just getting started, and that's good news for Cipher Digital, Sterling Infrastructure, and Comfort Systems USA.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=1da4f2030c1574b519935f2a479a9b0993c010764c860f8888851706662c4d84"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=dbd4825010b3d6a6c8678b2f7ed98e19c0f9f509b9ab2db3f7682f9f6f55ca1c"
   },
   {
     "source": "东财股吧",
-    "title": "【主力资金】融资融券板块净流出超88亿",
-    "excerpt": "截至目前，今日主力资金净流出124.53亿；净流入半导体产业、PCB概念、存储概念等板块，其中半导体产业板块净流入64.44亿；净流出融资融券、转融券标的、MSCI中国等板块，其中融资融券板块净流出88.89亿。",
-    "author": "主力资金",
+    "title": "【路维光电】股东询价转让初步定价为57.30元/股",
+    "excerpt": "路维光电公告称，公司股东江苏路维兴投资有限公司开展询价转让，经向机构投资者询价后初步确定转让价格为57.30元/股，为公司2026年9月15日收盘价63.75元/股的89.88%。参与本次报价的机构投资者共28家，涵盖基金管理公司、证券公司",
+    "author": "路维光电",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,主力资金.html"
+    "link": "https://guba.eastmoney.com/list,路维光电.html"
   },
   {
     "source": "BABA·雪球",
@@ -24,27 +24,51 @@
     "link": "https://finnhub.io/api/news?id=ade220762cc9fcf9b8c9c0ff5ea244fb6b67cf9c899466b0968d024e4f4b0e51"
   },
   {
+    "source": "东财股吧",
+    "title": "【冠石科技】2026年上半年营收6.24亿元 净亏损4601.27万元",
+    "excerpt": "冠石科技公告称，2026年1-6月实现营业收入6.24亿元，同比下降9.82%；归属于母公司所有者的净亏损4601.27万元，扣非前后归母净利润同比下降均超30%。业绩下滑主要因宁波冠石半导体光掩膜版项目大额亏损，剔除该业务影响后归母净利润",
+    "author": "冠石科技",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,冠石科技.html"
+  },
+  {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] NIO vs. Tesla: Which EV Stock Has the Better Investment Case?",
-    "excerpt": "Stronger deliveries, sharply higher vehicle margins and a path to positive cash flow make NIO the preferred EV stock over TSLA.",
+    "title": "[蔚来汽车] NIO Stock Rises Overnight: Nio Capital Joins Sequoia China And SMIC-Li",
+    "excerpt": "A William Li-founded Nio Capital fund acquired a 10.87% stake in robot-sensor maker Gongwang.",
     "author": "Yahoo",
-    "popularity": "🔥 16小时前",
-    "link": "https://finnhub.io/api/news?id=fce268acb49bfd95cfe16ab707ae8b282740c50bd76c2978efabb243d6f2a8d9"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=c687d42b2df63c130d0de8be2bc403c2c42a8d9d33f8c32b1de19cfde69f3696"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【国城矿业】子公司签署锂精矿购销合同 预计总货值9亿元",
+    "excerpt": "国城矿业公告称，公司控股子公司国城锂业与参股子公司金鑫矿业于2026年9月15日签署《锂精矿购销合同》，落实此前锂辉石精矿长期供销框架协议。2026年9-12月计划交货60000干吨±20%，预计总货值约9亿元，参考锂精矿单价1.5万元/吨",
+    "author": "国城矿业",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,国城矿业.html"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Analyst calls robotaxi fears completely ridiculous",
-    "excerpt": "Sam Badawi says investors are pricing in a distant threat while overlooking Uber’s delivery growth and its own autonomous-vehicle network.",
+    "title": "[特斯拉] Tesla, SpaceX Stocks Rise Overnight: Elon Musk Fuels Merger Speculatio",
+    "excerpt": "Jefferies sees strategic logic in a deal and estimates Musk could retain 55.3% voting control without a merger premium.",
     "author": "Yahoo",
-    "popularity": "🔥 6小时前",
-    "link": "https://finnhub.io/api/news?id=04df9694c1732d1820c56467bacfa8e014781e7e04083b5e012358b9c133d8e9"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=b45de987449ba7b66ed9151b2baf646fdce89e96f912ecf81230076b2ef62ae0"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【神马股份】完成注销295.41万股回购库存股",
+    "excerpt": "神马股份公告称，公司2024年累计回购股份1278.01万股，占总股本1.224%，总金额9953.99万元。其中982.6万股已用于2024年限制性股票激励计划授予215名激励对象，剩余295.41万股未使用。公司已完成该部分剩余库存股的",
+    "author": "神马股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,神马股份.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Is Baidu Inc. (BIDU) a Buy as Wall Street Analysts Look Optimistic?",
     "excerpt": "According to the average brokerage recommendation (ABR), one should invest in Baidu Inc. (BIDU). It is debatable whether this highly sought-after metr",
     "author": "Yahoo",
-    "popularity": "🔥 16小时前",
+    "popularity": "🔥 19小时前",
     "link": "https://finnhub.io/api/news?id=d9f609f3da15857b0af22f07ef09f02d46edb6a20c80508301921e1273e180a8"
   }
 ]
