@@ -1,42 +1,50 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Nvidia Returned a Record $26 Billion to Shareholders. Here's Why That ",
-    "excerpt": "The chip leader raised its dividend 25-fold after revenue doubled last quarter.",
+    "title": "[英伟达] Why Micron, Intel, AMD, and Other Chip Stocks Fell Today",
+    "excerpt": "AI fears are mounting.",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=d99415ac2e078dc86bad1fdb603578c84901c349413aca049f50b90cea74509a"
+    "link": "https://finnhub.io/api/news?id=1da4f2030c1574b519935f2a479a9b0993c010764c860f8888851706662c4d84"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【主力资金】融资融券板块净流出超88亿",
+    "excerpt": "截至目前，今日主力资金净流出124.53亿；净流入半导体产业、PCB概念、存储概念等板块，其中半导体产业板块净流入64.44亿；净流出融资融券、转融券标的、MSCI中国等板块，其中融资融券板块净流出88.89亿。",
+    "author": "主力资金",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,主力资金.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Alibaba and Amazon Face the Same AI Spending Question: How Quickly Doe",
-    "excerpt": "September’s debate over Chinese and American AI spending puts Alibaba Group Holding Limited (NYSE:BABA) and Amazon.com, Inc. (NASDAQ:AMZN) on opposite",
-    "author": "Yahoo",
-    "popularity": "🔥 23小时前",
-    "link": "https://finnhub.io/api/news?id=18010fa5cfb92e6becb7850d0c0bb16f9ee968553c2d14d527f68c03e11af9e2"
+    "title": "[阿里巴巴] President Trump On Sunday, Said U.S. Is Leading China In AI, Wants To ",
+    "excerpt": "https://x.com/CBSNews/status/2099148341166657560",
+    "author": "Benzinga",
+    "popularity": "🔥 1天前",
+    "link": "https://finnhub.io/api/news?id=ade220762cc9fcf9b8c9c0ff5ea244fb6b67cf9c899466b0968d024e4f4b0e51"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] NIO Inc. - Depositary Receipt Price Target Decreased by 11.32% to $6.6",
-    "excerpt": "NIO Inc. - Depositary Receipt Price Target Decreased by 11.32% to $6.61",
-    "author": "Fintel",
-    "popularity": "🔥 5小时前",
-    "link": "https://finnhub.io/api/news?id=1083167547699e4b6a95407d9e93a0f041fa05d7a86f087f7ec3d1a3896bce2e"
+    "title": "[蔚来汽车] NIO vs. Tesla: Which EV Stock Has the Better Investment Case?",
+    "excerpt": "Stronger deliveries, sharply higher vehicle margins and a path to positive cash flow make NIO the preferred EV stock over TSLA.",
+    "author": "Yahoo",
+    "popularity": "🔥 16小时前",
+    "link": "https://finnhub.io/api/news?id=fce268acb49bfd95cfe16ab707ae8b282740c50bd76c2978efabb243d6f2a8d9"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla Stock Drops as Musk Adds to the Chorus of AI Concern",
-    "excerpt": "Tesla  stock dropped early on Monday after CEO Elon Musk joined those concerned about humanity’s ability to control AI.  “Dario is right,” tweeted Mus",
+    "title": "[特斯拉] Analyst calls robotaxi fears completely ridiculous",
+    "excerpt": "Sam Badawi says investors are pricing in a distant threat while overlooking Uber’s delivery growth and its own autonomous-vehicle network.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=2ee8ba2a2dbb34d1d04762b36becec2cb8dcdc06b15e7eea298fece0e52189cb"
+    "popularity": "🔥 6小时前",
+    "link": "https://finnhub.io/api/news?id=04df9694c1732d1820c56467bacfa8e014781e7e04083b5e012358b9c133d8e9"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] This AI ETF Is Missing the Biggest AI Winners",
-    "excerpt": "The Global X Robotics & Artificial Intelligence ETF (BOTZ) has fallen more than 8% over five years due to heavy industrial automation exposure, concen",
+    "title": "[百度] Is Baidu Inc. (BIDU) a Buy as Wall Street Analysts Look Optimistic?",
+    "excerpt": "According to the average brokerage recommendation (ABR), one should invest in Baidu Inc. (BIDU). It is debatable whether this highly sought-after metr",
     "author": "Yahoo",
-    "popularity": "🔥 2天前",
-    "link": "https://finnhub.io/api/news?id=8ab2152e7d3cbaffcc7d9bb7ebf52532bf54cde8a2a32434a18db15773c38d2f"
+    "popularity": "🔥 16小时前",
+    "link": "https://finnhub.io/api/news?id=d9f609f3da15857b0af22f07ef09f02d46edb6a20c80508301921e1273e180a8"
   }
 ]
