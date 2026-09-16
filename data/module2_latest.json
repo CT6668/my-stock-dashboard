@@ -1,90 +1,98 @@
 [
   {
     "sector": "综合",
-    "title": "松下能源：在日本设立新的全球锂离子电池研发中心，以加速汽车和数据中心应用的开发与生产。",
-    "summary": "松下能源：在日本设立新的全球锂离子电池研发中心，以加速汽车和数据中心应用的开发与生产。",
+    "title": "摩根士丹利对中际旭创的多头持仓比例降至4.32%",
+    "summary": "据香港交易所披露，摩根士丹利对中际旭创股份有限公司 - H股的多头持仓比例于2026年9月11日从5.08%降至4.32%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "金融",
+    "title": "土耳其财政部长：受到美国制裁的土耳其银行规模较小，不存在系统性风险。",
+    "summary": "土耳其财政部长：受到美国制裁的土耳其银行规模较小，不存在系统性风险。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "乌克兰总统泽连斯基：我的信息是，如果俄罗斯人准备进行能源停火，那就意味着不得以任何形式、使用任何类型",
+    "summary": "武器攻击能源设施。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "贝莱德（BlackRock）对李宁的多头持仓比例降至5.82%",
+    "summary": "据香港交易所披露，贝莱德（BlackRock）对李宁有限公司的多头持仓比例于2026年9月11日从6.03%降至5.82%，交易的平均股价为13.3131港元。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "澳弘电子：股票及可转债交易异常波动 无应披露未披露重大事项",
+    "summary": "澳弘电子公告称，公司股票于2026年9月15日、9月16日连续2个交易日收盘价格涨幅偏离值累计超20%，“澳弘转债”于9月14日至16日连续3个交易日收盘价格涨幅偏离值累计达30%，均属于交易异常波动情形。截至9月16日，公司股价自9月10",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "瑞银集团（UBS）对药明康德的多头持仓比例降至4.82%",
+    "summary": "据香港交易所披露，瑞银集团（UBS）对无锡药明康德新药开发股份有限公司 - H股的多头持仓比例于2026年9月10日从5.08%降至4.82%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "新能源汽车",
+    "title": "报道：比亚迪考虑在意大利南部建厂，推进欧洲扩张",
+    "summary": "比亚迪高管考察了意大利南部一处工厂，公司正评估该地块，计划在此新建欧洲生产基地。报道称，比亚迪高管李日走访了阿韦利诺附近弗卢梅里的梅纳里尼客车工厂。媒体介绍，梅纳里尼曾是老牌制造商，与菲亚特、依维柯、依尔比斯客车有合作渊源，2024 年归入",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "贝莱德（BlackRock）对海尔智家的多头持仓比例增至8.06%",
+    "summary": "据香港交易所披露，贝莱德（BlackRock）对海尔智家股份有限公司 - H股的多头持仓比例于2026年9月11日从7.84%增至8.06%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "摩根大通（JPMorgan）对申洲国际的多头持仓比例降至6.95%",
+    "summary": "据香港交易所披露，摩根大通（JPMorgan）对申洲国际集团控股有限公司的多头持仓比例于2026年9月11日从7.1%降至6.95%，交易的平均股价为35.8314港元。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "科技",
+    "title": "贝莱德（BlackRock）对金山软件的多头持仓比例降至4.01%",
+    "summary": "据香港交易所披露，贝莱德（BlackRock）对金山软件有限公司的多头持仓比例于2026年9月11日从5.01%降至4.01%。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "消息人士：字节跳动分拆AI制药部门ANEW LABS后，为其完成2.9亿美元融资。",
-    "summary": "消息人士：字节跳动分拆AI制药部门ANEW LABS后，为其完成2.9亿美元融资。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "伊朗伊斯兰革命卫队16日发表声明说，革命卫队航空航天部队当天凌晨在伊朗格什姆岛上空击落一架美军MQ-",
-    "summary": "9无人机。声明还说，这是革命卫队击落的第52架美军这种型号的无人机。（新华社）",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "40年期日本国债收益率下降4.0个基点至4.170%。",
-    "summary": "40年期日本国债收益率下降4.0个基点至4.170%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "英镑兑美元在英国CPI数据公布后维持涨势，涨0.1%至1.3491。",
-    "summary": "英镑兑美元在英国CPI数据公布后维持涨势，涨0.1%至1.3491。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "欧洲斯托克50指数期货上涨0.32%，德国DAX指数期货上涨0.26%，英国富时100指数期货上涨0",
-    "summary": ".21%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "英国8月零售物价指数月率 0.6%，预期0.7%，前值0.60%。英国8月零售物价指数年率 3.4%",
-    "summary": "，预期3.5%，前值3.20%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "英国8月CPI月率 0.5%，预期0.5%，前值0.30%。英国8月核心CPI月率 0.3%，预期0",
-    "summary": ".3%，前值0.2%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "【机构：预估2030年Micro LED显示应用模块与Micro LED CPO模块总产值可达53.",
-    "summary": "08亿美元】据TrendForce集邦咨询消息，2026年Micro LED产业在消费市场需求低迷与AI资本支出排挤效应下，企业资源转向具明确商业化潜力的应用。显示应用方面，除了尽可能通过模块化与供应链整合降低导入门槛，也朝向高度互动与高附",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "沪深两市成交额超1.5万亿元，较上日此时放量2015亿元。",
-    "summary": "沪深两市成交额超1.5万亿元，较上日此时放量2015亿元。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Boeing, Korean Air finalize order for 103 aircraft - reuters.com",
-    "summary": "Boeing, Korean Air finalize order for 103 aircraft  reuters.com",
+    "title": "Strait of Hormuz ship crossings remain in single digits, data shows - Reuters",
+    "summary": "Strait of Hormuz ship crossings remain in single digits, data shows  Reuters",
     "source": "Reuters",
-    "time": "3小时前",
+    "time": "5小时前",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelJ4cHN6djhZQmdNUTcyTmwyNjRycVF0NVZrSkwtRFJwUUVLMVRidVJzODlKME1ITFJiQ1RWNzVxWThEWWlJY1A4LVNUWkVucU9oMlp5ZDZCVUlVeDRGYnQ2blhNb2dKSUdMUjZGVzhPc1dNTnJnaERnS1VpQ3dNcHB1d2wyOHgxaEh1clRwenliU00zWWgzVS1MVnRCTTJMT3Q3d1VFTFF2a2JjYkVhTUdKdDA?oc=5"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Boeing, Korean Air finalize order for 103 aircraft - Reuters",
+    "summary": "Boeing, Korean Air finalize order for 103 aircraft  Reuters",
+    "source": "Reuters",
+    "time": "6小时前",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObWZwd2lERklzamhHY3NBNWVVQlY1N1ZrdDc3X1poWmJPZ3dYX19UOG5wTGtLT2NyVlRnNXNQWWZadWlnVDBDZ3d2SjNUSlZxczFYWVlJVDFBWmRhV3NlVENzcUdtei1GX0tZXzZpYnB5Q3hRalYtRFlYR0FxTERES1J3bnhnSm1yRUh3WWtWT3dRS2tTanN5SElfX05xRFVRYzJYU0FtTVVGNmFl?oc=5"
   },
   {
@@ -92,15 +100,15 @@
     "title": "Wells Fargo sees improvement in a key metric — plus, Lilly gets praise beyond GLP-1s",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hou",
     "source": "CNBC",
-    "time": "10小时前",
+    "time": "13小时前",
     "link": "https://www.cnbc.com/2026/09/15/wells-fargo-sees-improvement-in-a-key-metric-plus-lilly-gets-praise-beyond-glp-1s.html"
   },
   {
     "sector": "海外市场",
-    "title": "US Treasury's Bessent will meet with China's He Lifeng this weekend - reuters.com",
-    "summary": "US Treasury's Bessent will meet with China's He Lifeng this weekend  reuters.com",
+    "title": "US Treasury's Bessent will meet with China's He Lifeng this weekend - Reuters",
+    "summary": "US Treasury's Bessent will meet with China's He Lifeng this weekend  Reuters",
     "source": "Reuters",
-    "time": "13小时前",
+    "time": "16小时前",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2MzcWFBOFZsSHhmdHo4dVJnckkxSHJTUGh1QXMyUlNZVTJhbWhVQWlsRXZpYUJQLVhNT1BhU1VUOGNKWno3ZERFMHV3QW5PVUppWGcxRmNXYnlpWnlkOUFYZjJWTXVjVHJRMUpZb2JtUWFTQ29tMFlZa3R0ZWhPRHZTS2l5SENMMXNZVXdsc3ZVMjVscXpGZFJwaGdIU0ZqUmNzdTExcENiQWhZQ29mVlhqSktwZnAtamJDUw?oc=5"
   },
   {
@@ -108,15 +116,7 @@
     "title": "Cramer says these 2 stocks are still buys, warns against playing Fed rate 'parlor game'",
     "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
     "source": "CNBC",
-    "time": "13小时前",
+    "time": "16小时前",
     "link": "https://www.cnbc.com/2026/09/15/cramer-says-these-2-stocks-are-still-buys-warns-against-playing-fed-rate-parlor-game.html"
-  },
-  {
-    "sector": "海外市场",
-    "title": "Bessent defends Trump economic policies, reveals plans to meet Chinese official - reuters.",
-    "summary": "Bessent defends Trump economic policies, reveals plans to meet Chinese official  reuters.com",
-    "source": "Reuters",
-    "time": "15小时前",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTlaeHpnSkMzSU5ieGJqNEpUTFdaYU8yTzc2OExDcElaWFVFclZyNkVNcThWaFRiM29ZNGhaY3dpWS1RbVh0NUhZczdVLUhLVFNjN3RCRFhZMlVmeU5ibVhCXy14VnItdkpzVHNJZXlxWmhxbzRLX3BjOTFzcE9yRVFteHcwS0Jaa19QaTVPdnh5WDFLcXdvTXBrNldnNVJDd0RvN1NRYllyRWM?oc=5"
   }
 ]
