@@ -1,90 +1,106 @@
 [
   {
-    "sector": "综合",
-    "title": "集运指数欧线期货连续主力合约日内涨5%，现报2238.00点。",
-    "summary": "集运指数欧线期货连续主力合约日内涨5%，现报2238.00点。",
+    "sector": "创新药",
+    "title": "美国政府将宣布，所有50个州的医疗补助计划中，特定药品都将适用最惠国待遇定价。",
+    "summary": "美国政府将宣布，所有50个州的医疗补助计划中，特定药品都将适用最惠国待遇定价。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "科技",
+    "title": "楚环科技：部分募集资金投资项目延期",
+    "summary": "楚环科技公告称，公司审议通过部分募投项目延期议案，将废气治理设备系列产品生产线项目达到预定可使用状态时间由2026年9月20日延期至2027年9月20日，将技术研发中心及信息协同平台建设项目达到预定可使用状态时间由2026年10月12日延期",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "国际移民组织：经海路抵欧移民和难民显著减少",
-    "summary": "国际移民组织17日发布消息说，今年以来，通过海路抵达欧洲的移民和难民显著减少，但在途中死亡或失踪的人数却在增加。 该机构最新数据显示，截至9月15日，2026年有近6万名移民和难民经海路抵达欧洲，比去年同期下降39%。至少有2292人在途中",
+    "title": "泛亚微透：张云等三方一致行动协议将解除，张云持股25.5503%",
+    "summary": "泛亚微透公告，公司控股股东、实际控制人张云与邹东伟、李建革的一致行动协议期限届满，三方已于2026年9月16日签署解除协议，约定自2026年10月16日起生效；解除后张云持股25.5503%，公司控股股东、实际控制人不变。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "海螺水泥：9月18日回购42万股H股股份",
+    "summary": "海螺水泥公告称，公司于2026年9月18日通过联交所回购42万股H股股份，回购价格区间为每股15.96港元至16.2港元，支付总金额674.49万港元，所购股份拟持作库存股份。本次回购占事件前已发行股份（不含库存股）的0.0327%。公司回",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "前钉钉CEO无招履新阿里持股上市公司，年薪10万元",
+    "summary": "钉钉创始人、前CEO陈航（花名无招）履新阿里巴巴持股的上市公司百望股份（06657.HK)，担任非执行董事，年薪10万元。百望股份公告称，公司近期举行了临时股东大会，以100%赞成票审议及批准建议委任陈航为公司非执行董事，自2026年9月1",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "金融",
+    "title": "新华保险：聘任李文峰为公司副总裁",
+    "summary": "新华保险公告称，公司第九届董事会第十二次会议审议通过议案，同意聘任李文峰为公司副总裁，其任职资格尚需监管机构核准。会议同时审议通过2026年新华云建设工作方案。本次会议应到董事10人，现场出席董事10人，相关议案表决均为全票同意。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "光大证券：刘秋明辞任公司董事、总裁等职务",
+    "summary": "光大证券公告称，刘秋明辞任公司董事、总裁、法定代表人等职务，辞任自辞任报告送达公司董事会之日起生效，其将按要求做好工作交接。刘秋明与公司董事会无意见分歧，无其他辞任相关需知会股东及债权人的事宜。公司将按规定履行新任董事选举及新任总裁、法定代",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "未来电器：聘任陈彦宁为公司董事会秘书",
+    "summary": "未来电器公告称，公司董事会近日收到副总经理、董事会秘书金增林的辞职报告，因工作调整，金增林辞去董事会秘书职务，辞职后仍担任公司副总经理。经董事长提名、董事会提名委员会审核通过，公司董事会同意聘任陈彦宁担任董事会秘书，任期自董事会审议通过之日",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "特斯拉被曝启动机器人量产审厂，多家供应链企业回应",
-    "summary": "近日有消息称，特斯拉相关团队已于9月16日落地宁波，并于9月17日开启新一轮针对旗下机器人业务的量产审厂；特斯拉此轮审厂将实质导向机器人Optimus的量产，目前已经向供应链企业下达相关订单。另有消息称，去年9月特斯拉在华曾启动一轮机器人审",
+    "title": "土耳其公司ASELSAN：新设施提升机器人技术、自动化水平、交付能力及制导系统质量。",
+    "summary": "土耳其公司ASELSAN：新设施提升机器人技术、自动化水平、交付能力及制导系统质量。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "中煤能源在太原成立供应链管理公司",
-    "summary": "企查查APP显示，近日，中煤能源供应链管理（太原）有限责任公司成立，经营范围包含供应链管理服务；采购代理服务；金属材料销售；矿山机械销售；化工产品销售（不含许可类化工产品）等。企查查股权穿透显示，该公司由中煤能源间接全资持股。",
+    "title": "赤天化：完成对全资子公司大秦医院2亿元增资工商变更",
+    "summary": "赤天化公告称，公司对全资子公司贵州大秦肿瘤医院有限公司增资2.00亿元事项已完成工商变更登记，大秦医院注册资本由7.50亿元增加至9.50亿元，已于2026年9月18日取得换发的营业执照。本次增资已经公司第九届二十二次董事会审议通过。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
-    "sector": "综合",
-    "title": "美国作出脂肪酸反倾销初裁",
-    "summary": "据中国贸易救济信息网消息，2026年9月16日，美国商务部发布公告，对进口自印度尼西亚和马来西亚的脂肪酸（Fatty Acids）作出反倾销初裁，初步裁定印度尼西亚生产商/出口商P.T. Musim Mas和PT Inti Benua Pe",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "sector": "海外市场",
+    "title": "China's August refined fuel exports exceed pre-Iran war levels, jet fuel exports hit recor",
+    "summary": "China's August refined fuel exports exceed pre-Iran war levels, jet fuel exports hit record high  Reuters",
+    "source": "Reuters",
+    "time": "4小时前",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQnFaY2NnUy01cTdSa0g0N05CaHpYcGF3QjBfSGpLMlhRWllYQWVmT0EtOE81bUVBbVBEMlNBODFDdHdHd3o2SHpFdFhWUWlQRXdEbDgyTFY4TlZjT3hvRi1mMFo4TWZrZTg3UWhiRTNMTTd1QXNReEdsYnlFNlNLYnZqVGgyN3NBTlNzN2pBSWdQQjI1VkdRWlBfVjlBN1RiMzRwN0dKREVnSnUwLWc1NW9rQ2NKWDJxNUxmNzFaeEs2VWc1R3JpN1FB?oc=5"
   },
   {
     "sector": "人工智能",
-    "title": "软银将Arm保证金贷款增至250亿美元，加大人工智能押注",
-    "summary": "软银集团已将其以芯片子公司Arm股份为担保的保证金贷款增加50亿美元，至250亿美元。该贷款本月已与债权人重新协商并签署，用以支持软银扩大人工智能投资。软银创始人孙正义需要数十亿美元资金，用于其不断增长的人工智能投资，其中包括对OpenAI",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "C信诺维涨超57%，触达盘中第二次临时停牌。",
-    "summary": "C信诺维涨超57%，触达盘中第二次临时停牌。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "沈鼓集团盘中涨近300%",
-    "summary": "沈鼓集团股价午后持续拉升，盘中涨近300%，现报82.50元。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "英力士表示，欧盟首个全规模碳储存项目将投入运营。",
-    "summary": "英力士表示，欧盟首个全规模碳储存项目将投入运营。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "沈鼓集团盘中涨超215%",
-    "summary": "A股沈鼓集团盘中涨超215%，现报65.00元。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "title": "Shipping traffic via Strait of Hormuz stays below 10-day average, data shows - Reuters",
+    "summary": "Shipping traffic via Strait of Hormuz stays below 10-day average, data shows  Reuters",
+    "source": "Reuters",
+    "time": "5小时前",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNUxiUzdsYTJRdFoyOG1oY0FHU0daRGxzTzhwQVhiYXg1ZUpEVDM4Rk1td01IZEV2Z0VDVVlTY0hHTElnTnZ1cnNuMWxDWUZCWjNhYmpZVkN1bFAyZ1RtT0xQVko0OExlUm9wc3lFNjZNNnU1eE1DcjlmTkZQY2ZuWkFvUGEwTnNZOVhqdmh1dlRsZk1nd3I3emo1dnRybG51Z09xMTR4a3lPak9WbDFsd25qTVEtSFVVTmpKZkZ0OUlFYXpT?oc=5"
   },
   {
     "sector": "人工智能",
     "title": "Explainer: How Yemen's Houthis went from a small mountain militia to a big regional threat",
     "summary": "Explainer: How Yemen's Houthis went from a small mountain militia to a big regional threat  Reuters",
     "source": "Reuters",
-    "time": "6小时前",
+    "time": "9小时前",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGthY0luQlRSdV83a2g1VktUVlRKMVJCeXVjME5lNEU3MUNocU55OUhIQXhoRThxT0ZiVlUyMkM1ZENVVlowLWNaX0p5bFpjVnpfMDhPTl9EYU01MV94Y19fOE91Ym9oQS1XdENUbGotVjVRcjNsZzFGbnJDQi13Z0tSSEhMYlBiZ2pSallYMkRBb2F0Q24xT0ZpcnRUdzR0OEJLTUo4NEZtazJidEl5N3ItbkhFZmdpWVM5Mw?oc=5"
   },
   {
@@ -92,7 +108,7 @@
     "title": "Ocean container shipping rates could test record highs as Iran war fuel spike drives rise,",
     "summary": "Ocean container shipping rates could test record highs as Iran war fuel spike drives rise, analysts say  Reuters",
     "source": "Reuters",
-    "time": "9小时前",
+    "time": "12小时前",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGltbnJEV1l0NXJDNFMxbFBtMUpYQkJWSGFlU2FRaHpNZ0xzNHhDSVJDbWt2Zy13YUNwZEJySUZUWHFEQi1XczZHWlI2dmZNMHZUTHVrR2tJUWpIanZtUFlXVTJEaXFIZTdGWDdQandreldIUm1URGRFZGxuVXhYX1FRcm8teGdSRmpGR1I4QnJ4SGJ6bF9UaGFGdXRadGZlY3o0TDItMm1ac0M4RTZsY2dkY3BQUUgzbzdycktRbmpjTDJy?oc=5"
   },
   {
@@ -100,23 +116,7 @@
     "title": "Russia, China end mandate for independent monitoring of UN sanctions on Iran - Reuters",
     "summary": "Russia, China end mandate for independent monitoring of UN sanctions on Iran  Reuters",
     "source": "Reuters",
-    "time": "12小时前",
+    "time": "15小时前",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHBsNEJfd0VCaF9BYlJXbDRTbFVTc1hGVE01TmdQaF9oRDdlaGw0YzU3TDRucEI4UjRpR2owemo3NUdFLTBkOVFCWm42Z0d3M0p1eHNvU3JBRkNyUG95VWoyWXRoY21lR0lvYjNXUjVEdUFON2x0dHdlbDF5OTlTOXpnV1kwNzlGQmRjODZGZzVsNXVjMHZvbXNad0dEWFdWTXVfdEVSNVh2dGx4elF1Nm5oaw?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "We're buying more shares of a retailer that's been punished enough for a rare misstep",
-    "summary": "Shares have been in the dumps since earnings in August.",
-    "source": "CNBC",
-    "time": "12小时前",
-    "link": "https://www.cnbc.com/2026/09/17/were-buying-more-shares-of-a-retailer-thats-been-punished-enough-for-a-rare-misstep.html"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Stocks stage a comeback after Fed-induced declines — plus, what's ailing Boeing",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "source": "CNBC",
-    "time": "13小时前",
-    "link": "https://www.cnbc.com/2026/09/17/stocks-stage-a-comeback-after-fed-induced-declines-plus-whats-ailing-boeing.html"
   }
 ]
