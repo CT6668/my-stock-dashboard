@@ -1,50 +1,58 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] AMD joins trillion-dollar chipmaker club as AI demand surges",
-    "excerpt": "AMD has become the latest trillion-dollar company, as the AI investment boom sends its shares soaring and data-centre demand fuels record growth.View ",
+    "title": "[英伟达] Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's t",
+    "excerpt": "The space company sold about 5% of itself so it wouldn't have to borrow $3.6 billion. And the share count still isn't done growing.",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=deec3e8265e020ac397b315e60894f76863921742558db862dd60119604f4ae2"
+    "link": "https://finnhub.io/api/news?id=79b31008476e529a527fee4a068b68bef860ccbee97a6aac67b0034bf58b50dd"
   },
   {
     "source": "东财股吧",
-    "title": "【方正证券】敷尔佳医美管线突破+护肤新品持续迭代打开增长空间",
-    "excerpt": "方正证券研报指出，敷尔佳医美管线突破+护肤新品持续迭代打开增长空间。公司首款注射类Ⅲ类器械“敷尔佳花季动能素”预计10月上市。公司打通“妆—械—注射—修护”业务闭环，正式切入注射医美赛道。其他管线储备：重组Ⅲ型人源化胶原蛋白冻干纤维已获得国",
-    "author": "方正证券",
+    "title": "【商汤大装置林海】Token规模化时代，AIDC评价标准从PUE转向TPW",
+    "excerpt": "在华为AIDC基础设施峰会上，商汤大装置智算中心总经理林海指出，随着AI进入Token规模化生产时代，AIDC的效率评价正在进一步转向AI业务价值产出，由传统的PUE衡量，转向TPW（Token Per Watt）——关注“投入的能源和成本",
+    "author": "商汤大装置林海",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,方正证券.html"
+    "link": "https://guba.eastmoney.com/list,商汤大装置林海.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba vs. MercadoLibre: Which Consumer Stock Is a Better Buy in 2026",
     "excerpt": "Alibaba trades at a steep valuation discount while MercadoLibre sustains 39% revenue growth, a classic value-versus-growth showdown with starkly diffe",
     "author": "Yahoo",
-    "popularity": "🔥 5小时前",
+    "popularity": "🔥 8小时前",
     "link": "https://finnhub.io/api/news?id=e05cb90f72b6a4c4f15cdde6ff2421656df6dee1eab10ff235a1449f8bf0aa53"
   },
   {
     "source": "东财股吧",
-    "title": "【主力资金】转融券标的板块净流出超160亿",
-    "excerpt": "截至目前，今日主力资金净流出175.72亿；净流入算力芯片、数字芯片设计、腾讯概念等板块，其中算力芯片板块净流入63.76亿；净流出转融券标的、融资融券、政府控股等板块，其中转融券标的板块净流出160.74亿。",
-    "author": "主力资金",
+    "title": "【以色列防长】以军不会完全撤出加沙，若有必要将再袭伊朗",
+    "excerpt": "据沙特阿拉比亚电视台报道，以色列国防部长卡茨表示，只要哈马斯仍存在，以色列就不会完全撤出加沙地带。卡茨表示，以色列军队将继续部署在加沙地带、黎巴嫩和叙利亚的安全区。他还表示，如有必要，以色列已准备再次打击伊朗，以推翻伊朗政权。",
+    "author": "以色列防长",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,主力资金.html"
+    "link": "https://guba.eastmoney.com/list,以色列防长.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Li Auto's i9 Launch: Should Investors Buy, Sell, or Hold LI Stock?",
     "excerpt": "Li Auto's flagship Li i9 joins its expanding BEV lineup as product upgrades, fast charging and overseas expansion shape its growth strategy.",
     "author": "Yahoo",
-    "popularity": "🔥 14小时前",
+    "popularity": "🔥 17小时前",
     "link": "https://finnhub.io/api/news?id=40dd2e1de98da8e53a42dd255a9fabfb6712ab0398256dc1dbabaef10188878b"
   },
   {
+    "source": "东财股吧",
+    "title": "【神工股份】扎实稳妥地推进外延式发展",
+    "excerpt": "神工股份在9月22日召开的2026年半年度业绩说明会上表示，纵观国际半导体材料行业的发展历史，优质企业需要在做好内涵式发展的同时，通过外延式发展获得更快的成长加速度，公司亦不例外。公司将在不断夯实主业的大前提下，积极探索国内外行业内的协作机",
+    "author": "神工股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,神工股份.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] SPCX Stock Climbs Overnight: Analysts Tout SpaceX-Tesla ‘Physical AI’ ",
-    "excerpt": "SpaceX provides Tesla with compute, connectivity and capital, while Tesla contributes robots, data, energy and manufacturing expertise.",
+    "title": "[特斯拉] TSLA, SPCX, AAPL Could Be Next To ‘Rip’ After Meta’s Muse Rally, Analy",
+    "excerpt": "Meta surged 11% as investors embraced its Muse AI agent, which surpassed 2.5 million downloads and briefly topped Apple’s U.S. App Store.",
     "author": "Yahoo",
-    "popularity": "🔥 57分钟前",
-    "link": "https://finnhub.io/api/news?id=5ff7294f62edfea0eda7afcfdc76735f8c49709a51cbb6045ab4acb91a73969d"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=58db7c94294a51aae6b99696a5e5030a3345e12f05e00d89eedf98071cadf731"
   }
 ]
