@@ -1,114 +1,122 @@
 [
   {
-    "sector": "人工智能",
-    "title": "市场消息： OpenAI 与 Anthropic 今年已就压力测试事宜展开讨论。",
-    "summary": "市场消息： OpenAI 与 Anthropic 今年已就压力测试事宜展开讨论。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "胡塞武装：沙特方面向以色列提供机场和基地，并允许以色列侦察机飞往也门领空。",
-    "summary": "胡塞武装：沙特方面向以色列提供机场和基地，并允许以色列侦察机飞往也门领空。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "媒体：特朗普曾考虑打击也门胡塞武装，最终暂缓行动",
-    "summary": "两名美国官员透露，特朗普上周末曾考虑下令对也门胡塞武装实施打击，但最终决定暂时按兵不动。特朗普陷入两难境地——一方面想要援助其友邦盟友沙特王储穆罕默德·本·萨勒曼，另一方面又不愿在中东开辟新战线、卷入新冲突。官员表示，上周末特朗普与高级顾问",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
     "sector": "政策",
-    "title": "湖北：鼓励各市（州）大力开展金秋购房季活动，结合实际实施购房补贴",
-    "summary": "湖北省人民政府办公厅印发《湖北省三四季度长短结合促进经济稳中向好若干措施》，其中提出，推动房地产业平稳健康发展。鼓励各市（州）大力开展金秋购房季活动，结合实际实施购房补贴。支持各市（州）优化商业性个人住房贷款的住房套数认定标准，对于2026",
+    "title": "预告：国新办就中秋国庆假期交通运输服务保障有关情况举行新闻发布会",
+    "summary": "据中国网消息，国务院新闻办公室定于2026年9月24日（星期四）下午3时举行新闻发布会，请交通运输部新闻发言人、副部长李扬和国家铁路局、中国民航局、国家邮政局负责人介绍中秋国庆假期交通运输服务保障有关情况，并答记者问。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "创新药",
+    "title": "方正证券：敷尔佳医美管线突破+护肤新品持续迭代打开增长空间",
+    "summary": "方正证券研报指出，敷尔佳医美管线突破+护肤新品持续迭代打开增长空间。公司首款注射类Ⅲ类器械“敷尔佳花季动能素”预计10月上市。公司打通“妆—械—注射—修护”业务闭环，正式切入注射医美赛道。其他管线储备：重组Ⅲ型人源化胶原蛋白冻干纤维已获得国",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "市场消息：利比亚沙拉拉油田日产量已减少约20万桶，目前日产量在10万至10.5万桶之间。",
-    "summary": "市场消息：利比亚沙拉拉油田日产量已减少约20万桶，目前日产量在10万至10.5万桶之间。",
+    "title": "韩正会见柬埔寨国王西哈莫尼和太后莫尼列",
+    "summary": "9月22日，国家副主席韩正在北京会见柬埔寨国王西哈莫尼和太后莫尼列。韩正转达了习近平主席和夫人彭丽媛的亲切问候和良好祝愿，表示中柬铁杆友谊由中国老一辈领导人和西哈努克太皇共同缔造和精心培育，历经风雨、坚如磐石。在习近平主席和西哈莫尼国王的战",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "消息称三星HBM4产能明年或翻倍",
-    "summary": "业界消息指出，三星计划将HBM制程中玻璃载体的外包清洗量由今年每月2万片提升至明年每月5万片，较去年每月1万片增至5倍。玻璃载体是HBM制程中临时安装于DRAM晶圆底部的支撑结构，用于防止晶圆在蚀刻与钻孔过程中发生弯曲或破裂。由于玻璃载体可",
+    "title": "网易有道两款开源模型登顶Hugging Face",
+    "summary": "近日，网易有道子曰Live系列流式语音识别模型R2T2与翻译模型T3PO，分列Hugging Face ASR与翻译Trending榜首。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
-    "sector": "金融",
-    "title": "湖北：加力培育壮大新兴产业和未来产业",
-    "summary": "湖北省人民政府办公厅印发《湖北省三四季度长短结合促进经济稳中向好若干措施》，其中提出，加力培育壮大新兴产业和未来产业。支持和服务保障企业开展产品技术创新、商业模式创新、经营管理创新，对各类制造业创新中心、中试平台等产业创新平台，分别按照平台",
+    "sector": "科技",
+    "title": "正烯金属完成数千万元天使轮融资",
+    "summary": "9月22日，据中科创星消息，正烯金属科技（北京）有限公司完成数千万元天使轮融资，本轮投资方为中科创星。本轮融资资金将重点用于技术验证、产品研发、产能扩充以及市场推广等方面，加速蒙烯铜材的商业化与规模化落地。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "南向资金净买入额达80亿港元。",
+    "summary": "南向资金净买入额达80亿港元。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "白酒",
+    "title": "贵州茅台酱香酒营销有限公司陕西省区原副经理张丽萍接受纪律审查和监察调查",
+    "summary": "遵义市纪委监委网站9月22日通报，据贵州省纪委监委派驻茅台集团纪检监察组、遵义市红花岗区纪委监委消息：贵州茅台酱香酒营销有限公司陕西省区原副经理张丽萍涉嫌严重违纪违法，目前正接受贵州省纪委监委派驻茅台集团纪检监察组纪律审查和遵义市红花岗区监",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "新能源汽车",
+    "title": "汽车整车板块局部异动，江淮汽车涨停",
+    "summary": "汽车整车板块局部异动，江淮汽车涨停，北汽蓝谷、宇通客车、比亚迪跟涨。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "湖北：发放“算力券”，提升补贴比例，将模型、词元等服务模式纳入补贴范围",
-    "summary": "湖北省人民政府办公厅印发《湖北省三四季度长短结合促进经济稳中向好若干措施》，其中提出，加力推进“六张网”建设。建立项目储备库及年度重大项目清单，安排省预算内投资前期工作费支持重大项目推进。支持各地积极探索“厂网一体、供排综合管理”及特许经营",
+    "title": "【花旗：AI持续学习料推动2027年eSSD需求急升，重申三星电子及SK海力士“买入”评级】花旗发表",
+    "summary": "报告指，持续学习与AI推理将推动eSSD(企业级SSD)芯片需求大幅增加，该行预测明年将同比增长52.9%，整体SSD需求料升45%。该行预期QLC需求将显著上升，主要受到近GPU储存采用增加，以及中国AI数据中心需求上升所带动。该行认为强",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "纳斯达克100指数涨幅扩大至1.5%，创盘中新高。",
-    "summary": "纳斯达克100指数涨幅扩大至1.5%，创盘中新高。",
+    "title": "澳大利亚S&P/ASX 200指数收盘上涨0.3%，至8757.80点。",
+    "summary": "澳大利亚S&P/ASX 200指数收盘上涨0.3%，至8757.80点。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "Houthis push for control of Yemen highlands as Trump reported to have called off airstrike",
-    "summary": "Houthis push for control of Yemen highlands as Trump reported to have called off airstrikes  Reuters",
+    "title": "Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline ",
+    "summary": "Oil rose Tuesday, amid concerns of growing Iran-U.S. tensions. after U.S. Treasury Secretary Scott Bessent told CNBC tha",
+    "source": "CNBC",
+    "time": "1小时前",
+    "link": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html"
+  },
+  {
+    "sector": "人工智能",
+    "title": "PODCAST: Paramount deal, Germany elections and AI at the UN (Updated) - Reuters",
+    "summary": "PODCAST: Paramount deal, Germany elections and AI at the UN (Updated)  Reuters",
     "source": "Reuters",
-    "time": "2小时前",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbHBmWjNkMFR2Skw0MWVFaENxamFwbXN0RGxRei1RenlFVk11R1loSlZtdm16SW5ITGFMalY1bkNBOUVONnVVdENtbDZSdzByT0l0NkJiZUlSSzBvRHBBNWxKd01ja09Eb1Nla205aW5oQkxGVGpiUjZQUTJVYy1EWGx6R2JPN2pGWXVUU29CQ1ZyQmpSMWlzQ1VYUzhidC1SZ3VSMFhyVndUYUZYTXItOGgyTktsQnV1QW1ETzN4NnI2eWhZMXhoZ1h4eEU?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "PODCAST: Iran-US threats, Germany elections and AI at the UN - Reuters",
-    "summary": "PODCAST: Iran-US threats, Germany elections and AI at the UN  Reuters",
-    "source": "Reuters",
-    "time": "3小时前",
+    "time": "9小时前",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYkl4X2FBeTYxUnROWDVRbDFTcTk4MnByZWdwTHZWRWRSYmNpbXBtcXl4ck8xeTd4ZDhQX1k4TjZjU0hHdnE0LVdtai05UXFxTUNMX0J1ajdPRmxUYllsOVJUZldTREJoOTNpM3ZycTZXckxsbHBXY3hHRUJoZWtIWG1jQkRDYm1DYkh0Ug?oc=5"
   },
   {
     "sector": "人工智能",
-    "title": "Global diesel shortage likely to last into 2027 as storage tanks drain - Reuters",
-    "summary": "Global diesel shortage likely to last into 2027 as storage tanks drain  Reuters",
+    "title": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat - Reu",
+    "summary": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat  Reuters",
     "source": "Reuters",
-    "time": "3小时前",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUROTUZDbzRZN3VncG9haUs0bGR6TFhhQ3JZTEYzZzUtVE5BV3c2SGE3dVFzN2JRS0xfYUcxdW9zay1yXzBXakItRDM4SnhYb3FudmdISGlhVGsycDhhY0FxazdVU21HdW9oQXFSckF6YlVETl9wSzJhbEM1LVlFZGM2VEpJbUZlcVY4bGs4aV94Qmh4Z3ZpTFRibVItNHFfWk8tSXhlb3hMRng2VHlmdHBMYnEwVWs?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Wall St futures rise as AI stocks gain, oil prices slide - Reuters",
-    "summary": "Wall St futures rise as AI stocks gain, oil prices slide  Reuters",
-    "source": "Reuters",
-    "time": "4小时前",
+    "time": "10小时前",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5"
   },
   {
-    "sector": "海外市场",
-    "title": "Xi rolls into Trump summit with China's trade engine roaring - Reuters",
-    "summary": "Xi rolls into Trump summit with China's trade engine roaring  Reuters",
+    "sector": "人工智能",
+    "title": "Kind Snacks founder Daniel Lubetzky: The No.1 piece of advice I give my kids about failure",
+    "summary": "Kind Snacks founder and \"Build or Break\" host Daniel Lubetzky reveals the lessons about success and failure that he impa",
+    "source": "CNBC",
+    "time": "15小时前",
+    "link": "https://www.cnbc.com/2026/09/21/kind-snacks-founder-daniel-lubetzky-the-advice-i-give-my-kids-about-failure.html"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Trump, in call with Yemen president, did not pledge military support against Houthis, say ",
+    "summary": "Trump, in call with Yemen president, did not pledge military support against Houthis, say sources  Reuters",
     "source": "Reuters",
-    "time": "11小时前",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTjdmUF9fTEcySTFqT2t2NUZsd1prTmZjTjJVbmZwOVVVQzVCYV9mem5YNGRVUUdYT05uRTlXTWFheEh5azN5blpURFI1YXItOEJBZWZRRDlLQkx3aGJsdkZia0M2WEpaNHRhTTVmOEpUeU5FdWRPYVN1dUV1bVZrbHpzVEhZZzBrRXNXMTYzOTZzQTVETVkxM1pJT3JIZlpucUJoQTVFaE5LX28?oc=5"
+    "time": "16小时前",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWVNTGJMWUoxcU5nWjh1amVGM0MzcFN0allQZ0oxZm96SVEzZzRtUXM3c2ZvM0hYdDlvc19kS1VDQ1kwcmtOTUVBQkJOOFJzekl6d2FVNEdtcWMwNVV1UG5nNzBfSjY5QUxLUlQxWGxwRU12WnJnQ21rZWx3VHhWd3hKV2gzZHdHSHV6Zkw3czZUTlVhUHd2anl6X2YyZ19UckV2Y2ZVcjZTZEJfYlJkZnhDYjZUTXI3RlVuZDBUWUtPSGVBN0ppMU1xQjBzQQ?oc=5"
   }
 ]
