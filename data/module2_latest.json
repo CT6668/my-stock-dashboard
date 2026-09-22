@@ -1,122 +1,114 @@
 [
   {
-    "sector": "政策",
-    "title": "预告：国新办就中秋国庆假期交通运输服务保障有关情况举行新闻发布会",
-    "summary": "据中国网消息，国务院新闻办公室定于2026年9月24日（星期四）下午3时举行新闻发布会，请交通运输部新闻发言人、副部长李扬和国家铁路局、中国民航局、国家邮政局负责人介绍中秋国庆假期交通运输服务保障有关情况，并答记者问。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "创新药",
-    "title": "方正证券：敷尔佳医美管线突破+护肤新品持续迭代打开增长空间",
-    "summary": "方正证券研报指出，敷尔佳医美管线突破+护肤新品持续迭代打开增长空间。公司首款注射类Ⅲ类器械“敷尔佳花季动能素”预计10月上市。公司打通“妆—械—注射—修护”业务闭环，正式切入注射医美赛道。其他管线储备：重组Ⅲ型人源化胶原蛋白冻干纤维已获得国",
+    "sector": "人工智能",
+    "title": "海光信息推出海光1000系列CPU",
+    "summary": "9月22日，海光信息发布海光1000系列CPU，这是该公司推出的首款嵌入式工控芯片。该系列采用兼容既有软件环境的技术路线，产品设计围绕低功耗、安全性和长期供给展开。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "韩正会见柬埔寨国王西哈莫尼和太后莫尼列",
-    "summary": "9月22日，国家副主席韩正在北京会见柬埔寨国王西哈莫尼和太后莫尼列。韩正转达了习近平主席和夫人彭丽媛的亲切问候和良好祝愿，表示中柬铁杆友谊由中国老一辈领导人和西哈努克太皇共同缔造和精心培育，历经风雨、坚如磐石。在习近平主席和西哈莫尼国王的战",
+    "title": "伊朗议长：特朗普无法对伊朗施加影响。",
+    "summary": "伊朗议长：特朗普无法对伊朗施加影响。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "软银重磅垃圾债发行交易据悉已吸引逾200亿美元初步认购需求",
+    "summary": "据知情人士透露，软银集团势将进行的史上规模数一数二的垃圾债发行交易已吸引逾200亿美元的初步认购需求。投资者正争相锁定该交易可能提供的创纪录收益率，软银拟借此为其对OpenAI的投资提供资金。知情人士表示，目前的潜在需求反映的是投资者早期、",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "网易有道两款开源模型登顶Hugging Face",
-    "summary": "近日，网易有道子曰Live系列流式语音识别模型R2T2与翻译模型T3PO，分列Hugging Face ASR与翻译Trending榜首。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "科技",
-    "title": "正烯金属完成数千万元天使轮融资",
-    "summary": "9月22日，据中科创星消息，正烯金属科技（北京）有限公司完成数千万元天使轮融资，本轮投资方为中科创星。本轮融资资金将重点用于技术验证、产品研发、产能扩充以及市场推广等方面，加速蒙烯铜材的商业化与规模化落地。",
+    "title": "俄罗斯表示，创建受监管的加密货币市场是首要优先事项。",
+    "summary": "俄罗斯表示，创建受监管的加密货币市场是首要优先事项。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "南向资金净买入额达80亿港元。",
-    "summary": "南向资金净买入额达80亿港元。",
+    "title": "贝莱德（BlackRock）对哔哩哔哩-W的多头持仓比例增至6.13%",
+    "summary": "据香港交易所披露，贝莱德（BlackRock）对哔哩哔哩股份有限公司 - W的多头持仓比例于2026年9月17日从5.55%增至6.13%。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
-    "sector": "白酒",
-    "title": "贵州茅台酱香酒营销有限公司陕西省区原副经理张丽萍接受纪律审查和监察调查",
-    "summary": "遵义市纪委监委网站9月22日通报，据贵州省纪委监委派驻茅台集团纪检监察组、遵义市红花岗区纪委监委消息：贵州茅台酱香酒营销有限公司陕西省区原副经理张丽萍涉嫌严重违纪违法，目前正接受贵州省纪委监委派驻茅台集团纪检监察组纪律审查和遵义市红花岗区监",
+    "sector": "综合",
+    "title": "千问： 新一代架构已来，Qwen4在训练中，更大尺寸的Qwen4.5、Qwen5正在路上。",
+    "summary": "千问： 新一代架构已来，Qwen4在训练中，更大尺寸的Qwen4.5、Qwen5正在路上。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "商汤大装置林海：Token规模化时代，AIDC评价标准从PUE转向TPW",
+    "summary": "在华为AIDC基础设施峰会上，商汤大装置智算中心总经理林海指出，随着AI进入Token规模化生产时代，AIDC的效率评价正在进一步转向AI业务价值产出，由传统的PUE衡量，转向TPW（Token Per Watt）——关注“投入的能源和成本",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "机构：2026年上半年全球AI眼镜出货量同比增长127%",
+    "summary": "根据Omdia最新数据，2026年上半年全球AI眼镜出货量达到420万台，同比增长127%。AI眼镜仍属于新兴品类，市场从极低基数起步，增长正逐步趋于平稳。与此同时，镜框设计赛道竞争日趋激烈，用户隐私方面受到的监管审视不断加强，行业所处环境",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "新能源汽车",
-    "title": "汽车整车板块局部异动，江淮汽车涨停",
-    "summary": "汽车整车板块局部异动，江淮汽车涨停，北汽蓝谷、宇通客车、比亚迪跟涨。",
+    "title": "特斯拉新款Roadster重新开放预订 售价不明但定金高达5万美元",
+    "summary": "特斯拉将在10月1日发布其新款跑车Roadster，目前官网已重新开放预定，要求潜在买家支付5000美元的定金，然后在支付定金后的10天内通过银行转账支付45000美元的尾款，定金可退还。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "【花旗：AI持续学习料推动2027年eSSD需求急升，重申三星电子及SK海力士“买入”评级】花旗发表",
-    "summary": "报告指，持续学习与AI推理将推动eSSD(企业级SSD)芯片需求大幅增加，该行预测明年将同比增长52.9%，整体SSD需求料升45%。该行预期QLC需求将显著上升，主要受到近GPU储存采用增加，以及中国AI数据中心需求上升所带动。该行认为强",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "澳大利亚S&P/ASX 200指数收盘上涨0.3%，至8757.80点。",
-    "summary": "澳大利亚S&P/ASX 200指数收盘上涨0.3%，至8757.80点。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "title": "Trump set for whirlwind UN meetings with wars in Iran, Ukraine on agenda - Reuters",
+    "summary": "Trump set for whirlwind UN meetings with wars in Iran, Ukraine on agenda  Reuters",
+    "source": "Reuters",
+    "time": "4小时前",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5"
   },
   {
     "sector": "人工智能",
     "title": "Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline ",
     "summary": "Oil rose Tuesday, amid concerns of growing Iran-U.S. tensions. after U.S. Treasury Secretary Scott Bessent told CNBC tha",
     "source": "CNBC",
-    "time": "1小时前",
+    "time": "4小时前",
     "link": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% - Reuters",
+    "summary": "Alibaba deepens AI push with new chip, bigger model; shares jump 5%  Reuters",
+    "source": "Reuters",
+    "time": "6小时前",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlcybzdOMWxNcmJHT1ZvUHFRTkczZzRNbHpkeUM1QjVxak5WMVdfTldrMWRtaTdHd1FvZkUwbGN4NmhwdUFSdmJxdVBVTGZxNFBWMUNqQXU3dlJzM1VXOHZsYmliZmxBRl90eFF6dEFZWl9BQTJTdkdxaDBSMGVrSXBJUkFVQkx1RTFOcktHZDQ4blo4VFh0amtSRmYxU2YxeGdQdUhFa25DeDBjSllsaVBsUVQ3X3VYdnRKMTAxN1BzZFQzUUpGSVI3TXZBZmRuTlhjejFB?oc=5"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Indian shares edge higher on easing oil prices, bond yields; IT caps gains - Reuters",
+    "summary": "Indian shares edge higher on easing oil prices, bond yields; IT caps gains  Reuters",
+    "source": "Reuters",
+    "time": "6小时前",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXlPVWFzejJKbzBBSVA5ZFhMbUdTZ0VVS1RZVXBpMlJRZC1Lak9aNmdldDEwdVZ1RGlPMjlUUFdFSGdocFlTbVpjLTFLcXJsN2VqTFhVZ1d0YmYwLTBUNG9tUHVmWEs2Q1E3em4za29OcHo3MFk2Q0twV3M5WFB4Q2ppeW9LVnd3SzJ2SHhLN1N6MTI4YVU0dDBuS0htU3R5SW9maHVnR2NDUFlManVqYTRidGZiYzVv?oc=5"
   },
   {
     "sector": "人工智能",
     "title": "PODCAST: Paramount deal, Germany elections and AI at the UN (Updated) - Reuters",
     "summary": "PODCAST: Paramount deal, Germany elections and AI at the UN (Updated)  Reuters",
     "source": "Reuters",
-    "time": "9小时前",
+    "time": "12小时前",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYkl4X2FBeTYxUnROWDVRbDFTcTk4MnByZWdwTHZWRWRSYmNpbXBtcXl4ck8xeTd4ZDhQX1k4TjZjU0hHdnE0LVdtai05UXFxTUNMX0J1ajdPRmxUYllsOVJUZldTREJoOTNpM3ZycTZXckxsbHBXY3hHRUJoZWtIWG1jQkRDYm1DYkh0Ug?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat - Reu",
-    "summary": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat  Reuters",
-    "source": "Reuters",
-    "time": "10小时前",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Kind Snacks founder Daniel Lubetzky: The No.1 piece of advice I give my kids about failure",
-    "summary": "Kind Snacks founder and \"Build or Break\" host Daniel Lubetzky reveals the lessons about success and failure that he impa",
-    "source": "CNBC",
-    "time": "15小时前",
-    "link": "https://www.cnbc.com/2026/09/21/kind-snacks-founder-daniel-lubetzky-the-advice-i-give-my-kids-about-failure.html"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Trump, in call with Yemen president, did not pledge military support against Houthis, say ",
-    "summary": "Trump, in call with Yemen president, did not pledge military support against Houthis, say sources  Reuters",
-    "source": "Reuters",
-    "time": "16小时前",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWVNTGJMWUoxcU5nWjh1amVGM0MzcFN0allQZ0oxZm96SVEzZzRtUXM3c2ZvM0hYdDlvc19kS1VDQ1kwcmtOTUVBQkJOOFJzekl6d2FVNEdtcWMwNVV1UG5nNzBfSjY5QUxLUlQxWGxwRU12WnJnQ21rZWx3VHhWd3hKV2gzZHdHSHV6Zkw3czZUTlVhUHd2anl6X2YyZ19UckV2Y2ZVcjZTZEJfYlJkZnhDYjZUTXI3RlVuZDBUWUtPSGVBN0ppMU1xQjBzQQ?oc=5"
   }
 ]
