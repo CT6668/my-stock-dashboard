@@ -1,66 +1,58 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] United States Integrated Circuits Market to Reach US$330 Billion by 20",
-    "excerpt": "AI accelerators are boosting US chip demand, while reshoring, edge AI, EVs and ADAS create opportunities in advanced logic, memory, networking and sec",
+    "title": "[英伟达] Should You Buy Micron Before Sept. 30? 1 Number Could Send the Stock S",
+    "excerpt": "It's not a dollar figure though.",
     "author": "Yahoo",
-    "popularity": "🔥 43分钟前",
-    "link": "https://finnhub.io/api/news?id=1c3bfcda672a7f44b28dfd3f01a3cc496a0f667768e58ec1fa375d9fa35949f2"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=2ea890f4df43fe3268981b4148b85e612d0733e769bf49981e93b28c511c61b0"
   },
   {
     "source": "东财股吧",
-    "title": "【鲁比奥谈AI竞赛】美国必须占据领先地位",
-    "excerpt": "美国国务卿鲁比奥就全球人工智能竞赛表示：“我们绝不能在全球AI竞争中失去领先地位，因为这一趋势已不可逆转。人工智能正以极快速度迭代，每三个月、六个月就会有比前代更先进的新模型问世。技术发展速度之快，导致当你为现有技术建立监管框架时，新模型已",
-    "author": "鲁比奥谈AI竞赛",
+    "title": "【安联首席】加息不该是抗通胀最佳工具，市场“紧逼”恐适得其反",
+    "excerpt": "自美联储上周加息以来，市场一直相对平静，但安联首席经济顾问、PIMCO前首席投资官穆罕默德•埃尔-埃利安（Mohamed El-Erian）警告称，市场可能正在迫使世界各地的央行提高利率。作为背景，美联储上周加息后，金融市场迅速转向更鹰派的",
+    "author": "安联首席",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,鲁比奥谈AI竞赛.html"
+    "link": "https://guba.eastmoney.com/list,安联首席.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Alibaba’s Zhenwu V900 Is China’s Answer to Nvidia’s Absence – and Expo",
-    "excerpt": "Alibaba’s Zhenwu V900, unveiled September 22 at the Apsara Conference in Hangzhou, arrives as a direct answer to a question US policy created: what ha",
+    "title": "[阿里巴巴] Alibaba Group Holding (BABA) Is Up 6.4% After Major In-House AI Chip A",
+    "excerpt": "Alibaba recently unveiled its Zhenwu V900 AI accelerator, described as China’s most powerful AI chip, and committed more than US$53.00 billion over th",
     "author": "Yahoo",
-    "popularity": "🔥 3小时前",
-    "link": "https://finnhub.io/api/news?id=279e4689f4b5fb528299bf656e6d120c0404cf6a6b733b24c6de6d98cad08a46"
+    "popularity": "🔥 6小时前",
+    "link": "https://finnhub.io/api/news?id=c48009cd7608e506b8b56b51d19f611773aba0e8f4d7f8b0316b665b358ee4c3"
   },
   {
     "source": "东财股吧",
-    "title": "【楚环科技】股东浙楚投资拟减持不超0.96%股份",
-    "excerpt": "楚环科技公告称，持有公司股份99.96万股（占公司总股本比例0.96%）的股东杭州浙楚股权投资合伙企业（有限合伙），计划于2026年9月29日至2026年12月28日以集中竞价交易方式减持公司股份不超过99.96万股（占公司总股本比例0.9",
-    "author": "楚环科技",
+    "title": "【地产股持续大涨，受访业内人士】全国性政策的可能性不大",
+    "excerpt": "A股房地产板块持续沸腾，多只个股涨停。市场兴奋的背后，除了地产股整体估值偏低之外，关于全国性贴息政策的传闻也成为重要助力。有市场消息称，将有全国性贴息政策落地，其中财政部贴息20-50BP、地方贴息20-50BP，整体贴息力度最高可达100",
+    "author": "地产股持续大涨，受访业内人士",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,楚环科技.html"
+    "link": "https://guba.eastmoney.com/list,地产股持续大涨，受访业内人士.html"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] Li Auto's i9 Launch: Should Investors Buy, Sell, or Hold LI Stock?",
-    "excerpt": "Li Auto's flagship Li i9 joins its expanding BEV lineup as product upgrades, fast charging and overseas expansion shape its growth strategy.",
+    "title": "[蔚来汽车] As Trump and Xi meet, TD Cowen says the auto stock sell-off on Chinese",
+    "excerpt": "Wall Street thinks the odds of Chinese automakers breaking into the US market is low, but the US auto industry is taking no chances.",
     "author": "Yahoo",
-    "popularity": "🔥 20小时前",
-    "link": "https://finnhub.io/api/news?id=40dd2e1de98da8e53a42dd255a9fabfb6712ab0398256dc1dbabaef10188878b"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【永安药业】洪仁贵等5名董监高拟减持不超过0.1537%股份",
-    "excerpt": "永安药业公告，洪仁贵、董世豪、方锡权、王志华、熊盛捷拟通过集中竞价分别减持33700股、27.15万股、52800股、66200股、28700股，合计45.29万股，占公司总股本0.1537%。减持计划将在公告披露之日起十五个交易日后的三个",
-    "author": "永安药业",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,永安药业.html"
+    "popularity": "🔥 13小时前",
+    "link": "https://finnhub.io/api/news?id=972a812fa339ba1ffb993c423421b640afcdaeaab39ddc0f8485682d0a9cc79b"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] This Week In Energy Transition - Wind Energy Boom Challenges and Oppor",
-    "excerpt": "The global wind energy market is on track for significant expansion, aiming to reach around USD 287.9 billion by 2035, driven by increased demand for ",
+    "title": "[特斯拉] Austin to San Antonio in Under 30 Minutes? Elon Musk Says Boring Compa",
+    "excerpt": "Elon Musk says The Boring Company is working on a high-speed tunnel between Austin and San Antonio that could cut travel times to less than 30 minutes",
     "author": "Yahoo",
-    "popularity": "🔥 55分钟前",
-    "link": "https://finnhub.io/api/news?id=8a1a04c354071b10970cb8692acc4d843811036a97f6ce15384d733697af84a6"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=082f8982b036aa38f376e05dc8ce4378a56fb7ca1a72667810c160b787852f7b"
   },
   {
-    "source": "东财股吧",
-    "title": "【大亚圣象】公司近期经营情况正常",
-    "excerpt": "大亚圣象公告，股票连续两个交易日（2026年9月21日、2026年9月22日）收盘价格涨幅偏离值累计超过20％，构成异常波动。经核查，公司近期经营情况正常，内外部经营环境未发生重大变化，未发现未公开重大信息；控股股东及实际控制人不存在应披露",
-    "author": "大亚圣象",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,大亚圣象.html"
+    "source": "BIDU·雪球",
+    "title": "[百度] Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in Ch",
+    "excerpt": "Alibaba just unveiled a chip it claims reshapes the AI compute landscape inside China, and the stock is reacting sharply, but one key rival is barely ",
+    "author": "Yahoo",
+    "popularity": "🔥 16小时前",
+    "link": "https://finnhub.io/api/news?id=175be9d9a440fae7fff410b5b2c4f61d97b4adf30e13b816b8868994b75e3fd5"
   }
 ]
