@@ -2,30 +2,30 @@
   {
     "symbol": "SH601127",
     "name": "赛力斯",
-    "price": 46.84,
-    "change_pct": 3.88,
+    "price": 46.81,
+    "change_pct": 3.81,
     "industry": "问界",
-    "reason": "站上20日线(43.74)；RSI=59强势区；换手率1.6%温和放量",
+    "reason": "站上20日线(43.74)；RSI=58强势区；换手率1.7%温和放量",
     "link": "https://xueqiu.com/S/SH601127",
     "category": "short_term",
     "roe": 12.8,
-    "rsi": 59,
-    "turnover": 1.64,
-    "pct_5d": 3.88
+    "rsi": 58,
+    "turnover": 1.66,
+    "pct_5d": 3.81
   },
   {
     "symbol": "SH688561",
     "name": "奇安信",
-    "price": 29.83,
-    "change_pct": 0.2,
+    "price": 29.86,
+    "change_pct": 0.3,
     "industry": "网络安全",
-    "reason": "站上20日线(28.88)；RSI=50强势区；换手率3.2%黄金区间",
+    "reason": "站上20日线(28.88)；RSI=51强势区；换手率3.2%黄金区间",
     "link": "https://xueqiu.com/S/SH688561",
     "category": "short_term",
     "roe": 12.8,
-    "rsi": 50,
-    "turnover": 3.19,
-    "pct_5d": 0.2
+    "rsi": 51,
+    "turnover": 3.21,
+    "pct_5d": 0.3
   },
   {
     "symbol": "SZ002916",
@@ -38,7 +38,7 @@
     "category": "short_term",
     "roe": 14.2,
     "rsi": 53,
-    "turnover": 0.89,
+    "turnover": 0.9,
     "pct_5d": 1.25
   },
   {
@@ -52,98 +52,98 @@
     "category": "short_term",
     "roe": 18.6,
     "rsi": 56,
-    "turnover": 1.24,
+    "turnover": 1.25,
     "pct_5d": 2.59
   },
   {
     "symbol": "SZ300496",
     "name": "中科创达",
-    "price": 53.25,
-    "change_pct": 0.08,
+    "price": 53.24,
+    "change_pct": 0.06,
     "industry": "机器人OS",
     "reason": "站上20日线(51.61)；RSI=50强势区；主线热点赛道🔥",
     "link": "https://xueqiu.com/S/SZ300496",
     "category": "short_term",
     "roe": 13.5,
     "rsi": 50,
-    "turnover": 1.19,
-    "pct_5d": 0.08
+    "turnover": 1.2,
+    "pct_5d": 0.06
   },
   {
     "symbol": "SH688012",
     "name": "中微公司",
-    "price": 324.46,
-    "change_pct": -0.01,
+    "price": 324.78,
+    "change_pct": 0.09,
     "industry": "半导体",
     "reason": "站上20日线(314.76)；RSI=50强势区；热门赛道↑",
     "link": "https://xueqiu.com/S/SH688012",
     "category": "short_term",
     "roe": 15.6,
     "rsi": 50,
-    "turnover": 0.96,
-    "pct_5d": -0.01
+    "turnover": 0.98,
+    "pct_5d": 0.09
   },
   {
     "symbol": "SH600809",
     "name": "山西汾酒",
-    "price": 111.56,
-    "change_pct": 1.18,
+    "price": 111.5,
+    "change_pct": 1.12,
     "industry": "白酒",
-    "reason": "站上20日线(106.95)；RSI=53强势区；温和上涨1.2%",
+    "reason": "站上20日线(106.95)；RSI=52强势区；温和上涨1.1%",
     "link": "https://xueqiu.com/S/SH600809",
     "category": "short_term",
     "roe": 35.2,
-    "rsi": 53,
+    "rsi": 52,
     "turnover": 0.39,
-    "pct_5d": 1.18
+    "pct_5d": 1.12
   },
   {
     "symbol": "SH601899",
     "name": "紫金矿业",
-    "price": 29.48,
-    "change_pct": 0.2,
+    "price": 29.46,
+    "change_pct": 0.14,
     "industry": "黄金有色",
     "reason": "站上20日线(28.54)；RSI=50强势区；热门赛道↑",
     "link": "https://xueqiu.com/S/SH601899",
     "category": "short_term",
     "roe": 22.6,
     "rsi": 50,
-    "turnover": 0.53,
-    "pct_5d": 0.2
+    "turnover": 0.54,
+    "pct_5d": 0.14
   },
   {
     "symbol": "SH600585",
     "name": "海螺水泥",
-    "price": 17.0,
-    "change_pct": 1.37,
+    "price": 16.98,
+    "change_pct": 1.25,
     "industry": "建材",
-    "reason": "站上20日线(16.27)；RSI=53强势区；温和上涨1.4%",
+    "reason": "站上20日线(16.27)；RSI=53强势区；温和上涨1.2%",
     "link": "https://xueqiu.com/S/SH600585",
     "category": "short_term",
     "roe": 17.3,
     "rsi": 53,
     "turnover": 0.41,
-    "pct_5d": 1.37
+    "pct_5d": 1.25
   },
   {
     "symbol": "SZ300015",
     "name": "爱尔眼科",
-    "price": 7.87,
-    "change_pct": 0.13,
+    "price": 7.85,
+    "change_pct": -0.13,
     "industry": "医疗",
     "reason": "站上20日线(7.62)；RSI=50强势区；板块活跃",
     "link": "https://xueqiu.com/S/SZ300015",
     "category": "short_term",
     "roe": 19.8,
     "rsi": 50,
-    "turnover": 0.4,
-    "pct_5d": 0.13
+    "turnover": 0.41,
+    "pct_5d": -0.13
   },
   {
     "symbol": "SH600519",
     "name": "贵州茅台",
-    "price": 1236.5,
-    "change_pct": -0.59,
+    "price": 1235.58,
+    "change_pct": -0.67,
     "industry": "白酒",
     "reason": "ROE 32.1%卓越；PE20倍低估；负债率18%低风险",
     "link": "https://xueqiu.com/S/SH600519",
@@ -151,21 +151,21 @@
     "roe": 32.1,
     "rsi": 49,
     "turnover": 0.21,
-    "pct_5d": -0.59
+    "pct_5d": -0.67
   },
   {
     "symbol": "SZ000568",
     "name": "泸州老窖",
-    "price": 69.41,
-    "change_pct": -0.79,
+    "price": 69.38,
+    "change_pct": -0.83,
     "industry": "白酒",
     "reason": "ROE 33.8%卓越；PE18倍低估；负债率18%低风险",
     "link": "https://xueqiu.com/S/SZ000568",
     "category": "long_term",
     "roe": 33.8,
     "rsi": 48,
-    "turnover": 0.46,
-    "pct_5d": -0.79
+    "turnover": 0.47,
+    "pct_5d": -0.83
   },
   {
     "symbol": "SZ000858",
@@ -178,36 +178,36 @@
     "category": "long_term",
     "roe": 28.5,
     "rsi": 50,
-    "turnover": 0.27,
+    "turnover": 0.28,
     "pct_5d": -0.2
   },
   {
     "symbol": "SH600809",
     "name": "山西汾酒",
-    "price": 111.56,
-    "change_pct": 1.18,
+    "price": 111.5,
+    "change_pct": 1.12,
     "industry": "白酒",
     "reason": "ROE 35.2%卓越；PE22倍低估；负债率20%低风险",
     "link": "https://xueqiu.com/S/SH600809",
     "category": "long_term",
     "roe": 35.2,
-    "rsi": 53,
+    "rsi": 52,
     "turnover": 0.39,
-    "pct_5d": 1.18
+    "pct_5d": 1.12
   },
   {
     "symbol": "SH601899",
     "name": "紫金矿业",
-    "price": 29.48,
-    "change_pct": 0.2,
+    "price": 29.46,
+    "change_pct": 0.14,
     "industry": "黄金有色",
     "reason": "ROE 22.6%优质；PE12倍低估值；负债率50%合理",
     "link": "https://xueqiu.com/S/SH601899",
     "category": "long_term",
     "roe": 22.6,
     "rsi": 50,
-    "turnover": 0.53,
-    "pct_5d": 0.2
+    "turnover": 0.54,
+    "pct_5d": 0.14
   },
   {
     "symbol": "SZ002049",
@@ -220,28 +220,28 @@
     "category": "long_term",
     "roe": 21.8,
     "rsi": 49,
-    "turnover": 0.77,
+    "turnover": 0.78,
     "pct_5d": -0.38
   },
   {
     "symbol": "SH688036",
     "name": "传音控股",
-    "price": 53.53,
-    "change_pct": -0.35,
+    "price": 53.49,
+    "change_pct": -0.43,
     "industry": "消费电子",
     "reason": "ROE 25.4%优质；PE14倍低估值；负债率35%低风险",
     "link": "https://xueqiu.com/S/SH688036",
     "category": "long_term",
     "roe": 25.4,
     "rsi": 49,
-    "turnover": 0.47,
-    "pct_5d": -0.35
+    "turnover": 0.48,
+    "pct_5d": -0.43
   },
   {
     "symbol": "SZ002415",
     "name": "海康威视",
-    "price": 32.1,
-    "change_pct": -0.19,
+    "price": 32.11,
+    "change_pct": -0.16,
     "industry": "安防",
     "reason": "ROE 17.2%达标；PE14倍低估值；负债率38%低风险",
     "link": "https://xueqiu.com/S/SZ002415",
@@ -249,7 +249,7 @@
     "roe": 17.2,
     "rsi": 50,
     "turnover": 0.29,
-    "pct_5d": -0.19
+    "pct_5d": -0.16
   },
   {
     "symbol": "SH603288",
@@ -268,8 +268,8 @@
   {
     "symbol": "SZ300760",
     "name": "迈瑞医疗",
-    "price": 159.09,
-    "change_pct": 0.51,
+    "price": 159.01,
+    "change_pct": 0.45,
     "industry": "医疗器械",
     "reason": "ROE 26.8%优质；负债率25%低风险；宽护城河🏰",
     "link": "https://xueqiu.com/S/SZ300760",
@@ -277,35 +277,35 @@
     "roe": 26.8,
     "rsi": 51,
     "turnover": 0.51,
-    "pct_5d": 0.51
+    "pct_5d": 0.45
   },
   {
     "symbol": "SH601127",
     "name": "赛力斯",
-    "price": 46.84,
-    "change_pct": 3.88,
+    "price": 46.81,
+    "change_pct": 3.81,
     "industry": "问界",
-    "reason": "换手1.6%活跃；涨幅3.9%；热门赛道概念",
+    "reason": "换手1.7%活跃；涨幅3.8%；热门赛道概念",
     "link": "https://xueqiu.com/S/SH601127",
     "category": "hot",
     "roe": 12.8,
-    "rsi": 59,
-    "turnover": 1.64,
-    "pct_5d": 3.88
+    "rsi": 58,
+    "turnover": 1.66,
+    "pct_5d": 3.81
   },
   {
     "symbol": "SH688561",
     "name": "奇安信",
-    "price": 29.83,
-    "change_pct": 0.2,
+    "price": 29.86,
+    "change_pct": 0.3,
     "industry": "网络安全",
     "reason": "高换手3.2%；热门赛道概念；振幅8.0%活跃",
     "link": "https://xueqiu.com/S/SH688561",
     "category": "hot",
     "roe": 12.8,
-    "rsi": 50,
-    "turnover": 3.19,
-    "pct_5d": 0.2
+    "rsi": 51,
+    "turnover": 3.21,
+    "pct_5d": 0.3
   },
   {
     "symbol": "SZ002916",
@@ -318,36 +318,36 @@
     "category": "hot",
     "roe": 14.2,
     "rsi": 53,
-    "turnover": 0.89,
+    "turnover": 0.9,
     "pct_5d": 1.25
   },
   {
     "symbol": "SZ300496",
     "name": "中科创达",
-    "price": 53.25,
-    "change_pct": 0.08,
+    "price": 53.24,
+    "change_pct": 0.06,
     "industry": "机器人OS",
     "reason": "两会政策主线🏆",
     "link": "https://xueqiu.com/S/SZ300496",
     "category": "hot",
     "roe": 13.5,
     "rsi": 50,
-    "turnover": 1.19,
-    "pct_5d": 0.08
+    "turnover": 1.2,
+    "pct_5d": 0.06
   },
   {
     "symbol": "SH688041",
     "name": "海光信息",
-    "price": 235.97,
-    "change_pct": -1.88,
+    "price": 235.88,
+    "change_pct": -1.92,
     "industry": "AI芯片",
     "reason": "两会政策主线🏆",
     "link": "https://xueqiu.com/S/SH688041",
     "category": "hot",
     "roe": 16.3,
     "rsi": 46,
-    "turnover": 0.75,
-    "pct_5d": -1.88
+    "turnover": 0.76,
+    "pct_5d": -1.92
   },
   {
     "symbol": "SZ000725",
@@ -360,36 +360,36 @@
     "category": "hot",
     "roe": 8.5,
     "rsi": 47,
-    "turnover": 2.46,
+    "turnover": 2.49,
     "pct_5d": -1.55
   },
   {
     "symbol": "SH601138",
     "name": "工业富联",
-    "price": 58.41,
-    "change_pct": -0.87,
+    "price": 58.42,
+    "change_pct": -0.85,
     "industry": "智能制造",
     "reason": "热门赛道概念",
     "link": "https://xueqiu.com/S/SH601138",
     "category": "hot",
     "roe": 21.5,
     "rsi": 48,
-    "turnover": 0.25,
-    "pct_5d": -0.87
+    "turnover": 0.26,
+    "pct_5d": -0.85
   },
   {
     "symbol": "SH688012",
     "name": "中微公司",
-    "price": 324.46,
-    "change_pct": -0.01,
+    "price": 324.78,
+    "change_pct": 0.09,
     "industry": "半导体",
     "reason": "热门赛道概念",
     "link": "https://xueqiu.com/S/SH688012",
     "category": "hot",
     "roe": 15.6,
     "rsi": 50,
-    "turnover": 0.96,
-    "pct_5d": -0.01
+    "turnover": 0.98,
+    "pct_5d": 0.09
   },
   {
     "symbol": "SZ002049",
@@ -402,21 +402,21 @@
     "category": "hot",
     "roe": 21.8,
     "rsi": 49,
-    "turnover": 0.77,
+    "turnover": 0.78,
     "pct_5d": -0.38
   },
   {
     "symbol": "SH601899",
     "name": "紫金矿业",
-    "price": 29.48,
-    "change_pct": 0.2,
+    "price": 29.46,
+    "change_pct": 0.14,
     "industry": "黄金有色",
     "reason": "热门赛道概念",
     "link": "https://xueqiu.com/S/SH601899",
     "category": "hot",
     "roe": 22.6,
     "rsi": 50,
-    "turnover": 0.53,
-    "pct_5d": 0.2
+    "turnover": 0.54,
+    "pct_5d": 0.14
   }
 ]
