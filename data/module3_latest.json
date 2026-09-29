@@ -1,50 +1,66 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Prediction: This Will Be Micron Technology’s Stock Price by the End of",
-    "excerpt": "Micron Technology stock could make a parabolic move by the end of the year.",
+    "title": "[英伟达] Stock-Split Watch: Is Meta Platforms Next?",
+    "excerpt": "Meta Platforms has never completed a conventional stock split. After a nearly 30% September surge, is that finally about to change?",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=0f1c62dfeab437a939ce690589d4dc95a2a25d0bbe71ffbc421fbb4d17bcba93"
+    "link": "https://finnhub.io/api/news?id=f37fb55e32606aa769ef6d44591c76595ae3da15c276fd54f1689792ff8d61a3"
   },
   {
     "source": "东财股吧",
-    "title": "【英反恐警察】空军基地附近被捕5人已获保释 仍在接受调查",
-    "excerpt": "英国反恐警察发言人当地时间9月28日表示，在英国费尔福德皇家空军基地事件中被捕的5名男子均已获保释。发言人表示，获保释并不意味着调查结束，5人受到严格的行动和接触限制，仍在接受调查。警方将从多个方向继续推进调查。（央视新闻）",
-    "author": "英反恐警察",
+    "title": "【自然资源部】要按照“应分层尽分层”的原则，因地制宜、分类实施海域分层立体利用管理",
+    "excerpt": "自然资源部公开征求《自然资源部关于进一步推进海域分层立体利用工作的通知（公开征求意见稿）》意见。其中指出，要按照“应分层尽分层”的原则，因地制宜、分类实施海域分层立体利用管理。除填海或生产经营活动存在冲突的用海活动外，新设立和续期的跨海桥梁",
+    "author": "自然资源部",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,英反恐警察.html"
+    "link": "https://guba.eastmoney.com/list,自然资源部.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Is It Worth Investing in Alibaba (BABA) Based on Wall Street's Bullish",
-    "excerpt": "According to the average brokerage recommendation (ABR), one should invest in Alibaba (BABA). It is debatable whether this highly sought-after metric ",
+    "title": "[阿里巴巴] Amazon (AMZN) vs. Alibaba (BABA): Which AI Bet Is Starting to Pay Off?",
+    "excerpt": "Amazon.com, Inc. (NASDAQ:AMZN) and Alibaba Group Holding Limited (NYSE:BABA) have more in common than their e-commerce roots suggest. Both are now mak",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=ccd8ac71b418b42600ca8ca8fb24e68cf5d30bb81f3c4664f4cbbd644c33cace"
+    "popularity": "🔥 10小时前",
+    "link": "https://finnhub.io/api/news?id=03cdf61706de44c690ec418a29864baeecad6213ee91b308f395366bbc02ae8f"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【特朗普吐槽加拿大】“全世界最糟糕的国家之一”",
+    "excerpt": "据美媒报道，当地时间28日，美国总统特朗普加大了对加拿大的抨击力度，批评加拿大是“全世界最糟糕的国家之一”。据美国《新闻周刊》报道，特朗普在椭圆形办公室对记者发表讲话时，指责加拿大对美国“非常不公平”，并指出加拿大对美国农产品征收的高额关税",
+    "author": "特朗普吐槽加拿大",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,特朗普吐槽加拿大.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPe",
     "excerpt": "An outside investor just put a concrete price on the part of Nio's business that has frustrated analysts for years, and the terms of the deal reveal h",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
+    "popularity": "🔥 17小时前",
     "link": "https://finnhub.io/api/news?id=a9f0ad39de2324d9ec108c7319b36d1c98925855b53c71cfaa9e28cdf8054c36"
   },
   {
+    "source": "东财股吧",
+    "title": "【OpenAI】明天将调整200美元Pro订阅的用量计算方式",
+    "excerpt": "OpenAI Codex产品负责人：明天将重新向新用户开放月费200美元的Pro订阅，但同时也将调整该订阅的用量计算方式。与原来的月费200美元Pro方案相比，新方案对应的API支出金额将只有原来的一半。该负责人解释到，之所以推出如此措施，",
+    "author": "OpenAI",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,OpenAI.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Stocks slip as bond yields rise, but Nvidia stock is rising: AlphaChec",
-    "excerpt": "Stocks fell on Monday as long-dated bond yields continued to climb amid surging oil prices, raising concerns that the Federal Reserve will need to hik",
+    "title": "[特斯拉] TSLA Stock Slides As Retail Turns Cautious Ahead Of Q3 Deliveries — Bu",
+    "excerpt": "SemiAnalysis said concrete is being poured at Musk’s Terafab site and projected equipment move-in around mid-2028.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=e8fc9188a1ee12ae0d8289cdeb5cb0d3977cc14a1cd692f85d3b2484a4233d8f"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=c8e2ab8c800cb9ca99f05de4a4ee2dd0be9aa919f0515aea74468ee5089658fe"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Zacks Investment Ideas feature highlights: Alibaba, Baidu, Kingsoft Cl",
     "excerpt": "BABA, BIDU, KC, TCEHY and HSAI highlight China's expanding AI ecosystem, while PONY and WRD add autonomous-driving exposure.",
     "author": "Yahoo",
-    "popularity": "🔥 9小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=e90de3ceb6da6aa8ec1859dfd413b94f15a29e2666e7b03122e9c22996f6cc75"
   }
 ]
