@@ -1,90 +1,106 @@
 [
   {
     "sector": "综合",
-    "title": "荷兰皇家阿霍德德尔海兹集团股价下跌2%，跌至阿姆斯特丹泛欧交易所AEX指数成分股跌幅榜首。",
-    "summary": "荷兰皇家阿霍德德尔海兹集团股价下跌2%，跌至阿姆斯特丹泛欧交易所AEX指数成分股跌幅榜首。",
+    "title": "德国表示正密切关注柴油供应情况。",
+    "summary": "德国表示正密切关注柴油供应情况。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
-    "sector": "综合",
-    "title": "欧盟委员约根森：我们正与国际能源署（IEA）所有成员国磋商释放柴油储备的时机，并非仅与美国磋商。",
-    "summary": "欧盟委员约根森：我们正与国际能源署（IEA）所有成员国磋商释放柴油储备的时机，并非仅与美国磋商。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "巴克莱将环球音乐集团股票评级上调至“增持”后，其股价上涨2.6%。",
-    "summary": "巴克莱将环球音乐集团股票评级上调至“增持”后，其股价上涨2.6%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "开云集团股价下跌5%，位于法国CAC40指数跌幅榜首位，此前管理层在第三季度收盘前电话会议上发表了相",
-    "summary": "关言论。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "沃尔沃汽车股价下跌4.2%，此前该公司撤销了2026年销量与现金流指引。",
-    "summary": "沃尔沃汽车股价下跌4.2%，此前该公司撤销了2026年销量与现金流指引。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "市场消息：法国超级计算机制造商Bull产量翻倍。",
-    "summary": "市场消息：法国超级计算机制造商Bull产量翻倍。",
+    "sector": "政策",
+    "title": "德国政府发言人：我们仍将美国视为可靠的燃料供应国。",
+    "summary": "德国政府发言人：我们仍将美国视为可靠的燃料供应国。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "机构：上修2027年HBM价格展望，预估ASP年增达121%",
-    "summary": "根据TrendForce集邦咨询最新研究显示，AI服务器需求持续扩张，HBM与Conventional DRAM仍竞逐有限的先进制程及晶圆产能，加上新一代产品的良率与产出提升仍需时间，预估2027年存储器供应将持续吃紧。在整体存储器价格维持",
+    "title": "疑似AI驱动的黑客袭击韩国多家主要银行",
+    "summary": "韩国五大银行接连遭受疑似AI驱动的黑客攻击，部分机构出现客户个人信息泄露。继新韩银行约2.5万人数据遭泄露后，国民银行和韩亚银行分别确认119人和89人个人信息泄露。友利银行和农协银行也遭遇疑似黑客攻击。与以往直接攻击主服务器不同，此次攻击",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "波兰总统签署暴利税法案后，奥伦股价下跌2.0%。",
-    "summary": "波兰总统签署暴利税法案后，奥伦股价下跌2.0%。",
+    "title": "法国10年期国债收益率溢价飙升至152个基点，创2011年以来新高。",
+    "summary": "法国10年期国债收益率溢价飙升至152个基点，创2011年以来新高。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "Stellantis米兰上市股价上涨4.4%，此前这家汽车制造商公布其美国部门2026年第三季度售出",
-    "summary": "324,277辆汽车。",
+    "title": "欧盟委员会主席：通过这笔拨款，我们正在帮助维护乌克兰当前的金融稳定。我们也在为其未来的复苏奠定基础。",
+    "summary": "因为欧洲与乌克兰站在一起。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "奥地利9月消费者价格指数初值同比上涨3.6%。",
-    "summary": "奥地利9月消费者价格指数初值同比上涨3.6%。",
+    "title": "白俄罗斯总统卢卡申科建议亚美尼亚在寻求加入欧盟时不要本末倒置。",
+    "summary": "白俄罗斯总统卢卡申科建议亚美尼亚在寻求加入欧盟时不要本末倒置。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "刚果（金）埃博拉疫情已致超4000人死亡",
+    "summary": "总台记者获悉，刚果（金）卫生部10月2日公布的最新数据显示，截至目前，该国本轮埃博拉疫情累计报告确诊病例8300例，其中4018人死亡，2162名患者康复，病死率为48.4%。（央视新闻）",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "花旗集团将耐克目标股价从39美元下调至32美元。",
+    "summary": "花旗集团将耐克目标股价从39美元下调至32美元。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "欧盟根据乌克兰贷款机制拨付29亿欧元，用于支持融资。",
+    "summary": "欧盟根据乌克兰贷款机制拨付29亿欧元，用于支持融资。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "金融",
+    "title": "耐克目标价遭大幅下调 盘前股价大跌",
+    "summary": "多家国际大行大幅下调耐克目标价。摩根大通将耐克目标价从40美元下调至33美元，富国银行将耐克的目标价从每股40美元大幅下调至30美元，美银将耐克目标价从30美元下调至24美元，伯恩斯坦将耐克目标价从68美元下调至45美元，派杰投资将耐克目标",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Treasury yields inch higher as investors await key jobs report",
+    "summary": "U.S. Treasury yields inched higher on Friday as investors weighed a trading week dominated by a global bond selloff and ",
+    "source": "CNBC",
+    "time": "2小时前",
+    "link": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Yemen carried out 20 strikes on Houthi targets in Taiz province, spokesperson says - Reute",
+    "summary": "Yemen carried out 20 strikes on Houthi targets in Taiz province, spokesperson says  Reuters",
+    "source": "Reuters",
+    "time": "4小时前",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORk4tSFZmYTc1TmM0Nk9rT0QzQjBkdUJyWlFTTllHN3ZsSU5QZWd3eW42bjB4dHo4MzZoQm9yOFRBaE1fVF9nTFlxTWswMWRlZV9PZXFRZm13aUdpR1UtX2FZVzdTb21IcHFFbzBxdzlRY015TkE5bWlmNTdncGprWWZkRUMzWVR1Y3VfbnBCUlRuMTlvZ2NLTlpUaEFmUU9Ra1VoNDVKYVhJaVZQV3NCUVMzQlpjWEJlb2NzRkRySUNLUmxXQUN4Rg?oc=5"
   },
   {
     "sector": "人工智能",
     "title": "Foiled flydubai attack clouds regional airline revival - Reuters",
     "summary": "Foiled flydubai attack clouds regional airline revival  Reuters",
     "source": "Reuters",
-    "time": "2小时前",
+    "time": "5小时前",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckx3VkNRTklaT01xMTdlQW5sXzBSZ0lPNWNBcWpZZmJCWnNCOWxnRWRjLVhnbmZEU28zZ2hNVkExbzNpeUpyazBtT1FQNWswRGRiYUxqY3BEQzVuX2RSZ3pIa1ZyTFQ1NjJaNFlQdnpTMDJVUjNKOUdxVkdHcTVpSm5tVVp6THRWOV80bEt2ZzMtY0hFeTA5Y0xNR2k0eElNT3Z6cVlJRmsxbmZt?oc=5"
   },
   {
@@ -92,7 +108,7 @@
     "title": "US sanctions target Iran's auto, rail sectors as blockade chokes ship lanes - Reuters",
     "summary": "US sanctions target Iran's auto, rail sectors as blockade chokes ship lanes  Reuters",
     "source": "Reuters",
-    "time": "10小时前",
+    "time": "13小时前",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGQ5cWhPbnlFT0hFQU1VME1qVVB2SndmZVROdUpzUU1sVGxRcDZndDN0R1BwdGVXRThreEJhTnV4WWQzZ19xUjlqZ3hqWjBWSEJWQ1JtcExJNVVRTG95UHQ1RjFsc21pbWQ4Q3c3dnhvYWZXUF9uNmQ0UHhWT1pJRXg3Yk42b0dOS0FJVmNsbGJLeFZTQkNKcW5ocVZVSzBlS2tnSnRpM044NEhMZW1FMG94N1U2dW1fUXJkbng1clJZSHpaZVVGLXFyeDBYcXM?oc=5"
   },
   {
@@ -100,23 +116,7 @@
     "title": "United Airlines goes after top frequent flyers at Delta, American with status match",
     "summary": "United Airlines launched an aggressive status match program for Delta and American's top frequent flyer elites.",
     "source": "CNBC",
-    "time": "12小时前",
+    "time": "15小时前",
     "link": "https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html"
-  },
-  {
-    "sector": "人工智能",
-    "title": "You think Nvidia's $235 billion buyback is big? Just wait and see what Micron might do",
-    "summary": "Micron's expected repurchase program has the potential to be a really, really big number as a percentage of its market c",
-    "source": "CNBC",
-    "time": "12小时前",
-    "link": "https://www.cnbc.com/2026/10/01/you-think-nvidias-235-billion-buyback-is-big-just-wait-and-see-what-micron-might-do.html"
-  },
-  {
-    "sector": "人工智能",
-    "title": "The 2 most important skills for entry-level workers in the age of AI, says IBM's chief tal",
-    "summary": "Aparna Nair, IBM's chief talent officer, says college students and entry-level workers need these two skills to succeed ",
-    "source": "CNBC",
-    "time": "12小时前",
-    "link": "https://www.cnbc.com/2026/10/01/ibm-talent-officer-top-skills-entry-level-workers-ai.html"
   }
 ]
