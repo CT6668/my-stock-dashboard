@@ -1,18 +1,26 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Is Upstart Stock a Buy, Sell, or Hold At Its New 52-Week Low?",
-    "excerpt": "The chief reason shares are still losing ground is worry, but that worry isn't rooted in results.",
+    "title": "[英伟达] Nvidia and AMD just hit record highs, but tech stocks still look cheap",
+    "excerpt": "Don't let two high-profile tech stocks hitting record highs lead you to believe that we are set up for a dot-com-style bubble burst.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=5019518eee5980e3439ba17fbdbe6bb24c0df40c4b5eeb88a336c26564a6e35a"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=6149b0bfa38034197020d39f5afd3f6b6e0f87c37b1df55880fdf557fc02dc4a"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【城堡证券】美债收益率上升源于经济走强 并非通胀担忧加剧所致",
+    "excerpt": "对于近期美债收益率升至数十年高位，城堡证券认为，背后的原因是美国经济增长强劲且资本争夺加剧，并非市场对通胀的担忧上升。城堡证券欧洲、中东和非洲固定收益销售主管Nohshad Shah周一在给客户的报告中写道，9月10年期美债收益率的升幅几乎",
+    "author": "城堡证券",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,城堡证券.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Chinese AI Chips Could Flood the Market. Alibaba’s New Chip Is 3X Bett",
     "excerpt": "Alibaba is developing AI chips and expects mass production in the coming years.",
     "author": "Yahoo",
-    "popularity": "🔥 12小时前",
+    "popularity": "🔥 17小时前",
     "link": "https://finnhub.io/api/news?id=11b2344f183fa1e2194127a2dcf28386066ee49831460e4d06e26d801899c193"
   },
   {
@@ -20,23 +28,23 @@
     "title": "[蔚来汽车] EV Company News For The Month Of September 2026",
     "excerpt": "August 2026 EV market update: global sales +5% YoY, China down, Europe surging, US slipping, plus BYD/Geely/Tesla news.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 6小时前",
+    "popularity": "🔥 11小时前",
     "link": "https://finnhub.io/api/news?id=52ccfe3aa6008a37137648d9c51655233632557899b635699aa05a8a3d5c58a3"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla And 2 Other Founder Led Stocks To Own",
-    "excerpt": "Surging US Treasury yields have made borrowing more expensive and pushed investors to think harder about who really runs the businesses they back. Whe",
+    "title": "[特斯拉] Elon Musk Claims US Will ‘Go Bankrupt’ Without AI and Robotics Boostin",
+    "excerpt": "Elon Musk has warned Americans the United States will go bankrupt unless they commit to using AI and robots. The Tesla CEO, 55, made the dire predicti",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=35fb612e8a24b9289fa9247acb19bdf19acb0e7c15421891193711f10461a48e"
+    "link": "https://finnhub.io/api/news?id=96af709401aab8cec7e2d1780601a1c0fb146ce3ea685dcbff1631d2f8c67654"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] President Trump On Sunday, Announced Formation Of Super Intelligence F",
-    "excerpt": "https://truthsocial.com/@realDonaldTrump/117382616783706638 ",
+    "title": "[百度] Axios Reported Earlier Sunday, Nvidia-Backed Reflection Prepares Power",
+    "excerpt": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
     "author": "Benzinga",
     "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=da3c2e0179e091101e4387ad5c51b87694b9ffa388a2a1482126685b5f48f8cd"
+    "link": "https://finnhub.io/api/news?id=1fe5628b4730f829001276b39665fba7f6da73eef770da4028b6bad9ce6d3c17"
   }
 ]
