@@ -1,90 +1,98 @@
 [
   {
-    "sector": "金融",
-    "title": "富国银行：英国柴油供应来源多元且具韧性。",
-    "summary": "富国银行：英国柴油供应来源多元且具韧性。",
+    "sector": "人工智能",
+    "title": "城堡证券：美债收益率上升源于经济走强 并非通胀担忧加剧所致",
+    "summary": "对于近期美债收益率升至数十年高位，城堡证券认为，背后的原因是美国经济增长强劲且资本争夺加剧，并非市场对通胀的担忧上升。城堡证券欧洲、中东和非洲固定收益销售主管Nohshad Shah周一在给客户的报告中写道，9月10年期美债收益率的升幅几乎",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "欧盟委员会主席冯德莱恩：祝贺Peter Hagemann、Georg Nagel及其美国同事Karl",
-    "summary": "Deisseroth获得今年诺贝尔医学奖。他们的研究得到了“地平线欧洲”计划的支持，为未来的发现打开了大门。",
+    "title": "道达尔能源CEO：相较于和平的世界，我更倾向动荡的世界，因为动荡会创造更多机遇。",
+    "summary": "道达尔能源CEO：相较于和平的世界，我更倾向动荡的世界，因为动荡会创造更多机遇。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "乌克兰总统泽连斯基：我还向波兰总理通报了乌克兰、美国和俄罗斯三方可能在技术层面举行会晤的筹备情况。我",
-    "summary": "（乌克兰）们这边就开展会谈保持开放态度，但重要的是美方要在其方面做好准备，并确保俄罗斯也准备好。",
+    "title": "美国商品期货交易委员会：计划建立一套全面监管框架，制定适配加密资产特性的监管规则。",
+    "summary": "美国商品期货交易委员会：计划建立一套全面监管框架，制定适配加密资产特性的监管规则。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "泽连斯基：今天，我与波兰总理图斯克通了话，亲自感谢波兰的团结与支持。",
-    "summary": "泽连斯基：今天，我与波兰总理图斯克通了话，亲自感谢波兰的团结与支持。",
+    "title": "周一（10月5日）欧市尾盘，ICE英国天然气期货跌2.73%，TTF基准荷兰天然气期货跌3.96%，",
+    "summary": "ICE欧盟碳排放交易许可（期货价格）跌0.59%。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "欧盟在口蹄疫疫情暴发后暂停进口纳米比亚肉类。",
-    "summary": "欧盟在口蹄疫疫情暴发后暂停进口纳米比亚肉类。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "CH罗宾逊航运公司：RXO 持有者将持有合并后公司 11% 的股份。",
-    "summary": "CH罗宾逊航运公司：RXO 持有者将持有合并后公司 11% 的股份。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "Quantinuum与西澳大学签署量子计算合作协议谅解备忘录。",
-    "summary": "Quantinuum与西澳大学签署量子计算合作协议谅解备忘录。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "C.H.罗宾逊股价下跌2.4%。",
-    "summary": "C.H.罗宾逊股价下跌2.4%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "金融",
-    "title": "D-Wave与Walton College将联合推出量子供应链基金。",
-    "summary": "D-Wave与Walton College将联合推出量子供应链基金。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "C.H. Robinson将通过新增债务融资为现金对价提供资金。",
-    "summary": "C.H. Robinson将通过新增债务融资为现金对价提供资金。",
+    "title": "道达尔能源CEO：我们需要从 “准时制” 规划转向 “以防万一” 规划。",
+    "summary": "道达尔能源CEO：我们需要从 “准时制” 规划转向 “以防万一” 规划。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
+    "title": "乌称人工智能炮塔首次成功拦截俄无人机",
+    "summary": "乌克兰空军发言人尤里·伊格纳特5日接受媒体采访时说，乌克兰配备人工智能的炮塔已成功拦截俄罗斯新型喷气式无人机。伊格纳特说：“人工智能等创新技术的运用能有效避免人为失误。机器视觉被用于击落无人机，人工智能甚至可以锁定喷气式无人机。”（新华社）",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "道达尔能源CEO：我们比以往任何时候都致力于中东地区，同时更加聚焦出口通道。",
+    "summary": "道达尔能源CEO：我们比以往任何时候都致力于中东地区，同时更加聚焦出口通道。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "政策",
+    "title": "阿比再次就任埃塞俄比亚总理",
+    "summary": "埃塞俄比亚联邦议会5日举行会议，成立新一届政府并批准阿比为新一届政府总理。阿比随后在议会宣誓就职。在今年6月举行的议会选举中，阿比所在的繁荣党获胜。在埃塞俄比亚联邦议会人民代表院（议会下院）486个席位中，繁荣党赢得438个席位。繁荣党主席",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "据知情人士透露，雷诺将选择Michelin的Carine Damois为首席财务官。",
+    "summary": "据知情人士透露，雷诺将选择Michelin的Carine Damois为首席财务官。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "中国地震台网自动测定：10月05日23时38分在云南德宏州盈江县附近（北纬24.58度，东经97.5",
+    "summary": "8度）发生4.0级左右地震，最终结果以正式速报为准。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "人工智能",
+    "title": "Why airfare could rise even more, but airline profits won't",
+    "summary": "Airlines are trimming capacity as jet fuel prices keep climbing and travelers keep booking.",
+    "source": "CNBC",
+    "time": "4小时前",
+    "link": "https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html"
+  },
+  {
+    "sector": "人工智能",
     "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs i",
     "summary": "The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination ",
     "source": "CNBC",
-    "time": "17小时前",
+    "time": "22小时前",
     "link": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html"
   },
   {
@@ -92,7 +100,7 @@
     "title": "OpenAI safety employee quits, calls for nuclear-level safeguards",
     "summary": "David Robinson, formerly leading OpenAI’s safety transparency efforts, wrote in The Atlantic that ChatGPT maker “has thr",
     "source": "Bloomberg",
-    "time": "1天前",
+    "time": "2天前",
     "link": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards"
   },
   {
@@ -100,7 +108,7 @@
     "title": "Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth",
     "summary": "Novig's \"Just Sports\" campaign drew backlash from some female athletes but also brought in a rush of trading volume.",
     "source": "CNBC",
-    "time": "1天前",
+    "time": "2天前",
     "link": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html"
   },
   {
@@ -108,15 +116,7 @@
     "title": "Man arrested in Fairford air base investigation released on bail - Reuters",
     "summary": "Man arrested in Fairford air base investigation released on bail  Reuters",
     "source": "Reuters",
-    "time": "1天前",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZlM4THR1SEZQZDZfdFlpejVLZ2tuMk5qbTFiVjhNbEtpRW1tNjMwZHV0dlhKWjdXdU5TWTZ5dm5ZTW9jRjBjcV9YWUxWVGQ4cjRyN1pDd0I3bDhiSms3LTB6THluWTVfeFBRTUdNWjlJMkJnTEpXRTQ3SlR3bTlFSWFkM3lUd3pIUEVESkpHcWVLVWNMQmdRNzZlR01XNXZYd3Vtcjdn?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Aboard the USS George Washington, young sailors adjust to war with Iran - Reuters",
-    "summary": "Aboard the USS George Washington, young sailors adjust to war with Iran  Reuters",
-    "source": "Reuters",
     "time": "2天前",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMmwtU1dvSVNubGRlbFl6OE9ObzN4MFVRYkUtMFVueTVRbE5KWGx5RTR4T1NFS2oyN1J3V0YxOEVhU3ZTeXAwX0ppOHNKRWE1S1NNYXl3UWt3WGQ2SWFJbkdHMmJLTVRNanp6THZ1R1VPUmRoR1lLSGRvYWtLRWk4bjJnTGJsLWlqMklpeVhPbUx2dTBpN2Z2YVpkOE83Rm8waTdaNmtDaWpxdTlHb0FzQkE5RnFiWFhk?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZlM4THR1SEZQZDZfdFlpejVLZ2tuMk5qbTFiVjhNbEtpRW1tNjMwZHV0dlhKWjdXdU5TWTZ5dm5ZTW9jRjBjcV9YWUxWVGQ4cjRyN1pDd0I3bDhiSms3LTB6THluWTVfeFBRTUdNWjlJMkJnTEpXRTQ3SlR3bTlFSWFkM3lUd3pIUEVESkpHcWVLVWNMQmdRNzZlR01XNXZYd3Vtcjdn?oc=5"
   }
 ]
