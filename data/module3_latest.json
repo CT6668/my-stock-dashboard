@@ -1,42 +1,50 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] 3 Dow Jones Stocks with Exciting Potential",
-    "excerpt": "The biggest names in corporate America call the Dow Jones (^DJI) home, but only a handful are still growing at a strong pace. Some of these blue-chip ",
+    "title": "[英伟达] Dow Jones Futures Fall; Nasdaq At Highs With Nvidia, SpaceX Buys, But ",
+    "excerpt": "The Nasdaq is at highs with Nvidia, SpaceX, Bloom Energy in buy areas. But much of the market remains weak. Here's what to do.",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=7540d2683c44b228b44a5985be3027fee4b8b4cfd01d701db6e2852ffcab3a9f"
+    "link": "https://finnhub.io/api/news?id=f9cb22afd5b4a0bea77b4d49dca0ee11cd7c3f6961d0ef032d9daee9e5db6b89"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【高市新内阁遭“当头一棒”】日农相被曝曾声称“不支持我的市政预算全被砍”被围攻",
+    "excerpt": "据朝日电视台等日媒10月4日报道，新任农林水产大臣簗和生近日被指曾滥用职权，肆意削减不支持他的地方政府预算，引发广泛批评。被曝丑闻后簗和生含糊其辞，试图为自己开脱，但《下野新闻》进一步曝光了簗和生全部发言的录音，让他成为舆论的众矢之的。“J",
+    "author": "高市新内阁遭“当头一棒”",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,高市新内阁遭“当头一棒”.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Zhou Yuxiang hired food delivery riders to sell AI to factories. Now h",
-    "excerpt": "China has millions of small factories—and almost no data on them. Yuxiang Zhou thinks AI can fix both.",
+    "title": "[阿里巴巴] Chinese AI Chips Could Flood the Market. Alibaba’s New Chip Is 3X Bett",
+    "excerpt": "Alibaba is developing AI chips and expects mass production in the coming years.",
     "author": "Yahoo",
-    "popularity": "🔥 6小时前",
-    "link": "https://finnhub.io/api/news?id=6b474fc5459177a8216dc504fa43ee02824d65ba7e9bec1bca6f6ded907f7cf8"
+    "popularity": "🔥 8小时前",
+    "link": "https://finnhub.io/api/news?id=11b2344f183fa1e2194127a2dcf28386066ee49831460e4d06e26d801899c193"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] Nio's Riskiest Asset Is Valued at $2.4 Billion, But Its Potential Just",
-    "excerpt": "Some investors are uncertain of the future Nio's battery swapping network has.",
+    "title": "[蔚来汽车] Why Did NKE, NIO, APP Stocks Tumble To 52-Week Lows Last Week?",
+    "excerpt": "Investors focused on Nike’s turnaround struggles, Nio’s EV competition and AppLovin’s legal setback involving Unity.",
     "author": "Yahoo",
-    "popularity": "🔥 16小时前",
-    "link": "https://finnhub.io/api/news?id=a43d9aff7f8a55b55c1ac26c1bcccbbaa25ce839cbae7f3634581650eb59690e"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=f15b7178df328da57f01ae612f2cdb25cc5b510ffacf1b7bac220589f66c4893"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Markets Need the Jobs Report to Point to a Fed Hold",
-    "excerpt": "Everything you need to know about the jobs report, early market trading, Nike, and the other big stock movers Friday",
+    "title": "[特斯拉] Tesla Stock Rises Overnight After Musk Says ‘Something May Come Of’ TS",
+    "excerpt": "TSMC could reportedly own and operate a Texas factory or provide tech and expertise under another ownership deal.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=7c7df65fd5ac81a717c3a3321325463d517f0cdd27a9ec001de83fa8964ca142"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=e2199c87a92764ee08bb0f864ab7761f9634a7bf93e56c7aa962faaa2c58566b"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] Baidu Inc. (BIDU) Stock Sinks As Market Gains: Here's Why",
-    "excerpt": "In the most recent trading session, Baidu Inc. (BIDU) closed at $85.59, indicating a -1.47% shift from the previous trading day.",
-    "author": "Yahoo",
-    "popularity": "🔥 17小时前",
-    "link": "https://finnhub.io/api/news?id=5b40fc58efaf86539520086a3c4c387dd844279f38b16396f54b0a5d24152cc1"
+    "title": "[百度] President Trump On Sunday, Announced Formation Of Super Intelligence F",
+    "excerpt": "https://truthsocial.com/@realDonaldTrump/117382616783706638 ",
+    "author": "Benzinga",
+    "popularity": "🔥 22小时前",
+    "link": "https://finnhub.io/api/news?id=da3c2e0179e091101e4387ad5c51b87694b9ffa388a2a1482126685b5f48f8cd"
   }
 ]
