@@ -1,74 +1,50 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] 2 Stocks to Buy Hand Over Fist in October",
-    "excerpt": "Nutex Health and Elevance Health may be underpriced, despite their share growth this year.",
+    "title": "[英伟达] Why Cloudflare Stock Rallied Nearly 14% in September",
+    "excerpt": "The internet traffic cop continues to benefit from the shift to AI.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=44c2e4a3fe8efcae1d77c6ec27029502757d3daf78ee95af86b873edf506c694"
+    "popularity": "🔥 43分钟前",
+    "link": "https://finnhub.io/api/news?id=27272816558c95389703f3e8c0112ca3cf141a3dec3ca1c100113f43bc95574a"
   },
   {
     "source": "东财股吧",
-    "title": "【新智认知】拟1.50亿元参设创业投资合伙企业",
-    "excerpt": "新智认知公告称，公司与深圳华业天成投资有限公司签署合伙协议，共同投资设立天津华业认知创业投资合伙企业（有限合伙）（暂定名）。该合伙企业目标认缴出资总额1.50亿元，公司作为有限合伙人以自有资金认缴出资1.50亿元，占认缴出资总额的99.93",
-    "author": "新智认知",
+    "title": "【知情人士】英国与欧盟达成协议 实现碳排放交易体系互通",
+    "excerpt": "四名知情谈判人士透露，英国与欧盟已成功达成协议，将双方各自的碳排放交易体系对接。 这项谈判自去年启动，现已收尾，相关协议计划在未来几周举行的英欧峰会上正式公布。 一名欧盟外交官表示，在官宣之前，双方目前只是为协议“完成最后的收尾工作”。碳交",
+    "author": "知情人士",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,新智认知.html"
+    "link": "https://guba.eastmoney.com/list,知情人士.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba's Joe Tsai says open-source AI is Europe's best path to tech i",
     "excerpt": "Joe Tsai warned that relying on foreign technology leaves countries vulnerable to supply cutoffs, and called on Europe to train AI on industrial data",
     "author": "Yahoo",
-    "popularity": "🔥 18小时前",
+    "popularity": "🔥 21小时前",
     "link": "https://finnhub.io/api/news?id=c3c5c6e641e2bc880a31adef5cc2b2e398466a69a75727013479c693c602c10d"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【共达电声】拟以3000万美元设立泰国子公司",
-    "excerpt": "共达电声公告，公司拟以自有资金3000万美元，通过全资子公司共达(香港)电声有限公司在泰国投资设立共达电声（泰国）有限公司，注册资本3000万美元。该事项已于2026年10月8日经第六届董事会第二十四次会议审议通过，尚需履行境内外投资相关审",
-    "author": "共达电声",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,共达电声.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] NIO Stock Eyes End To 5-Week Slump: Retail Loads Up As Onvo Hits 200,0",
     "excerpt": "Nio completed a record 183,664 battery swaps on Monday, surpassing its Oct.1 peak.",
     "author": "Yahoo",
-    "popularity": "🔥 4小时前",
+    "popularity": "🔥 7小时前",
     "link": "https://finnhub.io/api/news?id=007e14295cfa3651e24b695b767b174d145ce657df05ec35c28483c56a22a04e"
   },
   {
-    "source": "东财股吧",
-    "title": "【普洛药业】截至9月30日累计回购股份耗资约1.00亿元",
-    "excerpt": "普洛药业公告称，公司拟使用自有资金以集中竞价方式回购股份用于注销减资，回购资金总额不低于1亿元且不超过1.5亿元，回购价格上限原不超过20元/股，2026年中期分红派息实施后，自10月8日起调整为19.87元/股，回购期限为股东会审议通过方",
-    "author": "普洛药业",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,普洛药业.html"
-  },
-  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla Delivered 486,532 Vehicles in Q3. Here's the Margin Math That Wi",
-    "excerpt": "The company really only needs its Q2 automotive numbers to not worsen.",
+    "title": "[特斯拉] Elon Musk Reaffirms Control Over Terafab AI Chip Complex As Intel Rema",
+    "excerpt": "Key Stats for Intel StockPrice change for Intel stock in the last 6 months: 92%$INTC Stock Price as of Oct. 7: $11352-Week High: $142$INTC Stock Price",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=1db66554e6c7d66e72bd0785f5a00592b7bf4fa63e955b8e5093d270a0d045a0"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【立讯精密】截至9月30日累计回购金额约10.00亿元",
-    "excerpt": "立讯精密公告称，公司2025年12月31日审议通过回购股份方案，拟使用10.00亿元-20.00亿元自有或自筹资金以集中竞价方式回购股份，用于股权激励或员工持股计划，回购期限不超12个月；因权益分派，回购价格上限先后调整为86.80元/股、",
-    "author": "立讯精密",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,立讯精密.html"
+    "link": "https://finnhub.io/api/news?id=6159afa95db677b2eb4b1e7902c5298ff88442e68d193e26ba3f40ab792e4fea"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Why Baidu Inc. (BIDU) Dipped More Than Broader Market Today",
     "excerpt": "Baidu Inc. (BIDU) concluded the recent trading session at $85.36, signifying a -1.94% move from its prior day's close.",
     "author": "Yahoo",
-    "popularity": "🔥 14小时前",
+    "popularity": "🔥 17小时前",
     "link": "https://finnhub.io/api/news?id=c8985f0932c4b20e0cf570a8652f3eba4b2a7bfadc1182f36673773a7c52c3f1"
   }
 ]
