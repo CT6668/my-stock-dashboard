@@ -1,50 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Why Cloudflare Stock Rallied Nearly 14% in September",
-    "excerpt": "The internet traffic cop continues to benefit from the shift to AI.",
+    "title": "[英伟达] 3 Stocks Poised to Gain as Google Brings Its AI Chips to Market",
+    "excerpt": "Google may become a major AI chipmaker, and there are some clear winners from that development.",
     "author": "Yahoo",
-    "popularity": "🔥 43分钟前",
-    "link": "https://finnhub.io/api/news?id=27272816558c95389703f3e8c0112ca3cf141a3dec3ca1c100113f43bc95574a"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=0088a1bc0e5572d80f68fa2ee5ae7b00990f77bd2500012147db343c3e1139f9"
   },
   {
     "source": "东财股吧",
-    "title": "【知情人士】英国与欧盟达成协议 实现碳排放交易体系互通",
-    "excerpt": "四名知情谈判人士透露，英国与欧盟已成功达成协议，将双方各自的碳排放交易体系对接。 这项谈判自去年启动，现已收尾，相关协议计划在未来几周举行的英欧峰会上正式公布。 一名欧盟外交官表示，在官宣之前，双方目前只是为协议“完成最后的收尾工作”。碳交",
-    "author": "知情人士",
+    "title": "【什么值得买】国庆相关消费GMV同比增长136.2%",
+    "excerpt": "什么值得买发布的2026年国庆假期消费趋势显示，10月1日至7日，平台内国庆相关消费GMV同比增长136.2%。",
+    "author": "什么值得买",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,知情人士.html"
+    "link": "https://guba.eastmoney.com/list,什么值得买.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Alibaba's Joe Tsai says open-source AI is Europe's best path to tech i",
-    "excerpt": "Joe Tsai warned that relying on foreign technology leaves countries vulnerable to supply cutoffs, and called on Europe to train AI on industrial data",
+    "title": "[阿里巴巴] Alibaba cloud revenue growth seen above 50% in financial year 2028, Je",
+    "excerpt": "Alibaba Group (NYSE:BABA), the Chinese e-commerce and cloud computing company, is expected to see cloud revenue growth accelerate in the December and ",
     "author": "Yahoo",
-    "popularity": "🔥 21小时前",
-    "link": "https://finnhub.io/api/news?id=c3c5c6e641e2bc880a31adef5cc2b2e398466a69a75727013479c693c602c10d"
+    "popularity": "🔥 13小时前",
+    "link": "https://finnhub.io/api/news?id=ea0d90bfeabf7db5668dc010a0179cc315c501495097d7855089fd67289abfb8"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【外交部回应美方涉所谓中国黑客言论】维护网络安全是中美的共同关切",
+    "excerpt": "10月9日，外交部发言人毛宁主持例行记者会。路透社记者提问，美国司法部官员表示查封了七个与中国黑客有关联的互联网域名，这些黑客试图入侵美国及外国的关键基础设施系统。请问中方有何评论？“中方一贯坚决反对并依法打击黑客活动，同时坚决反对出于政治",
+    "author": "外交部回应美方涉所谓中国黑客言论",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,外交部回应美方涉所谓中国黑客言论.html"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] NIO Stock Eyes End To 5-Week Slump: Retail Loads Up As Onvo Hits 200,0",
-    "excerpt": "Nio completed a record 183,664 battery swaps on Monday, surpassing its Oct.1 peak.",
+    "title": "[蔚来汽车] Why Did CMCSA, NIO, QXO Stocks Tumble To 52-Week Lows Today?",
+    "excerpt": "Challenges across telecommunications, electric vehicles and building products weighed on investor sentiment.",
     "author": "Yahoo",
-    "popularity": "🔥 7小时前",
-    "link": "https://finnhub.io/api/news?id=007e14295cfa3651e24b695b767b174d145ce657df05ec35c28483c56a22a04e"
+    "popularity": "🔥 4小时前",
+    "link": "https://finnhub.io/api/news?id=df1fcb76aede778314456c56c831ca6302d4df37b4a4474fd60376cac43afa92"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【中美官员讨论互访核设施？外交部】与事实不符",
+    "excerpt": "10月9日，外交部发言人毛宁主持例行记者会。当地时间10月6日，美国有线电视新闻网报道称，中美官员近几个月来一直在讨论相互访问核相关设施的可能性，包括美国能源部国家实验室以及中国相应设施。会上，法新社记者就此提问。对此，毛宁表示：“有关报道",
+    "author": "中美官员讨论互访核设施？外交部",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,中美官员讨论互访核设施？外交部.html"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Elon Musk Reaffirms Control Over Terafab AI Chip Complex As Intel Rema",
-    "excerpt": "Key Stats for Intel StockPrice change for Intel stock in the last 6 months: 92%$INTC Stock Price as of Oct. 7: $11352-Week High: $142$INTC Stock Price",
+    "title": "[特斯拉] Tesla (TSLA) Stock Looks Stretched After Its 45% Three Year Run",
+    "excerpt": "Tesla has been a headline fixture again, with a mix of robotaxi expansion, regulatory scrutiny on Full Self Driving in Europe, and fresh attention on ",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=6159afa95db677b2eb4b1e7902c5298ff88442e68d193e26ba3f40ab792e4fea"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=c982d0d615b3e546dcdfd4338360702b0218bcb14b847fdc959d873dbecbded4"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【华鑫证券】首予沐曦股份“买入”评级，国产算力生态卡位加速兑现",
+    "excerpt": "华鑫证券研报指出，沐曦股份GPU出货放量推动业绩提升，国产算力生态卡位加速兑现。收入放量与费用优化共振，Q2单季扣非归母实现转正。AI算力需求向全流程延伸，多卡互连与软件生态成为竞争要素。根据头豹研究院的统计及预测数据，2021 至2030",
+    "author": "华鑫证券",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,华鑫证券.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Why Baidu Inc. (BIDU) Dipped More Than Broader Market Today",
     "excerpt": "Baidu Inc. (BIDU) concluded the recent trading session at $85.36, signifying a -1.94% move from its prior day's close.",
     "author": "Yahoo",
-    "popularity": "🔥 17小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=c8985f0932c4b20e0cf570a8652f3eba4b2a7bfadc1182f36673773a7c52c3f1"
   }
 ]
