@@ -1,58 +1,66 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Tech rebounds as AI trade jitters ease: AlphaCheck",
-    "excerpt": "Stocks bounced on Friday as AI jitters eased.",
+    "title": "[英伟达] Stocktwits Tech Watch: ASML, TSMC Earnings This Week And Apple’s Next ",
+    "excerpt": "ASML and TSMC earnings this week will offer clues about AI-chip demand and the outlook for Nvidia’s supply chain.",
     "author": "Yahoo",
-    "popularity": "🔥 24分钟前",
-    "link": "https://finnhub.io/api/news?id=3cd8bb14b81d857d4a7f55bd8ea6559db568473f3e08a59d47b2e6a27589b163"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=afee46c57656b64ce0cb815ca12f5ac0791b06c7b707bab2aaf82d49736fc3da"
   },
   {
     "source": "东财股吧",
-    "title": "【广电网络】法院受理债权人对公司的预重整申请",
-    "excerpt": "广电网络公告称，公司收到债权人西安广华通信技术有限公司送达的告知函，申请人以公司不能清偿到期债务511.33万元且明显缺乏清偿能力、仍具备重整价值为由，申请对公司进行预重整及重整。2026年10月9日，公司收到西安市中院作出的决定书，法院决",
-    "author": "广电网络",
+    "title": "【海尔周云杰】未来10年不仅是AI重塑工业，更是工业场景重新定义AI技术",
+    "excerpt": "在第26届工博会期间，海尔集团董事局主席、首席执行官周云杰表示，新时代先进制造，要把握三个核心关系。AI深度融入实体经济，拓宽了产业边界，要平衡好这三个重要关系。越智能，越要以人为本；越开放，越要自主自强；越融合，越要专业深耕。",
+    "author": "海尔周云杰",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,广电网络.html"
+    "link": "https://guba.eastmoney.com/list,海尔周云杰.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Jefferies Names its Top Pick in China Internet Sector",
-    "excerpt": "Investing.com -- Jefferies has named its top pick in the China Internet sector, citing solid execution across multiple business segments and accelerat",
+    "title": "[阿里巴巴] Is Alibaba (BABA) Quietly Reframing Its AI Story Through Tourism Robot",
+    "excerpt": "Amap, Alibaba Group’s location-based services platform, and Sands China recently delivered the first batch of “Tutu” robot dogs to serve as robotic gu",
     "author": "Yahoo",
-    "popularity": "🔥 6小时前",
-    "link": "https://finnhub.io/api/news?id=6a72837a6fda27709a0ad516db26ea71d5a821b3916cbde9af0600fea34bf166"
+    "popularity": "🔥 13小时前",
+    "link": "https://finnhub.io/api/news?id=9bffce75045a035cf716d3f2e2886be3627ac5c4de6df647bea4e8b130249f95"
   },
   {
     "source": "东财股吧",
-    "title": "【广电网络】公开招募重整投资人 推进预重整工作",
-    "excerpt": "广电网络公告称，西安市中院已受理申请人对公司提出的预重整申请，并指定公司清算组为预重整临时管理人。临时管理人现公开招募重整投资人，意向投资人需在2026年11月8日18时前提交报名材料并缴纳1000万元报名保证金。公司能否进入正式重整程序、",
-    "author": "广电网络",
+    "title": "【广康生化】公司二硝体试生产相关工作正按既定规划有序推进中",
+    "excerpt": "有投资者在互动平台向广康生化（300804.SZ）提问，公司的2硝体试产情况是否一切顺利，希望贵公司生产顺利，抓住近期2硝体翻倍涨价的热潮，多赚点钱10月12日，公司回答表示，公司二硝体试生产相关工作正按既定规划有序推进中。",
+    "author": "广康生化",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,广电网络.html"
+    "link": "https://guba.eastmoney.com/list,广康生化.html"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] 'EU Says Accord With China Could Cut Hybrid Car Exports by Half'- Bloo",
-    "excerpt": "https://www.bloomberg.com/news/articles/2026-10-09/eu-says-accord-with-china-could-cut-hybrid-car-exports-by-half",
-    "author": "Benzinga",
-    "popularity": "🔥 4小时前",
-    "link": "https://finnhub.io/api/news?id=91650e1b5017da9d4b6db7865fbd047820ace4a9a22958aaddcf5d679bb84dad"
+    "title": "[蔚来汽车] NIO: Q3 Surge, Delivery Boom Signals Big Earnings Win",
+    "excerpt": "NIO stock outlook: Q3 deliveries jumped 25.4% YoY, powered by Onvo/Firefly growth.",
+    "author": "SeekingAlpha",
+    "popularity": "🔥 1天前",
+    "link": "https://finnhub.io/api/news?id=b65808d9320c7a3bc013b80adb9ff1b8ec61646301e53c0a0d104d963617904f"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【英诺激光】超快激光钻孔设备2025年底在IC载板领域取得首台订单，今年上半年完成验收",
+    "excerpt": "近日，英诺激光（301021.SZ）发布投资者关系活动记录表。其中提到，公司超快激光钻孔设备凭借其30-100μm 等多种规格孔径的稳定加工、最高≥10000孔/秒的钻孔效率等优异性能，已于2025年底在 IC 载板领域取得首台订单，并于今",
+    "author": "英诺激光",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,英诺激光.html"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla rebrands Full Self-Driving as Tesla Assisted Driving in Europe",
-    "excerpt": "The automaker has begun using the new name on its European websites as it seeks regulatory approval across the continent",
+    "title": "[特斯拉] Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafa",
+    "excerpt": "Musk’s “high-risk, high-payoff” plan relies on a rapid loop of fabrication, testing, new masks, and redesigned chips.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=d583f92a5582bdad79139d859f6afa553c3b155edb4447bcfb24d3ccc092dff2"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=81e5e4d6649c7a5ef2fca05d9eaa52af4cd89e353bbaac8b0581e4aaf4858fab"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] Why Baidu Inc. (BIDU) Dipped More Than Broader Market Today",
-    "excerpt": "Baidu Inc. (BIDU) concluded the recent trading session at $85.36, signifying a -1.94% move from its prior day's close.",
+    "title": "[百度] China creates 10.52 million jobs, plans new AI and services employment",
+    "excerpt": "Investing.com -- China created 10.52 million urban jobs in the first nine months of 2026, reaching 87.7% of its annual target, as Beijing announced pl",
     "author": "Yahoo",
     "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=c8985f0932c4b20e0cf570a8652f3eba4b2a7bfadc1182f36673773a7c52c3f1"
+    "link": "https://finnhub.io/api/news?id=664f75fc67f81246e2a1610fc668f9319f254b987781c5c27928cc561e39d827"
   }
 ]
