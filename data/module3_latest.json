@@ -1,74 +1,50 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Stock Market Today: Micron, Sandisk Fall on China Memory News",
-    "excerpt": "Micron, Sandisk and SK Hynix fell after China’s CXMT reported progress on denser memory chips. Meta rallied on Muse Wonder as bank earnings kick off.",
-    "author": "ChartMill",
+    "title": "[英伟达] Bond Investors Are Wary of SpaceX's Borrowing Binge to Buy Nvidia Chip",
+    "excerpt": "The price of insuring against a SpaceX default is soaring.",
+    "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=ef29d9aa212ac6aeeb8f660273fca1c93daa065808d32fd189ccc501783f66b3"
+    "link": "https://finnhub.io/api/news?id=12a271e9df31b50b1a9b61b5bcdff0193d2e99ee8f37225e6de84c49072b6e9d"
   },
   {
     "source": "东财股吧",
-    "title": "【龙磁科技】公司已完成减持回购股份180.53万股，占总股本1.51%",
-    "excerpt": "龙磁科技公告，公司此前同意以集中竞价方式减持用于维护公司价值及股东权益的回购股份。截至2026年10月12日，已减持180.53万股，占总股本1.51%，成交金额2.76亿元，减持计划已实施完毕。减持所得资金将用于补充公司流动资金，本次减持",
-    "author": "龙磁科技",
+    "title": "【也门武装部队发言人】“也门黎明” 行动在多战线取得战场进展",
+    "excerpt": "也门武装部队发言人表示：“武装部队在‘也门黎明’行动框架下，于东部与南部战线持续推进攻势作战。在猛烈火力支援下取得战场进展，出动作战航空兵、无人机部队、野战炮兵、火箭系统以及狙击单位，共计实施 2200 次精确打击行动。打击重点为瓦解敌方防",
+    "author": "也门武装部队发言人",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,龙磁科技.html"
+    "link": "https://guba.eastmoney.com/list,也门武装部队发言人.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Nvidia AI chip share in China falls as Huawei catches up- Reuters",
-    "excerpt": "Investing.com-- Nvidia’s share of Chinese artificial intelligence chips fell in the first half of 2026 amid U.S. export controls and advancements by H",
-    "author": "Yahoo",
-    "popularity": "🔥 5小时前",
-    "link": "https://finnhub.io/api/news?id=3a6cd1bb01d3f581c6f0a0c6999eb7f328e2c511fc759080a8e3a265cdb7f1d4"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【华天酒店】杨宏伟辞任，邱君2026年当选董事长",
-    "excerpt": "华天酒店公告，董事长杨宏伟因工作调整辞去董事长、董事及相关委员会职务，辞职后不再在公司任职。公司于2026年10月13日召开董事会，选举邱君为第九届董事会董事长，法定代表人变更为邱君，公司将尽快办理工商登记变更手续。",
-    "author": "华天酒店",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,华天酒店.html"
+    "title": "[阿里巴巴] Nvidia Loses Ground in China as Huawei's AI Chip Shipments Nearly Doub",
+    "excerpt": "Nvidia&#39;s China AI chip shipments fell 44% as Huawei captured 28% market share, narrowing the gap with the U.S. chipmaker.",
+    "author": "Benzinga",
+    "popularity": "🔥 7小时前",
+    "link": "https://finnhub.io/api/news?id=4113357346e6cc4ab15a249f5752e7a5dd5054d3d992da7ad03f52536e91eb39"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Chinese automakers slide as weak September sales, EU hybrid curbs weig",
     "excerpt": "Investing.com -- Chinese automaker shares fell broadly on Tuesday as weak domestic vehicle sales and fresh European curbs on Chinese hybrid imports we",
     "author": "Yahoo",
-    "popularity": "🔥 5小时前",
+    "popularity": "🔥 9小时前",
     "link": "https://finnhub.io/api/news?id=2bbfda5000159083dcd5c1b7cdca01cfc274997fb5a5d2a90dfc78306319a05d"
   },
   {
-    "source": "东财股吧",
-    "title": "【云汉芯城】富海系基金拟减持不超过2.80%股份",
-    "excerpt": "云汉芯城公告，国科系基金计划于2026年11月4日至2027年2月3日通过集中竞价、大宗交易减持不超过84.65万股，占总股本1%；富海系基金拟通过集中竞价、大宗交易减持不超过237.02万股，占2.80%；武汉力源信息拟通过集中竞价减持不",
-    "author": "云汉芯城",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,云汉芯城.html"
-  },
-  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Cybertruck Deliveries Look Dismal Again, After Truck Called “Biggest F",
-    "excerpt": "Tesla buried Cybertruck sales inside a catch-all reporting category for years, but a quirk in Q3 2026 finally cracked it open, and what analysts found",
+    "title": "[特斯拉] Anthropic warns that AI models could self-replicate. Here's what to kn",
+    "excerpt": "The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss Anthropic's (ANTH.PVT) recent AI warning.",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=8884695272e6794772564c30e2606e31b69272bf5752faed8a512c047f265697"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【百通能源】拟收购鹤壁鼎炬100%股权",
-    "excerpt": "百通能源公告，公司全资子公司北京百通宏达能源集团有限公司拟以现金受让罗方承等5人合计持有的鹤壁鼎炬热能有限公司100%股权，价款合计1.5亿元。本次交易已获公司第四届董事会第十八次会议审议通过，无需提交股东会审议，尚需办理工商变更登记等手续",
-    "author": "百通能源",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,百通能源.html"
+    "link": "https://finnhub.io/api/news?id=9e1ce05495e25308c229e8caa32a3eaf536c9a0042781ce2313ad383fe8383f2"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] Baidu: A Value Trap With Robotaxi Call Option",
-    "excerpt": "Baidu faced a 36% YTD price decline due to shrinking search revenue and aggressive but less effective AI implementation. See why I rate BIDU stock a h",
-    "author": "SeekingAlpha",
+    "title": "[百度] 'Trump Administration Plans to Move AI Testing Agency Officials to Whi",
+    "excerpt": "https://www.theinformation.com/articles/trump-administration-plans-move-ai-testing-agency-officials-white-house",
+    "author": "Benzinga",
     "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=d6229d904e4db9c1bca6901b8aea34b574a48db52346d59fdb732601e5615acc"
+    "link": "https://finnhub.io/api/news?id=9bd9ef0c5315340f805b12e830315abbe33e2c6a688094d3271f9635cba8214d"
   }
 ]
