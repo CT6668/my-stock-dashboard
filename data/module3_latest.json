@@ -1,58 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Why Micron Stock Dropped on Monday",
-    "excerpt": "CXMT plans a new DRAM product targeting the AI market before end of 2026.",
+    "title": "[英伟达] NOK, BB Stocks In Focus: Jim Cramer Expresses Confidence In Nokia, Bla",
+    "excerpt": "Jim Cramer backed Nokia and BlackBerry, citing AI infrastructure and software growth.",
     "author": "Yahoo",
-    "popularity": "🔥 48分钟前",
-    "link": "https://finnhub.io/api/news?id=2007cdc09dc12fa4211e448d85ec1d9f11971f9398f5566e490f4ac714fa10ad"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=809d1c5dfc663bfedb3712fd28ea7be9915bc4c10487f3fcbc0141f756a5a662"
   },
   {
     "source": "东财股吧",
-    "title": "【国际移民组织】也门流离失所人数超21.7万",
-    "excerpt": "国际移民组织10月12日表示，自9月初也门西海岸冲突升级以来，截至10月12日，该机构已记录了217303名流离失所者，其中超过一半（55%）在塔伊兹省。（央视新闻）",
-    "author": "国际移民组织",
+    "title": "【三湘印象】持股5%以上股东黄卫枝解除质押3000万股",
+    "excerpt": "三湘印象公告称，公司持股5%以上股东黄卫枝办理完成部分股份解除质押手续，本次解除质押股份数量为3000万股，占其所持股份比例19.79%，占公司总股本比例2.54%，质权人为西藏信托有限公司，解除日期为2026年10月12日。截至公告披露日",
+    "author": "三湘印象",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,国际移民组织.html"
+    "link": "https://guba.eastmoney.com/list,三湘印象.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Tim Cook Meets China’s Vice Premier as Apple Doubles Down on Its Bigge",
-    "excerpt": "Apple&#39;s Tim Cook met China&#39;s Vice Premier He Lifeng to discuss business cooperation and stable US-China economic and trade relations.",
-    "author": "Benzinga",
-    "popularity": "🔥 7小时前",
-    "link": "https://finnhub.io/api/news?id=1ef36dea70100bbe2b241dbd02731f85f68944a591bf6d34af2af6d6076a3431"
+    "title": "[阿里巴巴] Is Alibaba's AI Capex Push a Catalyst or a Risk for the Stock?",
+    "excerpt": "BABA's AI capex push targets massive cloud expansion and rising AI revenues, but soaring costs and cash outflows put its three-year payback goal in fo",
+    "author": "Yahoo",
+    "popularity": "🔥 15小时前",
+    "link": "https://finnhub.io/api/news?id=dc4476f6391b0be43226a2ba99812c76baa9a0e54ea48c9e665279514afe3ab6"
   },
   {
     "source": "东财股吧",
-    "title": "【英国首相】考虑对沙特提供进一步支援",
-    "excerpt": "英国首相伯纳姆12日表示，英国将对沙特阿拉伯提出的任何进一步支援请求予以考虑。伯纳姆当天在议会表示，英国将根据沙特提出请求的具体情况，考虑提供进一步支援。沙特阿拉伯近期遭到也门胡塞武装袭击，该国已请求法国、英国、巴基斯坦和埃及向该地区支援防",
-    "author": "英国首相",
+    "title": "【润都股份】枸橼酸莫沙必利获批，编号2026YS00961",
+    "excerpt": "润都股份公告，公司于2025年1月递交枸橼酸莫沙必利境内生产化学原料药上市申请，2025年10月收到补充研究通知并于2026年2月完成补充研究、递交资料。公司近日获得国家药品监督管理局签发的《化学原料药上市申请批准通知书》，该品种获准注册。",
+    "author": "润都股份",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,英国首相.html"
+    "link": "https://guba.eastmoney.com/list,润都股份.html"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] Why Are Nasdaq Futures Rising Premarket? MU, IREN, SLS, NIO, ASTS, WFF",
-    "excerpt": "On Stocktwits, retail sentiment toward SPY and QQQ has moderated to ‘bullish’.",
+    "title": "[蔚来汽车] Chinese automakers slide as weak September sales, EU hybrid curbs weig",
+    "excerpt": "Investing.com -- Chinese automaker shares fell broadly on Tuesday as weak domestic vehicle sales and fresh European curbs on Chinese hybrid imports we",
     "author": "Yahoo",
-    "popularity": "🔥 7小时前",
-    "link": "https://finnhub.io/api/news?id=ddeb439fe9e75963d3077e25d50a4cbdc61d64bf50e4b6b5339a84c6c8b88c29"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=2bbfda5000159083dcd5c1b7cdca01cfc274997fb5a5d2a90dfc78306319a05d"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【中国机电产品进出口商会】对此次磋商取得的积极成果表示完全支持和高度赞赏",
+    "excerpt": "近日，中欧贸易投资磋商机制第二次例会在北京成功举行。双方围绕多项议题开展对等、专业、建设性的会谈，形成多项成果共识。中国机电产品进出口商会对此次磋商取得的积极成果表示完全支持和高度赞赏。中国机电商会特别注意到，双方在汽车贸易领域达成了重要共",
+    "author": "中国机电产品进出口商会",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,中国机电产品进出口商会.html"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Tesla, General Motors, Other US Automakers Expected to Benefit From Re",
-    "excerpt": "Tesla (TSLA) and other US auto original equipment manufacturers, excluding Rivian Automotive (RIVN)",
+    "title": "[特斯拉] Tesla (TSLA) Declines More Than Market: Some Information for Investors",
+    "excerpt": "Tesla (TSLA) reached $378.03 at the closing of the latest trading day, reflecting a -1.22% change compared to its last close.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=7f0f04b8b40445b45d18ff5fe7e6bec94b85b33a76fcfe70f5d37d12f3c96f68"
+    "popularity": "🔥 11小时前",
+    "link": "https://finnhub.io/api/news?id=ba74632e198843d24104d71f05fc953bf84a8462d2fe2f0740ae255e17cf6e9e"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【中航高科】调整公司组织机构及部门职责",
+    "excerpt": "中航高科公告称，公司第十一届董事会2026年第九次会议审议通过组织机构及部门职责调整议案。具体调整包括：成立市场部；证券与资本部调整为证券事务办公室，挂靠规划发展部；科技与流程化部更名为科技与数智化部；成立国际合作办公室，挂靠综合管理部/党",
+    "author": "中航高科",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,中航高科.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Baidu: A Value Trap With Robotaxi Call Option",
     "excerpt": "Baidu faced a 36% YTD price decline due to shrinking search revenue and aggressive but less effective AI implementation. See why I rate BIDU stock a h",
     "author": "SeekingAlpha",
-    "popularity": "🔥 12小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=d6229d904e4db9c1bca6901b8aea34b574a48db52346d59fdb732601e5615acc"
   }
 ]
