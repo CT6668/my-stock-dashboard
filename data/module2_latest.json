@@ -1,90 +1,98 @@
 [
   {
     "sector": "综合",
-    "title": "新加坡海峡时报指数收盘下跌0.1%，报5423.33点。",
-    "summary": "新加坡海峡时报指数收盘下跌0.1%，报5423.33点。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "新能源",
-    "title": "德业股份：预计2026年前三季度净利润同比增长79.81%到84.07%",
-    "summary": "德业股份公告，预计2026年前三季度归母净利润为42.2亿元到43.2亿元，上年同期为23.47亿元，同比将增长79.81%到84.07%；扣非净利润为39.5亿元到40.6亿元，上年同期为22.79亿元，同比将增长73.33%到78.16",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "蚂蚁灵波与隆盛唯睿、德马科技等多家企业达成合作",
-    "summary": "10月14日，界面新闻获悉，蚂蚁灵波近期与隆盛科技控股子公司隆盛唯睿、德马科技及德尔股份旗下机器人公司德迩象网等企业达成战略合作，涉及智能制造、现代物流等领域。目前，蚂蚁灵波开源模型在GitHub累计获得3.29万颗Star，旗下LingB",
+    "title": "美国两年期国债收益率触及9月29日以来最高水平，最新上涨12.72个基点，报4.92%。",
+    "summary": "美国两年期国债收益率触及9月29日以来最高水平，最新上涨12.72个基点，报4.92%。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "金融",
-    "title": "【9月CPI、PPI同比涨幅均扩大！红利低波ETF华泰柏瑞（512890）逆势上涨近5年回报超51％",
-    "summary": "居同类前列】10月14日，市场整体走弱，双创指数均跌超3％，沪指下跌0.88％。在此背景下，红利低波ETF华泰柏瑞（512890）逆势上涨0.57％，报1.231元，换手率2.44％，成交额7.88亿元，居同类标的ETF首位。消息面上，国家",
+    "title": "美国银行预计，到2027年6月将有三次加息。",
+    "summary": "美国银行预计，到2027年6月将有三次加息。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
-    "sector": "创新药",
-    "title": "标普生物科技ETF嘉实：二级市场交易价格溢价风险提示",
-    "summary": "标普生物科技ETF嘉实公告称，2026年10月14日，本基金二级市场收盘价为1.544元，收盘时基金份额参考净值（IOPV）为1.4566元，二级市场交易价格明显高于基金份额参考净值，出现较大幅度溢价。若2026年10月15日溢价幅度未有效",
+    "sector": "金融",
+    "title": "美国银行盘前股价跌幅扩大至7%以上。",
+    "summary": "美国银行盘前股价跌幅扩大至7%以上。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "金融",
+    "title": "美国银行首席执行官称：商业银行贷款各板块均实现增长，从小企业业务到对公银行业务无一例外。",
+    "summary": "美国银行首席执行官称：商业银行贷款各板块均实现增长，从小企业业务到对公银行业务无一例外。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "壳牌位于科鲁尼亚的制造中心报告称，已开始为期约两周的计划内维护。",
+    "summary": "壳牌位于科鲁尼亚的制造中心报告称，已开始为期约两周的计划内维护。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "汽油贡献美国通胀涨幅的一半以上",
+    "summary": "9 月汽油价格大涨 9.1%，包含柴油在内的燃料油飙升 15.3%。 能源成本拉动当月居民消费价格指数（CPI）半数以上涨幅，推动通胀同比升至 3.7%。 10 月燃油价格居高不下，预示 11 月 3 日中期选举前通胀压力持续存在。 汽油价",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "金融",
+    "title": "美国银行首席财务官：仍预计美国银行将达到全年净利息收入指引。",
+    "summary": "美国银行首席财务官：仍预计美国银行将达到全年净利息收入指引。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "英国外交部现已建议勿前往亚马逊州以及哥伦比亚边境40公里（25英里）范围内的所有区域出行。",
+    "summary": "英国外交部现已建议勿前往亚马逊州以及哥伦比亚边境40公里（25英里）范围内的所有区域出行。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "政策",
-    "title": "龙江交通：连续三个交易日涨幅偏离值累计超过20%，核查未发现重大事项",
-    "summary": "龙江交通公告，公司股票在2026年10月12日、10月13日、10月14日连续三个交易日收盘价格涨幅偏离值累计超过20%，构成异常波动。公司称主营业务及生产经营活动正常，市场环境、行业政策没有发生重大调整，未发现市场传闻、热点概念及应披露未",
+    "title": "李乐成调研长鑫科技并主持召开座谈会",
+    "summary": "安徽省委书记李乐成10月14日下午赴长鑫科技集团股份有限公司调研并主持召开座谈会。座谈会上，长鑫科技负责人介绍发展情况，与会人员进行了讨论。在认真听取发言后，李乐成指出，集成电路产业是支撑经济社会发展和保障国家安全的战略性、基础性和先导性产",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
-    "sector": "综合",
-    "title": "湖南发展：预计2026年前三季度净利润同比增长290.45%～352.92%",
-    "summary": "湖南发展公告，预计2026年前三季度归母净利润25000～2.9亿元，较2025年同期（重组前）增长290.45%～352.92%；扣非净利润18900～2.29亿元，较2025年同期（重组前）增长194.68%～257.04%。业绩增长主",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "一集装箱船在霍尔木兹海峡触雷沉没",
-    "summary": "伊朗伊斯兰革命卫队发表声明说，一艘集装箱船在霍尔木兹海峡南部水域触雷后起火沉没。（新华社）",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "箭牌家居：控股股东乐华恒业投资增持计划期限过半，已增持203.06万股",
-    "summary": "箭牌家居公告，控股股东乐华恒业投资此前计划在增持计划公告披露之日起6个月内增持公司股份，金额不低于人民币1000万元且不高于人民币1500万元。2026年7月15日至2026年10月14日期间，乐华恒业投资累计增持203.06万股，占公司总",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "政策",
-    "title": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲",
-    "summary": "国务院总理李强10月14日下午在广州出席第140届中国进出口商品交易会（广交会）开幕式并发表主旨演讲。李强表示，今年是广交会创办70周年。习近平主席专门发来贺信，充分肯定广交会取得的成绩，重申中国扩大高水平开放的坚定决心。透过广交会这扇“窗",
+    "sector": "黄金",
+    "title": "美国通胀报告发布后，黄金跌幅扩大至1.6%。",
+    "summary": "美国通胀报告发布后，黄金跌幅扩大至1.6%。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
+    "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit - R",
+    "summary": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit  Reuters",
+    "source": "Reuters",
+    "time": "2小时前",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3VzaTd1VDVxNXczQ2FRa2FsXzdOV0Y5ZlFoaUthcVJhUnlFMHROUUMtWWZzUGZNWFd5WVNZbnJyZ3A4azRaUzNabVQ1U2ZMMmNYTzM1R2ZoeDF5dVQ0Q3FldDNEMW5lVC1oaVQ3Rmdaei01eS1GaFVla0prYUVZeEtJZlBZV2hoUm8yVTJNR3RYSXlhZTBPVWswNmdTWE5nclRiSldzUE91cXNZbzRGZzVOSFpMX294VWs3UlFpV2Q1Z09xTnl4Rw?oc=5"
+  },
+  {
+    "sector": "人工智能",
     "title": "Trump campaigns in Alaska, a conservative state feeling the pinch of high energy prices - ",
     "summary": "Trump campaigns in Alaska, a conservative state feeling the pinch of high energy prices  Reuters",
     "source": "Reuters",
-    "time": "6小时前",
+    "time": "9小时前",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLU1Cd0VNaHE0QjZ4LWRzYXExZTVlVm44cFVjXzVFQkNUelBMT09vcURKc1pvejJJb0g4UkhxVGMtSnFVUGJfS2Z0cDY1VFN1RklrUGR0MzVTZUJvdThHTXdkbmE5TkFCOTB2ZDNxdm5kVWpxaEVlbk5QTW05ZkdOOUJQT3BhakdVcWhoVzgzdGVhdml4c240ck12SXdXT1Nid2l5Q282azQ5SjVSdHBTekFuTU1NeXB1aVZFazBkdkNjS0VX?oc=5"
   },
   {
@@ -92,7 +100,7 @@
     "title": "Zelenskiy visits Britain as Burnham pledges fresh support for Ukraine - Reuters",
     "summary": "Zelenskiy visits Britain as Burnham pledges fresh support for Ukraine  Reuters",
     "source": "Reuters",
-    "time": "11小时前",
+    "time": "15小时前",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXAydE50SVUtc1ZfYlVwNW5GcjJsZngtang1RVZjdGpRMUdKT3MwZ2kxa3NYM1E3ODNNbG8wZ21CUXN6Y3UzU1Vwa05mODBtOURWQWo1dFE3TE95U2tsS2t6NE9YMUljS21QeTB2ZUMwN2YtYTNZd3lNa2hjNF9rYlpHdGJDSEtvSElNWDJnbGdHeU03ZXZ4WDRHTVJrZ0xsRjhuRUJyd2dUaUU?oc=5"
   },
   {
@@ -100,7 +108,7 @@
     "title": "In Yemen's Taiz, shelling worsens and prices spiral - Reuters",
     "summary": "In Yemen's Taiz, shelling worsens and prices spiral  Reuters",
     "source": "Reuters",
-    "time": "11小时前",
+    "time": "15小时前",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2FlSHhCeHdBNFJVdTB4TndzdEgweWtZcktCbmVrOTRpOGNzRXVlLUplRUFqX0QzU1dCcjJQX3hHdVVFeHdHOWVjM0o1VG5FcXdwSGE2Y0pFRmpBb19lbml2T3FqY0x4VEs0NThJdFJRZVAteGlvRjhkRE1JUm0xdEZZaTE0akRfbjhQb1d4RHluWHRHeVdyZWg4MnY?oc=5"
   },
   {
@@ -108,15 +116,7 @@
     "title": "United Airlines is making it harder to reach its top frequent flyer status in 2027",
     "summary": "United Airlines is doing away with flight segment as a way to reach Premier status and increasing the spending requireme",
     "source": "CNBC",
-    "time": "12小时前",
+    "time": "15小时前",
     "link": "https://www.cnbc.com/2026/10/13/united-flight-segments-earn-elite-status.html"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Bank of America fined $1.2 billion by US government for failing to police suspicious activ",
-    "summary": "Bank of America fined $1.2 billion by US government for failing to police suspicious activity  Reuters",
-    "source": "Reuters",
-    "time": "12小时前",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlFNN0pWVFc2UEQ3a2ViakktenQxdzQwRm9FMFh4azdJOC1jM3FQUDBCbGxmdmw3UUNyWmt3OEhxV1JtVWQzeTFlY3RZZURYc3VZazU2aURrUXBsXzdYS3pDQ2o0aTdhemI0WDgzeTJncUUxZ05ZdEZrYXJidXNNYV9ScGIyTENZeklySS1wRnFLNWpkYTRadkxOQjVLNVpVX00zMTg0WXNScE91MFVITFVYRldudzN4UTFWQjhPTlV1VjlGZ0FqcQ?oc=5"
   }
 ]
