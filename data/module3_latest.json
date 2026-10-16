@@ -1,42 +1,50 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] 3 AI Infrastructure Stocks to Buy Right Now and Hold for 10 Years",
-    "excerpt": "Nvidia, AMD, and TSMC are three top AI stocks to own for the next decade.",
+    "title": "[英伟达] OpenAI's 2026 Revenue Estimate Just Got Cut by $20 Billion. Anthropic'",
+    "excerpt": "Anthropic is on the upswing, while OpenAI is struggling.",
     "author": "Yahoo",
-    "popularity": "🔥 46分钟前",
-    "link": "https://finnhub.io/api/news?id=8f6e16b7616a6c2efcb799ea4703b767aa27e9b15e69c26333dd5a4cc40e1eae"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=20cc84797f33084cbe9886219673ef96885263eb782de0b9bc88d159cbed1b03"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【上交所副总经理苑多然】积极推动主动ETF落地 挂牌基金总市值达3.5万亿",
+    "excerpt": "上海证券交易所副总经理苑多然在今日举办的全球财富管理论坛2026上海苏河湾大会上表示，截至今年9月，上交所挂牌基金1124支，总市值3.5万亿，1-9月成交额65.4万亿，其中ETF成交额和市值分居亚洲第一和第三，成为中长期资金配置的重要底",
+    "author": "上交所副总经理苑多然",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,上交所副总经理苑多然.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Apple Intelligence Gets a China Launch Date, but Apple’s China Sales W",
-    "excerpt": "Apple (AAPL:NASDAQ) chairman Tim Cook said on Thursday, October 15, that a test version of Apple Intelligence will reach users in China later this mon",
+    "title": "[阿里巴巴] Alibaba vs. Coupang: Which E-Commerce Giant Is a Better Buy in 2026?",
+    "excerpt": "Alibaba is down sharply in 2026 on heavy AI spending and mounting legal concerns. Coupang faces a record fine, perjury investigations, and shareholder",
     "author": "Yahoo",
-    "popularity": "🔥 48分钟前",
-    "link": "https://finnhub.io/api/news?id=412f00e4e2777aa001836b58b98a1e640bcd1ee28bc0bde49ab03387f65b07fe"
+    "popularity": "🔥 11小时前",
+    "link": "https://finnhub.io/api/news?id=0f48299ac4f5c96e9ce7d566879c1378b1c6a02075d46373c9ccdae485621e4c"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Li Auto: Upside Catalyst If Deliveries Boom And Margins Rebound",
     "excerpt": "Li Auto Q3 deliveries hit 99,964 on refreshed L-Series demand. Click here to read this latest analysis on LI stock.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 20小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=6a486c5653de365b90b86f1ac76ff330ca5b2bf91eef0fb390643fb8bba95cd4"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Battery Stocks Earnings Preview: Tesla’s Premium Multiple vs. Deep-Val",
-    "excerpt": "Battery stocks split: Tesla’s rich valuation vs. cheap lithium names GM, SQM and Albemarle with strong cash flow and low forward P/Es.",
-    "author": "ChartMill",
-    "popularity": "🔥 29分钟前",
-    "link": "https://finnhub.io/api/news?id=180cd8241093627948c835b8daa69527d3b9831299c4725c37504f8c26634201"
+    "title": "[特斯拉] TSLA Stock Gets Some Thrust From ‘Flying’ Roadster Reveal — Munster Ca",
+    "excerpt": "Tesla outlined Performance, Thrust and flight-capable Rocket versions, showcasing a 0-60 mph time of 0.81 seconds.",
+    "author": "Yahoo",
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=a0a6bb0767d88cd66b9a35939cf167c42877776558c0eb4d8898ce9d81a72869"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] 'Trump Administration Plans to Move AI Testing Agency Officials to Whi",
-    "excerpt": "https://www.theinformation.com/articles/trump-administration-plans-move-ai-testing-agency-officials-white-house",
-    "author": "Benzinga",
-    "popularity": "🔥 2天前",
-    "link": "https://finnhub.io/api/news?id=9bd9ef0c5315340f805b12e830315abbe33e2c6a688094d3271f9635cba8214d"
+    "title": "[百度] Baidu (BIDU) Stock May Be Fairly Valued On Fresh AI Lawsuit Pressure",
+    "excerpt": "Baidu has seen its share price fall hard over several years, and that drop now puts the focus squarely on whether the current valuation still lines up",
+    "author": "Yahoo",
+    "popularity": "🔥 9小时前",
+    "link": "https://finnhub.io/api/news?id=e081692404cbb339f359b91be0eac9656268462d1573b0a2a6d7af62311bceff"
   }
 ]
