@@ -1,19 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the N",
-    "excerpt": "Iren has multiple bullish catalysts, and most of the bearish concerns are actually bullish on a closer look.",
+    "title": "[英伟达] Nebius Stock Has Fallen About 40% From Its Record. Here's Why I'm Stil",
+    "excerpt": "Has the AI cloud specialist's stock finally fallen far enough to buy?",
     "author": "Yahoo",
-    "popularity": "🔥 57分钟前",
-    "link": "https://finnhub.io/api/news?id=4d9a938a09a81f7e6ee1a99cc4d0b52c833ca0e75c0927569809bc92ed67f522"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=38b918beea7024a41bab623d73682ac17b3196b4f310bf4b22e775b99ee40d89"
   },
   {
     "source": "东财股吧",
-    "title": "【主力资金】中盘板块净流出超90亿",
-    "excerpt": "截至目前，今日主力资金净流出84.15亿；净流入大盘股、上证50、人形机器人等板块，其中大盘股板块净流入58.95亿；净流出中盘、融资融券、转融券标的等板块，其中中盘板块净流出90.20亿。",
-    "author": "主力资金",
+    "title": "【明新旭腾】明新资产拟向张亚飞协议转让930万股，占总股本5.73%",
+    "excerpt": "明新旭腾公告，2026年10月18日，持股5%以上股东浙江明新资产管理有限公司与张亚飞签署协议，拟以17.5元/股的价格转让930万股，转让对价1.63亿元。交易尚需取得上交所合规性确认并办理股份过户登记；完成后，明新资产持股比例将由14.",
+    "author": "明新旭腾",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,主力资金.html"
+    "link": "https://guba.eastmoney.com/list,明新旭腾.html"
   },
   {
     "source": "BABA·雪球",
@@ -25,11 +25,11 @@
   },
   {
     "source": "东财股吧",
-    "title": "【国家网信办】开展未成年人用户数量巨大和对未成年人群体具有显著影响的网络平台服务提供者认定工作",
-    "excerpt": "国家网信办发布公告，为进一步强化未成年人网络保护，压实网络平台主体责任，根据《未成年人网络保护条例》《未成年人用户数量巨大和对未成年人群体具有显著影响的网络平台服务提供者认定办法》等相关要求，现启动认定工作。网络平台服务提供者按照认定标准和",
-    "author": "国家网信办",
+    "title": "【广电网络】新增逾期金融债务1.63亿元 累计逾期3.63亿元",
+    "excerpt": "广电网络公告称，截至2026年9月30日，公司已偿还此前逾期金融债务合计2616.12万元。截至公告披露日，公司新增逾期金融债务合计1.63亿元，占最近一期经审计净资产的30.05%；逾期金融债务累计3.63亿元，占最近一期经审计净资产的6",
+    "author": "广电网络",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,国家网信办.html"
+    "link": "https://guba.eastmoney.com/list,广电网络.html"
   },
   {
     "source": "NIO·WSB",
@@ -40,19 +40,35 @@
     "link": "https://finnhub.io/api/news?id=3175dd05d793521c6de0818191f0f699710a4c7da5464a984d1cb4091457f597"
   },
   {
+    "source": "东财股吧",
+    "title": "【中广核技】副总经理王西坡辞职",
+    "excerpt": "中广核技公告称，公司于2026年10月19日收到副总经理王西坡提交的书面辞职报告，王西坡因工作调动申请辞去副总经理职务，辞职后不再担任公司任何职务，辞职报告自送达公司董事会之日起生效。截至公告披露日，王西坡未持有公司股份，不存在应当履行而未",
+    "author": "中广核技",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,中广核技.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] INTC, AMD, MU, SNDK: US Chip Stocks Rebound After Worst Week Since Mar",
-    "excerpt": "Chipmakers recover as investors brace for major earnings reports.",
+    "title": "[特斯拉] TSLA, SPCX Eye Green Open: Gary Black Predicts $420 SpaceX Buyout Of T",
+    "excerpt": "Gene Munster also interpreted the Roadster showcase as another sign of Musk’s desire to combine Tesla and SpaceX.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=39a3e45fe00cb49aa7b5fb6765d12adce7a0d00e6d079aa5a6ef77cfab9f604b"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=d82a16fbf9f98a70d8af3d1ac840f9292639fb326ae466eedf8f796a01d03038"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【北大医药】瑞舒伐他汀依折麦布片获批，文号H20266204",
+    "excerpt": "北大医药公告，公司近日收到国家药品监督管理局核准签发的瑞舒伐他汀依折麦布片《药品注册证书》，该药品获准注册，批准文号为国药准字H20266204，规格为每片含瑞舒伐他汀钙10mg与依折麦布10mg，主要用于高胆固醇血症、纯合子型家族性高胆固",
+    "author": "北大医药",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,北大医药.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Citi sees resilient demand for Chinese AI IPOs despite valuation conce",
     "excerpt": "Investing.com -- Chinese artificial intelligence supply-chain companies are expected to continue pursuing Hong Kong listings despite growing valuation",
     "author": "Yahoo",
-    "popularity": "🔥 1天前",
+    "popularity": "🔥 2天前",
     "link": "https://finnhub.io/api/news?id=c34277f8df5dc4c76042c4b97a218049e2e125b98727fe16a7cd1f7d44b2f7eb"
   }
 ]
