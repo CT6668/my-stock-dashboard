@@ -1,42 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] DayOne Supports NVIDIA DSX POD Reference Design, Advancing Standardize",
-    "excerpt": "DayOne Data Centers Limited (\"DayOne\"), a Singapore-headquartered global digital infrastructure platform, today announced that its proprietary integra",
+    "title": "[英伟达] Does Super Micro's Big Quarter Make Nvidia Stock a Buy?",
+    "excerpt": "What does an AI server maker beating its own forecast by about $4 billion say about the chip giant it builds around?",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=0e873aafb7004e7448e372fe3c3340d5f5bc496e9144f3534c02129d4181219b"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=c72257a2df8856353d46408ccff70c29bfd4a0f0a30cefcdd521fe29e941ec8f"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【博汇股份】股票交易异常波动 无应披露未披露重大事项",
+    "excerpt": "博汇股份公告称，截至2026年10月22日，公司股票连续两个交易日收盘价格涨幅偏离值累计超过30%，属于股票交易异常波动情形。经自查并向控股股东、实控人核实，前期披露信息无需更正补充，未发现对股价有较大影响的未公开重大信息，近期生产经营正常",
+    "author": "博汇股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,博汇股份.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Better Retail Stock for 2026: Alibaba vs. Walmart",
     "excerpt": "Alibaba trades at a steep discount on valuation metrics but carries geopolitical risks, while Walmart's scale and cash generation come at a premium pr",
     "author": "Yahoo",
-    "popularity": "🔥 6小时前",
+    "popularity": "🔥 9小时前",
     "link": "https://finnhub.io/api/news?id=3030abbba0230046641545a84e8b433199c12228b3a7c23e02a83f4d355f41ea"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【航亚科技】披露向不特定对象发行可转债网上中签结果",
+    "excerpt": "航亚科技公告称，公司向不特定对象发行可转换公司债券的网上发行中签摇号仪式已完成，摇号结果经上海市东方公证处公证。本次网上中签号码共149211个，每个中签号码可认购1手（1000元）航亚转债，中签号码涵盖末5位至末10位不同位数配号。",
+    "author": "航亚科技",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,航亚科技.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] NIO Inc. (NIO) is Attracting Investor Attention: Here is What You Shou",
     "excerpt": "NIO (NIO) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock'",
     "author": "Yahoo",
-    "popularity": "🔥 18小时前",
+    "popularity": "🔥 21小时前",
     "link": "https://finnhub.io/api/news?id=1a55b9b22e0fe536701731b86f13e9fec729f6219d96838ce22bdacd6975d767"
   },
   {
+    "source": "东财股吧",
+    "title": "【天洋新材】公司生产经营正常",
+    "excerpt": "天洋新材公告，公司股票于2026年10月20日、10月21日、10月22日连续三个交易日内收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。经自查并书面征询控股股东及实际控制人，截至本公告披露日，不存在应披露而未披露的重大事项或重要信",
+    "author": "天洋新材",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,天洋新材.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Elon Musk’s endorsement of SpaceX-Tesla merger sparks insider concerns",
-    "excerpt": "Investing.com-- Elon Musk’s public endorsement of a potential merger between SpaceX and Tesla has rattled some insiders with the prospect of more regu",
+    "title": "[特斯拉] Tesla Cuts 2026 Capex to $20 Billion, but Q4 Could Still Be Its Bigges",
+    "excerpt": "Tesla (TSLA:NASDAQ) generated $1. 53 billion of free cash flow in the third quarter, a quarter Wall Street expected to burn $4.",
     "author": "Yahoo",
-    "popularity": "🔥 46分钟前",
-    "link": "https://finnhub.io/api/news?id=4d6dd98a1fcace17776694e72aa3e7ac8f335b011593dad008b295b5caaa5f11"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=2bae63e563af5041d6bc616eb5e14bf4ff99f392232dacc87e0b7b486eec0688"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【海光信息沙超群】公司在手订单充足 行业算力基础设施加速扩容",
+    "excerpt": "海光信息董事、总经理沙超群在今日举行的业绩会上回答投资者提问表示，公司截至三季度末合同负债的减少，主要系公司根据合同约定完成了相关产品的交付。客户支付预付款并不是公司与客户合作的普遍结算方式，而是部分客户基于特定项目安排支付的预付款；随着相",
+    "author": "海光信息沙超群",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,海光信息沙超群.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Baidu (BIDU) Expands Its AI Business, but the Core Revenue Recovery Re",
     "excerpt": "Baidu, Inc. (NASDAQ:BIDU) is expanding autonomous driving and AI services while its traditional business stays under pressure. That raises a hard valu",
     "author": "Yahoo",
-    "popularity": "🔥 16小时前",
+    "popularity": "🔥 19小时前",
     "link": "https://finnhub.io/api/news?id=99bf3b3733fdcb39e28a49e4ceba7766c3d768f3a0c416a1333cdda909f24059"
   }
 ]
