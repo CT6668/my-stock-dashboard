@@ -1,34 +1,42 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Bloom Energy Stock Has Plunged Despite Explosive Growth. Is It Time to",
-    "excerpt": "Diagnosing the recent disconnect between Bloom Energy's earnings and stock price.",
+    "title": "[英伟达] Elon Musk Says SpaceX Is Now a \"Super Intelligence\" Company",
+    "excerpt": "SpaceX has undergone a radical transformation, and it appears to be making the company stronger.",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=690f4eb2d6c63b17af7a896f0295d384d5cfe3853dad3f2ecdf1f6c14e58bc8c"
+    "link": "https://finnhub.io/api/news?id=c52cce38f6f6b6e1fb3522c42a108f9d7303b1dd9aec9642f1227b31fe15ab78"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Alibaba Wins Court Ruling Against Pentagon Restriction, But BABA Stock",
-    "excerpt": "A U.S. judge ordered the government to stop enforcing a ban on the Pentagon doing business with any company that engages in “lobbying activities” for ",
-    "author": "Yahoo",
+    "title": "[阿里巴巴] Alibaba: At $100, The Market Is Pricing The Bear Case",
+    "excerpt": "Alibaba's cloud segment is the primary growth driver, posting 45% revenue growth and margin improvement. Read why BABA stock is a Buy.",
+    "author": "SeekingAlpha",
     "popularity": "🔥 4小时前",
-    "link": "https://finnhub.io/api/news?id=471e9210e5cd7a245fbc89aa280db0f063d813099e34c420660017cb69f591c4"
+    "link": "https://finnhub.io/api/news?id=90188328d1838b6c98743199baff932d12718415e064d84a324225836ad9276c"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] Why Did CRWV, IREN, NIO Stocks Slump To 52-Week Lows Today?",
-    "excerpt": "CoreWeave, IREN and NIO fell to 52-week lows on Monday amid a negative outlook for neoclouds and mounting industry pressures for EV companies.",
+    "title": "[蔚来汽车] TSLA Stock Is October’s Mag 7 King — But 2 Motorcycle Stocks Race Past",
+    "excerpt": "Tesla’s rally comes after stronger-than-expected deliveries, an earnings beat, Robotaxi progress and speculation about a SpaceX merger.",
     "author": "Yahoo",
-    "popularity": "🔥 9小时前",
-    "link": "https://finnhub.io/api/news?id=c459f65d88a07fc00b38f2a906dad6ac66eadd3e940713e92cb3aaaa207cb364"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=ec879e156498be887890b4a703056800206633615ea405a9214329ba04f97755"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] This Week In Energy Transition - SunPower Expands in Texas with Strate",
-    "excerpt": "SunPower Inc. has announced an expansion in Texas by acquiring project assets from Greenlight Solar and partnering with SOLRITE Energy, aimed at enhan",
+    "title": "[特斯拉] Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Mic",
+    "excerpt": "The S&P 500 reclaimed a key level as Tesla and growth stocks rallied. The Federal Reserve, Microsoft, Google on deck.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=ab4ffa0edd62d50b40caa1d1b0199667bd16f9bec6f23f1b6c4eef38ce9ead69"
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=35cd3de41f93368fac2dccf4962b77ea34ec2bf61b91d95cbdc0d308a9922dae"
+  },
+  {
+    "source": "BIDU·雪球",
+    "title": "[百度] Baidu to Report Third Quarter 2026 Financial Results on November 16, 2",
+    "excerpt": "Baidu, Inc. (Nasdaq: BIDU; HKEX: 9888 (HKD Counter) and 89888 (RMB Counter)) (\"Baidu\" or the \"Company\"), a leading AI company with strong Internet fou",
+    "author": "Yahoo",
+    "popularity": "🔥 21小时前",
+    "link": "https://finnhub.io/api/news?id=a812a23dfe7cb979e0fe91fb22949e5323b32422d19c457d3db2da6ece58fe35"
   }
 ]
