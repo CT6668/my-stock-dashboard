@@ -1,42 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Elon Musk Says SpaceX Is Now a \"Super Intelligence\" Company",
-    "excerpt": "SpaceX has undergone a radical transformation, and it appears to be making the company stronger.",
+    "title": "[英伟达] SK Hynix, Nvidia and Micron send one clear message to investors with t",
+    "excerpt": "Big tech is sending a message on what they think about their stock prices.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=c52cce38f6f6b6e1fb3522c42a108f9d7303b1dd9aec9642f1227b31fe15ab78"
+    "popularity": "🔥 47分钟前",
+    "link": "https://finnhub.io/api/news?id=2522f6ab593a8c252efa27b14d39b33175d27e25fdba57d19b47244bd4ec1d92"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【东安动力】2026年第三季度净利润亏损7494.72万元",
+    "excerpt": "东安动力公告，2026年第三季度营业收入11.72亿元，同比下降8.97%；归母净利润亏损7494.72万元，扣非净利润亏损9232.62万元。2026年前三季度营业收入36.54亿元，同比下降2.98%；归母净利润亏损8388.19万元，",
+    "author": "东安动力",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,东安动力.html"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba: At $100, The Market Is Pricing The Bear Case",
     "excerpt": "Alibaba's cloud segment is the primary growth driver, posting 45% revenue growth and margin improvement. Read why BABA stock is a Buy.",
     "author": "SeekingAlpha",
-    "popularity": "🔥 4小时前",
+    "popularity": "🔥 8小时前",
     "link": "https://finnhub.io/api/news?id=90188328d1838b6c98743199baff932d12718415e064d84a324225836ad9276c"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【科达制造】前三季度营收158.27亿元 净利同比增66.30%",
+    "excerpt": "科达制造公告称，2026年第三季度实现营业收入54.34亿元，同比增长23.03%；归母净利润6.27亿元，同比增长55.06%；扣非归母净利润6.29亿元，同比增长74.07%。2026年前三季度实现营业收入158.27亿元，同比增长25",
+    "author": "科达制造",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,科达制造.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] TSLA Stock Is October’s Mag 7 King — But 2 Motorcycle Stocks Race Past",
     "excerpt": "Tesla’s rally comes after stronger-than-expected deliveries, an earnings beat, Robotaxi progress and speculation about a SpaceX merger.",
     "author": "Yahoo",
-    "popularity": "🔥 3小时前",
+    "popularity": "🔥 7小时前",
     "link": "https://finnhub.io/api/news?id=ec879e156498be887890b4a703056800206633615ea405a9214329ba04f97755"
   },
   {
+    "source": "东财股吧",
+    "title": "【匠心家居】前三季度营收22.91亿元 净利同比降32.39%",
+    "excerpt": "匠心家居公告称，2026年前三季度实现营业收入22.91亿元，同比下降8.79%；归属于上市公司股东的净利润4.45亿元，同比下降32.39%；毛利率38.74%，同比提升0.38个百分点。业绩变动主要受人民币升值导致的收入折算及汇兑损失、",
+    "author": "匠心家居",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,匠心家居.html"
+  },
+  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Mic",
-    "excerpt": "The S&P 500 reclaimed a key level as Tesla and growth stocks rallied. The Federal Reserve, Microsoft, Google on deck.",
+    "title": "[特斯拉] Zacks Investment Ideas feature highlights: Meta, Tesla, Microsoft and ",
+    "excerpt": "Meta's $95 billion AI funding plan, Anthropic's IPO filing and Tesla's debt-market warning put AI financing in focus as Microsoft and Alphabet prepare",
     "author": "Yahoo",
-    "popularity": "🔥 3小时前",
-    "link": "https://finnhub.io/api/news?id=35cd3de41f93368fac2dccf4962b77ea34ec2bf61b91d95cbdc0d308a9922dae"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=81b80c56809490b8ac4c6561bb85e44bd7f7b269a8cd0a343ce886b304b88d45"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【航天彩虹】拟公开挂牌转让杭州南洋新材料100%股权",
+    "excerpt": "航天彩虹公告称，公司第七届董事会第十二次会议审议通过相关议案，同意以不低于经国资监管单位备案的评估值1.48亿元（含税，评估基准日2026年5月31日）为底价，通过产权交易所公开挂牌方式出售持有的杭州南洋新材料科技有限公司100%股权。会议",
+    "author": "航天彩虹",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,航天彩虹.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Baidu to Report Third Quarter 2026 Financial Results on November 16, 2",
     "excerpt": "Baidu, Inc. (Nasdaq: BIDU; HKEX: 9888 (HKD Counter) and 89888 (RMB Counter)) (\"Baidu\" or the \"Company\"), a leading AI company with strong Internet fou",
     "author": "Yahoo",
-    "popularity": "🔥 21小时前",
+    "popularity": "🔥 1天前",
     "link": "https://finnhub.io/api/news?id=a812a23dfe7cb979e0fe91fb22949e5323b32422d19c457d3db2da6ece58fe35"
   }
 ]
