@@ -1,50 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] 'We'll be out of business': Jensen Huang bet his last dollars on a chi",
-    "excerpt": "The chip was the RIVA 128 and Huang made the decision when Nvidia had \"about six months of cash left.”",
+    "title": "[英伟达] Tesla Is Flying in Europe, and We Aren't Talking About the Roadster --",
+    "excerpt": "With China's market spiraling in a price war, Tesla's move to export vehicles to Europe seems to be paying off.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=1562f749b40570a3af1196f61e3cab5b1c3b131f779775e61cfad0ce7fff6943"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=e3ff1eb9e1676dda855ab6f5bc4c610b782ec315f028a4ae1a08bf9a9a940d23"
   },
   {
     "source": "东财股吧",
-    "title": "【加拿大央行】预计2026年通胀平均为2.9%",
-    "excerpt": "加拿大央行预计2026年通胀平均为2.9%，7月为2.5%；2027年为3.1%，7月为2.0%；2028年为2.2%，7月为2.1%。预计2026年经济增长率为1.0%，7月为0.7%；2027年增长2.0%，7月为1.8%；2028年增",
-    "author": "加拿大央行",
+    "title": "【泰国央行行长】泰铢波动加剧，央行加大外汇市场操作",
+    "excerpt": "泰国央行行长Vitai Ratanakorn称，由于泰铢汇率波动剧烈，央行加大了外汇管理操作力度。Vitai在简报会上表示，通胀已经得到控制，货币政策更多转向支撑经济。他称，宽松货币政策搭配偏弱的泰铢有利于出口与经济，并补充说，我们很幸运在",
+    "author": "泰国央行行长",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,加拿大央行.html"
+    "link": "https://guba.eastmoney.com/list,泰国央行行长.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Alibaba: At $100, The Market Is Pricing The Bear Case",
-    "excerpt": "Alibaba's cloud segment is the primary growth driver, posting 45% revenue growth and margin improvement. Read why BABA stock is a Buy.",
+    "title": "[阿里巴巴] SK hynix: Not Convinced Of The Shortage, And Neither Should You",
+    "excerpt": "SK hynix stock jumped on Q3 earnings, but fading DRAM pricing, rising supply, and weak PC and smartphone demand cloud the outlook. Learn more about SK",
     "author": "SeekingAlpha",
-    "popularity": "🔥 11小时前",
-    "link": "https://finnhub.io/api/news?id=90188328d1838b6c98743199baff932d12718415e064d84a324225836ad9276c"
+    "popularity": "🔥 18小时前",
+    "link": "https://finnhub.io/api/news?id=f96add1a807ed684360484a66e05236d9b07ea240c13f306bae973090dc07ecd"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【智元稚晖君】很多跳舞机器人本质上都是闭着眼睛的动作模仿，实时感知响应是靠遥控器无法做到的",
+    "excerpt": "10月29日，智元稚晖君表示，现在很多跳舞机器人本质上都是闭着眼睛的动作模仿，实时感知响应是靠遥控器无法做到的。",
+    "author": "智元稚晖君",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,智元稚晖君.html"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] TSLA Stock Is October’s Mag 7 King — But 2 Motorcycle Stocks Race Past",
-    "excerpt": "Tesla’s rally comes after stronger-than-expected deliveries, an earnings beat, Robotaxi progress and speculation about a SpaceX merger.",
+    "title": "[蔚来汽车] What NiSource (NI) Said on Its Q3 Earnings Call",
+    "excerpt": "NiSource (NYSE:NI) reported third-quarter 2026 consolidated adjusted earnings per share of $0.27, up from $0.19 a year earlier, and said it was narrow",
     "author": "Yahoo",
-    "popularity": "🔥 10小时前",
-    "link": "https://finnhub.io/api/news?id=ec879e156498be887890b4a703056800206633615ea405a9214329ba04f97755"
+    "popularity": "🔥 6小时前",
+    "link": "https://finnhub.io/api/news?id=d2d7de828e850a5ee113b66559404d7b0bacb8bcde0fd9a0f12b132b820b9343"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【开源证券】美联储将保持谨慎 2026年或再加息一次",
+    "excerpt": "美联储于北京时间10月29日凌晨发布10月FOMC会议声明，宣布保持利率水平不变。对此，开源证券表示，美联储将保持谨慎，2026年或再加息一次。开源证券认为，9月加息后，美联储面临的压力略有缓和，连续加息的紧迫性下降。且10月FOMC临近中",
+    "author": "开源证券",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,开源证券.html"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Man repairs 2 wrecked Teslas, they pass inspection, but the carmaker c",
-    "excerpt": "Vehicles that Tesla has not confirmed comply with its safety standards could damage a Supercharger or might not be safe to drive, the company says.",
+    "title": "[特斯拉] Tesla Is Flying in Europe, and We Aren't Talking About the Roadster --",
+    "excerpt": "With China's market spiraling in a price war, Tesla's move to export vehicles to Europe seems to be paying off.",
     "author": "Yahoo",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=e4b7f682151a0b7a0c9c83049c22ada08e804f6f2fa507d03f7143b8cbf730ae"
+    "popularity": "🔥 1小时前",
+    "link": "https://finnhub.io/api/news?id=e3ff1eb9e1676dda855ab6f5bc4c610b782ec315f028a4ae1a08bf9a9a940d23"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【ETF收评】纳指生物科技ETF领涨2.97%，创业板人工智能ETF领跌9.53%",
+    "excerpt": "ETF收盘涨跌不一，纳指生物科技ETF（513290）领涨2.97%，标普生物科技ETF（159502）涨2.46%，银行ETF（561530）涨2.30%，创业板人工智能ETF（159382）领跌9.53%，创业板人工智能ETF（1592",
+    "author": "ETF收评",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,ETF收评.html"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] Baidu to Report Third Quarter 2026 Financial Results on November 16, 2",
-    "excerpt": "Baidu, Inc. (Nasdaq: BIDU; HKEX: 9888 (HKD Counter) and 89888 (RMB Counter)) (\"Baidu\" or the \"Company\"), a leading AI company with strong Internet fou",
+    "title": "[百度] Baidu, Inc. (BIDU) is Attracting Investor Attention: Here is What You ",
+    "excerpt": "Zacks.com users have recently been watching Baidu Inc. (BIDU) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospe",
     "author": "Yahoo",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=a812a23dfe7cb979e0fe91fb22949e5323b32422d19c457d3db2da6ece58fe35"
+    "popularity": "🔥 19小时前",
+    "link": "https://finnhub.io/api/news?id=2991ada2eda9307862f533b588d15f91b9032bb2412fd26f368a8cfc8c8bd631"
   }
 ]
