@@ -1,90 +1,98 @@
 [
   {
-    "sector": "政策",
-    "title": "财政部：全面加强会计师事务所执业质量监督",
-    "summary": "财政部相关负责人在发布会上表示，会计法和注册会计师法是我国会计领域的基本法律制度。“十五五”时期，财政部将从建立配套制度方面，继续做好立法工作。财政部会计司司长林启云表示，加快修订会计基础工作规范、会计师事务所执业许可和监督管理办法、注册会",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "政策",
-    "title": "中国注册会计师协会：完善招投标等选聘评价体系 坚决整治行业“内卷式”竞争",
-    "summary": "11月11日，中国注册会计师协会党委书记、秘书长江湧在财政部新闻发布会上表示，“十五五”时期，中国注册会计师协会将紧紧围绕服务国家建设主题和诚信建设主线，着力推进行业规范化。协会将聚焦优化行业发展环境，协调推动企业进一步完善招投标等选聘评价",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "智元机器人等入股泉智博科技",
-    "summary": "天眼查App显示，近日，无锡泉智博科技有限公司发生工商变更，新增智元机器人关联公司智元创新（上海）科技股份有限公司、广东东方精工科技股份有限公司等为股东，同时，注册资本由约1107.92万人民币增至约1250.35万人民币。该公司成立于20",
+    "sector": "综合",
+    "title": "俄乌战俘交换规模将是最大的，每方将有超过1000人参与。",
+    "summary": "俄乌战俘交换规模将是最大的，每方将有超过1000人参与。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "西门子能源首席执行官：上一财年向西门子支付的品牌许可费约为4亿欧元。",
-    "summary": "西门子能源首席执行官：上一财年向西门子支付的品牌许可费约为4亿欧元。",
+    "title": "菲律宾央行：注意防止CPI预期脱锚。",
+    "summary": "菲律宾央行：注意防止CPI预期脱锚。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "雷诺首席执行官：我们在欧洲的工厂利用率达到90%。",
+    "summary": "雷诺首席执行官：我们在欧洲的工厂利用率达到90%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "雷诺首席执行官：如果不采取任何措施，欧洲汽车总产量将减半。",
+    "summary": "雷诺首席执行官：如果不采取任何措施，欧洲汽车总产量将减半。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "俄罗斯代表团团长梅金斯基：我们未与欧洲代表沟通。我们不太清楚他们以何种身份在场。",
+    "summary": "俄罗斯代表团团长梅金斯基：我们未与欧洲代表沟通。我们不太清楚他们以何种身份在场。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "俄乌战俘交换可能在2-3周内进行。",
+    "summary": "俄乌战俘交换可能在2-3周内进行。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "天津发布大雾黄色预警信号，局地能见度不足200米",
+    "summary": "天津市气象台于11月11日19时11分发布大雾黄色预警信号：预计今天夜间到明天早晨，天津大部分地区将出现能见度小于1000米的雾，部分地区能见度小于500米，局地不足200米，请有关单位和人员做好防范准备。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "菲律宾央行正在评估最新GDP数据对CPI前景的影响。",
+    "summary": "菲律宾央行正在评估最新GDP数据对CPI前景的影响。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "辽宁发布高速公路大雾Ⅲ级预警，个别乡镇（街道）能见度小于50米",
+    "summary": "辽宁省气象台发布高速公路大雾Ⅲ级预警：预计11日21时到12日11时，沈阳南部、鞍山南部、抚顺、本溪、丹东、辽阳、铁岭南部、朝阳西部、葫芦岛西部地区和沈抚示范区将出现能见度小于200米的浓雾天气，个别乡镇（街道）将出现能见度小于50米的强浓",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "德国总理默茨：德国经济正慢慢好转。你们已将自身预期上调至1%左右。",
+    "summary": "德国总理默茨：德国经济正慢慢好转。你们已将自身预期上调至1%左右。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "我国将加快推进“人工智能+自然资源”深度融合",
-    "summary": "记者今天（11日）从自然资源部获悉，自然资源部、国家发展改革委近日发布关于“人工智能+自然资源”的实施意见，加快推动人工智能在自然资源领域规模化、产业化创新应用，服务国土空间规划“一张图”智能化升级。其中，意见明确分阶段发展目标：到2028",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "影石创新：目前公司采购的核心原材料及备料流动性良好",
-    "summary": "有投资者向影石创新（688775.SH）提问，美国中期选举已结束，存储价格预计将大幅下降。那么贵公司之前备货的存储芯片，请问是高价还是什么价买的，目前的生产的x6 luna之类用的还是之前囤的芯片吗，有没有减值计提的打算？11月11日，公司",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "科技",
-    "title": "Singulus科技在Tradegate交易所较Xetra收盘价上涨44%。此前与SpaceX签订协",
-    "summary": "议。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "金融",
-    "title": "精工钢构：控股股东精工控股质押3000万股公司股份",
-    "summary": "精工钢构公告称，公司控股股东精工控股集团有限公司于2026年11月10日办理完成3000万股公司股份质押手续，质权人为广发银行股份有限公司绍兴分行，质押用途为生产经营，质押期限至2031年11月5日。本次质押股份占其所持股份比例12.65%",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "政策",
-    "title": "上海全面调整道路停车收费 15分钟内限次不收费",
-    "summary": "11月11日，上海市发展改革委、市交通委、市财政局联合印发《关于优化我市道路停车收费政策的通知》，将于2026年11月18日起正式施行，系2005年上海出台机动车管理实施意见以来首次对道路停车收费全面调整。新规明确：单台机动车辆在道路停车场",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "科技",
-    "title": "公司与Sharpa是否有合作关系？天奈科技回应",
-    "summary": "有投资者向天奈科技（688116.SH）提问，请问天奈科技与Sharpa是否有合作关系？有没有为其提供相关产品？有没有与其一起合作研发产品？11月11日，公司回答表示，公司向上述公司的关联实体提供单壁碳纳米管相关样品，目前处于前期送样评测阶",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "title": "Moody's lifts India growth forecast, sees economy well positioned to sustain near 7% growt",
+    "summary": "Moody's lifts India growth forecast, sees economy well positioned to sustain near 7% growth  Reuters",
+    "source": "Reuters",
+    "time": "4小时前",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1Bhc253SGlMZGdtdjFTWk9raTg0ckVuNEJuM0YycUtidDd4dll4Z2RIM0t3TXlxX1hvZnpxZG1FanQzOTFDeW9BalFwLTVrSnRGbDJVa0tzMHNQZUdkR3pwQUZMYTlDOFhCOGhuSzgyZW1aQkVCcE9rRkhUU3Jtd3dmbW1PMV9Gd0NCZHNRN2xfeUdmeFZxb2cxTEp0VjhNRFVnWWlmNW40WUFJQUlpNzNnS1g0QTA2Vi0tYkRIb09paUxB?oc=5"
   },
   {
     "sector": "人工智能",
     "title": "Iran designates Argentina's navy and air force as 'terrorist organizations' - Reuters",
     "summary": "Iran designates Argentina's navy and air force as 'terrorist organizations'  Reuters",
     "source": "Reuters",
-    "time": "1小时前",
+    "time": "5小时前",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGJGbXpBaU9TM2xZZXVhbFN0MFlBdVdhRGFjR1VkaHNnU2F5NXl6WmpmV01CZ2lXd1NiMlVsUDA2ZThZY3RMWHN5TmRKLTRidmdIYnRVQmdmQXBUQUc3MFNIaTJlYS0yMDNFck4xaTBIQXJ4M3RPQ3JhQzVQQUluMXJ2T1Nycm1zZWoxSkkxUTBoZi1ZWFkwQVR3bE1hRUtlWG9IdmhXUEljR2VrMElQNVVrUTJ1Z3c?oc=5"
   },
   {
@@ -92,7 +100,7 @@
     "title": "Poland's Orlen ends long-term QatarEnergy LNG contract over delivery failure - Reuters",
     "summary": "Poland's Orlen ends long-term QatarEnergy LNG contract over delivery failure  Reuters",
     "source": "Reuters",
-    "time": "9小时前",
+    "time": "13小时前",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWNsbHZIOFpSN0NER012RTNDdE9jRzFkWXRJZVY1X2hkVTlnUHhDcFNrVDU0Ul9yVXlvcHpfblFEYkYyNW9jRXA2OHNldXhuaEhQQTZYX3V0R1R5dFdVNkRNZFNrVWtWdHI3N0FrYVFFNEx1MlhBYkFJY1c0MEQ3Ym1RRzF0YWY2OWZWZmR0RlFYeU5YOWhlR0UycW9jODJDMjZob2VIR0JNcHd5dkFKSzZYYUpSYUJkcEtwMlRXZ3pPcHN2dWc?oc=5"
   },
   {
@@ -100,7 +108,7 @@
     "title": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries - Reuters",
     "summary": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries  Reuters",
     "source": "Reuters",
-    "time": "10小时前",
+    "time": "14小时前",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5"
   },
   {
@@ -108,15 +116,7 @@
     "title": "Iran-backed militant helped plot attack on UK's Fairford base from US jail, Justice Depart",
     "summary": "Iran-backed militant helped plot attack on UK's Fairford base from US jail, Justice Department says  Reuters",
     "source": "Reuters",
-    "time": "10小时前",
+    "time": "14小时前",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQejFyZFdOS1NzaFBIQjJ6NjdqRkhzbkFVeXZFR0dUWnlqRnNxNGpIc1hGRWZUbEpTSmgzb2NMRURmRUFIeWtGX1BvNGdKY3Z6UG5VRDV6RVN4bTJXSG5ZeVIxQl9aYmJFWWFEOEtpejJtZi01QzBtYzRGd3V1MHNEMG54UU84dF80eUVyUFhqUVpvMHJheUduVldabUk3M2pxalpOWG93MXB1LTVyVEpyUWp0WnVIQkFxaml1V1Fhdw?oc=5"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Fire contained at Iran's South Pars gas platform, Fars says - Reuters",
-    "summary": "Fire contained at Iran's South Pars gas platform, Fars says  Reuters",
-    "source": "Reuters",
-    "time": "10小时前",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTk9qU0hFcU1IcHpSaGVmeFh2QmVKM3VaaUlja3Vqb0ppbFlrQWhVMFZvTU1EV3dFUXBGSU5MZmNrb0hnQ2hKUlBHSTFaYXFnYWV2OTg3UnEtVVczRXlYN0ZrNUZVT05JTjBnXy1LZU41azlXMlRPbWxjbUkxNTRxa2k4TmxXbkh1a3VXeEFtY1ZuR2VpODliZXN0SGo?oc=5"
   }
 ]
