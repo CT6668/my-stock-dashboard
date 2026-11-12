@@ -1,58 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost A",
-    "excerpt": "Nvidia stock popped on Wednesday, snapping a two-day losing streak.",
+    "title": "[英伟达] CRWV Stock Eyes Best Week Since Nvidia’s Stake Reveal — Is Debt Scare ",
+    "excerpt": "Morningstar sees a buying opportunity, calling debt-yield concerns overblown with over $20 billion available for deployment.",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=10fa1c062c0a739b3613bdd82c5ec00f0685011cab9e0271f638ec29e5521d06"
+    "popularity": "🔥 35分钟前",
+    "link": "https://finnhub.io/api/news?id=5f4418330d495695fb8137cd06e6087263b26b141e8225511eb9e16aefedb90d"
   },
   {
     "source": "东财股吧",
-    "title": "【俄总统助理】普京将于12日会见美谈判代表",
-    "excerpt": "当地时间11月11日，俄罗斯总统助理乌沙科夫表示，俄总统普京将于12日上午会见威特科夫和库什纳。美国总统特朗普的女婿、美国谈判代表库什纳11日在阿联酋首都阿布扎比表示，他和美国总统特使威特科夫计划12日前往莫斯科，继续推动旨在结束乌克兰危机",
-    "author": "俄总统助理",
+    "title": "【联美控股】拟追加1亿元投资中城联虹私募基金",
+    "excerpt": "联美控股公告称，公司全资子公司拉萨联虹科技发展有限公司拟追加对中城联虹私募股权投资基金的投资，追加申购金额1.00亿元。本次追加后，公司对该基金投资合计2.04亿元。该基金由中城新型城镇化基金管理有限责任公司担任管理人，此前已通过投资拉萨中",
+    "author": "联美控股",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,俄总统助理.html"
+    "link": "https://guba.eastmoney.com/list,联美控股.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Asian stocks mixed as CoreWeave lifts chipmakers; hot U.S. inflation w",
-    "excerpt": "Investing.com -- Asian stocks were mixed on Wednesday as semiconductor shares rallied in Japan, South Korea and Taiwan, while Hong Kong and Chinese te",
+    "title": "[阿里巴巴] Hugging Face cofounder: Open-weight AI models were 'our savior'",
+    "excerpt": "Hugging Face cofounder Thomas Wolf says open-weight models saved the company from the summer's OpenAI hack.",
     "author": "Yahoo",
     "popularity": "🔥 10小时前",
-    "link": "https://finnhub.io/api/news?id=64ff33ad796418f8ebcbe5f8cced88d36e8b960744e33db80e61fb37cb023333"
+    "link": "https://finnhub.io/api/news?id=6a27aab69b8c1071b4614aedd5055890a37377ab549454a4d934b2de8af0966c"
   },
   {
     "source": "东财股吧",
-    "title": "【CoreWeave CEO】不担心中期选举结果对公司产生影响",
-    "excerpt": "尽管上周民主党在大选大胜之后，CoreWeave股价遭遇大幅抛售，但首席执行官迈克·英特拉托（Mike Intrator）表示，公司并不担心即将到来的政治变局。 周二晚间，在公司财报电话会议上，被问及大选带来的新压力时，英特拉托回应：“我们",
-    "author": "CoreWeave CEO",
+    "title": "【雅创电子】调整重组股份发行价格及数量",
+    "excerpt": "雅创电子公告称，因实施2026年中期利润分配，公司发行股份及支付现金购买资产的股份发行价格由23.59元/股调整为23.49元/股，发行股份数量由10,671,996股调整为10,717,429股。本次重组拟购买深圳欧创芯半导体40%股权、",
+    "author": "雅创电子",
     "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,CoreWeave CEO.html"
+    "link": "https://guba.eastmoney.com/list,雅创电子.html"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] NIO vs. Ferrari: Which Luxury Car Stock Is a Better Buy for 2027?",
-    "excerpt": "NIO's revenue jumped 33% in FY 2025 even as losses widened, while Ferrari's near-22% net margin tells a very different story about profitability and p",
+    "title": "[蔚来汽车] NIO Inc. (NIO) Stock Dips While Market Gains: Key Facts",
+    "excerpt": "NIO Inc. (NIO) closed at $3.24 in the latest trading session, marking a -1.22% move from the prior day.",
     "author": "Yahoo",
-    "popularity": "🔥 18小时前",
-    "link": "https://finnhub.io/api/news?id=792e6ee15110de319f3bc59dcc75bf97ed99d993cbd030236289a008d3de135b"
+    "popularity": "🔥 10小时前",
+    "link": "https://finnhub.io/api/news?id=850f0bec700b8cc1b385a51d8ed831fcc99615266104591929b8d35ab3dd9b94"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【中创智领】董秘张易辰完成增持公司股份",
+    "excerpt": "中创智领公告称，公司董事会秘书张易辰的增持计划已实施完毕。截至2026年11月11日，张易辰通过集中竞价交易方式累计增持公司A股股份10.57万股，占公司总股本的0.0059%，累计增持金额151.13万元，达到其100万元-150万元的增",
+    "author": "中创智领",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,中创智领.html"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Musk’s Companies Will Face Intense Democrat Scrutiny, But One is Under",
-    "excerpt": "With Democrats now holding subpoena power over Elon Musk, two earnings reports reveal which of his companies depends on Washington's goodwill and whic",
+    "title": "[特斯拉] Tesla Robotaxi Now Works 24/7 While Elon Musk's Robots Head to Optimus",
+    "excerpt": "Tesla Robotaxi now runs 24/7 in every city it serves, while Musk points to an Optimus Academy where up to 20,000 robots will learn new tasks.",
     "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=f884480324e0fee9aa7bdee880377057377335312b5148dadd68467aba555d17"
+    "link": "https://finnhub.io/api/news?id=49c088fd416ea5bbdcb883dce334d7759865b768981b131bfb9531bccfb6294f"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【黔源电力】国新产业资本增持1%股份 拟继续增持",
+    "excerpt": "黔源电力公告称，公司持股5%以上股东国新产业资本于2026年10月29日至11月11日通过集中竞价方式增持公司股份427.57万股，占公司总股本的1%。本次增持后，国新产业资本持有公司股份2565.37万股，占总股本的6%。国新产业资本计划",
+    "author": "黔源电力",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,黔源电力.html"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] How Should You Play UBER Stock After the Q3 Earnings Miss?",
     "excerpt": "Uber's Q3 earnings miss, rising fuel costs and FX headwinds weigh on its outlook, but AV partnerships and diversification support long-term growth pro",
     "author": "Yahoo",
-    "popularity": "🔥 1天前",
+    "popularity": "🔥 2天前",
     "link": "https://finnhub.io/api/news?id=1b9a71e46aa6dcb6adee839014920e34306ae319106542d9f7c27923fd42bd08"
   }
 ]
