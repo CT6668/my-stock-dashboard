@@ -1,90 +1,98 @@
 [
   {
     "sector": "综合",
-    "title": "晶盛机电：公司及董事长曹建伟等因销售收入内控不规范收警示函",
-    "summary": "晶盛机电公告，公司近日收到浙江证监局警示函，经现场检查发现，2024年、2025年公司对部分销售合同收入单据管理不规范，相关年度内部控制自我评价报告未如实反映上述问题，信息披露不准确。浙江证监局决定对公司及董事长曹建伟、总经理何俊、时任财务",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "新能源",
-    "title": "东风日产NX7开启预售 日产中国马智欣：明年出口国家或翻倍",
-    "summary": "11月13日举行的“NISSAN DAY”上，东风日产全新插电混动SUV NX7正式开启预售，推3款配置，预售价区间12.99万元至14.99万元。全系标配宁德时代40.9度电池，首发搭载科大讯飞星火智慧座舱3.0。日产中国管理委员会主席、",
+    "title": "泽连斯基称乌军使用“星盾”再遭限速",
+    "summary": "乌克兰总统泽连斯基12日说，连日来，乌军使用的“星盾”卫星通信系统运行出现“重大中断”，导致乌军拦截俄罗斯无人机的难度大幅增加。泽连斯基称，他听取了国防部长和武装部队总司令的简报，乌方使用的“星盾”正被系统性地施加速度限制，也就是被限制在每",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "常卫魏担任中国女足主教练",
-    "summary": "为进一步做好洛杉矶奥运会亚洲区预选赛和巴西女足世界杯的备战参赛工作，经过选聘专家组充分评议，中国足球协会研究决定聘任常卫魏为中国国家女子足球队主教练，聘任王军为中国国家女子足球队第一助理教练。",
+    "title": "标普500指数跌1.02%，现报7515.170点；道指跌0.36%，现报52110.262点；纳指",
+    "summary": "跌1.60%，现报24960.553点。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "巴基斯坦KSE-100指数收涨0.3%，报177873.90点。",
-    "summary": "巴基斯坦KSE-100指数收涨0.3%，报177873.90点。",
+    "title": "纳斯达克指数期货跌2.02%，现报27812.245点；道琼斯指数期货跌0.39%，现报52183.",
+    "summary": "220点；标普500指数期货跌1.04%，现报7535.972点。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "标普500指数期货跌1.00%，现报7539.000点；道琼斯指数期货跌0.32%，现报52222.",
+    "summary": "670点；纳斯达克指数期货跌1.96%，现报27829.250点。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "美国国会议员要求总统特朗普的商务部官员Kessler和英伟达法律总顾问到国会山出席听证会。",
+    "summary": "美国国会议员要求总统特朗普的商务部官员Kessler和英伟达法律总顾问到国会山出席听证会。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "政策",
+    "title": "日本未来五年防卫预算或增至60万亿日元",
+    "summary": "据日本方面13日消息，多名相关人士透露，日本政府已开始协调，考虑将2027至2031财年防卫费总额定在60万亿日元，约合2.5万亿人民币。这一数字远高于2023至2027财年的43万亿日元。日本政府正在推进“安保三文件”修订，其中，新一轮覆",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "土耳其总统埃尔多安办公室表示，埃尔多安称将继续与卡塔尔合作，防止海湾地区战火重燃。",
+    "summary": "土耳其总统埃尔多安办公室表示，埃尔多安称将继续与卡塔尔合作，防止海湾地区战火重燃。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "深南电路：算力PCB、封装基板订单饱满，FC-BGA 高端产品研发推进",
-    "summary": "近日，深南电路（002916.SZ）举办投资者关系活动，披露2026年三季度经营业绩。业务拓展方面，三季度PCB业务收入环比明显增长，数据中心领域收入占比提升，有线通信业务收入持续增长。封装基板业务中，PMIC和应用处理器芯片类封装基板产品",
+    "title": "费城半导体指数日内跌5%",
+    "summary": "费城半导体指数日内跌5.00%，现报9981.28点。英伟达跌3.31%，博通跌5.75%，美光跌4.67%，英特尔跌5.29%，AMD跌9.02%，高通跌3.66%，台积电跌2.87%，阿斯麦跌1.82%。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "综合",
-    "title": "氯化亚砜价格今年以来上涨76%",
-    "summary": "新型电解液溶质需求放量，正把上游原料氯化亚砜推入高景气区间。百川盈孚数据显示，截至11月13日，氯化亚砜国内市场均价为6174元/吨，今年以来上涨76%，同比涨幅为297.81%，行业每吨毛利润已从去年同期的约100元升至目前的超过3000",
+    "title": "土耳其总统埃尔多安办公室表示，土耳其与卡塔尔签署了共同防务协议。",
+    "summary": "土耳其总统埃尔多安办公室表示，土耳其与卡塔尔签署了共同防务协议。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
-    "sector": "科技",
-    "title": "面板酝酿涨价，TCL华星赵军预测明年出货面积增长",
-    "summary": "11月12日接受采访时，TCL科技集团高级副总裁、TCL华星CEO赵军说，面板上游原材料已经出现较大面积的涨价，这将是面板进一步提价的原因。在存储成本上涨已促使终端消费电子涨价、反过来抑制需求后，面板价格变动可能成为消费电子产业新变量。对面",
+    "sector": "综合",
+    "title": "瑞银将Cerebras Systems的目标价从250美元下调至155美元。",
+    "summary": "瑞银将Cerebras Systems的目标价从250美元下调至155美元。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "长盈精密：新能源业务稳健增长，具身智能板块爆发式增长，短期利润承压",
-    "summary": "近日，长盈精密（300115.SZ）举办特定对象调研类投资者关系活动，公司前三季度营收164.53亿元，同比增长21.78%。当前，公司正配合客户推进AIPC、可穿戴等消费电子新品开发，并推动储能、具身智能及AI硬件等业务加速量产上量。后续",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "康力源：董事会选举衡思名为董事长，聘任姚培源等为高级管理人员",
-    "summary": "康力源公告，第三届董事会第一次会议选举衡思名为公司董事长，选举产生董事会四个专门委员会成员；聘任姚培源为董事会秘书、王忠为总经理、于海等7人为副总经理、王凯为财务总监，并聘任魏大顺为证券事务代表。上述人员任期均至第三届董事会任期届满之日止，",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "科技",
-    "title": "【TCL科技：子公司TCL中环拟发行股份收购中环领先65.80%股份，审计评估尚未完成】TCL科技公",
-    "summary": "告，控股子公司TCL中环拟通过发行股份方式收购中环领先65.80%股份，其中收购公司持有的中环领先4.95亿股股份，发行价格为7.59元/股；同时拟向包括公司在内的不超过35名特定对象发行股票募集配套资金，公司以现金方式认购新增发行股份，认",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
+    "title": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes",
+    "summary": "The top U.S. commodities regulator in October announced proposed crypto rules to assert its jurisdiction over the asset ",
+    "source": "CNBC",
+    "time": "2小时前",
+    "link": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html"
   },
   {
     "sector": "人工智能",
     "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about",
     "summary": "Commerce Secretary Lutnick will testify before the Senate Banking Committee following revelations about Jensen Huang's a",
     "source": "CNBC",
-    "time": "1小时前",
+    "time": "4小时前",
     "link": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html"
   },
   {
@@ -92,7 +100,7 @@
     "title": "Iran's Guards say they targeted a US early-warning radar in Bahrain - Reuters",
     "summary": "Iran's Guards say they targeted a US early-warning radar in Bahrain  Reuters",
     "source": "Reuters",
-    "time": "9小时前",
+    "time": "12小时前",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5"
   },
   {
@@ -100,7 +108,7 @@
     "title": "Dollar near 19-month high on Fed hike bets, yen tests 160 - Reuters",
     "summary": "Dollar near 19-month high on Fed hike bets, yen tests 160  Reuters",
     "source": "Reuters",
-    "time": "9小时前",
+    "time": "13小时前",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg?oc=5"
   },
   {
@@ -108,15 +116,7 @@
     "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
     "summary": "Cisco is trying to become a bigger player in AI after missing out on the early years of the boom.",
     "source": "CNBC",
-    "time": "14小时前",
+    "time": "17小时前",
     "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html"
-  },
-  {
-    "sector": "人工智能",
-    "title": "United Airlines won’t let AI agents book your flight. Expert says you shouldn't let a bot ",
-    "summary": "AI agents can save you time, but an expert says decisions involving your health, wealth and privacy still need human inp",
-    "source": "CNBC",
-    "time": "15小时前",
-    "link": "https://www.cnbc.com/make-it/2026/11/12/ai-agents-human-in-loop.html"
   }
 ]
