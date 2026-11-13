@@ -1,74 +1,42 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Stock Market Today: Nvidia (NVDA) Loses Jensen Huang, and the Chip Sec",
-    "excerpt": "Nvidia’s board removed CEO Jensen Huang, and the stock recovered most of a 13% opening drop. AMD and Broadcom gained, Super Micro sank on a DOJ report",
-    "author": "ChartMill",
+    "title": "[英伟达] Nvidia has lost nearly $2tn in value. What could it be worth without J",
+    "excerpt": "Nvidia has lost about $1.8tn (€1.6tn) in market value since its record close on 6 October. After Jensen Huang’s exit, investors are weighing whether t",
+    "author": "Yahoo",
     "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=62b6223c2eb17956d6d3fe6eb115de70c55d070558f4516d8295ef53a09c53ba"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【晶盛机电】公司及董事长曹建伟等因销售收入内控不规范收警示函",
-    "excerpt": "晶盛机电公告，公司近日收到浙江证监局警示函，经现场检查发现，2024年、2025年公司对部分销售合同收入单据管理不规范，相关年度内部控制自我评价报告未如实反映上述问题，信息披露不准确。浙江证监局决定对公司及董事长曹建伟、总经理何俊、时任财务",
-    "author": "晶盛机电",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,晶盛机电.html"
+    "link": "https://finnhub.io/api/news?id=0846d361d1711cc6242dd4714c9b91c724c329b376e5c8c2cf57bc1b9c514a67"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] China AI stocks tumble as Nvidia fallout fuels fears of tighter U.S. c",
     "excerpt": "Investing.com -- Chinese artificial intelligence stocks came under renewed pressure on Friday as Nvidia's leadership crisis heightened fears that Wash",
     "author": "Yahoo",
-    "popularity": "🔥 5小时前",
+    "popularity": "🔥 8小时前",
     "link": "https://finnhub.io/api/news?id=4ba19f5f720de74ccb4a1ef2105ba4b6671799ddf609a96a8808dc34ca06492e"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【深南电路】算力PCB、封装基板订单饱满，FC-BGA 高端产品研发推进",
-    "excerpt": "近日，深南电路（002916.SZ）举办投资者关系活动，披露2026年三季度经营业绩。业务拓展方面，三季度PCB业务收入环比明显增长，数据中心领域收入占比提升，有线通信业务收入持续增长。封装基板业务中，PMIC和应用处理器芯片类封装基板产品",
-    "author": "深南电路",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,深南电路.html"
   },
   {
     "source": "NIO·WSB",
     "title": "[蔚来汽车] Nio’s Deliveries Are Up 38.5% This Year. But It Just Hit a Speed Bump.",
     "excerpt": "While Nio's year-to-date delivery growth has been strong, is its recent slowdown due to seasonality, competition, or something else?",
     "author": "Yahoo",
-    "popularity": "🔥 20小时前",
+    "popularity": "🔥 23小时前",
     "link": "https://finnhub.io/api/news?id=7b9303786b58052e65643bb5a7cf26014c20e5777bf1262aabe7fd4f348cadea"
   },
   {
-    "source": "东财股吧",
-    "title": "【长盈精密】新能源业务稳健增长，具身智能板块爆发式增长，短期利润承压",
-    "excerpt": "近日，长盈精密（300115.SZ）举办特定对象调研类投资者关系活动，公司前三季度营收164.53亿元，同比增长21.78%。当前，公司正配合客户推进AIPC、可穿戴等消费电子新品开发，并推动储能、具身智能及AI硬件等业务加速量产上量。后续",
-    "author": "长盈精密",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,长盈精密.html"
-  },
-  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] The Zacks Analyst Blog Highlights Tesla, SpaceX and Ford",
-    "excerpt": "TSLA is winding down Cybertruck production by 2027 to make way for Cybercab, betting on autonomous rides and robotics despite unproven commercial retu",
+    "title": "[特斯拉] Tesla and SpaceX Could Announce a Merger as Soon as December",
+    "excerpt": "If Tesla shareholders wake up owning SpaceX, who sets the terms? Musk's pay package, an unresolved China problem, and one December filing could decide",
     "author": "Yahoo",
-    "popularity": "🔥 5小时前",
-    "link": "https://finnhub.io/api/news?id=b00f06cdb2f7976d99b74ccec43e6de5f89f1393f0a83f87f17ec7d152300cba"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【TCL科技】子公司TCL中环拟发行股份收购中环领先65.80%股份，审计评估尚未完成",
-    "excerpt": "TCL科技公告，控股子公司TCL中环拟通过发行股份方式收购中环领先65.80%股份，其中收购公司持有的中环领先4.95亿股股份，发行价格为7.59元/股；同时拟向包括公司在内的不超过35名特定对象发行股票募集配套资金，公司以现金方式认购新增",
-    "author": "TCL科技",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,TCL科技.html"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=578295c670d4f442ea46e4284a5f399a579dae2bbea4dd7e98560691f1c06f04"
   },
   {
     "source": "BIDU·雪球",
     "title": "[百度] Baidu (BIDU) Unveils ERNIE 5.5 As Apollo Go Reaches 28 Cities",
     "excerpt": "Baidu (NasdaqGS:BIDU) unveiled its ERNIE 5.5 foundation model, alongside upgraded AI agents for enterprise users. The group introduced a Token Exchang",
     "author": "Yahoo",
-    "popularity": "🔥 5小时前",
+    "popularity": "🔥 9小时前",
     "link": "https://finnhub.io/api/news?id=67dc4408221508f0090f35667c7be7394a24346865c7f1c25c40b3efb1c1a0d8"
   }
 ]
