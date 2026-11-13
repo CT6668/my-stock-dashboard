@@ -1,42 +1,74 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Jensen Huang resigns as Nvidia CEO",
-    "excerpt": "Nvidia (NVDA) CEO Jensen Huang has resigned. Yahoo Finance takes a closer look at this developing story.",
+    "title": "[英伟达] Asian shares are mixed as investors assess impact of Nvidia's fallout ",
+    "excerpt": "HONG KONG (AP) — Asian shares were mixed Friday as investors assess what Jensen Huang’s resignation as Nvidia CEO means for the global artificial inte",
     "author": "Yahoo",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=315c33b75f892ed98d817777c49780f087c796401ae448ffaad43b3be006bee7"
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=aff654f62e35d6bd39b8b080ac6c9f5ba4d6b7a174072580e53834aa4b906e8f"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【经纬恒润】公司与北京航空航天大学存在少量业务往来",
+    "excerpt": "有投资者向经纬恒润-W（688326.SH）提问，董事长兼总经理吉英存的主要教育经历是怎样的？公司有无与其母校开展相关合作？11月13日，公司回答表示，尊敬的投资者，您好！公司董事长兼总经理吉英存先生的教育背景为北京航空航天大学自动控制专业",
+    "author": "经纬恒润",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,经纬恒润.html"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Alibaba Q2 Preview: Cash Flow Pressures Will Continue To Weigh On AI C",
-    "excerpt": "Alibaba remains a Sell as surging CAPEX and negative free cash flow overshadow cloud growth ambitions. Read more on BABA stock here.",
-    "author": "SeekingAlpha",
-    "popularity": "🔥 5小时前",
-    "link": "https://finnhub.io/api/news?id=eaf0f87001c55e476eb56a521f54303100046cdc8b4f9c911915f67ac50b3227"
+    "title": "[阿里巴巴] 5 Best AI Stocks to Buy After Wells Fargo’s Outlook Upgrade",
+    "excerpt": "Wells Fargo is no longer telling investors to stay away from the AI infrastructure trade. In a new note, analysts led by Ohsung Kwon raised the firm’s",
+    "author": "Yahoo",
+    "popularity": "🔥 8小时前",
+    "link": "https://finnhub.io/api/news?id=d38c33807c1e8c5d79e51ca69dfb0d22ba7f506ffa05081b4f0b6ae2aec52a00"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【中国海诚】全资子公司签订14.47亿元英国垃圾能源化项目EPC合同",
+    "excerpt": "中国海诚公告，全资子公司中国轻工业广州工程有限公司与GRID POWR AG签订《英国霍顿梅恩20MWe垃圾能源化项目EPC总承包合同》，合同总价款1.57亿英镑，按1英镑兑9.2元人民币基准汇率折算约合人民币14.47亿元，占公司2025",
+    "author": "中国海诚",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,中国海诚.html"
   },
   {
     "source": "NIO·WSB",
-    "title": "[蔚来汽车] NIO Inc. (NIO) Stock Dips While Market Gains: Key Facts",
-    "excerpt": "NIO Inc. (NIO) closed at $3.24 in the latest trading session, marking a -1.22% move from the prior day.",
+    "title": "[蔚来汽车] Nio’s Deliveries Are Up 38.5% This Year. But It Just Hit a Speed Bump.",
+    "excerpt": "While Nio's year-to-date delivery growth has been strong, is its recent slowdown due to seasonality, competition, or something else?",
     "author": "Yahoo",
-    "popularity": "🔥 18小时前",
-    "link": "https://finnhub.io/api/news?id=850f0bec700b8cc1b385a51d8ed831fcc99615266104591929b8d35ab3dd9b94"
+    "popularity": "🔥 16小时前",
+    "link": "https://finnhub.io/api/news?id=7b9303786b58052e65643bb5a7cf26014c20e5777bf1262aabe7fd4f348cadea"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【友阿股份】控股股东解除质押2451.85万股股份",
+    "excerpt": "友阿股份公告称，公司近日收到控股股东友阿控股通知，其持有的公司2451.85万股股份已办理完成解除质押手续，占其所持股份比例5.8468%，占公司总股本比例1.7586%，质权人为长沙市国资产业控股集团有限公司。本次解除质押后，友阿控股累计",
+    "author": "友阿股份",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,友阿股份.html"
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Solar Stocks’ Market-Cap Mirage: Diversified Giants Carry the Theme Wh",
-    "excerpt": "Solar energy stocks show narrow leadership: weighted returns mask weak pure-play performance, so selectivity and business-model focus matter.",
-    "author": "ChartMill",
-    "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=0c13ac60e8d6ea8fa511f20de96ac68506df9f553b87c4a0f9165dfd453604e1"
+    "title": "[特斯拉] VerifyMe Inc (VRME) Q3 2026 Earnings Call Highlights: RWA Platform Dri",
+    "excerpt": "VerifyMe Inc (VRME) posted $7.4 million in Q3 2026 revenue with positive adjusted EBITDA of $2.2 million, even as merger-related costs and non-cash ch",
+    "author": "Yahoo",
+    "popularity": "🔥 3小时前",
+    "link": "https://finnhub.io/api/news?id=608157cb1781c4a6b9f02311dd2ab0632ebe7bd130d3955a91981c22b2e732e0"
+  },
+  {
+    "source": "东财股吧",
+    "title": "【海南矿业】控股股东复星高科质押7500万股股份",
+    "excerpt": "海南矿业公告称，公司控股股东上海复星高科技（集团）有限公司于2026年11月13日将其持有的7500万股公司股份质押给平安银行股份有限公司深圳分行，质押用途为偿还债务，质押起始日为2026年11月31日，到期日为2029年12月12日，相关",
+    "author": "海南矿业",
+    "popularity": "📢 今日",
+    "link": "https://guba.eastmoney.com/list,海南矿业.html"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] How Should You Play UBER Stock After the Q3 Earnings Miss?",
-    "excerpt": "Uber's Q3 earnings miss, rising fuel costs and FX headwinds weigh on its outlook, but AV partnerships and diversification support long-term growth pro",
+    "title": "[百度] Here's Why Baidu Inc. (BIDU) Fell More Than Broader Market",
+    "excerpt": "In the latest trading session, Baidu Inc. (BIDU) closed at $77.63, marking a -2.67% move from the previous day.",
     "author": "Yahoo",
-    "popularity": "🔥 2天前",
-    "link": "https://finnhub.io/api/news?id=1b9a71e46aa6dcb6adee839014920e34306ae319106542d9f7c27923fd42bd08"
+    "popularity": "🔥 10小时前",
+    "link": "https://finnhub.io/api/news?id=b7e9dcb07730e4f6c78528480c14f83f4ca7ee2c068024effa721223fafbf863"
   }
 ]
