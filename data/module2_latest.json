@@ -1,83 +1,91 @@
 [
   {
-    "sector": "科技",
-    "title": "【富淼科技：回购公司股份比例达1%暨回购实施完成，累计回购156.85万股支付3999.06万元】富",
-    "summary": "淼科技公告，公司此前审议通过回购方案，拟以不低于2000万元、不超过4000万元回购公司股份，回购价格上限48.24元/股，用于维护公司价值及股东权益、员工持股计划或股权激励。截至2026年11月20日，公司完成回购，累计回购股份156.8",
+    "sector": "综合",
+    "title": "标普500指数期货涨幅扩大至4.4%。",
+    "summary": "标普500指数期货涨幅扩大至4.4%。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "政策",
+    "title": "特朗普：美国司法部长已证实，美国政府没有证据表明黄仁勋从事任何非法行为。",
+    "summary": "特朗普：美国司法部长已证实，美国政府没有证据表明黄仁勋从事任何非法行为。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "日元兑美元下跌0.5%，至159.42。",
+    "summary": "日元兑美元下跌0.5%，至159.42。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "特朗普：美国没有理由认为黄仁勋的回归会构成风险。",
+    "summary": "特朗普：美国没有理由认为黄仁勋的回归会构成风险。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "美国总统特朗普：黄仁勋是一位爱国者，是国家的宝贵财富。",
+    "summary": "美国总统特朗普：黄仁勋是一位爱国者，是国家的宝贵财富。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "LME伦铜日内涨超3.00%，现报12526.500美元/吨。",
+    "summary": "LME伦铜日内涨超3.00%，现报12526.500美元/吨。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "特朗普：国家需要黄仁勋在英伟达的领导。",
+    "summary": "特朗普：国家需要黄仁勋在英伟达的领导。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "特朗普：英伟达应继续内部调查。",
+    "summary": "特朗普：英伟达应继续内部调查。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "特朗普：祝贺黄仁勋。",
+    "summary": "特朗普：祝贺黄仁勋。",
+    "source": "新浪财经",
+    "time": "今日",
+    "link": "https://finance.sina.com.cn/"
+  },
+  {
+    "sector": "综合",
+    "title": "美国总统特朗普：英伟达董事会已作出正确决定。",
+    "summary": "美国总统特朗普：英伟达董事会已作出正确决定。",
     "source": "新浪财经",
     "time": "今日",
     "link": "https://finance.sina.com.cn/"
   },
   {
     "sector": "人工智能",
-    "title": "新华网：全资子公司拟1500万元参投股权投资基金",
-    "summary": "新华网公告称，公司全资子公司新华网创业投资有限公司拟以自有资金1500万元认缴嘉兴聚源博文股权投资合伙企业（有限合伙）份额，作为有限合伙人出资，占当前认缴比例1.18%。该基金预计规模不低于13.00亿元，存续期8年，主要投资于硬科技及战略",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "环比增长超300% 菜鸟英国三日达黑五单量创新高",
-    "summary": "菜鸟最新数据显示，黑五大促订单集中爆发，11月英国三日达线路订单规模显著上涨，日均单量较10月环比增长超300%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "印度卢比兑美元跌破93关口，较前收盘价92.67下跌0.4%。",
-    "summary": "印度卢比兑美元跌破93关口，较前收盘价92.67下跌0.4%。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "科技",
-    "title": "天准科技：控股股东一致行动人减持 合计持股降至51.96%",
-    "summary": "天准科技公告称，公司持股5%以上股东、控股股东一致行动人宁波准智创业投资合伙企业（有限合伙）于2026年10月26日-11月23日通过集中竞价及大宗交易方式减持公司股份68.79万股，占公司总股本的0.35%，其中以大宗交易方式向杨聪定向转",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "美国天然气期货跌超7.00%，现报3.485美元/百万英热。",
-    "summary": "美国天然气期货跌超7.00%，现报3.485美元/百万英热。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "科技",
-    "title": "杭可科技：回购股份比例达1.04%，回购方案实施完毕",
-    "summary": "杭可科技公告，公司此前审议通过回购方案，拟以不低于5000万元、不超过1亿元回购公司股份，回购价格不超过28元/股，回购股份用于维护公司价值及股东权益。截至2026年11月23日，公司已累计回购股份626.75万股，占公司总股本6.04亿股",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "综合",
-    "title": "伊朗：有关油轮装油的报道属于 “猜测”",
-    "summary": "伊朗外交部发言人伊斯梅尔・巴加埃在记者会上表示：“过去几天传出的相关说法只是媒体猜测，部分媒体、电报频道以及其他社交平台还在助推这类传言。”他此番发言，是针对尚未核实的伊朗油轮装油相关报道作出回应。巴加埃称，伊朗会动用 “多种手段对抗美国的",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "金融",
-    "title": "土耳其伊斯银行获得欧洲复兴开发银行1.515亿欧元贷款用于绿色转型。",
-    "summary": "土耳其伊斯银行获得欧洲复兴开发银行1.515亿欧元贷款用于绿色转型。",
-    "source": "新浪财经",
-    "time": "今日",
-    "link": "https://finance.sina.com.cn/"
-  },
-  {
-    "sector": "人工智能",
-    "title": "Zelenskiy says Ukraine sank Russian corvette near Libya's coast, hit cargo ship - Reuters",
-    "summary": "Zelenskiy says Ukraine sank Russian corvette near Libya's coast, hit cargo ship  Reuters",
-    "source": "Reuters",
+    "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+    "summary": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensua",
+    "source": "CNBC",
     "time": "1小时前",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVVOaXhUTVZWaDZ0YnlSQnRpZk1JdVpWdkJKVUlmQVpETHVkYV9CazJxR0xnS041MUYxQXcyV3IxZWpqbkVrWk9ZU1NaY2NyNTdHTjd6YmFHSFRIX0NpTE8tV3ZYaS1LajllOGxZZlAzclF3OGpiWU1Jd1dTNVB2VWtJMEZQd1lROVhxUnhYUUJ3TFBsMUV2YlFaQktHU0Q4RHktYnpTLXRndjl2aEZlQ3VzZWZSSFRSVzJiZjJsa3JaSkV4?oc=5"
+    "link": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
   },
   {
     "sector": "人工智能",
@@ -89,26 +97,26 @@
   },
   {
     "sector": "人工智能",
-    "title": "Thai appeal court halves jail term of lawmaker convicted of royal insult - Reuters",
-    "summary": "Thai appeal court halves jail term of lawmaker convicted of royal insult  Reuters",
+    "title": "Zelenskiy says Ukraine sank Russian corvette near Libya's coast, hit cargo ship - Reuters",
+    "summary": "Zelenskiy says Ukraine sank Russian corvette near Libya's coast, hit cargo ship  Reuters",
     "source": "Reuters",
-    "time": "2小时前",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTBOQlNMN0xxcS1ybi1KTFk2Q2tlOFpDZGR6X3M1MzRXYnd4anpJVTZ0NEdLenZrbEJkYTRkZm00R2I4SC1tSDdoZ3Z3MGpqWVZqWVF3cHZydmZNQ2lwYTVpV3RvSDJkWG51VUZ2dmZ2VWR2RmR3dnQ4d0VROUxwY1BneU44MTdqTzBQMDhoNG1nYkRWNVcyNEthSDF4ZDV4ZDdHTUZTTTdKQUxVaFB2TGpDTU5rV1Nvd3UxMzd3?oc=5"
+    "time": "6小时前",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVVOaXhUTVZWaDZ0YnlSQnRpZk1JdVpWdkJKVUlmQVpETHVkYV9CazJxR0xnS041MUYxQXcyV3IxZWpqbkVrWk9ZU1NaY2NyNTdHTjd6YmFHSFRIX0NpTE8tV3ZYaS1LajllOGxZZlAzclF3OGpiWU1Jd1dTNVB2VWtJMEZQd1lROVhxUnhYUUJ3TFBsMUV2YlFaQktHU0Q4RHktYnpTLXRndjl2aEZlQ3VzZWZSSFRSVzJiZjJsa3JaSkV4?oc=5"
   },
   {
     "sector": "海外市场",
-    "title": "China sets 2030 targets to boost support for older people, childcare - Reuters",
-    "summary": "China sets 2030 targets to boost support for older people, childcare  Reuters",
+    "title": "China's electric truck boom lifts demand for lithium - Reuters",
+    "summary": "China's electric truck boom lifts demand for lithium  Reuters",
     "source": "Reuters",
-    "time": "4小时前",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjdnUk5JS01JQ21aaEVvZ0pWLWVIY3BSa1RzMWFzcERoNmtiODVjX2FDcWlaVWxYVGZiRXpVX0tTWHMzODBvSW1zYVgxOVd5eEJHVTFMOS03ZUgxV3AzVFl4b0RDNU5Ec3laSm1HdzcxMGZXbkUydHI3Y282bjF1ckN6ejljMlN4a01OSTZ6ak1fSlRXOU11OTFneC1uR1cySDNBdU1GaHdBYnlk?oc=5"
+    "time": "6小时前",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnFTM0xYMzExZjQzQzlXZ2l5dXU1Tml4M0RfQXRfVmlCYW9BUmpWZVJNMFFFX2xXT0Qyc3Z2U096S3hDWVd5a0hNcjRYZVRLQ3J6dG91dFVDalFadENLeW94TW1CdnBsRW1wTzdxQUZOcmI4T0VXU0ktNlo3eEdOQXpyOHhwd3RaTHBqSDdpbVpjSXR2aWUzOWxEbHB3YnVjZzdqYmJLYVlqOGFHTFEyRm90bw?oc=5"
   },
   {
     "sector": "人工智能",
-    "title": "Oil holds in tight range as Gulf attacks sustain risk premium - Reuters",
-    "summary": "Oil holds in tight range as Gulf attacks sustain risk premium  Reuters",
+    "title": "Thai appeal court halves jail term of lawmaker convicted of royal insult - Reuters",
+    "summary": "Thai appeal court halves jail term of lawmaker convicted of royal insult  Reuters",
     "source": "Reuters",
-    "time": "6小时前",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb016TW1Rc3N2Q0h6TVJZUFBSeXZqWklRWXgwZ2QyUnRCa0tnWnI4b0Z2YkVVZlVGWTJwa0E3SEVqNnotSE4zOFpOdjJUSE5GcjB5RHJxaklsM0I2U1owemZ4aUJmYkRhUUM2VjVFd09paWhIWHhFUWxmcmhzT3Y5RWhCTENfNE00a3RaYnhnOGgweEJoNEVtNTVKS0pLTWNiY2ZfM1pvbFNieG5DbWpGcUdOM19xZFF5QXl5LWZXNVRrZw?oc=5"
+    "time": "7小时前",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTBOQlNMN0xxcS1ybi1KTFk2Q2tlOFpDZGR6X3M1MzRXYnd4anpJVTZ0NEdLenZrbEJkYTRkZm00R2I4SC1tSDdoZ3Z3MGpqWVZqWVF3cHZydmZNQ2lwYTVpV3RvSDJkWG51VUZ2dmZ2VWR2RmR3dnQ4d0VROUxwY1BneU44MTdqTzBQMDhoNG1nYkRWNVcyNEthSDF4ZDV4ZDdHTUZTTTdKQUxVaFB2TGpDTU5rV1Nvd3UxMzd3?oc=5"
   }
 ]
