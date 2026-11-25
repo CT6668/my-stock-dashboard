@@ -1,19 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Dow Jones Futures Fall, Techs Tumble; Trump Says 'Not Too Late' For U.",
-    "excerpt": "Futures fell after AI stocks tumbled but medicals, retailers and more rose. President Trump mused about an Nvidia stake. Fed inflation data looms.",
+    "title": "[英伟达] Not a Bubble: 2 Numbers That Show Nvidia’s Demand Is Real",
+    "excerpt": "Even with leadership turmoil, Nvidia’s customers are still buying AI compute at a staggering pace.",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=7a77e79b293e523a9935367d1c2b147c58c1598fa4944f95c911e1412c024540"
+    "link": "https://finnhub.io/api/news?id=80754a7bd811d1990aed30a6ed1ee184bcdfd6209aca895ac2fe0780196a770d"
   },
   {
     "source": "BABA·雪球",
-    "title": "[阿里巴巴] Alibaba weighs offshore bond sale next year to fund AI expansion - Blo",
-    "excerpt": "Investing.com-- Alibaba Group (HK:9988) is in preliminary discussions with banks about a potential offshore bond sale next year to finance its expandi",
-    "author": "Yahoo",
-    "popularity": "🔥 9小时前",
-    "link": "https://finnhub.io/api/news?id=2d2710722f5898007c27759716e67f8d3bc9bd45d0a1641c6d78b756e6cb79c4"
+    "title": "[阿里巴巴] 'Chinese AI Firms Confront Dire Future as U.S. Tightens Access to Chip",
+    "excerpt": "https://www.theinformation.com/articles/chinese-ai-firms-confront-dire-future-u-s-tightens-access-chips-tokens",
+    "author": "Benzinga",
+    "popularity": "🔥 7小时前",
+    "link": "https://finnhub.io/api/news?id=a60c5499a26b31c141eb409ce966ae81d7f53dbe9efa0113991064de70520568"
   },
   {
     "source": "NIO·WSB",
@@ -25,18 +25,18 @@
   },
   {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] Is Elon Musk More Systemically Important Than Jensen Huang?",
-    "excerpt": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+    "title": "[特斯拉] Tesla and SpaceX stocks sink as merger concerns mount",
+    "excerpt": "Tesla and SpaceX shares were particularly hard-hit in Wednesday's broader market sell-off, amid growing investor pushback over a potential merger and ",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=9bdc45814a30d8411d97b1858ea06a4637a87a3f38fb67c02f6556fdb9709c34"
+    "link": "https://finnhub.io/api/news?id=a392977d129ab4f26f68aabba9a6c3bbb7b7794b067b8f680043a10b457168ce"
   },
   {
     "source": "BIDU·雪球",
-    "title": "[百度] Shares of companies within the broader communication services sector a",
-    "excerpt": "Shares of companies within the broader communication services sector are trading higher as Nvidia’s reinstatement of Jensen Huang fuels a broader mark",
+    "title": "[百度] 'Chinese AI Firms Confront Dire Future as U.S. Tightens Access to Chip",
+    "excerpt": "https://www.theinformation.com/articles/chinese-ai-firms-confront-dire-future-u-s-tightens-access-chips-tokens",
     "author": "Benzinga",
-    "popularity": "🔥 1天前",
-    "link": "https://finnhub.io/api/news?id=6f6d94f7d7e5e0d4ad694a1933e57c90b34d19831ac2b8980f9bce934d80ef8a"
+    "popularity": "🔥 7小时前",
+    "link": "https://finnhub.io/api/news?id=a60c5499a26b31c141eb409ce966ae81d7f53dbe9efa0113991064de70520568"
   }
 ]
