@@ -1,35 +1,19 @@
 [
   {
     "source": "NVDA·Reddit",
-    "title": "[英伟达] Stock Market Today: The AI Rally Lasts One Day as Nvidia Retreats and ",
-    "excerpt": "One day after Jensen Huang's return lifted the AI trade, chip and AI stocks sold off again. Anthropic closed below its IPO price, HPE sank on margin w",
-    "author": "ChartMill",
-    "popularity": "🔥 1小时前",
-    "link": "https://finnhub.io/api/news?id=498c71a953bc1848c0d850f16dc9fb5939b1d7865c121bb5a376729bc8405d4a"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【垒知集团】控股股东部分股份解押及补充质押",
-    "excerpt": "垒知集团公告称，公司控股股东蔡永太近日解除质押275万股公司股份，占其所持股份比例2.36%，占公司总股本比例0.40%，质权人为招商银行厦门分行。同日蔡永太补充质押1000万股公司股份给国泰海通证券，占其所持股份比例8.59%，占公司总股",
-    "author": "垒知集团",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,垒知集团.html"
+    "title": "[英伟达] Dow Jones Futures Fall, Techs Tumble; Trump Says 'Not Too Late' For U.",
+    "excerpt": "Futures fell after AI stocks tumbled but medicals, retailers and more rose. President Trump mused about an Nvidia stake. Fed inflation data looms.",
+    "author": "Yahoo",
+    "popularity": "🔥 2小时前",
+    "link": "https://finnhub.io/api/news?id=7a77e79b293e523a9935367d1c2b147c58c1598fa4944f95c911e1412c024540"
   },
   {
     "source": "BABA·雪球",
     "title": "[阿里巴巴] Alibaba weighs offshore bond sale next year to fund AI expansion - Blo",
     "excerpt": "Investing.com-- Alibaba Group (HK:9988) is in preliminary discussions with banks about a potential offshore bond sale next year to finance its expandi",
     "author": "Yahoo",
-    "popularity": "🔥 5小时前",
+    "popularity": "🔥 9小时前",
     "link": "https://finnhub.io/api/news?id=2d2710722f5898007c27759716e67f8d3bc9bd45d0a1641c6d78b756e6cb79c4"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【光洋股份】股票交易异常波动 机器人业务占比极低",
-    "excerpt": "光洋股份公告称，公司股票于2026年11月23日、11月24日、11月25日连续三个交易日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动情形。经核查，公司及控股股东、实控人均不存在应披露而未披露的重大事项，异动期间控股股东、实控人未",
-    "author": "光洋股份",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,光洋股份.html"
   },
   {
     "source": "NIO·WSB",
@@ -40,28 +24,12 @@
     "link": "https://finnhub.io/api/news?id=87eafe630d2d5afd700a95abc62866f1ff1f167c7ee9c3db3803152bf43603ad"
   },
   {
-    "source": "东财股吧",
-    "title": "【何小鹏回应特斯拉FSD实时渲染新功能】技术上并不是那么困难，要看值不值得用算力实现",
-    "excerpt": "2026小鹏科技日后，小鹏集团董事长、CEO何小鹏，小鹏集团副董事长、总裁顾宏地与媒体对话。近日，特斯拉FSD V15推送后，全新Reality View实时渲染画面引起热议。它采用第三人称跟随视角，把道路、车辆、建筑、光影实时重建为立体3",
-    "author": "何小鹏回应特斯拉FSD实时渲染新功能",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,何小鹏回应特斯拉FSD实时渲染新功能.html"
-  },
-  {
     "source": "TSLA·Reddit",
-    "title": "[特斯拉] BYD plans car production in France to boost its push into the European",
-    "excerpt": "BYD has entered exclusive talks to buy Ineos Automotive's Hambach plant in Moselle. The deal could let the top electric carmaker build in France and b",
+    "title": "[特斯拉] Is Elon Musk More Systemically Important Than Jensen Huang?",
+    "excerpt": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
     "author": "Yahoo",
     "popularity": "🔥 2小时前",
-    "link": "https://finnhub.io/api/news?id=3e54cc3b30034bd83590e4ed3be7e3ad084593e185664a345289a1a91e467c44"
-  },
-  {
-    "source": "东财股吧",
-    "title": "【欧普照明】拟注销322.42万股回购股份并减少注册资本",
-    "excerpt": "欧普照明公告称，公司2024年完成回购股份999.9973万股，占总股本1.34%，回购均价16.30元/股，成交总金额1.63亿元，原拟用于股权激励。鉴于股权激励使用期限即将届满，公司拟注销回购专用账户中剩余未使用的322.4214万股股",
-    "author": "欧普照明",
-    "popularity": "📢 今日",
-    "link": "https://guba.eastmoney.com/list,欧普照明.html"
+    "link": "https://finnhub.io/api/news?id=9bdc45814a30d8411d97b1858ea06a4637a87a3f38fb67c02f6556fdb9709c34"
   },
   {
     "source": "BIDU·雪球",
